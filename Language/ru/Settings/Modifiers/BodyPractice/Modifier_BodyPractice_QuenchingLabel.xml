@@ -1,0 +1,130 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_QuenchingLabel_ChiYi">
+			<DisplayName>Отклонено</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Base_Organ">
+			<DisplayName>Обычный Закаленный орган</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Base_Bone">
+			<DisplayName>Обычная Закаленная Кость</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Base_Flesh">
+			<DisplayName>Обычная Закаленная плоть</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv1_O01_All">
+			<DisplayName>Обновленная функция</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_All">
+			<DisplayName>Ужасный Потенциал</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O02_All">
+			<DisplayName>Врожденное Восстановление</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_O01_All">
+			<DisplayName>Возврат Предков (орган)</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_O01_Xia">
+			<DisplayName>Активированная Функция</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_O01_DaYaoYuanJing">
+			<DisplayName>Звериный орган</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_SiHunZhiXi">
+			<DisplayName>Дыхание Бездны</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_B01_WuHuiJingHua">
+			<DisplayName>Демонический узор</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_O01_WuHuiJingHua">
+			<DisplayName>Внутренняя деформация</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_WuXingZhiJing">
+			<DisplayName>Неуловимая энергия</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_ZhuLongYuanJing">
+			<DisplayName>Вращение Инь-Ян</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_TaiYangJingHua">
+			<DisplayName>Цикл Эссенции Солнца</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_TaiYinJingHua">
+			<DisplayName>Цикл Эссенции Луны</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A03_JieMieJingHua">
+			<DisplayName>Небесный Унисон</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A01_TaiXuJingHua">
+			<DisplayName>Сила Пустоты</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A02_TaiXuJingHua">
+			<DisplayName>Сила Акупунктуры</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A03_TaiXuJingHua">
+			<DisplayName>Сила Непостоянства</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A01_XuanTianZiQi">
+			<DisplayName>Сила Астрала</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A02_XuanTianZiQi">
+			<DisplayName>Сила Корпуса</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv4_A03_XuanTianZiQi">
+			<DisplayName>Сила Изоляции</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_F01_Dong">
+			<DisplayName>Отдыхающая Кровь</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_B01_Dong">
+			<DisplayName>Отступающая Кость</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv2_O01_Dong">
+			<DisplayName>Возвращенная функция</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv3_O01_TaiYangJingHua">
+			<DisplayName>Солнечное Дыхание</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Brain">
+			<DisplayName>Закаленный Мозг</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Eye">
+			<DisplayName>Закаленные Глаза</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Ear">
+			<DisplayName>Закаленные Уши</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Nose">
+			<DisplayName>Закаленный Нос</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Mouth">
+			<DisplayName>Закаленный Рот</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Throat">
+			<DisplayName>Закаленная Шея</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Heart">
+			<DisplayName>Закаленное Сердце</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Liver">
+			<DisplayName>Закаленная Печень</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Spleen">
+			<DisplayName>Закаленная Селезенка</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Lung">
+			<DisplayName>Закаленные Легкие</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Kidney">
+			<DisplayName>Закаленные Почки</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Stomach">
+			<DisplayName>Закаленный Желудок</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Intestines">
+			<DisplayName>Закаленный Кишечник</DisplayName>
+		</Text>
+		<Text Name="Modifier_QuenchingLabel_Lv0_Genitals">
+			<DisplayName>Закаленный Фаллос</DisplayName>
+		</Text>
+	</List>
+</Texts>

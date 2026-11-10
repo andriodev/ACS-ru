@@ -1,0 +1,58 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="Item_Other_BingCanSi" sParam="Item">
+      <ThingName>Ледяной Шелк</ThingName>
+      <Item.BeMaterial.NamePrefix>Ледяной Шелк</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_BuZhiMing" sParam="Item">
+      <ThingName>Неизвестный Материал</ThingName>
+    </Text>
+    <Text Name="Item_Other_JinJing" sParam="Item">
+      <ThingName>Западная Металлическая Эссенция</ThingName>
+      <Item.BeMaterial.NamePrefix>Эссенция Металла</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_MuJing" sParam="Item">
+      <ThingName>Восточная Древесная Эссенция</ThingName>
+      <Item.BeMaterial.NamePrefix>Эссенция Дерева</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_ShuiJing" sParam="Item">
+      <ThingName>Северная Водная Эссенция</ThingName>
+      <Item.BeMaterial.NamePrefix>Водная Эссенция</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_HuoJing" sParam="Item">
+      <ThingName>Южная Огненная Эссенция</ThingName>
+      <Item.BeMaterial.NamePrefix>Огненная Эссенция</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_TuJing" sParam="Item">
+      <ThingName>Эссенция Центра Земли</ThingName>
+      <Item.BeMaterial.NamePrefix>Эссенция Земли</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_NoneJing" sParam="Item">
+      <ThingName>Природная Эссенция</ThingName>
+      <Item.BeMaterial.NamePrefix>Природная Эссенция</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_LarkPerk" sParam="Item">
+      <ThingName>Клюв</ThingName>
+      <Item.BeMaterial.NamePrefix>Клюв</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_BuffaloHorn" sParam="Item">
+      <ThingName>Бычий Рог</ThingName>
+      <Item.BeMaterial.NamePrefix>Бычий Рог</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_LionFang" sParam="Item">
+      <ThingName>Леопардовый Клык</ThingName>
+      <Item.BeMaterial.NamePrefix>Леопардовый Клык</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_TortoiseShell" sParam="Item">
+      <ThingName>Ракушка</ThingName>
+      <Item.BeMaterial.NamePrefix>Ракушка</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Other_DeerFeet" sParam="Item">
+      <ThingName>Оленье Копыто</ThingName>
+      <Item.BeMaterial.NamePrefix>Оленье Копыто</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_SPStuffCategories_1" sParam="Item">
+      <ThingName>Неизвестный</ThingName>
+    </Text>
+  </List>
+</Texts>

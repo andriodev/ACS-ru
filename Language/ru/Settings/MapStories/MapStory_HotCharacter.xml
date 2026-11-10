@@ -1,0 +1,115 @@
+﻿<Texts Type="Story">
+  <List>
+    <Text Name="HotStory_Fun_LingWu">
+      <DisplayName>Понимание</DisplayName>
+      <Desc>[NAME] охвачен[enverb] вдохновением!</Desc>
+      <Selections.0.Display>Обретено Понимание</Selections.0.Display>
+      <Selections.1.Display>Обретено Понимание</Selections.1.Display>
+    </Text>
+    <Text Name="HotStory_Fun_LingWu_DuShu">
+      <DisplayName>Поиск</DisplayName>
+      <Desc>Во время чтения древних трактатов, [NAME] обнаружил[enverb] что-то интересное.</Desc>
+      <Selections.0.Display>Открылись новые горизонты</Selections.0.Display>
+    </Text>
+    <Text Name="HotStory_Make_LingWu">
+      <DisplayName>Понимание</DisplayName>
+      <Desc>[NAME] охвачен[enverb] вдохновением!</Desc>
+      <Selections.0.Display>Обретено Понимание</Selections.0.Display>
+    </Text>
+    <Text Name="HotStory_Make_LingGan">
+      <DisplayName>Понимание</DisplayName>
+      <Desc>[NAME] охвачен[enverb] вдохновением!</Desc>
+      <Selections.0.Display>Обретено Понимание</Selections.0.Display>
+    </Text>
+    <Text Name="HotStory_Work_LingWu">
+      <DisplayName>Понимание</DisplayName>
+      <Desc>[NAME] охвачен[enverb] вдохновением!</Desc>
+      <Selections.0.Display>Обретено Понимание</Selections.0.Display>
+    </Text>
+    <Text Name="HotStory_Work_LingWu_Feed">
+      <DisplayName>Понимание</DisplayName>
+      <Desc>[NAME] охвачен[enverb] вдохновением!</Desc>
+      <Selections.0.Display>Обретено Понимание</Selections.0.Display>
+    </Text>
+    <Text Name="HotStory_Make_LingWu_CookingFailed">
+      <DisplayName>Понимание</DisplayName>
+      <Desc>[NAME] охвачен[enverb] вдохновением!</Desc>
+      <Selections.0.Display>Обретено Понимание</Selections.0.Display>
+    </Text>
+    <Text Name="HotStory_Make_LingWu_CookingSucceed">
+      <DisplayName>Понимание</DisplayName>
+      <Desc>[NAME] охвачен[enverb] вдохновением!</Desc>
+      <Selections.0.Display>Обретено Понимание</Selections.0.Display>
+    </Text>
+    <Text Name="HotStory_Practice_LingWu">
+      <DisplayName>Понимание</DisplayName>
+      <Desc>[NAME] охвачен[enverb] вдохновением!</Desc>
+      <Selections.0.Display>Обретено Понимание</Selections.0.Display>
+    </Text>
+    <Text Name="HotStory_Practice_Brokening">
+      <DisplayName>Прозрение Прорыва</DisplayName>
+      <Desc>Благодаря Прорыву, [NAME] обрел[enverb] понимание Пути.</Desc>
+      <Selections.0.Display>Обретено Понимание</Selections.0.Display>
+    </Text>
+    <Text Name="HotStory_Practice_BrokenSucceed">
+      <DisplayName>Прозрение</DisplayName>
+      <Desc>Благодаря Прорыву, [NAME] обрел[enverb] понимание Пути.</Desc>
+      <Selections.0.Display>Обретено Понимание</Selections.0.Display>
+    </Text>
+    <Text Name="HotStory_Practice_BrokenFailed">
+      <DisplayName>Прозрение</DisplayName>
+      <Desc>Хотя Прорыв [NAME] провалился, но [he] всё равно обрел[enverb] лучшее понимание Пути.</Desc>
+      <Selections.0.Display>Обретено Понимание</Selections.0.Display>
+    </Text>
+    <Text Name="HotStory_Practice_Golding">
+      <DisplayName>Прозрение Формирования Ядра</DisplayName>
+      <Desc>Во время формирования Ядра [NAME] удалось очистить разум.</Desc>
+      <Selections.0.Display>Обретено Понимание</Selections.0.Display>
+    </Text>
+    <Text Name="HotStory_Practice_GoldSucceed">
+      <DisplayName>Прозрение</DisplayName>
+      <Desc>Благодаря сформировавшемуся Ядру, [NAME] обрел[enverb] понимание Пути.</Desc>
+      <Selections.0.Display>Обретено Понимание</Selections.0.Display>
+    </Text>
+    <Text Name="HotStory_Practice_ThunderSucceed">
+      <DisplayName>Прозрение Кары</DisplayName>
+      <Desc>[NAME], пережив Кару, обрел[enverb] понимание.</Desc>
+      <Selections.0.Display>Обретено Понимание</Selections.0.Display>
+    </Text>
+    <Text Name="HotStory_Practice_RefiningDan">
+      <DisplayName>Прозрение Алхимии</DisplayName>
+      <Desc>[NAME] обрел[enverb] понимание, пока  занимал[enverb3] Алхимией.</Desc>
+      <Selections.0.Display>Обретено Понимание</Selections.0.Display>
+    </Text>
+    <Text Name="HotStory_Practice_RefiningDanFailed">
+      <DisplayName>Прозрение Алхимии</DisplayName>
+      <Desc>Хотя [NAME] потерпел[enverb] неудачу в Алхимии, [he] всё равно обрел[enverb] понимание.</Desc>
+      <Selections.0.Display>Обретено Понимание</Selections.0.Display>
+    </Text>
+    <Text Name="HotStory_Practice_Refining">
+      <DisplayName>Прозрение при ковке Артефакта</DisplayName>
+      <Desc>[NAME] обрел[enverb] понимание, пока  ковал[enverb3] Артефакт.</Desc>
+      <Selections.0.Display>Обретено Понимание</Selections.0.Display>
+    </Text>
+    <Text Name="HotStory_Practice_RefiningGod">
+      <DisplayName>Прозрение при ковке Артефакта</DisplayName>
+      <Desc>[NAME] охвачен[enverb] вдохновением!</Desc>
+      <Selections.0.Display>Обретено Понимание</Selections.0.Display>
+    </Text>
+    <Text Name="HotStory_Practice_RefiningFailed">
+      <DisplayName>Прозрение при ковке Артефакта</DisplayName>
+      <Desc>Хотя [NAME] потерпел[enverb] неудачу при ковке Артефакта, [he] всё равно обрел[enverb] понимание. </Desc>
+      <Selections.0.Display>Обретено Понимание</Selections.0.Display>
+    </Text>
+    <Text Name="HotStory_Fei_LingWu">
+      <DisplayName>Внезапное Вдохновение</DisplayName>
+      <Desc>[NAME] внезапно обрел[enverb] Вдохновение, играя с Фэй.</Desc>
+      <Selections.0.Display>Обретено Понимание</Selections.0.Display>
+    </Text>
+    <Text Name="HotStory_LuShu_LingWu">
+      <DisplayName>Внезапное Вдохновение</DisplayName>
+      <Desc>[NAME] внезапно обрел[enverb] Вдохновение, играя с Лушу.</Desc>
+      <Selections.0.Display>Обретено Понимание</Selections.0.Display>
+    </Text>
+  </List>
+</Texts>

@@ -1,0 +1,162 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="Sys_Lost">
+      <DisplayName>Пустой</DisplayName>
+    </Text>
+    <Text Name="zhuxianzhen">
+      <DisplayName>Формация Яростного Нападения</DisplayName>
+      <Description>С незапамятных времен это была формация с наибольшей наступательной мощью. Когда он развернется, он превратится в четыре знаменных ворот, каждый с мечом, висящим над ним, полностью окружающим центр. После активации с изначальным духом четыре меча будут вибрировать, и формация немедленно наполнится аурой меча. Даже истинному Бессмертному будет трудно выжить.</Description>
+      <NodeName.0>План Яростного Нападения</NodeName.0>
+      <NodeName.1>Яростное Нападение</NodeName.1>
+      <NodeName.2>Несущий Смерть</NodeName.2>
+      <NodeName.3>Бесконечная Ярость</NodeName.3>
+      <NodeName.4>Несущий Гнев</NodeName.4>
+      <SuitEffect.0.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Стабильность</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Новый Навык: Яростное Нападение</SuitEffect.3.Description>
+    </Text>
+    <Text Name="qixingzhen">
+      <DisplayName>Формация завоевателя</DisplayName>
+      <Description>Формация Бессмертного, как говорят, была передана от Злого Изгоняющего совершенного воина девятого небесного рая. Он может направить силу семи звезд, чтобы сформировать божественный свет отчужденности Великой колесницы, силу, способную уничтожить все зло.</Description>
+      <NodeName.0>Урса Мегрез Коготь</NodeName.0>
+      <NodeName.1>Коготь Урсы Дубхе</NodeName.1>
+      <NodeName.2>Коготь Урсы Мерак</NodeName.2>
+      <NodeName.3>Коготь Ursae Phecda</NodeName.3>
+      <NodeName.4>Коготь Урсы Алиот</NodeName.4>
+      <NodeName.5>Коготь Урсы Мицар</NodeName.5>
+      <NodeName.6>Коготь Урсы Элькейд</NodeName.6>
+      <SuitEffect.0.Description>Улучшена Способность К Заклинаниям</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Повышенная Стабильность</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Увеличенная Способность Деятельности</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Улучшена Способность К Заклинаниям</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Новый Навык: Боевая Отчужденность</SuitEffect.4.Description>
+    </Text>
+    <Text Name="wufangbumiezhen">
+      <DisplayName>Неприступные Формация</DisplayName>
+      <Description>Великая Формация, основанная на пяти огромных знаменах, существовавших с самого начала времен. Северное знамя называют черным Стервятником, Южное-парящим пламенем, центральное-желтым абрикосом, западное-белым облаком, а восточное-зеленым лотосом. Сочетание пяти элементов образует область необъятности, в которую нельзя вторгнуться, несмотря на изменение естественных законов.</Description>
+      <NodeName.0>Неприступные Формация</NodeName.0>
+      <NodeName.1>Знамя Белого Облака</NodeName.1>
+      <NodeName.2>Знамя Зеленого Лотоса</NodeName.2>
+      <NodeName.3>Знамя Черного Грифа</NodeName.3>
+      <NodeName.4>Парящее Огненное Знамя</NodeName.4>
+      <NodeName.5>Желтое Абрикосовое Знамя</NodeName.5>
+      <SuitEffect.0.Description>Повышенная Защитная Способность</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Повышенная Стабильность</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Повышенная Защитная Способность</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Новый навык: область необъятности</SuitEffect.3.Description>
+    </Text>
+    <Text Name="liuyuzhen">
+      <DisplayName>Формация Божественного Закона</DisplayName>
+      <Description>Торжественная формация Небесного двора. При формировании этого образования развернется первозданная обитель шести богов Небесного двора, превратив Царство смертных в рай, дарующий людям духовную гармонию.</Description>
+      <NodeName.0>Формация Нефритового Императора</NodeName.0>
+      <NodeName.1>Император Полярной формации</NodeName.1>
+      <NodeName.2>Император формирования Полярной звезды</NodeName.2>
+      <NodeName.3>Формация Изначального Единства</NodeName.3>
+      <NodeName.4>Формация Божественного Долголетия</NodeName.4>
+      <NodeName.5>Император формирования Земли</NodeName.5>
+      <SuitEffect.0.Description>Повышенная Стабильность</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Новый навык: Царство Небесной безмятежности</SuitEffect.1.Description>
+    </Text>
+    <Text Name="longxingzhen">
+      <DisplayName>Формация Всадников Драконов</DisplayName>
+      <Description>Увлекательное образование, которое использует тело дракона наводнения в качестве своей основы. Говорят, что это формация, контролирующая драконов. При использовании можно использовать силу драконьих душ для совершения чудес.</Description>
+      <NodeName.0>Запретная Чешуя дракона</NodeName.0>
+      <NodeName.1>Рог дракона</NodeName.1>
+      <NodeName.2>Рог дракона</NodeName.2>
+      <NodeName.3>Коготь дракона</NodeName.3>
+      <NodeName.4>Коготь дракона</NodeName.4>
+      <NodeName.5>Чешуя дракона</NodeName.5>
+      <NodeName.6>Коготь дракона</NodeName.6>
+      <NodeName.7>Коготь дракона</NodeName.7>
+      <NodeName.8>Хвост Дракона</NodeName.8>
+      <SuitEffect.0.Description>Новый навык: Heavenspell of Dragon</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Улучшена Способность К Заклинаниям</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Новый Навык: Уничтожение Божественности</SuitEffect.2.Description>
+    </Text>
+    <Text Name="fengjianzhen">
+      <DisplayName>Формация Меча Феникса</DisplayName>
+      <Description>Увлекательное образование, которое использует тело Феникса в качестве своей основы. Говорят, что это формация, контролирующая Феникса. При использовании можно использовать силу душ Феникса для совершения чудес.</Description>
+      <NodeName.0>Огненный Нефрит</NodeName.0>
+      <NodeName.1>Перо Забвения</NodeName.1>
+      <NodeName.2>Перо Мантии</NodeName.2>
+      <NodeName.3>Эфирная Кость</NodeName.3>
+      <NodeName.4>Пылающие Перья</NodeName.4>
+      <NodeName.5>Пылающие Перья</NodeName.5>
+      <NodeName.6>Эфирная Кость</NodeName.6>
+      <NodeName.7>Пылающие Перья</NodeName.7>
+      <NodeName.8>Пылающие Перья</NodeName.8>
+      <SuitEffect.0.Description>Новый навык: Божественный меч Феникса</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Новый Навык: Нирвана</SuitEffect.2.Description>
+    </Text>
+    <Text Name="yinyangzhen">
+      <DisplayName>Формация Инь-Ян</DisplayName>
+      <Description>Образование, которое черпало вдохновение из потока энергий между небом и Землей. Говорят, что это образование используется в соответствии с законами Инь и Ян. Используя трансформацию Инь и Ян, формация становится чрезвычайно гибкой.</Description>
+      <NodeName.0>Хаотический Символ Веры Небесное</NodeName.0>
+      <NodeName.1>Закон Инь</NodeName.1>
+      <NodeName.2>Закон Янга</NodeName.2>
+      <SuitEffect.0.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Улучшена Способность К Заклинаниям</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Повышенная Защитная Способность</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Увеличенная Способность Деятельности</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Повышена Эффективность Формации</SuitEffect.4.Description>
+    </Text>
+    <Text Name="sanyinzhen">
+      <DisplayName>Формация Темной Силы</DisplayName>
+      <Description>Образование, используемое путем использования идеи трех талантов: Неба, Земли и человечества. Говорят, что он способен концентрировать все чистые энергии Инь мира, что значительно увеличивает вашу силу.</Description>
+      <NodeName.0>Инь-Силы Небесные</NodeName.0>
+      <NodeName.1>Инь сила Земли</NodeName.1>
+      <NodeName.2>Инь сила человека</NodeName.2>
+      <SuitEffect.0.Description>Повышена Эффективность Формации</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Улучшена Способность К Заклинаниям</SuitEffect.1.Description>
+    </Text>
+    <Text Name="bamen_ji">
+      <DisplayName>Формация Абиссального Меча: Благоприятно</DisplayName>
+      <Description>Говорят, что это формация, используемая в соответствии с правилами восьми Врат триграммы. Усиливает защитную способность образования, используя врата жизни.</Description>
+      <NodeName.0>Открытость</NodeName.0>
+      <NodeName.1>Отдых</NodeName.1>
+      <NodeName.2>Жизнь</NodeName.2>
+      <SuitEffect.0.Description>Повышена Эффективность Формации</SuitEffect.0.Description>
+    </Text>
+    <Text Name="bamen_xiong">
+      <DisplayName>Формация Абиссального Меча: Зловещее</DisplayName>
+      <Description>Говорят, что это формация, используемая в соответствии с правилами восьми Врат триграммы. Усиливает способность к овладению артефактами формации, используя Врата смерти.</Description>
+      <NodeName.0>Смерть</NodeName.0>
+      <NodeName.1>Угроза</NodeName.1>
+      <NodeName.2>Damage</NodeName.2>
+      <SuitEffect.0.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.0.Description>
+    </Text>
+    <Text Name="bamen_zhong">
+      <DisplayName>Формация Абиссального Меча: Центральное</DisplayName>
+      <Description>Говорят, что это формация, используемая в соответствии с правилами восьми Врат триграммы, что делает формацию более компактной.</Description>
+      <NodeName.0>Уединение</NodeName.0>
+      <NodeName.1>Красота</NodeName.1>
+      <SuitEffect.0.Description>Повышенная Стабильность</SuitEffect.0.Description>
+    </Text>
+    <Text Name="jiayimushenzhen">
+      <DisplayName>Формация Древесного Духа</DisplayName>
+      <Description>Образованный путем концентрации сущности изначального Восточного древесного Духа, он, как говорят, является образованием, способным пробуждать Ци жизненной силы как неба, так и Земли, омолаживая все живое.</Description>
+      <NodeName.0>Крона Дерева Духов</NodeName.0>
+      <NodeName.1>Ветвь Дерева Духов</NodeName.1>
+      <NodeName.2>Дух Дерева Листок </NodeName.2>
+      <NodeName.3>Ствол Дерева Духов</NodeName.3>
+      <NodeName.4>Корень Духовного Дерева</NodeName.4>
+      <SuitEffect.0.Description>Повышена Эффективность Формации</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Увеличенная Способность Деятельности</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Новый навык: домен древесной эссенции</SuitEffect.2.Description>
+    </Text>
+    <Text Name="wuyuezhen">
+      <DisplayName>Формация Конвергенции</DisplayName>
+      <Description>Образование, образованное духовной сущностью пяти вершин. При использовании он будет представлять собой форму пяти пиков для защиты местоположения, делая его неразрушимым.</Description>
+      <NodeName.0>Форма Изумрудного пика</NodeName.0>
+      <NodeName.1>Форма обрыва</NodeName.1>
+      <NodeName.2>Форма равнинного острова</NodeName.2>
+      <NodeName.3>Форма святилища</NodeName.3>
+      <NodeName.4>Форма Рая</NodeName.4>
+      <SuitEffect.0.Description>Повышенная Защитная Способность</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Повышена Эффективность Формации</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Новый навык: домен пяти вершин</SuitEffect.2.Description>
+    </Text>
+  </List>
+</Texts>

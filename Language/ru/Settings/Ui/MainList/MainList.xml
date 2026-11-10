@@ -1,0 +1,1116 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Wall">
+			<Type>Структуры</Type>
+		</Text>
+		<Text Name="Barrier">
+			<Type>Структуры</Type>
+		</Text>
+		<Text Name="Barrier2">
+			<Type>Структуры</Type>
+		</Text>
+		<Text Name="Door">
+			<Type>Структуры</Type>
+		</Text>
+		<Text Name="WoodRoof">
+			<Type>Структуры</Type>
+		</Text>
+		<Text Name="StoneRoof">
+			<Type>Структуры</Type>
+		</Text>
+		<Text Name="Door_WanYao">
+			<Type>Структуры</Type>
+		</Text>
+		<Text Name="YaoRoof">
+			<Type>Структуры</Type>
+		</Text>
+		<Text Name="WoodRoof_SpringFestival">
+			<Type>Структуры</Type>
+		</Text>
+		<Text Name="StoneRoof_SpringFestival">
+			<Type>Структуры</Type>
+		</Text>
+		<Text Name="Bed">
+			<Type>Жизнь</Type>
+		</Text>
+		<Text Name="Table">
+			<Type>Жизнь</Type>
+		</Text>
+		<Text Name="SmallTable">
+			<Type>Жизнь</Type>
+		</Text>
+		<Text Name="DoubleBed">
+			<Type>Жизнь</Type>
+		</Text>
+		<Text Name="WaterTank">
+			<Type>Жизнь</Type>
+		</Text>
+		<Text Name="Building_Tomb">
+			<Type>Жизнь</Type>
+		</Text>
+		<Text Name="Building_BigTomb">
+			<Type>Жизнь</Type>
+		</Text>
+		<Text Name="Building_ItemShelf">
+			<Type>Жизнь</Type>
+		</Text>
+		<Text Name="Building_ShuZhuangTai">
+			<Type>Жизнь</Type>
+		</Text>
+		<Text Name="MaterialWorkPlace">
+			<Type>Труд</Type>
+		</Text>
+		<Text Name="WorkPlace">
+			<Type>Труд</Type>
+		</Text>
+		<Text Name="PuppetPlace">
+			<Type>Труд</Type>
+		</Text>
+		<Text Name="Bonfire">
+			<Type>Труд</Type>
+		</Text>
+		<Text Name="Well">
+			<Type>Труд</Type>
+		</Text>
+		<Text Name="Kitchen">
+			<Type>Труд</Type>
+		</Text>
+		<Text Name="HandWorkTable">
+			<Type>Труд</Type>
+		</Text>
+		<Text Name="WoodShed">
+			<Type>Труд</Type>
+		</Text>
+		<Text Name="StoneMaker">
+			<Type>Труд</Type>
+		</Text>
+		<Text Name="MedicineTable">
+			<Type>Труд</Type>
+		</Text>
+		<Text Name="WeaponMaker">
+			<Type>Труд</Type>
+		</Text>
+		<Text Name="Furnace">
+			<Type>Труд</Type>
+		</Text>
+		<Text Name="MillStone">
+			<Type>Труд</Type>
+		</Text>
+		<Text Name="TailorTable">
+			<Type>Труд</Type>
+		</Text>
+		<Text Name="TextileTable">
+			<Type>Труд</Type>
+		</Text>
+		<Text Name="CalligraphyTable">
+			<Type>Труд</Type>
+		</Text>
+		<Text Name="BasePracticePlace">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="ExploreBackPlace">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="TrainingDummy">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="Building_BookShelf_CangJing">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="FengShui">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="RefiningCushion">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="DanStove">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="Building_XiaoDanLu1">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="Building_XiaoDanLu2">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="Cushion">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="Building_MagicCushion">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="TheGate">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="Building_SacrificialTable">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="Building_Zhong">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="Build_TheBigGate">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="Build_KunLunFang">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="Build_BaiManFang">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="Build_WanYaoMen">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="Building_Spring2021_1">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="Building_BigSwordPillar">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="SmallPool">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="Building_RPG_YingTianTai">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="Candlestick">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Lantern1">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Lantern">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Lantern3">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Lantern4">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Lantern5">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Lantern6">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="StreetLight">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="StreetLight1">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="StreetLight2">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Lantern_S1">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Building_DiMuJiDeng">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Building_QingShaDeng">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Building_HuangLongDengTai">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Building_LianHuaDengTai">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Building_XieXiDeng">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Building_KuLouDeng">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Building_XiongKuiDeng">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Building_YaoHuoPen">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Building_ChangMingDeng">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Building_Spring2021_2">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Building_Spring2021_3">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Building_Spring2021_4">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Building_Spring2021_5">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Building_Spring2021_6">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Building_Spring2021_7">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Building_Spring2021_8">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Building_Spring2021_9">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Building_Spring2021_10">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Building_BigTripod">
+			<Type>Декорации</Type>
+			<Label>Мебель</Label>
+		</Text>
+		<Text Name="Building_SmallTripod">
+			<Type>Декорации</Type>
+			<Label>Мебель</Label>
+		</Text>
+		<Text Name="Building_BigCenser">
+			<Type>Декорации</Type>
+			<Label>Мебель</Label>
+		</Text>
+		<Text Name="Building_SmallCenser">
+			<Type>Декорации</Type>
+			<Label>Мебель</Label>
+		</Text>
+		<Text Name="Building_BigVase">
+			<Type>Декорации</Type>
+			<Label>Мебель</Label>
+		</Text>
+		<Text Name="Building_SmallVase">
+			<Type>Декорации</Type>
+			<Label>Мебель</Label>
+		</Text>
+		<Text Name="Building_MoWenHuaPing">
+			<Type>Декорации</Type>
+			<Label>Мебель</Label>
+		</Text>
+		<Text Name="Building_Screen1">
+			<Type>Декорации</Type>
+			<Label>Мебель</Label>
+		</Text>
+		<Text Name="Building_XiePingFeng">
+			<Type>Декорации</Type>
+			<Label>Мебель</Label>
+		</Text>
+		<Text Name="Building_BookShelf">
+			<Type>Декорации</Type>
+			<Label>Мебель</Label>
+		</Text>
+		<Text Name="Building_ShaZhang1">
+			<Type>Декорации</Type>
+			<Label>Мебель</Label>
+		</Text>
+		<Text Name="Building_ShaZhang2">
+			<Type>Декорации</Type>
+			<Label>Мебель</Label>
+		</Text>
+		<Text Name="Building_JuXingXiangLu">
+			<Type>Декорации</Type>
+			<Label>Мебель</Label>
+		</Text>
+		<Text Name="Building_HuoDing">
+			<Type>Декорации</Type>
+			<Label>Мебель</Label>
+		</Text>
+		<Text Name="Building_JiaShan1">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_JiaShan2">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_PenZai1">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_PenZai2">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_KuLouHuaPing">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_QiShi1">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_QiShi2">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_QiShi3">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_QiShi4">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_QiShi5">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_QiShi6">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi1">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi2">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi3">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi4">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi5">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_ShuiZhongQiShi6">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_ShangGuShouHai1">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_ShangGuShouHai2">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_ShangGuShouHai3">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_ShangGuShouHai4">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_ShangGuCanJi1">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_ShangGuCanJi2">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_ShangGuCanJi3">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_ShangGuCanJi4">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_ShangGuCanJi5">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_LingShu1">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_LingShu2">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_LingShu3">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_LingShu4">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_LingShu5">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_LingShu6">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_ZiXiaoJuShu">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_ShaShenMu1">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_ShaShenMu2">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_ShaShenMu3">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_ShaShenMu4">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_ShuiShenHuaShu1">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_ShuiShenHuaShu2">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_ShuiShenHuaShu3">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_TaoShu1">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_TaoShu2">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_TaoShu3">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_YuShu1">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_YuShu2">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_YuShu3">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_YuShu4">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_YuShu5">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_YuShu6">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_GuMu1">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_GuMu2">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_GuMu3">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_GuMu4">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_GuMu5">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_GuMu6">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_ShiCheJu1">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_ShiCheJu2">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_ShiCheJu3">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_LuoTuoCao">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_CongRong1">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_CongRong2">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_Flag1">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_Flag2">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_Flag3">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_Gu">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_ShiBei">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_Tower2">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_Tower">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_LingDiShuiChi">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_LianFaTan">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_TaiXuanBingZhu">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_YanDiTai">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_TengLongZhu">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_JianYiFuDiao">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_ShuiLianTai">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_DiMuMiXue">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_QiShaJianZhu">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_QingTongFanQi">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_DiMuJiQi">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_MoMenJiQi">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_MoMenJiQi1">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_YuHeQingLian1">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_YuHeQingLian2">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_YuHeQingLian3">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_TianSheQi">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_JuXingShouGu">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_LongXingYuanPan">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_YaoShouDing">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_YaoZuXingJia">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="Building_StoneMan">
+			<Type>Декорации</Type>
+			<Label>Статуи</Label>
+		</Text>
+		<Text Name="Building_StoneLion">
+			<Type>Декорации</Type>
+			<Label>Статуи</Label>
+		</Text>
+		<Text Name="Building_StoneLion2">
+			<Type>Декорации</Type>
+			<Label>Статуи</Label>
+		</Text>
+		<Text Name="Building_StoneLion3">
+			<Type>Декорации</Type>
+			<Label>Статуи</Label>
+		</Text>
+		<Text Name="Building_Statue1">
+			<Type>Декорации</Type>
+			<Label>Статуи</Label>
+		</Text>
+		<Text Name="Building_Statue2">
+			<Type>Декорации</Type>
+			<Label>Статуи</Label>
+		</Text>
+		<Text Name="Building_Statue3">
+			<Type>Декорации</Type>
+			<Label>Статуи</Label>
+		</Text>
+		<Text Name="Building_BingFengDiaoSu">
+			<Type>Декорации</Type>
+			<Label>Статуи</Label>
+		</Text>
+		<Text Name="Building_QingTongLong">
+			<Type>Декорации</Type>
+			<Label>Статуи</Label>
+		</Text>
+		<Text Name="Building_QingTongShouXiangLu">
+			<Type>Декорации</Type>
+			<Label>Статуи</Label>
+		</Text>
+		<Text Name="Building_XieLongDiaoXiang">
+			<Type>Декорации</Type>
+			<Label>Статуи</Label>
+		</Text>
+		<Text Name="Building_MoZhuaDiaoSu">
+			<Type>Декорации</Type>
+			<Label>Статуи</Label>
+		</Text>
+		<Text Name="Building_DiMuKuiShou">
+			<Type>Декорации</Type>
+			<Label>Статуи</Label>
+		</Text>
+		<Text Name="Building_YaoZuDiaoXiang">
+			<Type>Декорации</Type>
+			<Label>Статуи</Label>
+		</Text>
+		<Text Name="Building_SleeveSpace">
+			<Type>Чудеса</Type>
+		</Text>
+		<Text Name="Building_SleeveSpace1">
+			<Type>Чудеса</Type>
+		</Text>
+		<Text Name="Building_BaBaoGongDe_Our">
+			<Type>Чудеса</Type>
+		</Text>
+		<Text Name="Building_WanDaoZunFaZuo_Our">
+			<Type>Чудеса</Type>
+		</Text>
+		<Text Name="Building_QiQingQingTongShu_Our">
+			<Type>Чудеса</Type>
+		</Text>
+		<Text Name="Building_ZhouTianXingDouPan_Our">
+			<Type>Чудеса</Type>
+		</Text>
+		<Text Name="Building_WuLongXuanJinTa_Our">
+			<Type>Чудеса</Type>
+		</Text>
+		<Text Name="Building_ShuShanJianChi_Our">
+			<Type>Чудеса</Type>
+		</Text>
+		<Text Name="Building_LingYuFeng_Our">
+			<Type>Чудеса</Type>
+		</Text>
+		<Text Name="Building_WanGuXieFaTan_Our">
+			<Type>Чудеса</Type>
+		</Text>
+		<Text Name="Building_XuanCiTianKeng_Our">
+			<Type>Чудеса</Type>
+		</Text>
+		<Text Name="Building_QiShaShenBei_Our">
+			<Type>Чудеса</Type>
+		</Text>
+		<Text Name="Building_XuanYinShengQuan_Our">
+			<Type>Чудеса</Type>
+		</Text>
+		<Text Name="Building_YaoZuYiHai_Our">
+			<Type>Чудеса</Type>
+		</Text>
+		<Text Name="TicTacToe">
+			<Type>Досуг</Type>
+		</Text>
+		<Text Name="CageShelf">
+			<Type>Досуг</Type>
+		</Text>
+		<Text Name="GoTable">
+			<Type>Досуг</Type>
+		</Text>
+		<Text Name="GuzhengTable">
+			<Type>Досуг</Type>
+		</Text>
+		<Text Name="Firecracker">
+			<Type>Досуг</Type>
+		</Text>
+		<Text Name="RemoveFloor">
+			<Type>Покрытия</Type>
+			<Display>Снос пола</Display>
+			<Desc>[color=#0000FF]Снос пола[/color]([keycode]RemoveFloor[/keycode])\nСнесите искусственный пол. \nТип работы: Строительство</Desc>
+		</Text>
+		<Text Name="Carpet1">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor30">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor31">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor32">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor33">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor1">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor2">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor3">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor4">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor5">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor6">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor7">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor8">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor9">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor10">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor11">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor12">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor13">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor14">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor15">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor16">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor17">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor18">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor19">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor20">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor21">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor22">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor23">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor24">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor25">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor26">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor27">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor28">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="Floor29">
+			<Type>Покрытия</Type>
+		</Text>
+		<Text Name="LsDogHouse">
+			<Type>Питомец</Type>
+		</Text>
+		<Text Name="LsDog_Carve">
+			<Type>Питомец</Type>
+		</Text>
+		<Text Name="LsFox_Carve">
+			<Type>Питомец</Type>
+		</Text>
+		<Text Name="LsDragon_Carve">
+			<Type>Питомец</Type>
+		</Text>
+		<Text Name="LsPhoenix_Carve">
+			<Type>Питомец</Type>
+		</Text>
+		<Text Name="LingShouShitPlace">
+			<Type>Питомец</Type>
+		</Text>
+		<Text Name="LSEnemyCarryPlace">
+			<Type>Питомец</Type>
+		</Text>
+		<Text Name="LSVistorCarryPlace">
+			<Type>Питомец</Type>
+		</Text>
+		<Text Name="LSEnemyBodyCarryPlace">
+			<Type>Питомец</Type>
+		</Text>
+		<Text Name="LSWaiBodyCarryPlace">
+			<Type>Питомец</Type>
+		</Text>
+		<Text Name="LSVistorBodyCarryPlace">
+			<Type>Питомец</Type>
+		</Text>
+		<Text Name="LSNeiBodyCarryPlace">
+			<Type>Питомец</Type>
+		</Text>
+		<Text Name="LSMortalBodyCarryPlace">
+			<Type>Питомец</Type>
+		</Text>
+		<Text Name="LSMortalCarryPlace">
+			<Type>Питомец</Type>
+		</Text>
+		<Text Name="AreaStorage">
+			<Type>Зоны</Type>
+			<Display>Склад</Display>
+			<Desc>Перетащите и выберите область для хранения; персонаж перенесет предметы в выбранную область хранения. \nТип работы: труд</Desc>
+		</Text>
+		<Text Name="AreaPlant">
+			<Type>Зоны</Type>
+			<Display>Поле</Display>
+			<Desc>Перетащите и выберите область как поле; персонажи посадят здесь урожай. \nТип работы: Сельское хозяйство</Desc>
+		</Text>
+		<Text Name="DiscipleAreaPlant">
+			<Type>Зоны</Type>
+			<Display>Травяной сад</Display>
+			<Desc>Перетащите и выберите участок как сад с травами; персонажи будут сажать здесь травы. \nТип работы: Сельское хозяйство</Desc>
+		</Text>
+		<Text Name="AreaBreeding">
+			<Type>Зоны</Type>
+			<Display>Пастбище</Display>
+			<Desc>Перетащите и выберите область для пастбища; прирученные животные будут пастись на этой территории.</Desc>
+		</Text>
+		<Text Name="AreaTrade">
+			<Type>Зоны</Type>
+			<Display>Зоны торговли</Display>
+			<Desc>Перетащите, чтобы выбрать торговую зону</Desc>
+		</Text>
+		<Text Name="RemoveStorageArea">
+			<Type>Зоны</Type>
+			<Display>Удалить Склад</Display>
+			<Desc>Удалить Склад.</Desc>
+		</Text>
+		<Text Name="RemovePlantArea">
+			<Type>Зоны</Type>
+			<Display>Удалить поле</Display>
+			<Desc>Удалить поле.</Desc>
+		</Text>
+		<Text Name="RemoveDiscipleAreaPlant">
+			<Type>Зоны</Type>
+			<Display>Удалить травяной сад</Display>
+			<Desc>Удалить травяной сад.</Desc>
+		</Text>
+		<Text Name="RemoveAreaBreeding">
+			<Type>Зоны</Type>
+			<Display>Удалить Пастбище</Display>
+			<Desc>Удалить Пастбище.</Desc>
+		</Text>
+		<Text Name="RemoveAreaTrade">
+			<Type>Зоны</Type>
+			<Display>Удалить область торговли</Display>
+			<Desc>Удалить область торговли.</Desc>
+		</Text>
+		<Text Name="AreaTang">
+			<Type>Зоны</Type>
+			<Display>Ветка</Display>
+			<Desc>Перетащите и выберите область ветки; персонажи получат бонусный эффект в своей области ветки.</Desc>
+		</Text>
+		<Text Name="RemoveTangArea">
+			<Type>Зоны</Type>
+			<Display>Удалить ветку</Display>
+			<Desc>Удалите участок ветки.</Desc>
+		</Text>
+		<Text Name="FillSoil">
+			<Type>Зоны</Type>
+		</Text>
+		<Text Name="FillShallowWater">
+			<Type>Зоны</Type>
+		</Text>
+		<Text Name="FillFertileSoil">
+			<Type>Зоны</Type>
+		</Text>
+		<Text Name="BlueprintCreat">
+			<Type>Чертежи</Type>
+			<Label>Все</Label>
+			<Display>Создать Чертеж</Display>
+			<Desc>Создать строительный Чертеж</Desc>
+		</Text>
+		<Text Name="MyBlueprintCreat">
+			<Type>Чертежи</Type>
+			<Label>Мой Чертеж</Label>
+			<Display>Создать Чертеж</Display>
+			<Desc>Создать строительный Чертеж</Desc>
+		</Text>
+		<Text Name="WBlueprintCreat">
+			<Type>Чертежи</Type>
+			<Label>Мастерская</Label>
+			<Display>Создать Чертеж</Display>
+			<Desc>Создать строительный Чертеж</Desc>
+		</Text>
+		<Text Name="Harvest">
+			<Display>Сбор</Display>
+			<Desc>[color=#0000FF]Собрать урожай[/color] ([keycode]Harvest[/keycode])\nСобирите урожай, чтобы получить плоды или другие продукты. \nТип работы: Фермерство</Desc>
+		</Text>
+		<Text Name="Log">
+			<Display>Рубка</Display>
+			<Desc>[color=#0000FF]Срубить дерево[/color] ([keycode]Log[/keycode])\nСрубите дерево, чтобы получить древесину. \nТип работы: Лесоруб</Desc>
+		</Text>
+		<Text Name="Mine">
+			<Display>Добыча</Display>
+			<Desc>[color=#0000FF]Добыть руду[/color] ([keycode]Mine[/keycode])\nДобывайте руду в горах, чтобы получить камень или металл.\nТип работы: Шахтёр</Desc>
+		</Text>
+		<Text Name="Cutoff">
+			<Display>Уборка</Display>
+			<Desc>[color=#0000FF]Расчистка области[/color] ([keycode]Cutoff[/keycode])\nУдалите всю растительность в выбранной области. \nТип работы: Лесоруб</Desc>
+		</Text>
+		<Text Name="Dismantle">
+			<Display>Снос</Display>
+			<Desc>[color=#0000FF]Снос конструкции[/color] ([keycode]Dismantle[/keycode])\nСнесите все постройки в выбранной области. \nТип работы: Строитель</Desc>
+		</Text>
+		<Text Name="Explore">
+			<Display>Разведка</Display>
+			<Desc>[color=#0000FF]Разведать область[/color] ([keycode]Explore[/keycode])\nИсследуйте область, скрытую туманом войны; персонаж будет тратить больше энергии во время разведки. \nТип работы: Охотник</Desc>
+		</Text>
+		<Text Name="Hunting">
+			<Display>Охота</Display>
+			<Desc>[color=#0000FF]Охота[/color] ([keycode]Hunting[/keycode])\nОхотьтесь на диких животных, чтобы добыть шкуры и мясо. \nТип работы: Охотник</Desc>
+		</Text>
+		<Text Name="Melting">
+			<Display>Плавка</Display>
+			<Desc>[color=#0000FF]Расплавить предмет[/color] ([keycode]Melting[/keycode])\nВнутренние Ученики попытаются превратить этот предмет в Камни Духа. \nКаждые 5000 Ци в предмете означают производство одного Камня Духа. Если предмет является Артефактом, чем выше его уровень, тем больше Камней Духа он произведёт.</Desc>
+		</Text>
+		<Text Name="CancelCMD">
+			<Display>Отмена</Display>
+			<Desc>[color=#0000FF]Отменить приказ[/color] ([keycode]CancelCMD[/keycode])\nОтменить приказы в выбранной области.</Desc>
+		</Text>
+		<Text Name="ClearPlant">
+			<Display>Растения</Display>
+			<Desc>[color=#0000FF]Удалить растения[/color]\nУдалите все растения на выбранном участке.</Desc>
+		</Text>
+		<Text Name="ClearMine ">
+			<Display>Добыть</Display>
+			<Desc>[color=#0000FF]Удалить руду[/color]\nУдалите все руды в выбранной области.</Desc>
+		</Text>
+		<Text Name="ClearBuilding">
+			<Display>Снести</Display>
+			<Desc>[color=#0000FF]Разрушить строение[/color]\nСнесите все постройки в выбранной области.</Desc>
+		</Text>
+		<Text Name="ClearFloor">
+			<Display>Покрытия</Display>
+			<Desc>[color=#0000FF]Удалить пол[/color]\nУдалите весь искусственнй пол в выбранной области.</Desc>
+		</Text>
+		<Text Name="ClearItem">
+			<Display>Удалить</Display>
+			<Desc>[color=#0000FF]Удалить предмет[/color]\nУдалить все элементы в выбранной области.</Desc>
+		</Text>
+		<Text Name="Dismantle2">
+			<Display>Ремонт</Display>
+			<Desc>[color=#0000FF]Ремонтировать здание[/color] ([keycode]Dismantle[/keycode])\nВосстановите все сломанные здания в выбранной области. \nТип работы: Строитель</Desc>
+		</Text>
+		<Text Name="CancelCMD2">
+			<Display>Запрет</Display>
+			<Desc>[color=#0000FF]Запретить предмет[/color] ([keycode]CancelCMD[/keycode])\nЗапретите использовать предметы в выбранной области или отмените запрет, если они уже запрещены.</Desc>
+		</Text>
+	</List>
+</Texts>

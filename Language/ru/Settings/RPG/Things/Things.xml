@@ -1,0 +1,72 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Camp">
+			<DisplayName>Фракция</DisplayName>
+			<ValuesDesc.0>Дружелюбный</ValuesDesc.0>
+			<ValuesDesc.1>Нейтральный</ValuesDesc.1>
+			<ValuesDesc.2>Враждебный</ValuesDesc.2>
+		</Text>
+		<Text Name="MoveAI">
+			<DisplayName>Режим движения</DisplayName>
+			<ValuesDesc.0>Стоя</ValuesDesc.0>
+			<ValuesDesc.1>Свободно</ValuesDesc.1>
+			<ValuesDesc.2>Бродить</ValuesDesc.2>
+			<ValuesDesc.3>Фиксированный маршрут</ValuesDesc.3>
+		</Text>
+		<Text Name="MoveRoute">
+			<DisplayName>Ключ фиксированного маршрута</DisplayName>
+		</Text>
+		<Text Name="GuradRange">
+			<DisplayName>Диапазон предупреждений</DisplayName>
+		</Text>
+		<Text Name="IsStepRuning">
+			<DisplayName>Обратный вызов кадра</DisplayName>
+			<ValuesDesc.0>Нет</ValuesDesc.0>
+			<ValuesDesc.1>Да</ValuesDesc.1>
+		</Text>
+		<Text Name="IsFrameStep">
+			<DisplayName>Обратный вызов каждого кадра</DisplayName>
+			<ValuesDesc.0>Нет</ValuesDesc.0>
+			<ValuesDesc.1>Да</ValuesDesc.1>
+		</Text>
+		<Text Name="IsRenderRuning">
+			<DisplayName>Обратный вызов кадра рендеринга</DisplayName>
+			<ValuesDesc.0>Нет</ValuesDesc.0>
+			<ValuesDesc.1>Да</ValuesDesc.1>
+		</Text>
+		<Text Name="IsGod">
+			<DisplayName>Неуязвимый или нет</DisplayName>
+			<ValuesDesc.0>Нет</ValuesDesc.0>
+			<ValuesDesc.1>Да</ValuesDesc.1>
+		</Text>
+		<Text Name="ChouHenLianDong">
+			<DisplayName>Общая ненависть к команде</DisplayName>
+			<ValuesDesc.0>Нет</ValuesDesc.0>
+			<ValuesDesc.1>Да</ValuesDesc.1>
+		</Text>
+		<Text Name="AutoNext">
+			<DisplayName>Победить всех врагов</DisplayName>
+			<ValuesDesc.0>Нет</ValuesDesc.0>
+			<ValuesDesc.1>Да</ValuesDesc.1>
+		</Text>
+		<Text Name="PickAndRemove">
+			<DisplayName>Ресурсы исчерпаемы или нет</DisplayName>
+			<ValuesDesc.0>Нет</ValuesDesc.0>
+			<ValuesDesc.1>Да</ValuesDesc.1>
+		</Text>
+		<Text Name="LightFog">
+			<DisplayName>Зажигать туман или нет</DisplayName>
+			<ValuesDesc.0>Нет</ValuesDesc.0>
+			<ValuesDesc.1>Да</ValuesDesc.1>
+		</Text>
+		<Text Name="LightFogDis">
+			<DisplayName>Диапазон освещенного тумана</DisplayName>
+		</Text>
+		<Text Name="Param1">
+			<DisplayName>Параметр 1 (RpgParam1)</DisplayName>
+		</Text>
+		<Text Name="Param2">
+			<DisplayName>Параметр 2 (RpgParam2)</DisplayName>
+		</Text>
+	</List>
+</Texts>

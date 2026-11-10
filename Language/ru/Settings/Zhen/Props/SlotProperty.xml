@@ -1,0 +1,116 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Sys_Lost">
+			<Descript>Empty</Descript>
+			<Tip>Empty</Tip>
+		</Text>
+		<Text Name="StabilityBasev">
+			<Descript>Базовая устойчивость Формации {1}{0}</Descript>
+		</Text>
+		<Text Name="StabilityBasep">
+			<Descript>Базовая устойчивость Формации {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="StabilityAddv">
+			<Descript>Устойчивость Формации {1}{0}</Descript>
+		</Text>
+		<Text Name="StabilityAddp">
+			<Descript>Устойчивость Формации {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerBasev">
+			<Descript>Базовое Мастерство Артефакта {1}{0}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerBasep">
+			<Descript>Базовое Мастерство Артефакта {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerAddv">
+			<Descript>Мастерство Артефакта {1}{0}</Descript>
+		</Text>
+		<Text Name="FabaoAtkPowerAddp">
+			<Descript>Мастерство Артефакта {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="MagicPowerBasev">
+			<Descript>Базовая Способность Заклинания {1}{0}</Descript>
+		</Text>
+		<Text Name="MagicPowerBasep">
+			<Descript>Базовая Способность Заклинания {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="MagicPowerAddv">
+			<Descript>Заклинание {1}{0}</Descript>
+		</Text>
+		<Text Name="MagicPowerAddp">
+			<Descript>Заклинание {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SheildBasev">
+			<Descript>Базовая Защита {1}{0}</Descript>
+		</Text>
+		<Text Name="SheildBasep">
+			<Descript>Базовая Защита {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SheildAddv">
+			<Descript>Защита {1}{0}</Descript>
+		</Text>
+		<Text Name="SheildAddp">
+			<Descript>Защита {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SkillCooldownBasev">
+			<Descript>Базовая Действующая Способность {1}{0}</Descript>
+		</Text>
+		<Text Name="SkillCooldownBasep">
+			<Descript>Базовая Действующая Способность {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="SkillCooldownAddv">
+			<Descript>Действующая Способность {1}{0}</Descript>
+		</Text>
+		<Text Name="SkillCooldownAddp">
+			<Descript>Действующая Способность {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="ReduceCostBasev">
+			<Descript>Базовая Эффективность Формации {1}{0}</Descript>
+		</Text>
+		<Text Name="ReduceCostBasep">
+			<Descript>Базовая Эффективность Формации {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="ReduceCostAddv">
+			<Descript>Эффективность Формации {1}{0}</Descript>
+		</Text>
+		<Text Name="ReduceCostAddp">
+			<Descript>Эффективность Формации {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupBasev">
+			<Descript>Размер Формации {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupBasep">
+			<Descript>Размер Формации {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupAddv">
+			<Descript>Размер Формации {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcNodeCountNumPowerupAddp">
+			<Descript>Размер Формации {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcZhenPressurePowerupBasev">
+			<Descript>Загрузка Формации {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcZhenPressurePowerupBasep">
+			<Descript>Загрузка Формации {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcZhenPressurePowerupAddv">
+			<Descript>Загрузка Формации {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcZhenPressurePowerupAddp">
+			<Descript>Загрузка Формации {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcZhenPointBasev">
+			<Descript>Базовый Лимит Энергии Формации {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcZhenPointBasep">
+			<Descript>Базовый Лимит Энергии Формации {1}{0:P2}</Descript>
+		</Text>
+		<Text Name="NpcZhenPointAddv">
+			<Descript>Лимит Энергии Формации {1}{0}</Descript>
+		</Text>
+		<Text Name="NpcZhenPointAddp">
+			<Descript>Лимит Энергии Формации {1}{0:P2}</Descript>
+		</Text>
+	</List>
+</Texts>

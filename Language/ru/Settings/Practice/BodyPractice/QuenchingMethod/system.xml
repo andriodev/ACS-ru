@@ -1,0 +1,18 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="LostPart">
+			<DisplayName>Потерянный предмет</DisplayName>
+		</Text>
+		<Text Name="SYS_DamageMethod">
+			<DisplayName>Заклинание восстановления травм</DisplayName>
+		</Text>
+		<Text Name="SYS_RebuildMethod">
+			<DisplayName>Заклинание реконструкции</DisplayName>
+			<Desc>Восстанавливает потерянную часть.</Desc>
+		</Text>
+		<Text Name="SYS_yishan">
+			<DisplayName>Искра вдохновения</DisplayName>
+			<Desc>Искра вдохновения</Desc>
+		</Text>
+	</List>
+</Texts>

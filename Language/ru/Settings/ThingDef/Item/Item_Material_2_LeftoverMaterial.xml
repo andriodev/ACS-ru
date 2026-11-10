@@ -1,0 +1,88 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="LeftoverMaterialBase" sParam="Item">
+      <Desc>Обрезки материала, которые можно использовать для укладки полов или строительства карнизов.</Desc>
+      <Item.FabaoSuffix>Гвоздь, Дротик, Лом</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WoodLeftover" sParam="Item">
+      <ThingName>Мозаика Дерево</ThingName>
+      <Desc>Остатки строительного материала смешивают с древесными обрезками. Может использоваться для укладки полов или строительства карнизов.</Desc>
+      <Item.BeMaterial.NamePrefix>Дерево</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_HardWoodLeftover" sParam="Item">
+      <ThingName>Мозаика Золотое Дерево</ThingName>
+      <Desc>Остатки строительного материала смешивают с обрезками золотого дерева. Может использоваться для укладки полов или строительства карнизов.</Desc>
+      <Item.BeMaterial.NamePrefix>Золотое Дерево</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_ParasolWoodLeftover" sParam="Item">
+      <ThingName>Мозаика Дерево Феникса</ThingName>
+      <Desc>Остатки строительного материала смешивают с обрезками Фениксового дерева. Может использоваться для укладки полов или строительства карнизов.</Desc>
+      <Item.BeMaterial.NamePrefix>Лесной Зонтик</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingWoodLeftover" sParam="Item">
+      <ThingName>Мозаика Духовное Дерево</ThingName>
+      <Desc>Остатки строительного материала смешивают с обрезками спиртового дерева. Может использоваться для укладки полов или строительства карнизов.</Desc>
+      <Item.BeMaterial.NamePrefix>Духовное Дерево</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_BrownRockLeftover" sParam="Item">
+      <ThingName>Мозаика Песчанник</ThingName>
+      <Desc>Остатки строительного материала смешиваются с остатками бурого камня. Может использоваться для укладки полов или строительства карнизов.</Desc>
+      <Item.BeMaterial.NamePrefix>Песчанник</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_GrayRockLeftover" sParam="Item">
+      <ThingName>Мозаика Базальт</ThingName>
+      <Desc>Остатки строительного материала смешались с серыми камнями. Может использоваться для укладки полов или строительства карнизов.</Desc>
+      <Item.BeMaterial.NamePrefix>Базальт</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_MarbleLeftover" sParam="Item">
+      <ThingName>Мозаика Мрамор</ThingName>
+      <Desc>Остатки строительного материала смешивают с мраморными обрезками. Может использоваться для укладки полов или строительства карнизов.</Desc>
+      <Item.BeMaterial.NamePrefix>Мрамор</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_JadeLeftover" sParam="Item">
+      <ThingName>Мозаика Нефрит</ThingName>
+      <Desc>Остатки строительного материала смешались с нефритовыми обрезками. Может использоваться для укладки полов или строительства карнизов.</Desc>
+      <Item.BeMaterial.NamePrefix>Нефрит</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_SkyStoneLeftover" sParam="Item">
+      <ThingName>Мозаика Священный Камень</ThingName>
+      <Desc>Остатки строительного материала смешиваются с отрубями священного камня. Может использоваться для укладки полов или строительства карнизов.</Desc>
+      <Item.BeMaterial.NamePrefix>Святой камень</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingStoneLeftover" sParam="Item">
+      <ThingName>Мозаика Духовный Камень</ThingName>
+      <Desc>Остатки строительного материала смешиваются с остатками духовного камня. Может использоваться для укладки полов или строительства карнизов.</Desc>
+      <Item.BeMaterial.NamePrefix>Духовный Камень</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingCrystalLeftover" sParam="Item">
+      <ThingName>Мозаика Из Кристалла Духа</ThingName>
+      <Desc>Остатки строительного материала, смешанные с остатками кристаллов спирта. Может использоваться для укладки полов или строительства карнизов.</Desc>
+      <Item.BeMaterial.NamePrefix>Духовный Кристалл</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_IronRockLeftover" sParam="Item">
+      <ThingName>Мозаика Из Железа</ThingName>
+      <Desc>Остатки строительного материала смешивают с железными обрезками. Может использоваться для укладки полов или строительства карнизов.</Desc>
+      <Item.BeMaterial.NamePrefix>Железо</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_CopperRockLeftover" sParam="Item">
+      <ThingName>Мозаика Из Огнемеди</ThingName>
+      <Desc>Остатки строительного материала смешивают с обрезками Игнеокоппера. Может использоваться для укладки полов или строительства карнизов.</Desc>
+      <Item.BeMaterial.NamePrefix>Огнемедь</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_SilverRockLeftover" sParam="Item">
+      <ThingName>Мозаика Из Ледяного Кристалла</ThingName>
+      <Desc>Остатки строительного материала смешиваются с ледяными кристаллами. Может использоваться для укладки полов или строительства карнизов.</Desc>
+      <Item.BeMaterial.NamePrefix>Ледяной Кристалл</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_DarksteelRockLeftover" sParam="Item">
+      <ThingName>Мозаика Из Темной Стали</ThingName>
+      <Desc>Остатки строительного материала смешались с обрезками темной стали. Может использоваться для укладки полов или строительства карнизов.</Desc>
+      <Item.BeMaterial.NamePrefix>Темная сталь</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_StarEssenceLeftover" sParam="Item">
+      <ThingName>Мозаика Из Ядра Люмины</ThingName>
+      <Desc>Остатки строительного материала смешиваются с обрезками сердцевины люмины. Может использоваться для укладки полов или строительства карнизов.</Desc>
+      <Item.BeMaterial.NamePrefix>Ядро Люмина</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>

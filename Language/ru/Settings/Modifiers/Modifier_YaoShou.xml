@@ -1,0 +1,8 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="MakeMapYaoShou">
+			<DisplayName>Начальный Зверь</DisplayName>
+			<Desc>Начальная Атака Зверя</Desc>
+		</Text>
+	</List>
+</Texts>

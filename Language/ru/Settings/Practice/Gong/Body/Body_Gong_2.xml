@@ -1,0 +1,17 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Body_Gong_2">
+			<DisplayName>Варварское ковочное тело</DisplayName>
+			<Desc>Новый Закон совершенствования, созданный физическими культиваторами в отношении естественных тел яогуай древних мудрецов. Этот Закон известен своей дикой и агрессивной природой и отлично справляется с очисткой костей, чтобы в конечном итоге создать Тело варварской ковки. Физическое тело становится божественным и предается забвению.</Desc>
+			<SelectDesc>Физическая подготовка означает объединение энергии, ци и духа в одно, отключение ци и любых других магических предметов и начало практики только с физического тела. Вы хотите принять этот Закон?</SelectDesc>
+			<Stages.0.DisplayName>Фаза восстановления</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Физическое возрождение</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Фаза очищения костного мозга</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Изменение костного мозга</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Фаза инкубации</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Объединяющее Единство</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Фаза хаоса</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Высшее наказание</Stages.3.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>

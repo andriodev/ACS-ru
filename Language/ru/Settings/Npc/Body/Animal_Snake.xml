@@ -1,0 +1,33 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="SnakeBody">
+      <Part.Parts.0.DisplayName>Голова </Part.Parts.0.DisplayName>
+      <Part.Parts.0.Parts.0.DisplayName>Череп </Part.Parts.0.Parts.0.DisplayName>
+      <Part.Parts.0.Parts.1.DisplayName>Мозг </Part.Parts.0.Parts.1.DisplayName>
+      <Part.Parts.0.Parts.2.DisplayName>Л. Глаз </Part.Parts.0.Parts.2.DisplayName>
+      <Part.Parts.0.Parts.3.DisplayName>П. Глаз </Part.Parts.0.Parts.3.DisplayName>
+      <Part.Parts.0.Parts.4.DisplayName>Нос </Part.Parts.0.Parts.4.DisplayName>
+      <Part.Parts.0.Parts.5.DisplayName>Рот </Part.Parts.0.Parts.5.DisplayName>
+      <Part.Parts.0.Parts.6.DisplayName>Уязвимое Место </Part.Parts.0.Parts.6.DisplayName>
+      <Part.Parts.0.Parts.7.DisplayName>Голова </Part.Parts.0.Parts.7.DisplayName>
+      <Part.Parts.1.Parts.0.DisplayName>1-й Сустав </Part.Parts.1.Parts.0.DisplayName>
+      <Part.Parts.1.Parts.1.DisplayName>2-й Сустав </Part.Parts.1.Parts.1.DisplayName>
+      <Part.Parts.1.Parts.2.DisplayName>3-й Сустав </Part.Parts.1.Parts.2.DisplayName>
+      <Part.Parts.1.Parts.3.DisplayName>4-й Сустав </Part.Parts.1.Parts.3.DisplayName>
+      <Part.Parts.1.Parts.4.DisplayName>5-й Сустав </Part.Parts.1.Parts.4.DisplayName>
+      <Part.Parts.1.Parts.5.DisplayName>6-й Сустав </Part.Parts.1.Parts.5.DisplayName>
+      <Part.Parts.1.Parts.6.DisplayName>7-й Сустав </Part.Parts.1.Parts.6.DisplayName>
+      <Part.Parts.1.Parts.7.DisplayName>8-й Сустав </Part.Parts.1.Parts.7.DisplayName>
+      <Part.Parts.1.Parts.8.DisplayName>Хребет </Part.Parts.1.Parts.8.DisplayName>
+      <Part.Parts.1.Parts.9.DisplayName>Сердце </Part.Parts.1.Parts.9.DisplayName>
+      <Part.Parts.1.Parts.10.DisplayName>Печень </Part.Parts.1.Parts.10.DisplayName>
+      <Part.Parts.1.Parts.11.DisplayName>Селезёнка </Part.Parts.1.Parts.11.DisplayName>
+      <Part.Parts.1.Parts.12.DisplayName>Лёгкие </Part.Parts.1.Parts.12.DisplayName>
+      <Part.Parts.1.Parts.13.DisplayName>Почки </Part.Parts.1.Parts.13.DisplayName>
+      <Part.Parts.1.Parts.14.DisplayName>Желудок </Part.Parts.1.Parts.14.DisplayName>
+      <Part.Parts.1.Parts.15.DisplayName>Кишки </Part.Parts.1.Parts.15.DisplayName>
+      <Part.Parts.1.Parts.16.DisplayName>Торс </Part.Parts.1.Parts.16.DisplayName>
+      <Part.Parts.2.DisplayName>Всё Тело </Part.Parts.2.DisplayName>
+    </Text>
+  </List>
+</Texts>

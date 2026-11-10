@@ -1,0 +1,90 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="MeatBase" sParam="Item">
+      <Item.FabaoSuffix>Мясо, Скатерть, Комок</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BoarMeat" sParam="Item">
+      <ThingName>Мясо Кабана</ThingName>
+      <Desc>Мясо кабана.</Desc>
+    </Text>
+    <Text Name="Item_FrogMeat" sParam="Item">
+      <ThingName>Мясо Лягушки</ThingName>
+      <Desc>Мясо лягушки.</Desc>
+    </Text>
+    <Text Name="Item_TurtleMeat" sParam="Item">
+      <ThingName>Мясо Черепахи</ThingName>
+      <Desc>Мясо черепахи.</Desc>
+    </Text>
+    <Text Name="Item_BearMeat" sParam="Item">
+      <ThingName>Мясо Медведя</ThingName>
+      <Desc>Мясо медведя.</Desc>
+    </Text>
+    <Text Name="Item_Beef" sParam="Item">
+      <ThingName>Мясо Быка</ThingName>
+      <Desc>Говядина.</Desc>
+    </Text>
+    <Text Name="Item_RabbitMeat" sParam="Item">
+      <ThingName>мясо кролика</ThingName>
+      <Desc>Мясо кролика.</Desc>
+    </Text>
+    <Text Name="Item_ChickenMeat" sParam="Item">
+      <ThingName>Мясо Курицы</ThingName>
+      <Desc>Мясо курицы.</Desc>
+    </Text>
+    <Text Name="Item_WolfMeat" sParam="Item">
+      <ThingName>Мясо Волка</ThingName>
+      <Desc>Мясо волка.</Desc>
+    </Text>
+    <Text Name="Item_FishMeat" sParam="Item">
+      <ThingName>Рыба</ThingName>
+      <Desc>Мясо рыбы.</Desc>
+    </Text>
+    <Text Name="Item_SnakeMeat" sParam="Item">
+      <ThingName>Мясо Змеи</ThingName>
+      <Desc>Мясо змеи.</Desc>
+    </Text>
+    <Text Name="Item_CatMeat" sParam="Item">
+      <ThingName>Мясо Кошки</ThingName>
+      <Desc>Мясо кошки.</Desc>
+    </Text>
+    <Text Name="Item_TigerMeat" sParam="Item">
+      <ThingName>Мясо Тигра</ThingName>
+      <Desc>Мясо тигра.</Desc>
+    </Text>
+    <Text Name="Item_ChickenEgg" sParam="Item">
+      <ThingName>Яйцо Курицы</ThingName>
+      <Desc>Куриное яйцо.</Desc>
+      <Item.FabaoSuffix>Яйцо, Шарик, Шарик, Икра</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SnakeEgg" sParam="Item">
+      <ThingName>Яйцо Змеи</ThingName>
+      <Desc>Змеиное яйцо.</Desc>
+      <Item.FabaoSuffix>Яйцо, Шарик, Шарик, Икра</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_TurtleEgg" sParam="Item">
+      <ThingName>Яйцо Черепахи</ThingName>
+      <Desc>Черепашьи яйца.</Desc>
+      <Item.FabaoSuffix>Яйцо, Шарик, Шарик, Икра</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_LongEgg" sParam="Item">
+      <ThingName>Яйцо Дракона Наводнения</ThingName>
+      <Desc>Нетронутое яйцо дракона наводнения; оно показывает явные признаки жизни. Чтобы вылупиться из яйца, оно должно находиться в месте с температурой ниже -200 градусов, чрезвычайно богатом Ци и очень благоприятном для водной стихии.</Desc>
+      <Item.FabaoSuffix>Яйцо, Шарик, Шарик, Икра</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_FengEgg" sParam="Item">
+      <ThingName>Яйцо Феникса</ThingName>
+      <Desc>Яйцо Феникса, которое еще не вылупилось, внутри него есть явные признаки жизни. Чтобы вылупиться из яйца, оно должно находиться в месте с температурой выше 300 градусов, чрезвычайно богатом Ци и очень благоприятном для огненной стихии.</Desc>
+      <Item.FabaoSuffix>Яйцо, Шарик, Шарик, Икра</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_FengEggChange" sParam="Item">
+      <ThingName>Яйцо Феникса</ThingName>
+      <Desc>Пробуждение...</Desc>
+      <Item.FabaoSuffix>Яйцо, Шарик, Шарик, Икра</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_JiaolongChange" sParam="Item">
+      <ThingName>Яйцо Дракона Наводнения</ThingName>
+      <Desc>Пробуждение...</Desc>
+      <Item.FabaoSuffix>Яйцо, Шарик, Шарик, Икра</Item.FabaoSuffix>
+    </Text>
+  </List>
+</Texts>

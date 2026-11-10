@@ -1,0 +1,10 @@
+﻿<Texts Type="Story">
+	<List>
+		<Text Name="TradeAuction">
+			<DisplayName>Аукцион</DisplayName>
+			<Desc>Прибыв в [PLACE], [NAME] обнаружил аукционный дом.</Desc>
+			<Selections.0.Display>Примите участие в аукционе</Selections.0.Display>
+			<Selections.1.Display>Отказаться</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

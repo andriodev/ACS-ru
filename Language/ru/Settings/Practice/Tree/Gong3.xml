@@ -1,0 +1,109 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong3_a2">
+			<DisplayName>Убийственное Намерение</DisplayName>
+		</Text>
+		<Text Name="Gong3_a2_1">
+			<DisplayName>Убийственное Намерение</DisplayName>
+		</Text>
+		<Text Name="Gong3_a2_2">
+			<DisplayName>Убийственное Намерение</DisplayName>
+		</Text>
+		<Text Name="Gong3_a5">
+			<DisplayName>Королевская Техника Меча</DisplayName>
+		</Text>
+		<Text Name="Gong3_a5_1">
+			<DisplayName>Королевская Техника Меча</DisplayName>
+		</Text>
+		<Text Name="Gong3_a5_2">
+			<DisplayName>Королевская Техника Меча</DisplayName>
+		</Text>
+		<Text Name="Gong3_b0">
+			<DisplayName>Кровавое Поглощение</DisplayName>
+		</Text>
+		<Text Name="Gong3_b1">
+			<DisplayName>Освобождение Внутренних Демонов</DisplayName>
+		</Text>
+		<Text Name="Gong3_b3">
+			<DisplayName>Тело Семи Бойней</DisplayName>
+		</Text>
+		<Text Name="Gong3_b4">
+			<DisplayName>Чистое Сердце Меча</DisplayName>
+		</Text>
+		<Text Name="Gong3_b6">
+			<DisplayName>Связь Меча и Сердца</DisplayName>
+		</Text>
+		<Text Name="Gong3_b8">
+			<DisplayName>Ударная Мантра</DisplayName>
+		</Text>
+		<Text Name="Gong3_c8">
+			<DisplayName>Мантра Разрушения</DisplayName>
+		</Text>
+		<Text Name="Gong3_d8">
+			<DisplayName>Мантра Контроля</DisplayName>
+		</Text>
+		<Text Name="Gong3_b9">
+			<DisplayName>Мантра Вязи Ударов</DisplayName>
+		</Text>
+		<Text Name="Gong3_c9">
+			<DisplayName>Мантра Выпадов</DisplayName>
+		</Text>
+		<Text Name="Gong3_d9">
+			<DisplayName>Мантра Трансформации</DisplayName>
+		</Text>
+		<Text Name="Gong3_b10">
+			<DisplayName>Мантра Чистых Слов</DisplayName>
+		</Text>
+		<Text Name="Gong3_c10">
+			<DisplayName>Мантра Рубки</DisplayName>
+		</Text>
+		<Text Name="Gong3_d10">
+			<DisplayName>Мантра Резни</DisplayName>
+		</Text>
+		<Text Name="Gong3_c0">
+			<DisplayName>Похититель Душ</DisplayName>
+		</Text>
+		<Text Name="Gong3_c1">
+			<DisplayName>Пять Духовных Отпечатков</DisplayName>
+		</Text>
+		<Text Name="Gong3_c4">
+			<DisplayName>Божественный Меч</DisplayName>
+		</Text>
+		<Text Name="Gong3_c6">
+			<DisplayName>Единение с Мечом</DisplayName>
+		</Text>
+		<Text Name="Gong3_d2">
+			<DisplayName>Меч Магического Потока</DisplayName>
+		</Text>
+		<Text Name="Gong3_d2_1">
+			<DisplayName>Дух Меча</DisplayName>
+		</Text>
+		<Text Name="Gong3_d2_2">
+			<DisplayName>Артефакт Наследия: Бессмертный Убийца</DisplayName>
+		</Text>
+		<Text Name="Gong3_d4">
+			<DisplayName>Абсолютный Меч</DisplayName>
+		</Text>
+		<Text Name="Gong3_d4_1">
+			<DisplayName>Абсолютный Меч</DisplayName>
+		</Text>
+		<Text Name="Gong3_d4_2">
+			<DisplayName>Абсолютный Меч</DisplayName>
+		</Text>
+		<Text Name="Gong3_d6">
+			<DisplayName>Я Есть Меч  Мой </DisplayName>
+		</Text>
+		<Text Name="Gong3_d6_1">
+			<DisplayName>Я Есть Меч  Мой </DisplayName>
+		</Text>
+		<Text Name="Gong3_d6_2">
+			<DisplayName>Я Есть Меч  Мой </DisplayName>
+		</Text>
+		<Text Name="Gong3_e4">
+			<DisplayName>Пилюля Небесного Пути</DisplayName>
+		</Text>
+		<Text Name="Gong3_e8">
+			<DisplayName>Небесный Артефакт</DisplayName>
+		</Text>
+	</List>
+</Texts>

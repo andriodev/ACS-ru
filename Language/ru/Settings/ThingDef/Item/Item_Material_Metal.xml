@@ -1,0 +1,32 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="MetalBase" sParam="Item">
+      <Item.FabaoSuffix>Металл, Печать, Стела, Парный Нефрит, Табличка, Врата, Столп</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_IronRock" sParam="Item">
+      <ThingName>Железная Руда</ThingName>
+      <Desc>Самая распространенная металлическая руда. Это очень твердый материал и его легко обрабатывать.</Desc>
+      <Item.BeMaterial.NamePrefix>『Железо』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_CopperRock" sParam="Item">
+      <ThingName>Огнемедная Руда</ThingName>
+      <Desc>Металлическая руда, богатая силой огня. Любой, кто приблизится к ней, почувствует сильный жар.</Desc>
+      <Item.BeMaterial.NamePrefix>『Огненная Медь』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_SilverRock" sParam="Item">
+      <ThingName>Ледяная Руда</ThingName>
+      <Desc>Красивая металлическая руда богата силой холода и похожа на серебряную руду. Любой, кто приблизится к нему, почувствует покалывание в воздухе.</Desc>
+      <Item.BeMaterial.NamePrefix>『Иней』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_DarksteelRock" sParam="Item">
+      <ThingName>Тёмная Руда</ThingName>
+      <Desc>Редкий металл темного цвета. Чрезвычайно тяжелый и прочный, это отличный оружейный материал, который трудно достать.</Desc>
+      <Item.BeMaterial.NamePrefix>『Тёмная Сталь』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_StarEssence" sParam="Item">
+      <ThingName>Ядро Метеора</ThingName>
+      <Desc>Сердцевина метеорита, обладающая особыми физическими свойствами, является редким сокровищем в мире культивации.</Desc>
+      <Item.BeMaterial.NamePrefix>『Ядро Метеорита』</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>

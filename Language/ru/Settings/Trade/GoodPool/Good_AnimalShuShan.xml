@@ -1,0 +1,20 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="ShuShanA">
+      <IVNUMBER.0.Animal.DisplayName>Клетка Лягушки</IVNUMBER.0.Animal.DisplayName>
+      <IVNUMBER.0.Animal.Tip>Внутри нее находится лягушка в состоянии пробуждения. Обучение, которое он получил от секты, дало ему возможность создавать связанные с этим воспоминания.</IVNUMBER.0.Animal.Tip>
+    </Text>
+    <Text Name="ShuShanAL">
+      <IVNUMBER.0.Animal.DisplayName>Простая Лягушачья Клетка</IVNUMBER.0.Animal.DisplayName>
+      <IVNUMBER.0.Animal.Tip>Внутри нее находится лягушка в состоянии пробуждения, она обладает разумом страха.</IVNUMBER.0.Animal.Tip>
+      <IVNUMBER.1.Animal.DisplayName>Простая Лягушачья Клетка</IVNUMBER.1.Animal.DisplayName>
+      <IVNUMBER.1.Animal.Tip>Внутри нее находится лягушка в состоянии пробуждения, она обладает разумом мыслей.</IVNUMBER.1.Animal.Tip>
+      <IVNUMBER.2.Animal.DisplayName>Простая Лягушачья Клетка</IVNUMBER.2.Animal.DisplayName>
+      <IVNUMBER.2.Animal.Tip>Внутри нее находится лягушка в состоянии пробуждения, она обладает разумом наслаждения.</IVNUMBER.2.Animal.Tip>
+      <IVNUMBER.3.Animal.DisplayName>Простая Лягушачья Клетка</IVNUMBER.3.Animal.DisplayName>
+      <IVNUMBER.3.Animal.Tip>Внутри нее лягушка в состоянии пробуждения, она обладает разумом ярости.</IVNUMBER.3.Animal.Tip>
+      <IVNUMBER.4.Animal.DisplayName>Простая Лягушачья Клетка</IVNUMBER.4.Animal.DisplayName>
+      <IVNUMBER.4.Animal.Tip>Внутри нее находится лягушка в состоянии пробуждения, она обладает разумом тревоги.</IVNUMBER.4.Animal.Tip>
+    </Text>
+  </List>
+</Texts>

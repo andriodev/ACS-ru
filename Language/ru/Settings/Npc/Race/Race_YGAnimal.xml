@@ -1,0 +1,88 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="YGRabbit">
+			<DisplayName>Кролик Яогуай</DisplayName>
+			<Desc>Животное превратилось в Яогуай благодаря пробужденному интеллекту: Кролик Яогуай</Desc>
+			<MaleName>М</MaleName>
+			<FemaleName>Ж</FemaleName>
+		</Text>
+		<Text Name="YGChicken">
+			<DisplayName>Курица Яогуай</DisplayName>
+			<Desc>Животное превратилось в Яогуай благодаря пробужденному интеллекту: Курица Яогуай</Desc>
+			<MaleName>М</MaleName>
+			<FemaleName>Ж</FemaleName>
+			<TalkBefore>Кудах, </TalkBefore>
+			<TalkAfter>Кудах!</TalkAfter>
+		</Text>
+		<Text Name="YGWolf">
+			<DisplayName>Волк Яогуай</DisplayName>
+			<Desc>Животное превратилось в Яогуай благодаря пробужденному интеллекту: Волк Яогуай</Desc>
+			<TalkBefore>Гррр, </TalkBefore>
+			<TalkAfter>Ауууу!</TalkAfter>
+			<MaleName>М</MaleName>
+			<FemaleName>Ж</FemaleName>
+		</Text>
+		<Text Name="YGSnake">
+			<DisplayName>Змея Яогуай</DisplayName>
+			<Desc>Животное превратилось в Яогуай благодаря пробужденному интеллекту: Змея Яогуай</Desc>
+			<TalkBefore>Ссс, </TalkBefore>
+			<TalkAfter>Сссс.</TalkAfter>
+			<MaleName>М</MaleName>
+			<FemaleName>Ж</FemaleName>
+		</Text>
+		<Text Name="YGBoar">
+			<DisplayName>Кабан Яогуай</DisplayName>
+			<Desc>Животное превратилось в Яогуай благодаря пробужденному интеллекту: Кабан Яогуай</Desc>
+			<TalkBefore>Хрю,</TalkBefore>
+			<TalkAfter>хрю</TalkAfter>
+			<MaleName>М</MaleName>
+			<FemaleName>Ж</FemaleName>
+		</Text>
+		<Text Name="YGBear">
+			<DisplayName>Медведь Яогуай</DisplayName>
+			<Desc>Животное превратилось в Яогуай благодаря пробужденному интеллекту: Медведь Яогуай</Desc>
+			<TalkBefore>Аррр,</TalkBefore>
+			<TalkAfter>Гррр!</TalkAfter>
+			<MaleName>М</MaleName>
+			<FemaleName>Ж</FemaleName>
+		</Text>
+		<Text Name="YGTurtle">
+			<DisplayName>Черепаха Яогуай</DisplayName>
+			<Desc>Животное превратилось в Яогуай благодаря пробужденному интеллекту: Черепаха Яогуай</Desc>
+			<MaleName>М</MaleName>
+			<FemaleName>Ж</FemaleName>
+		</Text>
+		<Text Name="YGFrog">
+			<DisplayName>Лягушка Яогуай</DisplayName>
+			<Desc>Животное превратилось в Яогуай благодаря пробужденному интеллекту: Лягушка Яогуай</Desc>
+			<TalkBefore>Ква,</TalkBefore>
+			<TalkAfter>ква</TalkAfter>
+			<MaleName>М</MaleName>
+			<FemaleName>Ж</FemaleName>
+		</Text>
+		<Text Name="YGCat">
+			<DisplayName>Кот Яогуай</DisplayName>
+			<Desc>Животное превратилось в Яогуай благодаря пробужденному интеллекту: Кот Яогуай</Desc>
+			<TalkBefore>Мяу,</TalkBefore>
+			<TalkAfter>Мяв!</TalkAfter>
+			<MaleName>М</MaleName>
+			<FemaleName>Ж</FemaleName>
+		</Text>
+		<Text Name="YGCattle">
+			<DisplayName>Бык Яогуай</DisplayName>
+			<Desc>Животное превратилось в Яогуай благодаря пробужденному интеллекту: Бык Яогуай</Desc>
+			<TalkBefore>Муу,</TalkBefore>
+			<TalkAfter>муу!</TalkAfter>
+			<MaleName>М</MaleName>
+			<FemaleName>Ж</FemaleName>
+		</Text>
+		<Text Name="YGTiger">
+			<DisplayName>Тигр Яогуай</DisplayName>
+			<Desc>Животное превратилось в Яогуай благодаря пробужденному интеллекту: Тигр Яогуай</Desc>
+			<TalkBefore>Гррр~</TalkBefore>
+			<TalkAfter>гррр!</TalkAfter>
+			<MaleName>М</MaleName>
+			<FemaleName>Ж</FemaleName>
+		</Text>
+	</List>
+</Texts>

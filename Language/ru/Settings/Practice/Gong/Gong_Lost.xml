@@ -1,0 +1,12 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_LOST">
+			<DisplayName>Ущербная техника</DisplayName>
+			<Desc>Ущербная техника, которую никто не признает. \n(Mod Lost)</Desc>
+			<Stages.0.DisplayName>Ошибка</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Ошибка</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Ошибка</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Ошибка</Stages.1.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,518 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="Building_ZhengFaPlantBase" sParam="Building">
+      <ThingName>Шаблон Растения</ThingName>
+      <StoryBnts.0.Name>Собрать образцы</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попытайтесь собрать образец этого объекта.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Building_ZhengFaBuildBase" sParam="Building">
+      <ThingName>Шаблон Здания</ThingName>
+      <StoryBnts.0.Name>Наблюдать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попробуйте изучить метод строительства этого здания.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="MiracleBase" sParam="Building">
+      <Desc>Чудо Секты</Desc>
+      <StoryBnts.0.Name>Захватить</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Возьмите это чудо силой.</StoryBnts.0.Desc>
+      <StoryBnts.1.Name>Вдохновение</StoryBnts.1.Name>
+      <StoryBnts.1.Desc>Медитируйте на небесные пути, обитающие в нем.</StoryBnts.1.Desc>
+    </Text>
+    <Text Name="Building_BaBaoGongDe" sParam="Building">
+      <ThingName>Бассейн Добродетели</ThingName>
+      <Desc>Знаменитые пейзажи Обители Красных Облаков, как говорят, воплотили в себе секреты, путей Вселенной.</Desc>
+    </Text>
+    <Text Name="Building_BaBaoGongDe_Our" sParam="Building">
+      <ThingName>Бассейн Добродетели</ThingName>
+      <Desc>Знаменитые пейзажи Обители Красных Облаков, как говорят, воплотили в себе секреты, путей Вселенной.</Desc>
+    </Text>
+    <Text Name="Building_WanDaoZunFaZuo" sParam="Building">
+      <ThingName>Трон Таоса</ThingName>
+      <Desc>Знаменитые пейзажи Дворца Кунь-Лунь, как говорят, воплотили в себе тайны, касающиеся путей сотворения неба и земли.</Desc>
+    </Text>
+    <Text Name="Building_WanDaoZunFaZuo_Our" sParam="Building">
+      <ThingName>Трон Таоса</ThingName>
+      <Desc>Знаменитые пейзажи Дворца Кунь-Лунь, как говорят, воплотили в себе тайны, касающиеся путей сотворения неба и земли.</Desc>
+    </Text>
+    <Text Name="Building_QiQingQingTongShu" sParam="Building">
+      <ThingName>Лес Эмоций</ThingName>
+      <Desc>Знаменитые пейзажи Дворца Небосвода как говорят, воплотили в себе секреты, касающиеся путей Инь и Ян.</Desc>
+    </Text>
+    <Text Name="Building_QiQingQingTongShu_Our" sParam="Building">
+      <ThingName>Лес Эмоций</ThingName>
+      <Desc>Знаменитые пейзажи Дворца Небосвода как говорят, воплотили в себе секреты, касающиеся путей Инь и Ян.</Desc>
+    </Text>
+    <Text Name="Building_ZhouTianXingDouPan" sParam="Building">
+      <ThingName>Астральная Плита</ThingName>
+      <Desc>Знаменитые пейзажи Храма Пурпурного Облака, как говорят, воплотили в себе тайны происхождения пространства и времени, а также пути Солнца и Луны.</Desc>
+    </Text>
+    <Text Name="Building_ZhouTianXingDouPan_Our" sParam="Building">
+      <ThingName>Астральная Плита</ThingName>
+      <Desc>Знаменитые пейзажи Храма Пурпурного Облака, как говорят, воплотили в себе тайны происхождения пространства и времени, а также пути Солнца и Луны.</Desc>
+    </Text>
+    <Text Name="Building_WuLongXuanJinTa" sParam="Building">
+      <ThingName>Драконья Пагода</ThingName>
+      <Desc>Знаменитые пейзажи Культа Тайного Единства, как говорят, воплощали в себе секреты, касающиеся путей начала и конца.</Desc>
+    </Text>
+    <Text Name="Building_WuLongXuanJinTa_Our" sParam="Building">
+      <ThingName>Драконья Пагода</ThingName>
+      <Desc>Знаменитые пейзажи Культа Тайного Единства, как говорят, воплощали в себе секреты, касающиеся путей начала и конца.</Desc>
+    </Text>
+    <Text Name="Building_ShuShanJianChi" sParam="Building">
+      <ThingName>Бассейн Меча</ThingName>
+      <Desc>Знаменитые пейзажи Храма Голубого Лотоса, как говорят, воплотили в себе секреты, касающиеся путей созидания и разрушения.</Desc>
+    </Text>
+    <Text Name="Building_ShuShanJianChi_Our" sParam="Building">
+      <ThingName>Бассейн Меча</ThingName>
+      <Desc>Знаменитые пейзажи Храма Голубого Лотоса, как говорят, воплотили в себе секреты, касающиеся путей созидания и разрушения.</Desc>
+    </Text>
+    <Text Name="Building_LingYuFeng" sParam="Building">
+      <ThingName>Пик Непостижимого</ThingName>
+      <Desc>Знаменитые пейзажи Вечерней Обители, как говорят, воплотили в себе секреты роста всего живого.</Desc>
+    </Text>
+    <Text Name="Building_LingYuFeng_Our" sParam="Building">
+      <ThingName>Пик Непостижимого</ThingName>
+      <Desc>Знаменитые пейзажи Вечерней Обители, как говорят, воплотили в себе секреты роста всего живого.</Desc>
+    </Text>
+    <Text Name="Building_WanGuXieFaTan" sParam="Building">
+      <ThingName>Алтарь Смерти</ThingName>
+      <Desc>Знаменитые пейзажи Горы Сотни Гадов, как говорят, воплотили в себе тайны, касающиеся обнуления времени и пространства.</Desc>
+    </Text>
+    <Text Name="Building_WanGuXieFaTan_Our" sParam="Building">
+      <ThingName>Алтарь Смерти</ThingName>
+      <Desc>Знаменитые пейзажи Горы Сотни Гадов, как говорят, воплотили в себе тайны, касающиеся обнуления времени и пространства.</Desc>
+    </Text>
+    <Text Name="Building_XuanCiTianKeng" sParam="Building">
+      <ThingName>Магнитная Воронка</ThingName>
+      <Desc>Знаменитые пейзажи Ямы Пропащих, как говорят, воплотили в себе тайны, касающиеся опустошения неба и земли.</Desc>
+    </Text>
+    <Text Name="Building_XuanCiTianKeng_Our" sParam="Building">
+      <ThingName>Магнитная Воронка</ThingName>
+      <Desc>Знаменитые пейзажи Ямы Пропащих, как говорят, воплотили в себе тайны, касающиеся опустошения неба и земли.</Desc>
+    </Text>
+    <Text Name="Building_QiShaShenBei" sParam="Building">
+      <ThingName>Стела Бойни</ThingName>
+      <Desc>Знаменитые пейзажи Дворца Неотвратимой Резни, как говорят, воплотили в себе тайны смерти всего живого.</Desc>
+    </Text>
+    <Text Name="Building_QiShaShenBei_Our" sParam="Building">
+      <ThingName>Стела Бойни</ThingName>
+      <Desc>Знаменитые пейзажи Дворца Неотвратимой Резни, как говорят, воплотили в себе тайны смерти всего живого.</Desc>
+    </Text>
+    <Text Name="Building_XuanYinShengQuan" sParam="Building">
+      <ThingName>Священная Весна Инь</ThingName>
+      <Desc>Знаменитые пейзажи Культа Ликующих, как говорят, воплощали в себе секреты, касающиеся путей судьбы.</Desc>
+    </Text>
+    <Text Name="Building_XuanYinShengQuan_Our" sParam="Building">
+      <ThingName>Священная Весна Инь</ThingName>
+      <Desc>Знаменитые пейзажи Культа Ликующих, как говорят, воплощали в себе секреты, касающиеся путей судьбы.</Desc>
+    </Text>
+    <Text Name="Building_YaoZuYiHai" sParam="Building">
+      <ThingName>Останки Древнего Демона</ThingName>
+      <Desc>Знаменитые пейзажи Храма Демонов, как говорят, воплотили в себе воспоминания о родовом Демоне.</Desc>
+    </Text>
+    <Text Name="Building_YaoZuYiHai_Our" sParam="Building">
+      <ThingName>Останки Древнего Демона</ThingName>
+      <Desc>Знаменитые пейзажи Храма Демонов, как говорят, воплотили в себе воспоминания о родовом Демоне.</Desc>
+    </Text>
+    <Text Name="Building_QiShi1" sParam="Building">
+      <ThingName>Странный Камень</ThingName>
+    </Text>
+    <Text Name="Building_ShuiZhongQiShi1" sParam="Building">
+      <ThingName>Странная Аква-Скала</ThingName>
+    </Text>
+    <Text Name="Building_QiShi2" sParam="Building">
+      <ThingName>Странный Камень</ThingName>
+    </Text>
+    <Text Name="Building_ShuiZhongQiShi2" sParam="Building">
+      <ThingName>Странная Аква-Скала</ThingName>
+    </Text>
+    <Text Name="Building_QiShi3" sParam="Building">
+      <ThingName>Странный Камень</ThingName>
+    </Text>
+    <Text Name="Building_ShuiZhongQiShi3" sParam="Building">
+      <ThingName>Странная Аква-Скала</ThingName>
+    </Text>
+    <Text Name="Building_QiShi4" sParam="Building">
+      <ThingName>Странный Камень</ThingName>
+    </Text>
+    <Text Name="Building_ShuiZhongQiShi4" sParam="Building">
+      <ThingName>Странная Аква-Скала</ThingName>
+    </Text>
+    <Text Name="Building_QiShi5" sParam="Building">
+      <ThingName>Странный Камень</ThingName>
+    </Text>
+    <Text Name="Building_ShuiZhongQiShi5" sParam="Building">
+      <ThingName>Странная Аква-Скала</ThingName>
+    </Text>
+    <Text Name="Building_QiShi6" sParam="Building">
+      <ThingName>Странный Камень</ThingName>
+    </Text>
+    <Text Name="Building_ShuiZhongQiShi6" sParam="Building">
+      <ThingName>Странная Аква-Скала</ThingName>
+    </Text>
+    <Text Name="Building_LingShu1" sParam="Building">
+      <ThingName>Духовное Дерево</ThingName>
+    </Text>
+    <Text Name="Building_LingShu2" sParam="Building">
+      <ThingName>Духовное Дерево</ThingName>
+    </Text>
+    <Text Name="Building_LingShu3" sParam="Building">
+      <ThingName>Духовное Дерево</ThingName>
+    </Text>
+    <Text Name="Building_LingShu4" sParam="Building">
+      <ThingName>Дерево Водных Духов</ThingName>
+    </Text>
+    <Text Name="Building_LingShu5" sParam="Building">
+      <ThingName>Дерево Водных Духов</ThingName>
+    </Text>
+    <Text Name="Building_LingShu6" sParam="Building">
+      <ThingName>Дерево Водных Духов</ThingName>
+    </Text>
+    <Text Name="Building_ZiXiaoJuShu" sParam="Building">
+      <ThingName>Пурпурное Дерево</ThingName>
+    </Text>
+    <Text Name="Building_ShaShenMu1" sParam="Building">
+      <ThingName>Дьявольское Дерево</ThingName>
+    </Text>
+    <Text Name="Building_ShaShenMu2" sParam="Building">
+      <ThingName>Дьявольское Дерево</ThingName>
+    </Text>
+    <Text Name="Building_ShaShenMu3" sParam="Building">
+      <ThingName>Дьявольское Дерево</ThingName>
+    </Text>
+    <Text Name="Building_ShaShenMu4" sParam="Building">
+      <ThingName>Дьявольское Дерево</ThingName>
+    </Text>
+    <Text Name="Building_ShuiShenHuaShu1" sParam="Building">
+      <ThingName>Аква Дерево</ThingName>
+    </Text>
+    <Text Name="Building_ShuiShenHuaShu2" sParam="Building">
+      <ThingName>Аква Дерево</ThingName>
+    </Text>
+    <Text Name="Building_ShuiShenHuaShu3" sParam="Building">
+      <ThingName>Аква Дерево</ThingName>
+    </Text>
+    <Text Name="Building_TaoShu1" sParam="Building">
+      <ThingName>Персиковое Дерево</ThingName>
+    </Text>
+    <Text Name="Building_TaoShu2" sParam="Building">
+      <ThingName>Персиковое Дерево</ThingName>
+    </Text>
+    <Text Name="Building_TaoShu3" sParam="Building">
+      <ThingName>Персиковое Дерево</ThingName>
+    </Text>
+    <Text Name="Building_YuShu1" sParam="Building">
+      <ThingName>Бессмертное Дерево</ThingName>
+    </Text>
+    <Text Name="Building_YuShu2" sParam="Building">
+      <ThingName>Бессмертное Дерево</ThingName>
+    </Text>
+    <Text Name="Building_YuShu3" sParam="Building">
+      <ThingName>Бессмертное Дерево</ThingName>
+    </Text>
+    <Text Name="Building_YuShu4" sParam="Building">
+      <ThingName>Бессмертное Дерево</ThingName>
+    </Text>
+    <Text Name="Building_YuShu5" sParam="Building">
+      <ThingName>Бессмертное Дерево</ThingName>
+    </Text>
+    <Text Name="Building_YuShu6" sParam="Building">
+      <ThingName>Бессмертное Дерево</ThingName>
+    </Text>
+    <Text Name="Building_CongRong1" sParam="Building">
+      <ThingName>Золотой Корень</ThingName>
+    </Text>
+    <Text Name="Building_CongRong2" sParam="Building">
+      <ThingName>Золотой Корень</ThingName>
+    </Text>
+    <Text Name="Building_ShangGuShouHai1" sParam="Building">
+      <ThingName>Древние Останки</ThingName>
+    </Text>
+    <Text Name="Building_ShangGuShouHai2" sParam="Building">
+      <ThingName>Древние Останки</ThingName>
+    </Text>
+    <Text Name="Building_ShangGuShouHai3" sParam="Building">
+      <ThingName>Древние Останки</ThingName>
+    </Text>
+    <Text Name="Building_ShangGuShouHai4" sParam="Building">
+      <ThingName>Древние Останки</ThingName>
+    </Text>
+    <Text Name="Building_LuoTuoCao" sParam="Building">
+      <ThingName>Верблюжья Трава</ThingName>
+    </Text>
+    <Text Name="Building_ShiCheJu1" sParam="Building">
+      <ThingName>Василёк</ThingName>
+    </Text>
+    <Text Name="Building_ShiCheJu2" sParam="Building">
+      <ThingName>Василёк</ThingName>
+    </Text>
+    <Text Name="Building_ShiCheJu3" sParam="Building">
+      <ThingName>Василёк</ThingName>
+    </Text>
+    <Text Name="Building_GuMu1" sParam="Building">
+      <ThingName>Древний Пень</ThingName>
+    </Text>
+    <Text Name="Building_GuMu2" sParam="Building">
+      <ThingName>Древний Пень</ThingName>
+    </Text>
+    <Text Name="Building_GuMu3" sParam="Building">
+      <ThingName>Древний Пень</ThingName>
+    </Text>
+    <Text Name="Building_GuMu4" sParam="Building">
+      <ThingName>Древний Пень</ThingName>
+    </Text>
+    <Text Name="Building_GuMu5" sParam="Building">
+      <ThingName>Древний Пень</ThingName>
+    </Text>
+    <Text Name="Building_GuMu6" sParam="Building">
+      <ThingName>Древний Пень</ThingName>
+    </Text>
+    <Text Name="Building_ShangGuCanJi1" sParam="Building">
+      <ThingName>Древние Руины</ThingName>
+    </Text>
+    <Text Name="Building_ShangGuCanJi2" sParam="Building">
+      <ThingName>Древние Руины</ThingName>
+    </Text>
+    <Text Name="Building_ShangGuCanJi3" sParam="Building">
+      <ThingName>Древние Руины</ThingName>
+    </Text>
+    <Text Name="Building_ShangGuCanJi4" sParam="Building">
+      <ThingName>Древние Руины</ThingName>
+    </Text>
+    <Text Name="Building_ShangGuCanJi5" sParam="Building">
+      <ThingName>Древние Руины</ThingName>
+    </Text>
+    <Text Name="Building_LingDiShuiChi" sParam="Building">
+      <ThingName>Пруд Духов</ThingName>
+    </Text>
+    <Text Name="Building_LianFaTan" sParam="Building">
+      <ThingName>Алтарь Магии</ThingName>
+    </Text>
+    <Text Name="Building_TaiXuanBingZhu" sParam="Building">
+      <ThingName>Вечно Ледяной Столп</ThingName>
+    </Text>
+    <Text Name="Build_KunLunFang" sParam="Building">
+      <ThingName>Ворота Куньлунь</ThingName>
+      <Desc>Величественные ворота секты.</Desc>
+      <StoryBnts.0.Name>Наблюдать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попробуйте изучить метод строительства этого здания.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Building_QingTongLong" sParam="Building">
+      <ThingName>Бронзовый Дракон</ThingName>
+    </Text>
+    <Text Name="Building_QingTongShouXiangLu" sParam="Building">
+      <ThingName>Бронзовая Курильница</ThingName>
+    </Text>
+    <Text Name="Building_QingTongFanQi" sParam="Building">
+      <ThingName>Бронзовое Знамя</ThingName>
+    </Text>
+    <Text Name="Building_YanDiTai" sParam="Building">
+      <ThingName>Платформа Происхождения</ThingName>
+    </Text>
+    <Text Name="Building_JuXingXiangLu" sParam="Building">
+      <ThingName>Гигантская Курильница</ThingName>
+    </Text>
+    <Text Name="Building_TengLongZhu" sParam="Building">
+      <ThingName>Столп Драконьего Восстания</ThingName>
+    </Text>
+    <Text Name="Building_HuangLongDengTai" sParam="Building">
+      <ThingName>Подставка Для Лампы Дракона</ThingName>
+      <Desc>Свет, который светит ночью, чтобы осветить его окрестности.</Desc>
+      <StoryBnts.0.Name>Наблюдать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попробуйте изучить метод строительства этого здания.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Building_LianHuaDengTai" sParam="Building">
+      <ThingName>Лампа Лотоса</ThingName>
+      <Desc>Свет, который светит ночью, чтобы осветить его окрестности.</Desc>
+      <StoryBnts.0.Name>Наблюдать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попробуйте изучить метод строительства этого здания.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Building_YuHeQingLian1" sParam="Building">
+      <ThingName>Лотос Меченосца</ThingName>
+    </Text>
+    <Text Name="Building_YuHeQingLian2" sParam="Building">
+      <ThingName>Лотос Меченосца</ThingName>
+    </Text>
+    <Text Name="Building_YuHeQingLian3" sParam="Building">
+      <ThingName>Лотос Меченосца</ThingName>
+    </Text>
+    <Text Name="Building_JianYiFuDiao" sParam="Building">
+      <ThingName>Облегчение Меча</ThingName>
+    </Text>
+    <Text Name="Building_XiaoDanLu1" sParam="Building">
+      <ThingName>Небольшая Печь</ThingName>
+    </Text>
+    <Text Name="Building_XiaoDanLu2" sParam="Building">
+      <ThingName>Небольшая Печь</ThingName>
+    </Text>
+    <Text Name="Building_HuoDing" sParam="Building">
+      <ThingName>Огненный Котел</ThingName>
+    </Text>
+    <Text Name="Building_ShuiLianTai" sParam="Building">
+      <ThingName>Платформа Лотоса</ThingName>
+    </Text>
+    <Text Name="Building_XieXiDeng" sParam="Building">
+      <ThingName>Злой Призрак Света</ThingName>
+      <Desc>Свет, который светит ночью, чтобы осветить его окрестности.</Desc>
+      <StoryBnts.0.Name>Наблюдать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попробуйте изучить метод строительства этого здания.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Building_KuLouDeng" sParam="Building">
+      <ThingName>Свет Пустоты</ThingName>
+      <Desc>Свет, который светит ночью, чтобы осветить его окрестности.</Desc>
+      <StoryBnts.0.Name>Наблюдать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попробуйте изучить метод строительства этого здания.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Build_BaiManFang" sParam="Building">
+      <ThingName>Ворота Насекомых</ThingName>
+      <Desc>Величественные ворота секты.</Desc>
+      <StoryBnts.0.Name>Наблюдать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попробуйте изучить метод строительства этого здания.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Building_DiMuJiDeng" sParam="Building">
+      <ThingName>Жертвенный Светильник</ThingName>
+      <Desc>Свет, который светит ночью, чтобы осветить его окрестности.</Desc>
+      <StoryBnts.0.Name>Наблюдать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попробуйте изучить метод строительства этого здания.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Building_DiMuJiQi" sParam="Building">
+      <ThingName>Знамя Матери-Земли</ThingName>
+    </Text>
+    <Text Name="Building_DiMuMiXue" sParam="Building">
+      <ThingName>Улей Матери-Земли</ThingName>
+    </Text>
+    <Text Name="Building_QiShaJianZhu" sParam="Building">
+      <ThingName>Столб Меча</ThingName>
+    </Text>
+    <Text Name="Building_XieLongDiaoXiang" sParam="Building">
+      <ThingName>Злой Дракон</ThingName>
+    </Text>
+    <Text Name="Building_XiongKuiDeng" sParam="Building">
+      <ThingName>Злая Кукольная Лампа</ThingName>
+      <Desc>Свет, который светит ночью, чтобы осветить его окрестности.</Desc>
+      <StoryBnts.0.Name>Наблюдать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попробуйте изучить метод строительства этого здания.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Building_ShaZhang1" sParam="Building">
+      <ThingName>Шелковые Шторы</ThingName>
+    </Text>
+    <Text Name="Building_ShaZhang2" sParam="Building">
+      <ThingName>Шелковые Шторы</ThingName>
+    </Text>
+    <Text Name="Building_QingShaDeng" sParam="Building">
+      <ThingName>Затуманенная Лампа</ThingName>
+      <Desc>Свет, который светит ночью, чтобы осветить его окрестности.</Desc>
+      <StoryBnts.0.Name>Наблюдать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попробуйте изучить метод строительства этого здания.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Building_BingFengDiaoSu" sParam="Building">
+      <ThingName>Ледяной Феникс</ThingName>
+    </Text>
+    <Text Name="Building_DiMuKuiShou" sParam="Building">
+      <ThingName>Глава Матери Земли</ThingName>
+    </Text>
+    <Text Name="Building_MoMenJiQi" sParam="Building">
+      <ThingName>Демоническое Знамя</ThingName>
+    </Text>
+    <Text Name="Building_MoMenJiQi1" sParam="Building">
+      <ThingName>Демоническое Знамя</ThingName>
+    </Text>
+    <Text Name="Building_MoZhuaDiaoSu" sParam="Building">
+      <ThingName>Скульптура Когтя</ThingName>
+    </Text>
+    <Text Name="Building_MoWenHuaPing" sParam="Building">
+      <ThingName>Бутылка Головы Демона</ThingName>
+    </Text>
+    <Text Name="Building_KuLouHuaPing" sParam="Building">
+      <ThingName>Дьявольская Ветвь</ThingName>
+    </Text>
+    <Text Name="Building_XiePingFeng" sParam="Building">
+      <ThingName>Дьявольская Завеса</ThingName>
+    </Text>
+    <Text Name="Building_YaoHuoPen" sParam="Building">
+      <ThingName>Безголовая Животная Печь</ThingName>
+      <Desc>Свет, который светит ночью, чтобы осветить его окрестности.</Desc>
+      <StoryBnts.0.Name>Наблюдать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попробуйте изучить метод строительства этого здания.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Building_ChangMingDeng" sParam="Building">
+      <ThingName>Животная вечно горящая лампа</ThingName>
+      <Desc>Свет, который светит ночью, чтобы осветить его окрестности.</Desc>
+      <StoryBnts.0.Name>Наблюдать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попробуйте изучить метод строительства этого здания.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Building_JuXingShouGu" sParam="Building">
+      <ThingName>Резьба По Кости Бегемота</ThingName>
+    </Text>
+    <Text Name="Building_LongXingYuanPan" sParam="Building">
+      <ThingName>Свернутый Трон Дракона</ThingName>
+    </Text>
+    <Text Name="Building_YaoZuDiaoXiang" sParam="Building">
+      <ThingName>Дикая Статуя</ThingName>
+    </Text>
+    <Text Name="Building_YaoShouDing" sParam="Building">
+      <ThingName>Котел Повелителя Демонов</ThingName>
+    </Text>
+    <Text Name="Build_WanYaoMen" sParam="Building">
+      <ThingName>Демонические Ворота</ThingName>
+      <Desc>Величественные ворота секты.</Desc>
+      <StoryBnts.0.Name>Наблюдать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попробуйте изучить метод строительства этого здания.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Building_TianSheQi" sParam="Building">
+      <ThingName>Знамя Змеи</ThingName>
+    </Text>
+    <Text Name="Building_YaoZuXingJia" sParam="Building">
+      <ThingName>Демоническая Стойка</ThingName>
+    </Text>
+    <Text Name="Building_RPG_YingTianTai" sParam="Building">
+      <ThingName>Алтарь Небесного Эха</ThingName>
+      <Desc>Специальное здание, услышанное от тайного человека в потустороннем разломе. Его можно использовать для связи с другими мирами в сознании, такими таинственными.</Desc>
+      <StoryBnts.0.Name>Входить</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Войдите в пространство, указанное алтарем Небесного Эха.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Building_RPG_YingTianTai_Rpg" sParam="Building">
+      <ThingName>Алтарь Небесного Эха</ThingName>
+      <Desc>Специальное здание, услышанное от тайного человека в потустороннем разломе. Его можно использовать для связи с другими мирами в сознании, такими таинственными.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_1" sParam="Building">
+			<ThingName>Пагода фонарей</ThingName>
+			<Desc>Очаровательная пагода с подвесными фонарями, которые зажигаются ночью.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_2" sParam="Building">
+			<ThingName>Художественный фонарь: Фортуна</ThingName>
+			<Desc>Декоративный светильник, символизирующий весну, с пожеланиями удачи.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_3" sParam="Building">
+			<ThingName>Художественный фонарь: Лотос</ThingName>
+			<Desc>Декоративный светильник, символизирующий весну, с пожеланиями воссоединения семьи.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_4" sParam="Building">
+			<ThingName>Художественный фонарь: Водяная лилия</ThingName>
+			<Desc>Декоративный светильник, символизирующий весну, с пожеланиями согласия и единства.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_5" sParam="Building">
+			<ThingName>Художественный фонарь: Тепло</ThingName>
+			<Desc>Декоративный светильник, символизирующий весну, с пожеланиями возрождения жизни.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_6" sParam="Building">
+			<ThingName>Художественный фонарь: Лев</ThingName>
+			<Desc>Декоративный светильник, символизирующий весну, с пожеланиями изгнания всего плохого.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_7" sParam="Building">
+			<ThingName>Фонарь - цветочный бутон</ThingName>
+			<Desc>Декоративный светильник, символизирующий весну.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_8" sParam="Building">
+			<ThingName>Фонарь - чистый снег</ThingName>
+			<Desc>Декоративный светильник, символизирующий весну.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_9" sParam="Building">
+			<ThingName>Художественный фонарь: Вознесение</ThingName>
+			<Desc>Декоративный светильник, символизирующий весну, с пожеланиями процветания в новом году.</Desc>
+		</Text>
+		<Text Name="Building_Spring2021_10" sParam="Building">
+			<ThingName>Художественный фонарь: Врата Дракона</ThingName>
+			<Desc>Декоративный светильник, символизирующий весну, с пожеланиями основательных перемен в новом году.</Desc>
+		</Text>
+	</List>
+</Texts>

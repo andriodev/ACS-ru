@@ -1,0 +1,149 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Temperature1">
+			<DisplayName>Лютый мороз </DisplayName>
+			<Desc>Так холодно, что можно замерзнуть насмерть.</Desc>
+			<StoryDesc> не может ясно мыслить от холода</StoryDesc>
+		</Text>
+		<Text Name="Temperature2">
+			<DisplayName>Очень холодно </DisplayName>
+			<Desc>Едва выносимый холод.</Desc>
+			<StoryDesc>, в душе проклиная ужасный холод, отчаянно скачет и дышит в ладони, пытаясь хоть как-то согреться</StoryDesc>
+		</Text>
+		<Text Name="Temperature3">
+			<DisplayName>Холодно </DisplayName>
+			<Desc>Так холодно, что не сдержать дрожь.</Desc>
+			<StoryDesc> дрожжит от холода</StoryDesc>
+		</Text>
+		<Text Name="Temperature4">
+			<DisplayName>Прохладно </DisplayName>
+			<Desc>Здесь прохладно.</Desc>
+			<StoryDesc> думает о том, чтобы найти одежду потеплее</StoryDesc>
+		</Text>
+		<Text Name="Temperature5">
+			<DisplayName>Приятная температура </DisplayName>
+			<Desc>Идеальная температура воздуха.</Desc>
+			<StoryDesc> удовлетворённо вздыхает, хваля в душе чудесную погоду</StoryDesc>
+		</Text>
+		<Text Name="Temperature6">
+			<DisplayName>Душно </DisplayName>
+			<Desc>Кажется вокруг слишком тепло.</Desc>
+			<StoryDesc> вытирает пот со лба и обмахивает лицо руками</StoryDesc>
+		</Text>
+		<Text Name="Temperature7">
+			<DisplayName>Жарко </DisplayName>
+			<Desc>В такую жару не пройдёт много времени, как окажешься мокрым от пота.</Desc>
+			<StoryDesc> вытирает пот рукавом и приподнимает мокрую от пота рубаху</StoryDesc>
+		</Text>
+		<Text Name="Temperature8">
+			<DisplayName>Зной </DisplayName>
+			<Desc>Едва выносимая жара.</Desc>
+			<StoryDesc> проклинает невыносимую жару, выжимая мокрую от пота одежду</StoryDesc>
+		</Text>
+		<Text Name="Temperature9">
+			<DisplayName>Горячо </DisplayName>
+			<Desc>Опасная для жизни жара, высок риск теплового удара.</Desc>
+			<StoryDesc> едва не теряет сознание из-за жары</StoryDesc>
+		</Text>
+		<Text Name="Light1">
+			<DisplayName>Резь в глазах </DisplayName>
+			<Desc>Свет такой яркий, что трудно держать глаза открытыми.</Desc>
+			<StoryDesc> закрывает глаза рукой, но они всё равно слезятся из-за слишком яркого света</StoryDesc>
+		</Text>
+		<Text Name="Light2">
+			<DisplayName>Ослепительно ярко </DisplayName>
+			<Desc>Свет такой яркий, что вокруг трудно что-то разглядеть.</Desc>
+			<StoryDesc> щурится от яркого света, потирая глаза</StoryDesc>
+		</Text>
+		<Text Name="Light3">
+			<DisplayName>Тусклый Свет </DisplayName>
+			<Desc>Не достаточно света, чтобы ясно видеть.</Desc>
+			<StoryDesc>, широко раскрыв глаза, всматривается в сумрак и ворчит, что здесь не помешало бы лучшее освещение</StoryDesc>
+		</Text>
+		<Text Name="Light4">
+			<DisplayName>Темнота </DisplayName>
+			<Desc>Невидно и руки перед лицом.</Desc>
+			<StoryDesc> передвигается наощупь, проклиная темноту</StoryDesc>
+		</Text>
+		<Text Name="Light5">
+			<DisplayName>Тусклый Свет </DisplayName>
+			<Desc>Успокаивающий сумрак вокруг.</Desc>
+			<StoryDesc> расслабляется под защитой сумрака</StoryDesc>
+		</Text>
+		<Text Name="Light6">
+			<DisplayName>Темнота </DisplayName>
+			<Desc>Находит успокоение в том, что невидно и вытянутой руки перед лицом.</Desc>
+			<StoryDesc> с наслаждением вздыхает, оказавшись в темноте</StoryDesc>
+		</Text>
+		<Text Name="Pain1">
+			<DisplayName>Агония </DisplayName>
+			<Desc>Так больно, что лучше потерять сознание...</Desc>
+			<StoryDesc> рыдает от невыносимой непрекращающейся боли</StoryDesc>
+		</Text>
+		<Text Name="Pain2">
+			<DisplayName>Острая боль </DisplayName>
+			<Desc>Слишком больно, чтобы терпеть...</Desc>
+			<StoryDesc> стронет от боли сквозь крепко сжатые зубы</StoryDesc>
+		</Text>
+		<Text Name="Pain3">
+			<DisplayName>Сильная боль </DisplayName>
+			<Desc>Так больно, когда же боль утихнет?</Desc>
+			<StoryDesc> стойко сносит боль, лишь судорожно вздыхая время от времени</StoryDesc>
+		</Text>
+		<Text Name="Pain4">
+			<DisplayName>Боль </DisplayName>
+			<Desc>Терпит боль, стиснув зубы.</Desc>
+			<StoryDesc> лишь корчит гримасы от боли</StoryDesc>
+		</Text>
+		<Text Name="Pain5">
+			<DisplayName>Лёгкая боль </DisplayName>
+			<Desc>Это неприятно...</Desc>
+			<StoryDesc>хмурится и делает несколько глубоких вздохов, похоже это помогает справиться с болью</StoryDesc>
+		</Text>
+		<Text Name="Consciousness1">
+			<DisplayName>Бредит </DisplayName>
+			<Desc>Кто я? Где я?.. Что происходит? Ох, моя голова...</Desc>
+			<StoryDesc> теряется в собственных мыслях</StoryDesc>
+		</Text>
+		<Text Name="Consciousness2">
+			<DisplayName>Голова Кругом </DisplayName>
+			<Desc> Мой разум похож на суп ... это неприятное чувство. </Desc>
+			<StoryDesc> охает, чувствуя как голова идёт кругом</StoryDesc>
+		</Text>
+		<Text Name="Consciousness3">
+			<DisplayName>Туман в Голове </DisplayName>
+			<Desc>В голове будто каша. Это неприятно.</Desc>
+			<StoryDesc> вздыхает, чувствуя головокружение</StoryDesc>
+		</Text>
+		<Text Name="Consciousness4">
+			<DisplayName>Подавленный </DisplayName>
+			<Desc>В голове словно свинец, слишком сложно думать.</Desc>
+			<StoryDesc> страдает из-за головной боли</StoryDesc>
+		</Text>
+		<Text Name="GetWet">
+			<DisplayName>Мокро </DisplayName>
+			<Desc>Приятно было бы иметь зонт.</Desc>
+			<StoryDesc> дёргает прилипшую к телу мокрую одежу и ворчит из-за отсутствия зонта</StoryDesc>
+		</Text>
+		<Text Name="DevilBlood">
+			<DisplayName>Крики Демонов </DisplayName>
+			<Desc>Множество демонов воют в моей голове. Словно стая голодных волков в бешенстве рвут мою душу на части.</Desc>
+			<StoryDesc> пытается сдержать бесконечные крики голодных демонов</StoryDesc>
+		</Text>
+		<Text Name="DevilBlood_Satisfy">
+			<DisplayName>Мимолётное Довольство </DisplayName>
+			<Desc>Истинное удовольствие от насыщения своего внутреннего демона.</Desc>
+			<StoryDesc> испускает долгий вздох удовольствия, временно утолив жажду демона</StoryDesc>
+		</Text>
+		<Text Name="DevilBlood_LianHun">
+			<DisplayName>Очищенная Душа </DisplayName>
+			<Desc>Чувство, будто Душа разорвана на части... Как такая боль может существовать под Небом.</Desc>
+			<StoryDesc> мучается болью от растерзанной Души</StoryDesc>
+		</Text>
+		<Text Name="AfterAbsorbGong_6">
+			<DisplayName>Опустошение </DisplayName>
+			<Desc>Чувство, словно практика больше не приносит результата, а внутри пусто.</Desc>
+			<StoryDesc> чувствует необъяснимую слабость в теле</StoryDesc>
+		</Text>
+	</List>
+</Texts>

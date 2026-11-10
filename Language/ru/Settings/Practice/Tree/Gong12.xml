@@ -1,0 +1,82 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong12_a0">
+			<DisplayName>Заклинание Чистого Разума</DisplayName>
+		</Text>
+		<Text Name="Gong12_a4">
+			<DisplayName>Полная Книга Талисманов</DisplayName>
+		</Text>
+		<Text Name="Gong12_a8">
+			<DisplayName>Техника Лёгкой Облачной Дымки</DisplayName>
+		</Text>
+		<Text Name="Gong12_b0">
+			<DisplayName>Духовное Дыхание</DisplayName>
+		</Text>
+		<Text Name="Gong12_b3">
+			<DisplayName>Печати Меча</DisplayName>
+		</Text>
+		<Text Name="Gong12_b3_1">
+			<DisplayName>Талисман Божественного Меча</DisplayName>
+		</Text>
+		<Text Name="Gong12_b4">
+			<DisplayName>Амулеты Счастливых Знамений</DisplayName>
+		</Text>
+		<Text Name="Gong12_b4_1">
+			<DisplayName>Талисман Тяжелой брони</DisplayName>
+		</Text>
+		<Text Name="Gong12_b5">
+			<DisplayName>Магические Талисманы</DisplayName>
+		</Text>
+		<Text Name="Gong12_b5_1">
+			<DisplayName>Талисман Божественного Проклятия</DisplayName>
+		</Text>
+		<Text Name="Gong12_b8">
+			<DisplayName>Трактат о Формах Облаков</DisplayName>
+		</Text>
+		<Text Name="Gong12_c0">
+			<DisplayName>Медитация</DisplayName>
+		</Text>
+		<Text Name="Gong12_c1">
+			<DisplayName>Писание Небесной Молитвы</DisplayName>
+		</Text>
+		<Text Name="Gong12_c4">
+			<DisplayName>Небесные Талисманы</DisplayName>
+		</Text>
+		<Text Name="Gong12_c8">
+			<DisplayName>Тело Соответствующее Небу</DisplayName>
+		</Text>
+		<Text Name="Gong12_d3">
+			<DisplayName>Высшие Божественные Талисманы</DisplayName>
+		</Text>
+		<Text Name="Gong12_d4">
+			<DisplayName>Использование Силы Неба</DisplayName>
+		</Text>
+		<Text Name="Gong12_d4_1">
+			<DisplayName>Окутывающий Небеса Талисман</DisplayName>
+		</Text>
+		<Text Name="Gong12_d5">
+			<DisplayName>Техника Облачных Шагов</DisplayName>
+		</Text>
+		<Text Name="Gong12_d8">
+			<DisplayName>Книга Хозяина Леса - Разделение Души</DisplayName>
+		</Text>
+		<Text Name="Gong12_d8_1">
+			<DisplayName>Книга Хозяина Леса - Разделение Души</DisplayName>
+		</Text>
+		<Text Name="Gong12_d8_2">
+			<DisplayName>Книга Хозяина Леса - Разделение Души</DisplayName>
+		</Text>
+		<Text Name="Gong12_d8_3">
+			<DisplayName>Книга Хозяина Леса - Разделение Души</DisplayName>
+		</Text>
+		<Text Name="Gong12_d10">
+			<DisplayName>Разделение духа</DisplayName>
+		</Text>
+		<Text Name="Gong1_e4">
+			<DisplayName>Пилюля Небесного Пути</DisplayName>
+		</Text>
+		<Text Name="Gong1_e8">
+			<DisplayName>Небесный Артефакт</DisplayName>
+		</Text>
+	</List>
+</Texts>

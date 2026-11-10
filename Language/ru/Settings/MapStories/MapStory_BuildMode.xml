@@ -1,0 +1,33 @@
+﻿<Texts Type="Story">
+	<List>
+		<Text Name="BuildMode_ChangeTime">
+			<DisplayName>Страна иллюзий</DisplayName>
+			<Desc>Итак, какое время нужно установить?</Desc>
+			<Selections.0.Display>Утро</Selections.0.Display>
+			<Selections.1.Display>Полдень</Selections.1.Display>
+			<Selections.2.Display>Сумерки</Selections.2.Display>
+			<Selections.3.Display>Ночь</Selections.3.Display>
+			<Selections.4.Display>Неважно</Selections.4.Display>
+		</Text>
+		<Text Name="BuildMode_ChangeSeason">
+			<DisplayName>Страна иллюзий</DisplayName>
+			<Desc>Итак, в каком сезоне это должно быть?</Desc>
+			<Selections.0.Display>Весна</Selections.0.Display>
+			<Selections.1.Display>Лето</Selections.1.Display>
+			<Selections.2.Display>Осень</Selections.2.Display>
+			<Selections.3.Display>Зима</Selections.3.Display>
+			<Selections.4.Display>Неважно</Selections.4.Display>
+		</Text>
+		<Text Name="BuildMode_ChangeWeather">
+			<DisplayName>Страна иллюзий</DisplayName>
+			<Desc>Итак, какая должна быть погода?</Desc>
+			<Selections.0.Display>Слабый Дождь/Снег</Selections.0.Display>
+			<Selections.1.Display>Сильный Дождь/Снег</Selections.1.Display>
+			<Selections.2.Display>Песчаная буря</Selections.2.Display>
+			<Selections.3.Display>Полярная ночь</Selections.3.Display>
+			<Selections.4.Display>Гроза</Selections.4.Display>
+			<Selections.5.Display>Очистить все погодные эффекты</Selections.5.Display>
+			<Selections.6.Display>Неважно</Selections.6.Display>
+		</Text>
+	</List>
+</Texts>

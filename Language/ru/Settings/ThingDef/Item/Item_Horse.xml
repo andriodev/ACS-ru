@@ -1,0 +1,46 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Item_HorseBase" sParam="Item">
+			<Item.FabaoSuffix>Свиток, Изображение, Контракт</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_HorseFromJY_Rabbit" sParam="Item">
+			<ThingName>Духовный контракт: Кролик</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Chicken" sParam="Item">
+			<ThingName>Духовный контракт: Курица</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Wolf" sParam="Item">
+			<ThingName>Духовный контракт: Волк</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Snake" sParam="Item">
+			<ThingName>Духовный контракт: Змея</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Boar" sParam="Item">
+			<ThingName>Духовный контракт: Кабан</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Bear" sParam="Item">
+			<ThingName>Духовный контракт: Медведь</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Frog" sParam="Item">
+			<ThingName>Духовный контракт: Лягушка</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Turtle" sParam="Item">
+			<ThingName>Духовный контракт: Черепаха</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Cat" sParam="Item">
+			<ThingName>Духовный контракт: Кошка</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Cattle" sParam="Item">
+			<ThingName>Духовный контракт: Бык</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromJY_Tiger" sParam="Item">
+			<ThingName>Духовный контракт: Тигр</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromLuShu" sParam="Item">
+			<ThingName>Духовный контракт: Лушу</ThingName>
+		</Text>
+		<Text Name="Item_HorseFromFei" sParam="Item">
+			<ThingName>Духовный контракт: Фэй</ThingName>
+		</Text>
+	</List>
+</Texts>

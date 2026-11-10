@@ -1,0 +1,20 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="HeYin">
+			<DisplayName>Речной город</DisplayName>
+			<Desc>Это город, в котором можно строить различные политические здания и набирать учеников.</Desc>
+		</Text>
+		<Text Name="GuanHai">
+			<DisplayName>Морской пейзаж</DisplayName>
+		</Text>
+		<Text Name="PanShe">
+			<DisplayName>Деревня Змеиный Хвост</DisplayName>
+		</Text>
+		<Text Name="Feng">
+			<DisplayName>Город изобилия</DisplayName>
+		</Text>
+		<Text Name="DaLiang">
+			<DisplayName>Город запустения</DisplayName>
+		</Text>
+	</List>
+</Texts>

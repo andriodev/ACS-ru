@@ -1,0 +1,79 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="FengShui" sParam="Building">
+      <ThingName>Обсерватория</ThingName>
+      <Desc>Структура, используемая для наблюдения за пятью элементами, Фэн-Шуй и распределением Ци.</Desc>
+    </Text>
+    <Text Name="TheGate" sParam="Building">
+      <ThingName>Стела Секты</ThingName>
+      <Desc>Звездный Ориентир секты.</Desc>
+    </Text>
+    <Text Name="Build_TheBigGate" sParam="Building">
+      <ThingName>Ворота Секты</ThingName>
+      <Desc>Величественные ворота секты.</Desc>
+    </Text>
+    <Text Name="Cushion" sParam="Building">
+      <ThingName>Подушка</ThingName>
+      <Desc>Мягкие подушки для людей, чтобы на них сидеть.</Desc>
+    </Text>
+    <Text Name="Building_MagicCushion" sParam="Building">
+      <ThingName>Подушка Ци</ThingName>
+      <Desc>Подушка, специально используемая для культивирования, которая может собирать Ци.</Desc>
+    </Text>
+    <Text Name="BasePracticePlace" sParam="Building">
+      <ThingName>Место Обучения</ThingName>
+      <Desc>Не нужны никакие материалы, просто назначенное место для обучения внешних учеников.</Desc>
+    </Text>
+    <Text Name="PuppetPlace" sParam="Building">
+      <ThingName>Место Марионетки</ThingName>
+      <Desc>Марионетки вернутся сюда и будут ждать, когда не будет работы.</Desc>
+    </Text>
+    <Text Name="TrainingDummy" sParam="Building">
+      <ThingName>Деревянный Манекен</ThingName>
+      <Desc>Устройство, используемое для фундаментального обучения внешних учеников.</Desc>
+    </Text>
+    <Text Name="ExploreBackPlace" sParam="Building">
+      <ThingName>Место для награды</ThingName>
+      <Desc>После того, как внутренние ученики вернутся из приключений, они положат свои награды сюда.</Desc>
+    </Text>
+    <Text Name="Building_Statue1" sParam="Building">
+      <ThingName>Памятник Добродетели</ThingName>
+      <Desc>Гигантская статуя Господа добродетели.</Desc>
+    </Text>
+    <Text Name="Building_Statue2" sParam="Building">
+      <ThingName>Статуя Истока</ThingName>
+      <Desc>Гигантская статуя Владыки Истока.</Desc>
+    </Text>
+    <Text Name="Building_Statue3" sParam="Building">
+      <ThingName>Статуя Сокровищ</ThingName>
+      <Desc>Гигантская статуя Повелителя сокровищ.</Desc>
+    </Text>
+    <Text Name="Building_SacrificialTable" sParam="Building">
+      <ThingName>Родовое Святилище</ThingName>
+      <Desc>Святилище, используемое в память о предках.</Desc>
+    </Text>
+    <Text Name="DanStove" sParam="Building">
+      <ThingName>Алхимическая Печь</ThingName>
+      <Desc>Лучшее место для приготовления эликсиров.</Desc>
+    </Text>
+    <Text Name="DanStove_Part" sParam="Building">
+      <ThingName>Часть Печи (Dev)</ThingName>
+    </Text>
+    <Text Name="RefiningCushion" sParam="Building">
+      <ThingName>Верстак</ThingName>
+      <Desc>Лучшее место для создания артефактов.</Desc>
+    </Text>
+    <Text Name="Building_SleeveSpace" sParam="Building">
+      <ThingName>Мини-Вселенная</ThingName>
+      <Desc>Нестабильная ограниченная вселенная, созданная путем направления пространственной силы Вселенского Кристалла Духа, дополняется драгоценными материалами из пяти элементов, которая может быть использована для хранения предметов. Из-за пространственной нестабильности он может хранить только обычные предметы. В противном случае это может привести к коллапсу пространства.</Desc>
+      <StoryBnts.0.Name>Сбор</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Немедленно соберите все предметы на карте, которые не покрыты туманом, не запрещены и коллекционируются мини-вселенной.</StoryBnts.0.Desc>
+      <StoryBnts.1.Name>Проверить</StoryBnts.1.Name>
+      <StoryBnts.1.Desc>Используйте Божественный Разум, чтобы исследовать тайну мини-вселенной.</StoryBnts.1.Desc>
+    </Text>
+    <Text Name="Building_SleeveSpace1" sParam="Building">
+      <ThingName>Мини-Врата Вселенной</ThingName>
+      <Desc>Маленький шлюз, соединяющийся с мини-вселенной, через который можно получить предметы внутри нее.</Desc>
+    </Text>
+  </List>
+</Texts>

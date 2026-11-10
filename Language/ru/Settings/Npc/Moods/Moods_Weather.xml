@@ -1,0 +1,149 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name = "Weather_Sunny">
+			<DisplayName> Очистить </DisplayName>
+			<Desc> Погода хорошая. </Desc>
+			<StoryDesc> Ощущение, что такая хорошая погода действительно вызывает улыбку! </StoryDesc>
+		</Text>
+		<Text Name = "Weather_Overcast">
+			<DisplayName> Облачно </DisplayName>
+			<Desc> На улице облачно. </Desc>
+			<StoryDesc> Ощущение, что такой мрачный день довольно унылый </StoryDesc>
+		</Text>
+		<Text Name = "Weather_LightRain">
+			<DisplayName> Небольшой дождь </DisplayName>
+			<Desc> Моросит дождь. </Desc>
+			<StoryDesc> Ощущение, что легкий дождь действительно дает ощущение безмятежности </StoryDesc>
+		</Text>
+		<Text Name = "Weather_HeavyRain">
+			<DisplayName> Сильный дождь </DisplayName>
+			<Desc> Он льется! </Desc>
+			<StoryDesc> Ощущение, что такой ливень может действовать на нервы </StoryDesc>
+		</Text>
+		<Text Name = "Weather_LightSnow">
+			<DisplayName> Легкий снег </DisplayName>
+			<Desc> Я вижу шквал снаружи! </Desc>
+			<StoryDesc> Ощущение, что летящие вокруг вьюги поднимают настроение </StoryDesc>
+		</Text>
+		<Text Name = "Weather_HeavySnow">
+			<DisplayName> Сильный снегопад </DisplayName>
+			<Desc> На улице похоже метель! </Desc>
+			<StoryDesc> Ощущение, что такой сильный снегопад действительно радует </StoryDesc>
+		</Text>
+		<Text Name = "Weather_DenseFog">
+			<DisplayName> Густой туман </DisplayName>
+			<Desc> Туман такой густой, как гороховый суп! </Desc>
+			<StoryDesc> Ощущение, что туман такой густой, что это довольно раздражает </StoryDesc>
+		</Text>
+		<Text Name = "Weather_SpringAir">
+			<DisplayName> Наступает весна </DisplayName>
+			<Desc> Наконец-то пришла весна! </Desc>
+			<StoryDesc> Ощущение, что приход весны действительно бодрит дух </StoryDesc>
+		</Text>
+		<Text Name = "Weather_Melancholy">
+			<DisplayName> Мрачное настроение </DisplayName>
+			<Desc> Не знаю почему, но в последнее время все были на свалках ... </Desc>
+			<StoryDesc> Ощущение, что мрачное настроение оставило в воздухе ощутимое чувство меланхолии </StoryDesc>
+		</Text>
+		<Text Name = "Weather_HarvestAir">
+			<DisplayName> Дух урожая </DisplayName>
+			<Desc> Какой обильный урожай, я так счастлив! </Desc>
+			<StoryDesc> Ощущение, что такой обильный урожай оставляет всем удовлетворение </StoryDesc>
+		</Text>
+		<Text Name = "Weather_Impetuous">
+			<DisplayName> Раздражение </DisplayName>
+			<Desc> В последнее время сложно сохранять спокойствие. </Desc>
+			<StoryDesc> Ощущение явной раздражительности в воздухе, все кажутся раздражительными </StoryDesc>
+		</Text>
+		<Text Name = "Weather_Hail">
+			<DisplayName> Приветствую </DisplayName>
+			<Desc> Это приветствие. </Desc>
+			<StoryDesc> Ощущение, что град вызывает у человека некоторое беспокойство </StoryDesc>
+		</Text>
+		<Text Name = "Weather_MouldRains">
+			<DisplayName> Сезон дождей </DisplayName>
+			<Desc> Наступил сезон дождей. </Desc>
+			<StoryDesc> Ощущение, что весь этот дождь действительно волнует </StoryDesc>
+		</Text>
+		<Text Name = "Weather_Drought">
+			<DisplayName> Засуха </DisplayName>
+			<Desc> Наступил засушливый сезон. </Desc>
+			<StoryDesc> Ощущение, что засуха всегда беспокоит </StoryDesc>
+		</Text>
+		<Text Name = "Weather_Rainstorm">
+			<DisplayName> Дождь </DisplayName>
+			<Desc> Сильный шторм. </Desc>
+			<StoryDesc> Ощущение, что такие грозы всегда вызывают беспокойство </StoryDesc>
+		</Text>
+		<Text Name = "Weather_Fohn">
+			<DisplayName> Фен Винд </DisplayName>
+			<Desc> Здесь есть ветер Фенн. </Desc>
+			<StoryDesc> Ощущение, что ветры Фоэн всегда заставляют чувствовать, что все тело нуждается в увлажнении </StoryDesc>
+		</Text>
+		<Text Name = "Weather_DustStorm">
+			<DisplayName> Пыльная буря </DisplayName>
+			<Desc> Разразилась пыльная буря. </Desc>
+			<StoryDesc> Ощущение, что пыльная буря разносит грязь повсюду. ВЕЗДЕ </StoryDesc>
+		</Text>
+		<Text Name = "Weather_LingRarefiedWave">
+			<DisplayName> Засуха Ци </DisplayName>
+			<Desc> Засуха Ци. </Desc>
+			<StoryDesc> Ощущение, что засуха Ци действительно оставляет чувство дискомфорта </StoryDesc>
+		</Text>
+		<Text Name = "Weather_LingUpWave">
+			<DisplayName> Всплеск Ци </DisplayName>
+			<Desc> Произошел выброс Ци. </Desc>
+			<StoryDesc> Ощущение, что прилив Ци действительно оставляет чувство удовлетворения </StoryDesc>
+		</Text>
+		<Text Name = "Weather_HeatWave">
+			<DisplayName> Нагрев </DisplayName>
+			<Desc> Такое внезапное начало жары невыносимо ... </Desc>
+			<StoryDesc> Ощущение, что внезапное начало жара вызывает беспокойство </StoryDesc>
+		</Text>
+		<Text Name = "Weather_ColdWave">
+			<DisplayName> Холодная зима </DisplayName>
+			<Desc> Наступила холодная зима. </Desc>
+			<StoryDesc> Ощущение, что холодные зимы не дают покоя </StoryDesc>
+		</Text>
+		<Text Name = "Weather_HeatWaveInWinter">
+			<DisplayName> Теплый ветер </DisplayName>
+			<Desc> Теплый ветер в разгар зимы - долгожданная передышка. </Desc>
+			<StoryDesc> Ощущение, что теплый ветер зимой вызывает желание потянуться </StoryDesc>
+		</Text>
+		<Text Name = "Weather_ColdWaveInSummer">
+			<DisplayName> Холодный ветер </DisplayName>
+			<Desc> Прохладный ветерок в середине лета - долгожданная передышка. </Desc>
+			<StoryDesc> Ощущение, что прохладный ветерок летом всегда успокаивает </StoryDesc>
+		</Text>
+		<Text Name = "Weather_PermanentNight">
+			<DisplayName> Полярная ночь </DisplayName>
+			<Desc> Настала полярная ночь. </Desc>
+			<StoryDesc> Ощущение, что полярная ночь может быть страшной </StoryDesc>
+		</Text>
+		<Text Name = "Weather_Miasma">
+			<DisplayName> Ядовитый воздух </DisplayName>
+			<Desc> Миазмы распространяются. </Desc>
+			<StoryDesc> Ощущение облегчения, прикрывающего нос и рот, когда приближается миазма </StoryDesc>
+		</Text>
+		<Text Name = "Weather_LightningStorm">
+			<DisplayName> Гроза </DisplayName>
+			<Desc> Гроза сеет хаос. </Desc>
+			<StoryDesc> Ощущение, что такие грозы сеют хаос на нервах </StoryDesc>
+		</Text>
+		<Text Name = "Weather_LuShu_SunnyDay">
+			<DisplayName> Замечательное пение </DisplayName>
+			<Desc> Звук зверей звучит как красивое пение. </Desc>
+			<StoryDesc> Ощущение, что призывы дикой природы действительно могут наполнять человека чувством удовлетворения </StoryDesc>
+		</Text>
+		<Text Name = "Weather_SpringFestival">
+			<DisplayName> Весенний фестиваль в полном разгаре </DisplayName>
+			<Desc> Атмосфера праздника может быть поистине опьяняющей. </Desc>
+			<StoryDesc> Ощущение легкости погружения в радость фестиваля </StoryDesc>
+		</Text>
+		<Text Name = "Weather_ZuShiBiHu">
+			<DisplayName> Эгида великого мастера </DisplayName>
+			<Desc> Защита отца-основателя наполняет секту атмосферой бессмертия. </Desc>
+			<StoryDesc> Ощущение, будто мир бессмертных изобилует повсюду </StoryDesc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,76 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Item_WuDang_HuangJing" sParam="Item">
+			<ThingName>Эссенция Почвы</ThingName>
+			<Desc>Сладкая и освежающая трава, способная не только уменьшить чувство голода, но и восполнить запасы питательных веществ. Считающаяся Ганодермой среди бессмертных, эта трава известна как Эссенция Почвы, поскольку она впитывает в себя сущность земли.</Desc>
+			<Item.FabaoSuffix>Fruit, Bead, Bolus, Ball</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WuDang_HuangJingFen" sParam="Item">
+			<ThingName>Порошок Эссенции Почвы</ThingName>
+			<Desc>Молотый порошок высушенной Эссенции Почвы. Хотя он обладает сильным действием, его чаще всего используют для приготовления эликсиров.</Desc>
+			<Item.FabaoSuffix>Sand, Crystal, Dust, Powder, Miasma</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponFuChen" sParam="Item">
+			<ThingName>Мухомор</ThingName>
+			<Desc>Мухоморы, часто используемые бессмертными и даосами.</Desc>
+			<Item.FabaoSuffix>Soft. Whisk</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_WeaponDaoSword" sParam="Item">
+			<ThingName>Меч Дао</ThingName>
+			<Desc>Меч, совместимый с магией, который специально используется для даосских ритуалов.</Desc>
+			<Item.FabaoSuffix>Sword</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_XuanTianShangDiPai" sParam="Item">
+			<ThingName>Священная Пластина Нимба</ThingName>
+			<Desc>Подвеска-пластина с выгравированным священным званием Совершенного Воина-Императора. Носите, чтобы получить благословение императора и улучшить удачу и психическое состояние.</Desc>
+			<Item.FabaoSuffix>Plate</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Item_Dan_WuQiNoHunger2" sParam="Item">
+			<ThingName>Пилюля Голодания Ци</ThingName>
+			<Desc>Секретная ускоряющая глодание пилюля горы ВуДанг. По сравнению с обычными пилюлями для голодания действует дольше (в общей сложности 30 дней).</Desc>
+		</Text>
+		<Text Name="Item_Dan_SanHuaHuangJing" sParam="Item">
+			<ThingName>Пилюля Тримерной Эссенции</ThingName>
+			<Desc>Секретный эликсир горы ВуДанг. Принимается для увеличения максимальной Ци на определенную величину. Хотя он не очень полезен для опытных культиваторов, его рекомендуется принимать новым ученикам, чтобы заложить фундамент. Но его эффект будет значительно снижен, если принимать его несколько раз.</Desc>
+		</Text>
+		<Text Name="Item_MiBao_ZhenWuDangMoShenJian" sParam="Item">
+			<ThingName>Меч Совершенного Воина</ThingName>
+			<Desc>Известный также как Древний Экзорцист, Совершенный Воин использовал этот драгоценный меч, чтобы изгнать все зло. Меч длиной около 3 дюймов выточен из нефритовых камней, обладающих истинной силой экзорцизма; поэтому он имеет внушительное фиолетовое свечение. Когда меч обнажен, он превращается в фиолетовые молнии длиной в дюйм, которые уничтожают все, к чему прикасаются.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Убейте 1 Демона-Змея, используя этот предмет.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.ActiveCondition.1.des>Убейте 1 Демона-Волка, используя этот предмет.</Item.Fabao.ActiveCondition.1.des>
+			<Item.Fabao.ActiveCondition.2.des>Убейте 1 Демона-Медведя, используя этот предмет.</Item.Fabao.ActiveCondition.2.des>
+			<Item.Fabao.ActiveCondition.3.des>Убейте 1 Демона-Черепаху, используя этот предмет.</Item.Fabao.ActiveCondition.3.des>
+			<Item.Fabao.ActiveCondition.4.des>Убейте 1 Демона-Кабана, используя этот предмет.</Item.Fabao.ActiveCondition.4.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Наносит 3-кратный урон при атаке представителей других рас (нелюдей).</Item.Fabao.SpecialAbility.0.Desc>
+			<Item.Fabao.SpecialAbility.1.Desc>Наносит 3-кратный урон, когда экипирован человеком.</Item.Fabao.SpecialAbility.1.Desc>
+		</Text>
+		<Text Name="Item_MiBao_ZiXiaoChi" sParam="Item">
+			<ThingName>Мера Пурпурного Облака</ThingName>
+			<Desc>Секретный артефакт секты ВуДанг. Вырезанная из цельного святого камня, мера имеет шкалы, на которых выгравированы 7 дыханий Небес и астральные силы, и выкована после 7 Небесных испытаний. Освоив артефакт, можно измерить вклад всех жизней с кредо Небес и даже ускорить Небесное Бедствие врага.</Desc>
+			<Item.Fabao.ActiveCondition.0.des>Переживите 7 Испытаний Вознесения, используя артефакт.</Item.Fabao.ActiveCondition.0.des>
+			<Item.Fabao.SpecialAbility.0.Desc>Атаки наносят урон, основанный на разнице между Достижениями обеих сторон. Разрыв в 1 достижение увеличивает урон на 1%.</Item.Fabao.SpecialAbility.0.Desc>
+		</Text>
+		<Text Name="Fish_SkySnake" sParam="Item">
+			<ThingName>Облачный Угорь</ThingName>
+			<Desc>Особый угорь, уникальный для Моря Облаков. Поскольку ци наполняет его тело, мясо угря мягкое и легкое, как воздух.</Desc>
+			<Item.FabaoSuffix>Surimi,Fish,Bone</Item.FabaoSuffix>
+		</Text>
+		<Text Name="Fish_SkyFish" sParam="Item">
+			<ThingName>Ночной Карп</ThingName>
+			<Desc>Карп, который живет в облаках и показывается только ночью.</Desc>
+		</Text>
+		<Text Name="Fish_SkyCrab" sParam="Item">
+			<ThingName>Золотой Коготь</ThingName>
+			<Desc>Краб, живущий в Море облаков и обладающий самым крепким телом. Говорят, что они питаются энергией молний в облаках.</Desc>
+		</Text>
+		<Text Name="Item_XuanWuEgg" sParam="Item">
+			<ThingName>Нефрит Черной Черепахи</ThingName>
+			<StoryBnts.0.Name>Осмотреть</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Осмотрите Нефрит Черной Черепахи</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Item_Wonder_ZhenWuShenNian" sParam="Item">
+			<ThingName>Совершенное Руководство</ThingName>
+			<Desc>Небольшое количество Совершенного Руководства. Его можно использовать для создания статуи Совершенного воина.</Desc>
+		</Text>
+	</List>
+</Texts>

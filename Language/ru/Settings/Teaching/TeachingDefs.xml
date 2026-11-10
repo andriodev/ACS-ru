@@ -1,0 +1,1591 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="FristTeach">
+			<Type>Пролог</Type>
+			<DisplayName>Пролог</DisplayName>
+			<Desc>Секта Тайи, Гора Полнолуния. Когда год подходит к концу, Лидер секты ушел в полную изоляцию, чтобы практиковать и достичь состояния Золотого Ядра. Но что касается остальных сект, то они уже в самом разгаре.\n[color=#BC1717](Разблокируйте классику, выполнив пролог учебника.)[/color]</Desc>
+		</Text>
+		<Text Name="TestTeach">
+			<DisplayName>Учебное пособие</DisplayName>
+			<Desc>Учебное пособие</Desc>
+			<Chapters.0.DisplayName>Сбор пиломатериалов</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Используйте заказ на рубку</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Нанести рубящий удар по цели</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Горячая клавиша для рубки; Нарубить партиями</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Обработка материалов</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Создание рабочей станции</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Перерабатывать материалы</Chapters.1.Tasks.1>
+			<Chapters.2.DisplayName>Обработка материалов</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Создание рабочей станции</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Перерабатывать материалы</Chapters.2.Tasks.1>
+			<Chapters.3.DisplayName>Перерабатывать материалы</Chapters.3.DisplayName>
+			<Chapters.3.Tasks.0>Создание рабочей станции</Chapters.3.Tasks.0>
+			<Chapters.3.Tasks.1>Перерабатывать материалы</Chapters.3.Tasks.1>
+			<Tasks.0.TaskDesc>Нажмите и выберите другого внутреннего ученика.</Tasks.0.TaskDesc>
+			<Tasks.1.TaskDesc>Проверьте чудо "Панацея"в правой части статуса. Панацея лечит внутренние травмы.</Tasks.1.TaskDesc>
+			<Tasks.3.TaskDesc>Нажмите Панацея.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Нажмите и выберите травмированного внутреннего ученика.</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>Ждать, пока чудо будет завершено.</Tasks.6.TaskDesc>
+			<Tasks.8.TaskDesc>Нажмите на травмированного внутреннего ученика.</Tasks.8.TaskDesc>
+		</Text>
+		<Text Name="CollectionAndProcessing">
+			<Type>Основа</Type>
+			<DisplayName>Сбор и обработка материалов</DisplayName>
+			<Desc>Изучите основные методы сбора и обработки материала в этом руководстве.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Коллекция Пиломатериалов</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Использовать заказ на рубку</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Нанести рубящий удар по цели</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Горячая клавиша для рубки &amp; Нарубить партиями</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Обработка материалов</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Создание рабочей станции</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Перерабатывать материалы</Chapters.1.Tasks.1>
+			<Tasks.1.TaskDesc>Нажмите Рубить, чтобы выбрать цель.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Щелкните на выбранном дереве и выдайте задание на Рубку.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Щелкните правой кнопкой мыши, чтобы отменить режим выбора.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Переключитесь в режим 3x Скорость, нажав кнопку 3x  в левом верхнем углу.</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>Дождитесь завершения рубки.</Tasks.6.TaskDesc>
+			<Tasks.8.TaskDesc>Нажмите и выберите другое дерево, чтобы показать его состояние ниже.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Нажмите Рубка и что бы начать рубить дерево.</Tasks.9.TaskDesc>
+			<Tasks.9.UiData.Name>Рубить</Tasks.9.UiData.Name>
+			<Tasks.10.TaskDesc>Дождитесь завершения рубки.</Tasks.10.TaskDesc>
+			<Tasks.12.TaskDesc>Игрок может навести курсор на Рубку, чтобы увидеть его горячую клавишу.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Используйте горячую клавишу {0} для быстрого доступа к Рубке.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Перетащите и выберите целевую область для задачи Рубить партию.</Tasks.14.TaskDesc>
+			<Tasks.16.TaskDesc>Переключитесь в режим 3x Скорость, нажав кнопку 3x  в левом верхнем углу.</Tasks.16.TaskDesc>
+			<Tasks.18.TaskDesc>Дождитесь завершения рубки.</Tasks.18.TaskDesc>
+			<Tasks.20.TipsData.Desc>В обучении в качестве примера используется коллекция пиломатериалов, а другие материалы, такие как руды, металлы, продукты питания и т.д., собираются аналогичным образом, что игроку будет требоваться в игре. </Tasks.20.TipsData.Desc>
+			<Tasks.22.TaskDesc>Нажмите Собрать в левом нижнем углу, чтобы открыть страницу строительства.</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Нажмите Труд, чтобы открыть страницу рабочие объекты.</Tasks.23.TaskDesc>
+			<Tasks.23.UiData.Name>Труд</Tasks.23.UiData.Name>
+			<Tasks.24.TaskDesc>Щелкните по Рабочая Станция, чтобы войти в режим размещения.</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Поместите рабочую станцию в назначенное место.</Tasks.25.TaskDesc>
+			<Tasks.28.TaskDesc>Выберите рабочую станцию, чтобы показать ее состояние ниже.</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Нажмите кнопку произвести, чтобы начать создавать продукты.</Tasks.29.TaskDesc>
+			<Tasks.29.UiData.Name>Производство</Tasks.29.UiData.Name>
+			<Tasks.30.TaskDesc>Щелкните на древесину, чтобы добавить ее в производственный список.</Tasks.30.TaskDesc>
+			<Tasks.30.UiData.Name>Доски</Tasks.30.UiData.Name>
+			<Tasks.31.TaskDesc>Нажмите кнопку Повторить, чтобы выбрать, кол-во повторений в раскрывающемся списке.</Tasks.31.TaskDesc>
+			<Tasks.31.UiData.ParentObject>Plist-Доски</Tasks.31.UiData.ParentObject>
+			<Tasks.32.TaskDesc>Нажмите Повторить 10x</Tasks.32.TaskDesc>
+			<Tasks.32.UiData.Name>Повторить 10x</Tasks.32.UiData.Name>
+			<Tasks.33.TaskDesc>Нажмите кнопку Закрыть, чтобы закрыть страницу продуктов.</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>Дождитесь завершения производства.</Tasks.34.TaskDesc>
+			<Tasks.36.TipsData.Desc>Обработка материалов обычно производится в соответствующих зданиях, а рабочая станция в этом руководстве является только базовой станцией обработки материалов. По ходу игры игрок будет открывать более конкретные станции обработки материалов, такие как станция обработки дерева, станция обработки камня, печь и т.д. для более эффективной обработки материала.</Tasks.36.TipsData.Desc>
+		</Text>
+		<Text Name="BuildRoom">
+			<Type>Основа</Type>
+			<DisplayName>Строительство комнат</DisplayName>
+			<Desc>Изучите основы строительства комнат в этом руководстве.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Планировка Помещения</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Постройте комнату</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Установите вход в комнату</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Расставить Мебель</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Расставить Украшения</Chapters.0.Tasks.3>
+			<Chapters.0.Tasks.4>Дождитесь завершения производства.</Chapters.0.Tasks.4>
+			<Chapters.1.DisplayName>Расположение комнат и связанная с ними статистика</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Выберите жильца</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Проверьте Состояние Комнаты</Chapters.1.Tasks.1>
+			<Tasks.1.TipsData.Desc>У нас достаточно ресурсов, теперь давайте используем их, чтобы построить комнату для персонажей, чтобы жить в ней.</Tasks.1.TipsData.Desc>
+			<Tasks.2.TaskDesc>Нажмите кнопку Собрать в левом нижнем углу, чтобы открыть страницу сборки.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Нажмите кнопку стена, чтобы начать режим размещения.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Перетащите и поместите стену в назначенное место.</Tasks.4.TaskDesc>
+			<Tasks.7.TaskDesc>Нажмите кнопку дверь, чтобы начать режим размещения.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Поместите дверь в назначенное место.</Tasks.8.TaskDesc>
+			<Tasks.11.TaskDesc>Выберите Жизнь, чтобы открыть страницу зданий для жизни.</Tasks.11.TaskDesc>
+			<Tasks.11.UiData.Name>Жизнь</Tasks.11.UiData.Name>
+			<Tasks.12.TaskDesc>Нажмите кнопку кровать, чтобы начать режим размещения.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Поставьте кровать в назначенном месте.</Tasks.13.TaskDesc>
+			<Tasks.16.TaskDesc>Нажмите кнопку украшение, чтобы открыть страницу декоративные объекты.</Tasks.16.TaskDesc>
+			<Tasks.16.UiData.Name>Декорации</Tasks.16.UiData.Name>
+			<Tasks.17.TaskDesc>Нажмите кнопку масляная лампа, чтобы начать режим размещения.</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Поместите масляную лампу в указанное место.</Tasks.18.TaskDesc>
+			<Tasks.22.TaskDesc>Переключитесь в режим 3x Скорость, нажав кнопку 3x  в левом верхнем углу.</Tasks.22.TaskDesc>
+			<Tasks.24.TaskDesc>Подождите, пока строительство будет завершено.</Tasks.24.TaskDesc>
+			<Tasks.26.TipsData.Desc>После урока по планированию комнат игрок может планировать другие комнаты в соответствии со своими потребностями, но помните, что самый большой размер комнаты 400, а самый маленький 3.</Tasks.26.TipsData.Desc>
+			<Tasks.28.TaskDesc>Нажмите на кровать в комнате.</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Нажмите, чтобы назначить владельца.</Tasks.29.TaskDesc>
+			<Tasks.29.UiData.Name>Назначить</Tasks.29.UiData.Name>
+			<Tasks.30.TaskDesc>Нажмите на первого персонажа и назначьте ему кровать.</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Подтвердите размещение.</Tasks.31.TaskDesc>
+			<Tasks.33.TaskDesc>Выберите комнату, нажав на пустую область в ней.</Tasks.33.TaskDesc>
+			<Tasks.34.TipsData.Desc>Игрок может использовать это, чтобы назвать комнату.</Tasks.34.TipsData.Desc>
+			<Tasks.35.TipsData.Desc>Игрок может использовать это для проверки текущей температуры в комнате.</Tasks.35.TipsData.Desc>
+			<Tasks.36.TipsData.Desc>Игрок может использовать это, чтобы проверить эффект комнаты.</Tasks.36.TipsData.Desc>
+			<Tasks.37.TipsData.Desc>Игрок может использовать это, чтобы проверить планировку комнаты.</Tasks.37.TipsData.Desc>
+			<Tasks.38.TipsData.Desc>Игрок может использовать это, чтобы проверить привлекательность комнаты.</Tasks.38.TipsData.Desc>
+			<Tasks.39.TipsData.Desc>Наличие комнаты - одна из самых основных потребностей учеников. Важно обеспечить ученикам комфортную комнату.</Tasks.39.TipsData.Desc>
+		</Text>
+		<Text Name="ExploreMap">
+			<Type>Основа</Type>
+			<DisplayName>Исследование</DisplayName>
+			<Desc>Изучите основные исследования в этом руководстве.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Первое Исследование</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Выдать задание на Исследование</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Осмотрите животное и найденную коробку</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Второе Исследование</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Используйте горячую клавишу для исследования</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Осмотрите почву и найденную руды</Chapters.1.Tasks.1>
+			<Chapters.2.DisplayName>Третье Исследование</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Продолжить Изучение</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Осмотрите растение, которое найдете</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Нажмите кнопку исследовать в нижнем меню.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Нажмите на туман в левом нижнем углу, чтобы выполнить задачу исследования.</Tasks.2.TaskDesc>
+			<Tasks.5.TaskDesc>Переключитесь в режим 3x Скорость, нажав кнопку 3x  в левом верхнем углу.</Tasks.5.TaskDesc>
+			<Tasks.7.TaskDesc>Подождите, пока исследование не будет завершено.</Tasks.7.TaskDesc>
+			<Tasks.9.TaskDesc>Нажмите на ящик, найденный в исследовании.</Tasks.9.TaskDesc>
+			<Tasks.10.TipsData.Desc>Ресурсы найденные во время разведки. Откройте их с помощью интерактивной кнопки.</Tasks.10.TipsData.Desc>
+			<Tasks.10.TipsData.Name>Поиск</Tasks.10.TipsData.Name>
+			<Tasks.11.TaskDesc>Нажмите на кролика, найденного в разведке.</Tasks.11.TaskDesc>
+			<Tasks.12.TipsData.Desc>Найдено какое-то дикое животное. Охотьтесь или приручите его, чтобы получить ресурсы.</Tasks.12.TipsData.Desc>
+			<Tasks.14.TipsData.Desc>Во время разведки можно найти полезные ресурсы и животных. Игрок может приобрести эти ресурсы на ранних стадиях, а животные могут быть использованы для охоты или фермы.</Tasks.14.TipsData.Desc>
+			<Tasks.16.TaskDesc>Поместите курсор на Разведку, чтобы увидеть сочетание клавиш.</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Используйте горячую клавишу {0}, чтобы быстро получить доступ к исследованию.</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Нажмите на затуманенную область в правом верхнем углу, чтобы выполнить задачу на исследование.</Tasks.18.TaskDesc>
+			<Tasks.20.TaskDesc>Подождите, пока исследование не будет завершено.</Tasks.20.TaskDesc>
+			<Tasks.22.TaskDesc>Нажмите на рудную жилу, найденную в ходе разведки.</Tasks.22.TaskDesc>
+			<Tasks.23.TipsData.Desc>Обнаружена жила редких руд,которые при необходимости можно собрать.</Tasks.23.TipsData.Desc>
+			<Tasks.24.TaskDesc>Наведите курсор на недавно обнаруженную почву, чтобы проверить информацию.</Tasks.24.TaskDesc>
+			<Tasks.25.TipsData.Desc>Это плодородная почва, которую можно использовать для земледелия.</Tasks.25.TipsData.Desc>
+			<Tasks.27.TipsData.Desc>Рудные жилы и плодородные почвы можно найти во время разведки. Игрок может использовать их для добычи полезных ископаемых и сельского хозяйства, если это необходимо.</Tasks.27.TipsData.Desc>
+			<Tasks.29.TaskDesc>Используйте горячую клавишу {0}, чтобы быстро получить доступ к исследованию.</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Нажмите на затуманенную область в правом верхнем углу, чтобы выполнить задачу на исследование.</Tasks.30.TaskDesc>
+			<Tasks.32.TaskDesc>Подождите, пока исследование не будет завершено.</Tasks.32.TaskDesc>
+			<Tasks.35.TaskDesc>Нажмите на Гигантский Гинкго, найденный в ходе исследования.</Tasks.35.TaskDesc>
+			<Tasks.36.TipsData.Desc>Гигантский Гинкго не только красив, но и может собирать Ци. Это полезный и редкий ресурс для ранней стадии обучения.</Tasks.36.TipsData.Desc>
+			<Tasks.37.TaskDesc>Нажмите на лотос, найденный в исследовании.</Tasks.37.TaskDesc>
+			<Tasks.38.TipsData.Desc>На ранних стадиях Лотос является доступным источником пищи.</Tasks.38.TipsData.Desc>
+			<Tasks.40.TipsData.Desc>Игрок может использовать Разведку для постепенного поиска всех областей на карте и открытия новых ресурсов, почв, животных и т.д.</Tasks.40.TipsData.Desc>
+		</Text>
+		<Text Name="BaseSave">
+			<Type>Основа</Type>
+			<DisplayName>Основы Выживания</DisplayName>
+			<Desc>Изучите основные исследования в этом руководстве.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Добыть Воду</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Стройте Колодцы</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Способ добычи</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Используйте режим Охота в меню персонажа</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Используйте режим Добычи в меню Охота</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Используйте горячую клавишу для охоты</Chapters.1.Tasks.2>
+			<Chapters.2.DisplayName>Как вести хозяйство</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Выберите поле</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Выбор Культур</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Используйте горячую клавишу {0}, чтобы открыть страницу Сборки.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Нажмите кнопку Труд, чтобы открыть страницу рабочие объекты.</Tasks.2.TaskDesc>
+			<Tasks.2.UiData.Name>Труд</Tasks.2.UiData.Name>
+			<Tasks.3.TaskDesc>Нажмите Хорошо.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Поместите колодец в назначенное место.</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>Подождите, пока строительство не будет завершено.</Tasks.6.TaskDesc>
+			<Tasks.8.TipsData.Desc>Колодцы могут стать источником чистой воды для персонажей. Вода также может храниться в чане для воды на случай непредвиденных обстоятельств.</Tasks.8.TipsData.Desc>
+			<Tasks.10.TaskDesc>Нажмите кнопку охота в нижнем меню.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Нажмите на курицу в правом верхнем углу, чтобы охотиться на нее.</Tasks.11.TaskDesc>
+			<Tasks.14.TaskDesc>Нажмите на кролика рядом.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Нажмите, чтобы выбрать животное для охоты.</Tasks.15.TaskDesc>
+			<Tasks.15.UiData.Name>Охотиться</Tasks.15.UiData.Name>
+			<Tasks.17.TaskDesc>Наведите курсор на Исследовать, чтобы увидеть его горячую клавишу.</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Используйте горячую клавишу {0}, чтобы быстро получить доступ к Охоте.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Перетащите и выберите целевую область, чтобы выполнить поиск в режиме Охоты.</Tasks.19.TaskDesc>
+			<Tasks.21.TaskDesc>Переключитесь в режим 3x Скорость, нажав кнопку 3x  в левом верхнем углу.</Tasks.21.TaskDesc>
+			<Tasks.23.TaskDesc>Подождите, пока охота не закончится.</Tasks.23.TaskDesc>
+			<Tasks.25.TipsData.Desc>Используйте охоту, чтобы быстро добывать пищу. Но количество животных ограничено, а скорость их размножения медленная, поэтому земледелие необходимо для постоянных запасов пищи.</Tasks.25.TipsData.Desc>
+			<Tasks.27.TaskDesc>Используйте горячую клавишу {0}, чтобы открыть страницу строительства.</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Нажмите на страницу Области.</Tasks.28.TaskDesc>
+			<Tasks.28.UiData.Name>Область</Tasks.28.UiData.Name>
+			<Tasks.29.TaskDesc>Нажмите Кнопку Поле.</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Выберите поле в обозначенной плодородной почве.</Tasks.30.TaskDesc>
+			<Tasks.33.TaskDesc>Выберите поле.</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>Нажмите интерактивную кнопку "Выращивать растения".</Tasks.34.TaskDesc>
+			<Tasks.34.UiData.Name>Выращивать растения</Tasks.34.UiData.Name>
+			<Tasks.35.TaskDesc>Игрок может навести курсор на пшеницу, чтобы увидеть информацию о посадке пшеницы.</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Игрок может навести курсор на гриб, чтобы увидеть информацию о посадке гриба.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Выберите пшеницу для посадки.</Tasks.37.TaskDesc>
+			<Tasks.39.TipsData.Desc>В игре есть много видов пищи. Культуры могут расти не только в почве, но и в воде.</Tasks.39.TipsData.Desc>
+		</Text>
+		<Text Name="StrongArea">
+			<Type>Основа</Type>
+			<DisplayName>Планирование Хранения</DisplayName>
+			<Desc>Изучите основные Хранения в этом руководстве.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Планируйте первое хранилище</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Выберите место для хранения</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Фильтр</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>План второго хранилища</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Планируйте хранилище</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Фильтр</Chapters.1.Tasks.1>
+			<Chapters.2.DisplayName>Установите низкую температуру хранения</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Проверьте температуру хранения</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Поместите понижающий температуру предмет</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Еще раз проверьте температуру хранения</Chapters.2.Tasks.2>
+			<Tasks.1.TipsData.Desc>Разные ресурсы расположены в разных областях, и по мере увеличения их количества игроку будет неудобно получать к ним доступ, поэтому хранилище используется для классификации ресурсов и управления ими.</Tasks.1.TipsData.Desc>
+			<Tasks.2.TipsData.Desc>Во-первых, давайте спланируем область для материалов и инструментов посередине, чтобы было легко получить к ним доступ, когда ваша секта расширится во всех направлениях.</Tasks.2.TipsData.Desc>
+			<Tasks.3.TaskDesc>Используйте горячую клавишу {0}, чтобы открыть страницу строительства.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Нажмите на страницу Области.</Tasks.4.TaskDesc>
+			<Tasks.4.UiData.Name>Область</Tasks.4.UiData.Name>
+			<Tasks.5.TaskDesc>Нажмите кнопку хранения, чтобы начать планирование хранилища.</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Выберите место для хранения в специально отведенном месте.</Tasks.6.TaskDesc>
+			<Tasks.9.TaskDesc>Выберите Хранилище.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Нажмите кнопку Фильтр в меню, чтобы открыть страницу фильтра.</Tasks.10.TaskDesc>
+			<Tasks.10.UiData.Name>Фильтр</Tasks.10.UiData.Name>
+			<Tasks.11.TipsData.Desc>Фильтр можно использовать для планирования детального хранения, которое позволяет хранить элементы в соответствии с их типом, атрибутом элемента, уровнем и качеством. Помните, что при объединении нескольких хранилищ фильтр одного хранилища не будет применяться к другим.</Tasks.11.TipsData.Desc>
+			<Tasks.12.TaskDesc>Нажмите кнопку расходные материалы, чтобы исключить все расходные материалы.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Нажмите кнопку Закрыть, чтобы закрыть страницу.</Tasks.13.TaskDesc>
+			<Tasks.15.TipsData.Desc>Некоторые ресурсы со временем портятся, поэтому нам нужно низкотемпературное хранилище для этого типа ресурсов.</Tasks.15.TipsData.Desc>
+			<Tasks.17.TipsData.Desc>Далее мы планируем место для хранения продуктов рядом с кухней для более эффективного доступа во время приготовления пищи, а закрытое помещение помогает регулировать температуру для лучшего хранения продуктов.</Tasks.17.TipsData.Desc>
+			<Tasks.18.TaskDesc>Используйте горячую клавишу {0}, чтобы открыть страницу строительства.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Нажмите на страницу Области.</Tasks.19.TaskDesc>
+			<Tasks.19.UiData.Name>Область</Tasks.19.UiData.Name>
+			<Tasks.20.TaskDesc>Нажмите кнопку хранения, чтобы начать планирование хранилища.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Перетащите и выберите Хранилище в выделенной области.</Tasks.21.TaskDesc>
+			<Tasks.24.TaskDesc>Выберите Хранилище.</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Нажмите кнопку фильтр в нижнем меню, чтобы открыть страницу фильтра.</Tasks.25.TaskDesc>
+			<Tasks.25.UiData.Name>Фильтр</Tasks.25.UiData.Name>
+			<Tasks.26.TaskDesc>Нажмите кнопку инструмент, чтобы исключить все инструменты.</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Нажмите кнопку Разное, чтобы исключить другие ресурсы.</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Нажмите кнопку Материал, чтобы исключить все материалы</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Нажмите кнопку Снаряжение, чтобы исключить все снаряжение.</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Нажмите кнопку Культивация, чтобы исключить ресурсы, связанные с культивацией.</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Нажмите кнопку Закрыть, чтобы закрыть страницу.</Tasks.31.TaskDesc>
+			<Tasks.32.TaskDesc>Переключитесь в режим 3x Скорость, нажав кнопку 3x  в левом верхнем углу.</Tasks.32.TaskDesc>
+			<Tasks.34.TaskDesc>Через некоторое время ученики будут складировать предметы в соответствии с их категорией.</Tasks.34.TaskDesc>
+			<Tasks.36.TipsData.Desc>Как только в магазине окажется слишком много предметов, игрок может расширить и спланировать другие хранилища для более детального управления и более легкого доступа к информации о ресурсах.</Tasks.36.TipsData.Desc>
+			<Tasks.38.TaskDesc>Дважды щелкните, чтобы выбрать помещение для хранения 2.</Tasks.38.TaskDesc>
+			<Tasks.39.TipsData.Desc>Поскольку помещение представляет собой замкнутую зону, температуру в помещении можно регулировать путем размещения источника тепла.</Tasks.39.TipsData.Desc>
+			<Tasks.41.TaskDesc>Выберите дисплей.</Tasks.41.TaskDesc>
+			<Tasks.42.TaskDesc>Нажмите Кнопку Разместить.</Tasks.42.TaskDesc>
+			<Tasks.42.UiData.Name>Разместить Предмет</Tasks.42.UiData.Name>
+			<Tasks.43.TaskDesc>Нажмите Кнопку Ледяной Кристалл Руды.</Tasks.43.TaskDesc>
+			<Tasks.44.TaskDesc>Выберите другой дисплей.</Tasks.44.TaskDesc>
+			<Tasks.45.TaskDesc>Нажмите Кнопку Разместить.</Tasks.45.TaskDesc>
+			<Tasks.45.UiData.Name>Разместить Предмет</Tasks.45.UiData.Name>
+			<Tasks.46.TaskDesc>Нажмите Кнопку Ледяной Кристалл Руды.</Tasks.46.TaskDesc>
+			<Tasks.47.TaskDesc>Подождите, пока их разместят.</Tasks.47.TaskDesc>
+			<Tasks.48.TaskDesc>Переключитесь в режим 3x Скорость, нажав кнопку 3x  в левом верхнем углу.</Tasks.48.TaskDesc>
+			<Tasks.51.TaskDesc>Дважды щелкните, чтобы выбрать помещение для хранения 2.</Tasks.51.TaskDesc>
+			<Tasks.52.TaskDesc>Подождите 10 секунд, чтобы увидеть изменение температуры в помещении.</Tasks.52.TaskDesc>
+			<Tasks.53.TipsData.Desc>Температура в комнате понизилась. В более просторном помещении температуру будет труднее регулировать, и для ее повышения потребуется больше источников тепла.</Tasks.53.TipsData.Desc>
+			<Tasks.55.TipsData.Desc>Теперь мы обеспечили продовольствие и другие материалы в отдельных хранилищах. По мере развития игры может потребоваться более детальная категоризация, которая может быть реализована с помощью фильтра.</Tasks.55.TipsData.Desc>
+		</Text>
+		<Text Name="MemberExpansion">
+			<Type>Основа</Type>
+			<DisplayName>Расширение</DisplayName>
+			<Desc>Изучите основы расширения в этом уроке.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Примите Нового Участника</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Проверить Событие для Беженцев</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Оформить Заказ на Прием</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Организовать Работу для Нового Участника</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Назначьте подходящую работу</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Предоставьте Инструменты</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Оборудуйте Инструменты</Chapters.1.Tasks.2>
+			<Chapters.2.DisplayName>Удовлетворяйте потребности Нового Участника</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Проверьте Потребности</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Выберите Кровать и Комнату</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Дождитесь, когда появится событие для приема беженцев.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Нажмите кнопку Подтвердить.</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>В игре будут беженцы, желающие присоединиться к секте. Это хорошая возможность для расширения, но слишком быстрый рост окажет давление на инфраструктуру и обеспечение продовольствием, поэтому, пожалуйста, внимательно все продумайте.</Tasks.3.TipsData.Desc>
+			<Tasks.5.TaskDesc>Выберите беженца.</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Нажмите Принять в меню персонажа.</Tasks.6.TaskDesc>
+			<Tasks.6.UiData.Name>Принять</Tasks.6.UiData.Name>
+			<Tasks.7.TaskDesc>Переключитесь в режим Скорость 3x, нажав кнопку Скорость 3x в левом верхнем углу.</Tasks.7.TaskDesc>
+			<Tasks.9.TaskDesc>Подождите, пока ваши люди не примут этого персонажа.</Tasks.9.TaskDesc>
+			<Tasks.11.TipsData.Desc>Вы приобрели нового персонажа. Каждый персонаж преуспевает в своем виде работы. Откройте меню График Работы и организуйте подходящую работу для каждого персонажа.</Tasks.11.TipsData.Desc>
+			<Tasks.13.TaskDesc>Нажмите, чтобы открыть меню График Работы.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Переместите курсор на тип работы, чтобы увидеть способность каждого персонажа выполнять ее, и попробуйте выбрать наиболее подходящего для этой работы персонажа.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Поскольку первый персонаж обладает наилучшей способностью быть целителем, нажмите на позицию целителя третьего персонажа, чтобы отменить ее.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Поскольку третий персонаж обладает наилучшей способностью быть шахтером, щелкните позицию шахтера первого персонажа, чтобы отменить ее.</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Закройте эту страницу.</Tasks.17.TaskDesc>
+			<Tasks.18.TipsData.Desc>Вы назначили работу для персонажей, и предоставление подходящего инструмента может значительно повысить эффективность их работы.</Tasks.18.TipsData.Desc>
+			<Tasks.20.TaskDesc>Выберите рабочее место, чтобы показать его статус ниже.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Нажмите кнопку Произвести.</Tasks.21.TaskDesc>
+			<Tasks.21.UiData.Name>Производить</Tasks.21.UiData.Name>
+			<Tasks.22.TaskDesc>Сделайте кирку.</Tasks.22.TaskDesc>
+			<Tasks.22.UiData.Name>Кирка</Tasks.22.UiData.Name>
+			<Tasks.23.TaskDesc>Закройте страницу Производства.</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>Подождите, пока производство не будет завершено.</Tasks.24.TaskDesc>
+			<Tasks.26.TaskDesc>Выберите персонажа, которому нужна кирка.</Tasks.26.TaskDesc>
+			<Tasks.28.TaskDesc>Нажмите интерактивную кнопку Экипировать.</Tasks.28.TaskDesc>
+			<Tasks.28.UiData.Name>Надеть</Tasks.28.UiData.Name>
+			<Tasks.29.TaskDesc>Нажмите на Кирку.</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Подождите, пока персонаж не вооружится киркой.</Tasks.30.TaskDesc>
+			<Tasks.32.TipsData.Desc>Назначение подходящей работы новому ученику помогает повысить эффективность работы всей секты. При организации различных рабочих мест ученикам следует предоставлять различные инструменты для повышения их индивидуальной эффективности.</Tasks.32.TipsData.Desc>
+			<Tasks.34.TipsData.Desc>Если потребности персонажа не будут удовлетворены, его настроение будет негативно затронуто, что снизит эффективность его работы и даже сделает его слабым в работе. Теперь давайте посмотрим, что нужно новому персонажу.</Tasks.34.TipsData.Desc>
+			<Tasks.35.TaskDesc>Выберите нового персонажа.</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Выберите меню Настроения.</Tasks.36.TaskDesc>
+			<Tasks.37.TipsData.Desc>Персонажу нужна комната. Организуйте для него свободную комнату.</Tasks.37.TipsData.Desc>
+			<Tasks.37.TipsData.Name>Нужна Комната</Tasks.37.TipsData.Name>
+			<Tasks.39.TaskDesc>Нажмите на кровать в комнате.</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Нажмите, чтобы назначить владельца.</Tasks.40.TaskDesc>
+			<Tasks.40.UiData.Name>Назначать</Tasks.40.UiData.Name>
+			<Tasks.41.TaskDesc>Нажмите на первого персонажа и устройте для него кровать.</Tasks.41.TaskDesc>
+			<Tasks.42.TaskDesc>Подтвердите назначение.</Tasks.42.TaskDesc>
+			<Tasks.44.TipsData.Desc>Уделяйте пристальное внимание настроению персонажей и удовлетворяйте их потребности, чтобы секта работала более эффективно. Помимо ожидания присоединения беженцев, игрок может отправить внутренних учеников, чтобы найти новых персонажей для присоединения или участия в специальных мероприятиях по набору новых учеников после создания секты. Игрок может изучить этот расширенный контент во время игры.</Tasks.44.TipsData.Desc>
+		</Text>
+		<Text Name="Treatment">
+			<Type>Основа</Type>
+			<DisplayName>Лечение Учеников</DisplayName>
+			<Desc>Изучите основы лечения в этом уроке.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Изготовление и Хранение Лекарств</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Проверьте Медицинские Принадлежности</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Назначьте Лекаря</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Сделайте Лекарство</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Исцелите Раненого Ученика</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Осмотрите Травму</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Установите Особый Приоритет</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Еще раз Осмотрите Травму</Chapters.1.Tasks.2>
+			<Tasks.1.TaskDesc>Нажмите, чтобы открыть список лекарств.</Tasks.1.TaskDesc>
+			<Tasks.2.TipsData.Desc>Каждое лекарство в игре имеет свой собственный эффект, например, Целебная Мазь лечит раны, Костная Мазь лечит переломы костей, Пилюля Исцеления лечит внутренние органы и т. д. Когда лекарств недостаточно, раненых учеников могут вовремя не лечить, поэтому, пожалуйста, обратите пристальное внимание на хранение лекарств.</Tasks.2.TipsData.Desc>
+			<Tasks.4.TaskDesc>Нажмите, чтобы открыть меню График Работы.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Игрок может навести курсор на позицию Лекаря, чтобы увидеть его требования к соответствующим навыкам и другой соответствующей работе.</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Поскольку второй ученик обладает наилучшей способностью быть лекарем, выберите ученика, который будет лекарем, и нажмите, чтобы активировать.</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Закройте эту страницу.</Tasks.7.TaskDesc>
+			<Tasks.9.TaskDesc>Нажмите на таблицу лекарств.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Нажмите интерактивную кнопку Произвести на столе.</Tasks.10.TaskDesc>
+			<Tasks.10.UiData.Name>Производить</Tasks.10.UiData.Name>
+			<Tasks.11.TaskDesc>Игрок может навести курсор на Целебный Бальзам, чтобы увидеть инструкцию и его эффект.</Tasks.11.TaskDesc>
+			<Tasks.11.UiData.Name>Целебная Мазь</Tasks.11.UiData.Name>
+			<Tasks.12.TaskDesc>Нажмите, чтобы сделать Целебную Мазь.</Tasks.12.TaskDesc>
+			<Tasks.12.UiData.Name>Целебная Мазь</Tasks.12.UiData.Name>
+			<Tasks.13.TaskDesc>Нажмите, чтобы закрыть страницу Производства.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Переключитесь в режим Скорость 3x, нажав кнопку Скорость 3x в левом верхнем углу.</Tasks.14.TaskDesc>
+			<Tasks.16.TaskDesc>Подождите, пока не будет приготовлена Целебная Мазь.</Tasks.16.TaskDesc>
+			<Tasks.18.TipsData.Desc>В дикой природе не так много трав, поэтому игрок может заранее спланировать сад трав, чтобы обеспечить постоянный запас трав.</Tasks.18.TipsData.Desc>
+			<Tasks.21.TaskDesc>Нажмите на уведомление о травме слева.</Tasks.21.TaskDesc>
+			<Tasks.23.TaskDesc>Нажмите кнопку Здоровье в правой части меню пострадавшего персонажа.</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>Игрок может навести курсор в область заражения, чтобы осмотреть травму.</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Игрок может навести курсор в область Бедренной кости, чтобы осмотреть поврежденную часть и последствия травмы.</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Нажмите, чтобы закрыть меню Здоровья.</Tasks.26.TaskDesc>
+			<Tasks.28.TaskDesc>Нажмите, чтобы открыть меню График работы.</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Нажмите и активируйте пост Лекаря.</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Нажмите кнопку Высший приоритет, чтобы открыть раскрывающийся список.</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Нажмите кнопку Лекарь, чтобы установить позицию в качестве главного приоритета.</Tasks.31.TaskDesc>
+			<Tasks.32.TaskDesc>Закройте эту страницу.</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Подождите, пока исцеление не будет завершено.</Tasks.33.TaskDesc>
+			<Tasks.34.TipsData.Desc>Когда ученик, назначенный лекарем, ранен, вполне возможно, что ни один персонаж не будет лечить ученика. Игрок может назначить работу лекаря другому ученику и скорректировать график работы и приоритет, или прервать текущее действие любого ученика, чтобы вылечить раненого ученика.</Tasks.34.TipsData.Desc>
+			<Tasks.36.TaskDesc>Нажмите и выберите раненого ученика.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Нажмите кнопку Здоровье в правой части меню Персонажа.</Tasks.37.TaskDesc>
+			<Tasks.38.TaskDesc>Мы видим, что травма заживает, а это значит, что ученик был успешно вылечен.</Tasks.38.TaskDesc>
+			<Tasks.40.TipsData.Desc>В игре есть и другие предметы, которые улучшают целебные эффекты, такие как талисманы и иглоукалывание, которые игрок может исследовать.</Tasks.40.TipsData.Desc>
+		</Text>
+		<Text Name="ZhuJi">
+			<Type>Культивация</Type>
+			<DisplayName>Тренировка Основы</DisplayName>
+			<Desc>Изучите методы и смысл Тренировки Основы для внешних учеников в этом учебнике.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Значение Тренировки Основы</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Проверка Тренировки Основы</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Тренировка Основы</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Активировать Усердную Работу</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Организовать План Тренировки</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Установить Место Тренировок</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Подождите, пока ученик не начнет Тренировку</Chapters.1.Tasks.3>
+			<Chapters.2.DisplayName>Другие методы Развития Основы</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Осмотрите Медвежью Желчь</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Проверьте Основу</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Съешьте Медвежью Желчь</Chapters.2.Tasks.2>
+			<Chapters.2.Tasks.3>Проверьте Основу</Chapters.2.Tasks.3>
+			<Tasks.1.TaskDesc>Нажмите на любого NPC.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Нажмите, чтобы открыть меню Закон &amp; Культивация.</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>Как показано на изображении, если внешний ученик пропускает ежедневную тренировку, его основа будет уменьшена на 1 тыс. Даже ученик, который завершил тренировку основы, не является исключением.</Tasks.3.TipsData.Desc>
+			<Tasks.5.TipsData.Desc>Тренировка Основы Внешнего Ученика является завершенной только тогда, когда их фундамент достигает 25 тыс. Это главное требование для становления внутренним учеником.</Tasks.5.TipsData.Desc>
+			<Tasks.7.TaskDesc>Нажмите, чтобы активировать Усердную Работу.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Нажмите, чтобы закрыть меню Закон &amp; Культивация.</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>Нажмите, чтобы открыть меню График Работы.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Нажмите 8: Работа в Таблице Времени.</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Настройте Тренировку.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Нажмите 9: Работа в Таблице Времени.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Настройте Тренировку.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Закройте эту страницу.</Tasks.15.TaskDesc>
+			<Tasks.17.TaskDesc>Нажмите Сборка в левом нижнем углу, чтобы открыть страницу Сборки.</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Нажмите Секта, чтобы открыть страницу Здания Секты.</Tasks.18.TaskDesc>
+			<Tasks.18.UiData.Name>Школа</Tasks.18.UiData.Name>
+			<Tasks.19.TaskDesc>Нажмите Место Тренировки</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Поместите место тренировки в назначенное место.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Правый-клик.</Tasks.21.TaskDesc>
+			<Tasks.23.TaskDesc>Нажмите Скорость 2x в левом верхнем, чтобы ускорить игру.</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>Подождите, пока внешний ученик войдет в место тренировки и начнет тренировку.</Tasks.25.TaskDesc>
+			<Tasks.27.TipsData.Desc>Игрок может организовать и настроить таблицу времени для обучения внешних учеников, чтобы убедиться, что они следуют своей повседневной тренировке. Внешний ученик, активировавший Усердную Работу, будет тренироваться вне своей повседневной работы. Ученики с определенными тегами могут быстрее обрести Основу.</Tasks.27.TipsData.Desc>
+			<Tasks.29.TaskDesc>Игрок может навести курсор на Медвежью Желчь, чтобы увидеть Основу, предоставленную ей.</Tasks.29.TaskDesc>
+			<Tasks.31.TaskDesc>Нажмите на любого NPC.</Tasks.31.TaskDesc>
+			<Tasks.32.TipsData.Desc>Игрок может использовать меню Состояние внизу в любое время, чтобы быстро получить доступ к информации об Основе внешнего ученика и скорректировать его стратегию Тренировки.</Tasks.32.TipsData.Desc>
+			<Tasks.34.TaskDesc>Нажмите кнопку Еда в меню под персонажем.</Tasks.34.TaskDesc>
+			<Tasks.34.UiData.Name>Еда</Tasks.34.UiData.Name>
+			<Tasks.35.TaskDesc>Нажмите, чтобы выбрать Медвежью Желчь для ученика, чтобы съесть.</Tasks.35.TaskDesc>
+			<Tasks.37.TaskDesc>Подождите, пока Медвежья Желчь не будет съедена.</Tasks.37.TaskDesc>
+			<Tasks.39.TipsData.Desc>Этот ученик быстро получил много Основы, поедая Медвежью Желчь.</Tasks.39.TipsData.Desc>
+			<Tasks.41.TipsData.Desc>Такие предметы, как таблетки и эликсиры также могут быть съедены, чтобы быстро получить много Основы, и есть также другие способы ускорить Тренировку Основы, которые ожидают игрока.</Tasks.41.TipsData.Desc>
+		</Text>
+		<Text Name="GongSelect">
+			<Type>Культивация</Type>
+			<DisplayName>Выбор Закона &amp; Режим Тренировки</DisplayName>
+			<Desc>Узнайте, как выбрать подходящий Закон, значение соответствия Закону, как учиться у мастера и несколько общих режимов обучения в этом учебнике.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Соответствие Закону &amp; Выбор</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Проверьте соответствие Закона Тянь Ваня</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Проверьте соответствие Закона Чжунли Шу</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Выберите Закон, чтобы Стать Внутренним Учеником</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Почему Ученики должны иметь Мастера</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Выберите Мастера</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Проверьте Мастера</Chapters.1.Tasks.1>
+			<Chapters.2.DisplayName>Различные Режимы Тренировки</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Проверьте Автоматический Режим</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Проверьте Режим Практики</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Проверьте Режим Поиска Покоя</Chapters.2.Tasks.2>
+			<Chapters.2.Tasks.3>CПроверьте Режим Тренировки</Chapters.2.Tasks.3>
+			<Tasks.1.TaskDesc>Нажмите на уведомление о завершенной Тренировки Основы слева.</Tasks.1.TaskDesc>
+			<Tasks.3.TaskDesc>Нажмите кнопку Способствовать в Состоянии ученика ниже.</Tasks.3.TaskDesc>
+			<Tasks.3.UiData.Name>Способствовать</Tasks.3.UiData.Name>
+			<Tasks.5.TipsData.Desc>Этот ученик не подходит для действующего Закона, пожалуйста, проверьте, соответствует ли другой ученик Закону.</Tasks.5.TipsData.Desc>
+			<Tasks.6.TaskDesc>Нажмите, чтобы закрыть меню Выбора Закона.</Tasks.6.TaskDesc>
+			<Tasks.8.TaskDesc>Нажмите и выберите другого внешнего ученика.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Нажмите кнопку Способствовать в Состоянии ученика ниже.</Tasks.9.TaskDesc>
+			<Tasks.9.UiData.Name>Способствовать</Tasks.9.UiData.Name>
+			<Tasks.11.TipsData.Desc>Игрок может использовать таблицу соответствия Закону, чтобы увидеть, подходит ли ученик для практики Закона. Чем выше Пять Атрибутов ученика, тем лучше они будут соответствовать Закону, поэтому у разных учеников могут быть разные соответствующие Законы.</Tasks.11.TipsData.Desc>
+			<Tasks.13.TaskDesc>Нажмите кнопку Выбора Закона.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Нажмите Да.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Нажмите Скорость 2x в левом верхнем углу, чтобы ускорить игру.</Tasks.15.TaskDesc>
+			<Tasks.17.TaskDesc>Подождите, пока ученик не будет продвинут.</Tasks.17.TaskDesc>
+			<Tasks.19.TipsData.Desc>Как только Закон выбран, он не может быть изменен или отменен, поэтому то, насколько хорошо Закон соответствует, будет иметь большое влияние на будущую практику ученика.</Tasks.19.TipsData.Desc>
+			<Tasks.21.TaskDesc>Нажмите Наставник в меню Состояние.</Tasks.21.TaskDesc>
+			<Tasks.21.UiData.Name>Наставник</Tasks.21.UiData.Name>
+			<Tasks.22.TaskDesc>Выберите внутреннего ученика в состоянии Золотого Ядра.</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Подтвердить</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>Подождите, пока ученик не признает его мастером.</Tasks.25.TaskDesc>
+			<Tasks.28.TaskDesc>Нажмите, чтобы выбрать внутреннего ученика в состоянии Золотого Ядра.</Tasks.28.TaskDesc>
+			<Tasks.29.TipsData.Desc>Мастер может научить своих учеников тем руководствам, которые они изучили. Когда мастер преподает руководство, это будет стоить меньше вдохновения.</Tasks.29.TipsData.Desc>
+			<Tasks.29.TipsData.Name>Учит</Tasks.29.TipsData.Name>
+			<Tasks.31.TipsData.Desc>Когда ученик повышается до внутреннего ученика, он может выбрать внутреннего ученика в состоянии Золотого Ядра или выше, чтобы быть своим учителем. Когда Закон ученика совпадает с Законом учителя, практика ученика будет более эффективной.</Tasks.31.TipsData.Desc>
+			<Tasks.33.TaskDesc>Игрок может нажать здесь, чтобы установить режим обучения на автоматический, чтобы ученик автоматически изменил свой режим обучения, если это необходимо.</Tasks.33.TaskDesc>
+			<Tasks.35.TaskDesc>Игрок может нажать здесь, чтобы установить режим тренировки для Практики, чтобы ученик продолжал получать большое количество Вдохновения во время практики.</Tasks.35.TaskDesc>
+			<Tasks.37.TaskDesc>Игрок может нажать здесь, чтобы установить режим тренировки для Поиска Покоя, чтобы ученик продолжал улучшать психическое состояние в поисках покоя.</Tasks.37.TaskDesc>
+			<Tasks.39.TaskDesc>Игрок может нажать здесь, чтобы установить режим тренировки на Тренировку, чтобы ученик продолжал получать много вдохновения и немного Вдохновения во время практики.</Tasks.39.TaskDesc>
+			<Tasks.41.TipsData.Desc>После того, как ученик станет внутренним учеником, будет еще четыре режима тренировки, каждый из которых отвечает различным потребностям внутренних учеников в их практике. Например, практика в основном направлена на получение Вдохновения для более быстрого прорыва, Поиск Покоя - на улучшение психического состояния в случае, если ученик будет увлечен, Тренировка - на получение вдохновения для изучения руководств, и игрок также может выбрать Автоматически, чтобы позволить внутренним ученикам регулировать свой собственный темп тренировки. Игрок может выбрать различные режимы тренировки в соответствии с индивидуальными потребностями каждого внутреннего ученика.</Tasks.41.TipsData.Desc>
+		</Text>
+		<Text Name="GetJingYuan">
+			<Type>Культивация</Type>
+			<DisplayName>Выносливость</DisplayName>
+			<Desc>Узнайте, как получить и автоматически управлять выносливостью в этом уроке.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Методы Повышения Выносливости</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Проверьте Выносливость</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Съешьте Пилюлю Выносливости</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Еще Раз Проверьте Выносливость</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Продолжайте Практиковаться</Chapters.0.Tasks.3>
+			<Chapters.1.DisplayName>Помощь в Управлении Выносливостью</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Проверьте Автоматическое питание</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Сначала Проверьте Эликсиры</Chapters.1.Tasks.1>
+			<Tasks.1.TaskDesc>Нажмите и выберите внутреннего ученика.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Игрок может навести курсор на строку Выносливости в Состоянии ниже, чтобы проверить выносливость. Практика внутреннего ученика должна постоянно стоить выносливости, и когда выносливость достигает 0, ученик не может продолжать практиковать, пока не употребит эликсиры или пищу для пополнения выносливости.</Tasks.2.TaskDesc>
+			<Tasks.4.TaskDesc>Игрок может навести курсор на Пилюлю Выносливости, чтобы увидеть ее эффект.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Нажмите кнопку Съесть в меню Состояния персонажа.</Tasks.5.TaskDesc>
+			<Tasks.5.UiData.Name>Есть</Tasks.5.UiData.Name>
+			<Tasks.6.TaskDesc>Нажмите, чтобы выбрать Пилюлю Выносливости.</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Нажмите Скорость 3x в левом верхнем углу, чтобы ускорить игру.</Tasks.7.TaskDesc>
+			<Tasks.10.TaskDesc>Подождите, пока NPC не съест пилюлю.</Tasks.10.TaskDesc>
+			<Tasks.12.TaskDesc>Подождите, пока выносливость не будет пополнена.</Tasks.12.TaskDesc>
+			<Tasks.14.TaskDesc>Проверьте строку Выносливости в Состоянии ниже. Теперь выносливость ученика была пополнена за счет употребления эликсира.</Tasks.14.TaskDesc>
+			<Tasks.16.TaskDesc>Нажмите кнопку Практика в меню Состояния персонажа.</Tasks.16.TaskDesc>
+			<Tasks.18.TipsData.Desc>Внутренние ученики также могут потреблять пищу и преобразовывать ее в выносливость, или увеличивать скорость потребления пищи и скорость набора выносливости, чтобы еще больше улучшить эффект преобразования пищи в выносливость.</Tasks.18.TipsData.Desc>
+			<Tasks.20.TaskDesc>Нажмите, чтобы открыть меню Закон &amp; Культивация.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Игрок может нажать здесь, чтобы установить автоматическое питание, чтобы ученик автоматически ел пищу, чтобы получить выносливость.</Tasks.21.TaskDesc>
+			<Tasks.23.TaskDesc>Игрок может нажать здесь, чтобы установить Эликсиры, чтобы ученик автоматически решил сначала съесть эликсиры, чтобы получить выносливость.</Tasks.23.TaskDesc>
+			<Tasks.25.TipsData.Desc>Есть много предметов, которые увеличивают выносливость или скорость набора выносливости, таких как редкие лекарства и сокровища, эликсиры, талисманы и т. д..</Tasks.25.TipsData.Desc>
+		</Text>
+		<Text Name="FuQi">
+			<Type>Культивация</Type>
+			<DisplayName>Поглощение Ци &amp; Пост</DisplayName>
+			<Desc>Узнайте значение поглощения Ци и голодания, а также различия между ними в этом уроке.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Что такое Голодание</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Проверьте Постную Пилюлю</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Проверьте Потребность в Еде</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Используйте Постную Пилюлю</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Проверьте Потребность в Еде еще раз</Chapters.0.Tasks.3>
+			<Chapters.1.DisplayName>Что такое Поглощение Ци</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Проверьте Пилюлю Поглощения Ци</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Проверьте Полосу Поглощения Ци</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Используйте Пилюлю Поглощения Ци</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Еще раз проверьте Полосу Поглощения Ци</Chapters.1.Tasks.3>
+			<Tasks.1.TaskDesc>Игрок может навести курсор на ППостную Пилюлю, чтобы увидеть инструкцию.</Tasks.1.TaskDesc>
+			<Tasks.3.TaskDesc>Нажмите и выберите внутреннего ученика.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Игрок может навести курсор на панель Потребности в Еде, чтобы проверить потребность.</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>Нажмите кнопку Съесть в меню Состояния персонажа.</Tasks.6.TaskDesc>
+			<Tasks.6.UiData.Name>Есть</Tasks.6.UiData.Name>
+			<Tasks.7.TaskDesc>Нажмите, чтобы выбрать Постную Пилюлю.</Tasks.7.TaskDesc>
+			<Tasks.9.TaskDesc>Переключитесь в режим Скорость 3x, нажав кнопку Скорость 3x в левом верхнем углу.</Tasks.9.TaskDesc>
+			<Tasks.11.TaskDesc>Подождите, пока NPC не съест пилюлю.</Tasks.11.TaskDesc>
+			<Tasks.13.TaskDesc>Игрок может навести курсор на панель Потребности в Еде, чтобы увидеть изменения.</Tasks.13.TaskDesc>
+			<Tasks.15.TipsData.Desc>Причина Поста в игре заключается в том, чтобы уменьшить потребление учениками пищи и воды, чтобы уменьшить их потребность в пище и питье и, следовательно, стоимость ресурсов, но уменьшение потребности внутреннего ученика в пище и воде уменьшит количество выносливости, преобразованной из пищи.</Tasks.15.TipsData.Desc>
+			<Tasks.17.TaskDesc>Игрок может навести курсор на Пилюлю Поглощения Ци, чтобы увидеть инструкцию.</Tasks.17.TaskDesc>
+			<Tasks.19.TaskDesc>Нажмите и выберите внутреннего ученика.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Игрок может навести курсор на панель Потребности в Еде, чтобы проверить потребность.</Tasks.20.TaskDesc>
+			<Tasks.22.TaskDesc>Нажмите кнопку Съесть в меню Состояния персонажа.</Tasks.22.TaskDesc>
+			<Tasks.22.UiData.Name>Есть</Tasks.22.UiData.Name>
+			<Tasks.23.TaskDesc>Нажмите, чтобы выбрать Пилюлю Поглощения Ци.</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>Подождите, пока NPC не съест пилюлю.</Tasks.25.TaskDesc>
+			<Tasks.27.TaskDesc>Игрок может навести курсор на панель Потребности в Еде, чтобы увидеть изменения.</Tasks.27.TaskDesc>
+			<Tasks.29.TipsData.Desc>Причина поглощения Ци заключается в том, чтобы получать энергию из окружающей среды, чтобы поддерживать уровень голода и жажды. Чем эффективнее ученик поглощает Ци, тем лучше он может преобразовать пищу в выносливость. Когда потребление пищи и воды внутренним учеником увеличивается, количество преобразованной выносливости также увеличивается.</Tasks.29.TipsData.Desc>
+		</Text>
+		<Text Name="DProduction">
+			<Type>Культивация</Type>
+			<DisplayName>Изготовление</DisplayName>
+			<Desc>Узнайте, как создавать артефакты, эликсиры и рисовать талисманы в этом уроке.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Как Готовить Эликсиры</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Получите Больше Зданий</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Приготовьте Пилюлю Выносливости</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Используйте Цикл для Создания</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Как Создавать Артефакты</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Создание Артефактов</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Сравните Новые Материалы</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Сравните Основные Материалы</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Подтвердите Создание</Chapters.1.Tasks.3>
+			<Chapters.2.DisplayName>Как Рисовать Талисманы</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Нарисуйте Талисман Ловкости</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Влияние Бумаги на Талисманы</Chapters.2.Tasks.1>
+			<Chapters.3.DisplayName>Как правильно Плавить</Chapters.3.DisplayName>
+			<Chapters.3.Tasks.0>Проверьте Ци Предмета</Chapters.3.Tasks.0>
+			<Chapters.3.Tasks.1>Плавкие Предметы</Chapters.3.Tasks.1>
+			<Tasks.1.TipsData.Desc>После того, как ученик станет внутренним учеником, появятся новые взаимодействия, которые будут активированы путем строительства уникальных зданий.</Tasks.1.TipsData.Desc>
+			<Tasks.3.TaskDesc>Нажмите и выберите внутреннего ученика.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Нажмите кнопку Алхимия в меню Состояния персонажа.</Tasks.4.TaskDesc>
+			<Tasks.4.UiData.Name>Алхимия</Tasks.4.UiData.Name>
+			<Tasks.5.TaskDesc>Нажмите, чтобы выбрать Пилюлю Выносливости.</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Нажмите кнопку Подтвердить.</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Нажмите, чтобы выбрать Алхимическую Печь.</Tasks.7.TaskDesc>
+			<Tasks.9.TaskDesc>Нажмите, чтобы выбрать Алхимическую Печь.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Нажмите кнопку Цикл на странице Алхимическая Печь ниже.</Tasks.10.TaskDesc>
+			<Tasks.10.UiData.ParentObject>thinginfo-Producelist-Пилюля Выносливости</Tasks.10.UiData.ParentObject>
+			<Tasks.11.TaskDesc>Нажмите Цикл 10x</Tasks.11.TaskDesc>
+			<Tasks.11.UiData.Name>Цикл 10x</Tasks.11.UiData.Name>
+			<Tasks.12.TaskDesc>Нажмите Скорость 3x в левом верхнем углу, чтобы ускорить игру.</Tasks.12.TaskDesc>
+			<Tasks.14.TaskDesc>Подождите, пока не будет приготовлена Пилюля Выносливости.</Tasks.14.TaskDesc>
+			<Tasks.16.TaskDesc>Нажмите кнопку закрыть Пилюли Выносливости на странице Алхимической печи ниже, чтобы отменить производство.</Tasks.16.TaskDesc>
+			<Tasks.16.UiData.ParentObject>thinginfo-Producelist-Пилюля Выносливости</Tasks.16.UiData.ParentObject>
+			<Tasks.18.TipsData.Desc>Для приготовления эликсиров нужны не только основные материалы для эликсиров, но ученики также должны повысить свой уровень алхимии или изучить другие рецепты эликсиров, чтобы приготовить более продвинутые эликсиры. Игрок также может использовать цикл для приготовления эликсиров в пакетном режиме или отменить цикл, чтобы остановить приготовление.</Tasks.18.TipsData.Desc>
+			<Tasks.20.TaskDesc>Нажмите и выберите внутреннего ученика.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Нажмите кнопку Ремесло в меню Состояния персонажа.</Tasks.21.TaskDesc>
+			<Tasks.21.UiData.Name>Ремесло</Tasks.21.UiData.Name>
+			<Tasks.22.TaskDesc>Нажмите кнопку Создание Артефактов</Tasks.22.TaskDesc>
+			<Tasks.25.TaskDesc>Игрок может навести курсор на Меч из Священного Камня, чтобы проверить его материал и уровень, а также вероятность успеха и требования к ремеслу также показаны выше.</Tasks.25.TaskDesc>
+			<Tasks.27.TaskDesc>Игрок может навести курсор на Клинок из Серого Камня, чтобы проверить его материал и уровень, а также вероятность успеха и требования к ремеслу также показаны выше.</Tasks.27.TaskDesc>
+			<Tasks.29.TaskDesc>Нажмите и выберите Клинок из Серого Камня для создания.</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Подождите, пока артефакт не будет создан.</Tasks.30.TaskDesc>
+			<Tasks.32.TipsData.Desc>Любой обычный материал может быть использован для создания артефактов, но это будет стоить некоторого количества Ци. Чем выше уровень, тем больше Ци ему нужно. Вероятность успеха в создании артефактов положительно связана с психическим состоянием ученика, а также с уровнем их создания артефактов.</Tasks.32.TipsData.Desc>
+			<Tasks.34.TaskDesc>Нажмите кнопку Рисование в меню Состояния персонажа.</Tasks.34.TaskDesc>
+			<Tasks.34.UiData.Name>Нарисуйте</Tasks.34.UiData.Name>
+			<Tasks.35.TaskDesc>Нажмите, чтобы выбрать бумагу для талисмана.</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Нажмите на Талисман Ловкости.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Пожалуйста, следуйте инструкциям, чтобы нарисовать талисман, а затем подтвердите, когда он будет закончен.</Tasks.37.TaskDesc>
+			<Tasks.38.TaskDesc>Нажмите Да.</Tasks.38.TaskDesc>
+			<Tasks.40.TaskDesc>Подождите, пока талисман не будет нарисован.</Tasks.40.TaskDesc>
+			<Tasks.42.TaskDesc>Нажмите, чтобы выбрать Стол Рисования Талисманов.</Tasks.42.TaskDesc>
+			<Tasks.43.TaskDesc>Нажмите кнопку Произвести.</Tasks.43.TaskDesc>
+			<Tasks.43.UiData.Name>Производить</Tasks.43.UiData.Name>
+			<Tasks.44.TipsData.Desc>Как показано на странице Производство, существует несколько различных видов бумаги для талисманов, которые будут иметь различные дополнительные эффекты после того, как талисман будет нарисован. Дополнительные эффект положительно связан с уровнем бумаги для талисмана.</Tasks.44.TipsData.Desc>
+			<Tasks.45.TaskDesc>Закройте страницу Производства.</Tasks.45.TaskDesc>
+			<Tasks.47.TipsData.Desc>От того, насколько хорошо игрок нарисует талисман, будет зависеть качество конечного продукта, что также является важным фактором, влияющим на его эффект.</Tasks.47.TipsData.Desc>
+			<Tasks.49.TaskDesc>Игрок может навести курсор на Хлам, чтобы увидеть, сколько Ци он поглотил и сохранил.</Tasks.49.TaskDesc>
+			<Tasks.51.TaskDesc>Нажмите кнопку Плавки в нижней части экрана.</Tasks.51.TaskDesc>
+			<Tasks.52.TaskDesc>Нажмите, чтобы выбрать Хлам.</Tasks.52.TaskDesc>
+			<Tasks.53.TaskDesc>Щелкните правой кнопкой мыши, чтобы отменить режим выбора цели.</Tasks.53.TaskDesc>
+			<Tasks.55.TaskDesc>Подождите, пока плавка не будет завершена.</Tasks.55.TaskDesc>
+			<Tasks.56.TipsData.Desc>Игрок получил несколько Камней Духа, выплавляя хлам только что.</Tasks.56.TipsData.Desc>
+			<Tasks.58.TipsData.Desc>В игре различные предметы будут постепенно поглощать Ци от природы. Внутренний ученик может понюхать их, чтобы получить Камни Духа и избавиться от ненужных ресурсов.</Tasks.58.TipsData.Desc>
+		</Text>
+		<Text Name="LookPractice">
+			<Type>Культивация</Type>
+			<DisplayName>Скорость Культивации</DisplayName>
+			<Desc>В этом уроке изучите основные факторы, влияющие на скорость развития внутреннего ученика, и влияние этих факторов.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Изучите Факторы, связанные с Культивацией</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Открытое Закон &amp; Культивация</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Проверьте Соответствие Закону</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Проверьте Соответствие Пяти Элементам</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Проверьте Мастера и Ученика</Chapters.0.Tasks.3>
+			<Chapters.0.Tasks.4>Проверьте Плотность Ци</Chapters.0.Tasks.4>
+			<Chapters.0.Tasks.5>Проверьте Уют</Chapters.0.Tasks.5>
+			<Chapters.0.Tasks.6>Проверьте Сезон</Chapters.0.Tasks.6>
+			<Chapters.0.Tasks.7>Проверьте Настроение</Chapters.0.Tasks.7>
+			<Chapters.0.Tasks.8>Проверьте Психическое Состояние</Chapters.0.Tasks.8>
+			<Tasks.1.TaskDesc>Нажмите и выберите внутреннего ученика.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Нажмите, чтобы открыть меню Закон  &amp; Культивация.</Tasks.2.TaskDesc>
+			<Tasks.4.TaskDesc>Игрок может навести курсор, чтобы увидеть информацию о соответствии Закона в меню Практики. Чем лучше Закон соответствует, тем эффективнее будет Культивация.</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>Игрок может навести курсор, чтобы увидеть информацию о Соответствии Пяти Элементов в меню Практики. Чем лучше совпадают Пять Элементов, тем эффективнее будет Культивация.</Tasks.6.TaskDesc>
+			<Tasks.8.TaskDesc>Игрок может навести курсор, чтобы увидеть информацию о Мастере и Ученике в меню Практики. При помощи мастера, находящегося в более высоком состоянии развития, скорость развития ученика увеличится, и будет более эффективна, если мастер и ученик будут тренироваться, используя один и тот же Закон.</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>Игрок может навести курсор, чтобы увидеть информацию о Плотности Ци в меню Практики. Ученик будет тренироваться быстрее в среде с более высокой Плотностью Ци.</Tasks.10.TaskDesc>
+			<Tasks.12.TaskDesc>Игрок может навести курсор, чтобы увидеть информацию об Уюте в меню Практики. Уютные объекты обычно включают кровати, подушки, троны, алтарь Магии и т. д.</Tasks.12.TaskDesc>
+			<Tasks.14.TaskDesc>Игрок может навести курсор, чтобы увидеть информацию о Сезоне в меню Практики. Времена года имеют различные дополнительные эффекты для учеников в зависимости от элементарных атрибутов их Законов, поэтому важно выбрать подходящий сезон для Культивации и прорыва.</Tasks.14.TaskDesc>
+			<Tasks.16.TaskDesc>Игрок может навести курсор, чтобы увидеть информацию о Настроении в меню Практики. Настроение внутреннего ученика в какой-то степени влияет на культивацию, и ученик в лучшем настроении часто тренируется более эффективно.</Tasks.16.TaskDesc>
+			<Tasks.18.TaskDesc>Игрок может навести курсор, чтобы увидеть информацию о Психическом Состоянии в меню Практики. Психическое состояние внутреннего ученика влияет на развитие, и ученик в нестабильном психическом состоянии может быть одержим. Важно поддерживать стабильное психическое состояние во время культивации.</Tasks.18.TaskDesc>
+			<Tasks.20.TipsData.Desc>Выше перечислены основные факторы, влияющие на скорость развития внутреннего ученика. Они не только влияют на скорость развития, но иногда влияют и на другие аспекты, такие как прорыв и обретение вдохновения. Игроку нужно изучить больше содержимого, чтобы тренировать лучших внутренних учеников.</Tasks.20.TipsData.Desc>
+		</Text>
+		<Text Name="LingQi">
+			<Type>Культивация</Type>
+			<DisplayName>Ци &amp; Сбор Ци</DisplayName>
+			<Desc>В этом уроке вы узнаете об источнике и эффекте Ци, способности элемента конденсировать Ци и о том, как конденсировать Ци.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Плотность Ци &amp; Скорость восстановления Ци</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Проверьте Ци и скорость восстановления Ци</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Проверьте Плотность Ци</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Эффект и Диапазон Сбора Ци</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Место Скрюченной Лозы</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Место Нефритовой Эссенция</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Место Призрачного Дерева</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Подождите, пока они будут размещены</Chapters.1.Tasks.3>
+			<Chapters.1.Tasks.4>Осмотрите Скрюченную Лозу</Chapters.1.Tasks.4>
+			<Chapters.1.Tasks.5>Осмотрите Нефритовую Эссенцию</Chapters.1.Tasks.5>
+			<Chapters.1.Tasks.6>Осмотрите Призрачное Дерево</Chapters.1.Tasks.6>
+			<Chapters.2.DisplayName>Другие предметы, которые Конденсируют Ци</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Осмотрите Гигантского Гинкго</Chapters.2.Tasks.0>
+			<Tasks.0.TipsData.Desc>Ци, существующая в природе, может быть поглощена большинством предметов, зданий и растений. Внутренний ученик может поглощать и преобразовывать естественную Ци в свою собственную, а также использовать другие методы для поглощения Ци из предметов, зданий и растений.</Tasks.0.TipsData.Desc>
+			<Tasks.2.TaskDesc>Нажмите и выберите внутреннего ученика.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Игрок может поместить курсор для проверки Ци и восстановления Ци. Внутренние ученики также могут поглощать естественную Ци, чтобы пополнить свою собственную Ци.</Tasks.3.TaskDesc>
+			<Tasks.5.TaskDesc>Нажмите, чтобы открыть меню Закон &amp; Культивация.</Tasks.5.TaskDesc>
+			<Tasks.6.TipsData.Desc>Игрок может навести курсор, чтобы увидеть текущую Плотность Ци в меню Практики, и, следовательно, использовать его для оценки окружения Ци вокруг ученика.</Tasks.6.TipsData.Desc>
+			<Tasks.7.TaskDesc>Нажмите, чтобы закрыть меню Закон Law &amp; Культивация.</Tasks.7.TaskDesc>
+			<Tasks.9.TipsData.Desc>Игрок может позволить внутренним ученикам практиковаться в месте с высокой плотностью Ци, что помогает увеличить скорость Культивации и быстро восстановить их Ци.</Tasks.9.TipsData.Desc>
+			<Tasks.11.TaskDesc>Нажмите, чтобы выбрать Скрюченную Лозу.</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Нажмите кнопку Разместить.</Tasks.12.TaskDesc>
+			<Tasks.12.UiData.Name>Место</Tasks.12.UiData.Name>
+			<Tasks.13.TaskDesc>Нажмите, чтобы выбрать Экран (Пол из Камня Духа).</Tasks.13.TaskDesc>
+			<Tasks.15.TaskDesc>Нажмите, чтобы выбрать Нефритовую Эссенцию.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Нажмите кнопку Разместить.</Tasks.16.TaskDesc>
+			<Tasks.16.UiData.Name>Место</Tasks.16.UiData.Name>
+			<Tasks.17.TaskDesc>Нажмите, чтобы выбрать Экран (Пол из Призрачного Дерева).</Tasks.17.TaskDesc>
+			<Tasks.19.TaskDesc>Нажмите, чтобы выбрать Призрчное Дерево.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Нажмите кнопку Разместить.</Tasks.20.TaskDesc>
+			<Tasks.20.UiData.Name>Место</Tasks.20.UiData.Name>
+			<Tasks.21.TaskDesc>Нажмите, чтобы выбрать Экран (Пол из Священного Камня).</Tasks.21.TaskDesc>
+			<Tasks.23.TaskDesc>Нажмите Скорость 3x в левом верхнем углу, чтобы ускорить игру.</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>Подождите, пока они будут размещены.</Tasks.25.TaskDesc>
+			<Tasks.27.TaskDesc>Проверьте Сбор Ци Скрюченной Лозы на Экране.</Tasks.27.TaskDesc>
+			<Tasks.29.TaskDesc>Проверьте Сбор Ци Нефритовой Эссенции на Экране.</Tasks.29.TaskDesc>
+			<Tasks.31.TaskDesc>Проверьте Сбор Ци Призрачного Дерева на Экране.</Tasks.31.TaskDesc>
+			<Tasks.33.TipsData.Desc>Способность предмета конденсировать Ци положительно связана с его Сбором Ци, и Плотностью Ци вокруг предмета также будет медленно увеличиваться. Более широкий диапазон Сбора Ци означает, что он повлияет на Плотность Ци большей площади. Поэтому Ци всегда течет из областей с низким Сбором Ци в области с высоким Сбором Ци.</Tasks.33.TipsData.Desc>
+			<Tasks.35.TaskDesc>Проверьте Сбор Ци Гигантского Гинкго.</Tasks.35.TaskDesc>
+			<Tasks.37.TipsData.Desc>В игре не только предметы могут конденсировать Ци, но и некоторые растения, здания, локации имеют тот же эффект и могут использоваться в качестве конденсаторов Ци для воздействия и изменения Плотности Ци в окружающей среде, и игрок может использовать их для создания уникальной среды Ци.</Tasks.37.TipsData.Desc>
+		</Text>
+		<Text Name="WuXing">
+			<Type>Культивация</Type>
+			<DisplayName>Пять Элементов</DisplayName>
+			<Desc>В этом уроке вы узнаете о взаимодействии между Пятью Элементами, о том, как проверить статистику элементов, о влиянии Пяти Элементов на Культивацию и о том, как изменить среду элементов.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Взаимодействие Пяти Элементов</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Откройте Диаграмму Пяти Элементов</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Проверьте Взаимодействия Металла</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Как проверить Характеристику Элемента</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Осмотрите Обсерваторию</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Войдите в режим Фэн-Шуй</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Осмотрите Окружающую Среду Вблизи Рудных Жил</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Осмотрите Окружающую Среду Вблизи Воды</Chapters.1.Tasks.3>
+			<Chapters.2.DisplayName>Элемент Окружающей среды &amp; Культивация</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Проверьте Тип Закона</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Проверьте Соответствие Пяти Элементов</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Проверьте Характеристику Дерева</Chapters.2.Tasks.2>
+			<Chapters.2.Tasks.3>Размещение Огненных Медных Слитков</Chapters.2.Tasks.3>
+			<Chapters.2.Tasks.4>Подождите, пока они будут размещены</Chapters.2.Tasks.4>
+			<Chapters.2.Tasks.5>Проверьте Характеристику Огненных Медных Слитков</Chapters.2.Tasks.5>
+			<Chapters.2.Tasks.6>Проверьте Соответствие Пяти Элементов</Chapters.2.Tasks.6>
+			<Tasks.1.TaskDesc>Диаграмма из Пяти Элементов в левом верхнем углу.</Tasks.1.TaskDesc>
+			<Tasks.3.TaskDesc>Игрок может видеть элементарные взаимодействия Металла на Диаграмме Пяти Элементов.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Нажмите на Диаграмму Пяти Элементов в левом верхнем углу и закройте ее.</Tasks.4.TaskDesc>
+			<Tasks.6.TipsData.Desc>Игрок должен использовать интерактивные правила между Пятью Элементами во многих случаях, поэтому, пожалуйста, не стесняйтесь нажимать эту кнопку, чтобы проверить взаимодействие.</Tasks.6.TipsData.Desc>
+			<Tasks.8.TaskDesc>Игрок может прочитать инструкцию обсерватории, чтобы узнать ее использование.</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>Нажмите Фэн-Шуй в левом верхнем углу, чтобы войти в режим Фэн-Шуй.</Tasks.10.TaskDesc>
+			<Tasks.12.TaskDesc>Игрок может навести курсор на скалистую местность, чтобы проверить элементарную статистику этого места. Элемент Металла высок, как показано на рисунке.</Tasks.12.TaskDesc>
+			<Tasks.14.TaskDesc>Игрок может навести курсор на мелководье, чтобы проверить элементарную статистику этого места. Элемент Воды высок, как показано на рисунке.</Tasks.14.TaskDesc>
+			<Tasks.16.TipsData.Desc>Построив обсерваторию, игрок может нажать кнопку Фэн-ш=Шуй и навести курсор, чтобы проверить статистику элементов в разных местах, чтобы узнать взаимодействия элементов в определенной области.</Tasks.16.TipsData.Desc>
+			<Tasks.18.TaskDesc>Нажмите и выберите внутреннего ученика.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Нажмите, чтобы открыть меню Закон &amp; Культивация.</Tasks.19.TaskDesc>
+			<Tasks.20.TipsData.Desc>Проверьте Тип Закона в левом верхнем углу страницы Закона. Тип Закона внутреннего ученика - это их собственные элементарные атрибуты.</Tasks.20.TipsData.Desc>
+			<Tasks.22.TaskDesc>Игрок может навести курсор, чтобы увидеть текущее Соответсвие Пяти Элементов в меню Практики, и, следовательно, использовать его для оценки элементарной среды вокруг ученика.</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Нажмите, чтобы закрыть меню Закон &amp; Культивация.</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>Игроку нужно проверить элементарный тег Дерева, чтобы узнать элементарную статистику этого предмета.</Tasks.25.TaskDesc>
+			<Tasks.27.TaskDesc>Нажмите, чтобы выбрать Экран.</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Нажмите кнопку Разместить Предмет.</Tasks.28.TaskDesc>
+			<Tasks.28.UiData.Name>Разместить Предмет</Tasks.28.UiData.Name>
+			<Tasks.29.TaskDesc>Нажмите, чтобы выбрать Огненные Медные Слитки.</Tasks.29.TaskDesc>
+			<Tasks.31.TaskDesc>Нажмите кнопку Фэн-Шуй в левом верхнем углу, чтобы выйти из режима Фэн-Шуй.</Tasks.31.TaskDesc>
+			<Tasks.32.TaskDesc>Нажмите Скорость 3x в левом верхнем углу, чтобы ускорить игру.</Tasks.32.TaskDesc>
+			<Tasks.34.TaskDesc>Подождите, пока они будут размещены.</Tasks.34.TaskDesc>
+			<Tasks.35.TaskDesc>Подождите, пока они будут размещены.</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Нажмите Фэн-Шуй в левом верхнем углу, чтобы войти в режим Фэн-Шуй.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Игроку необходимо проверить элементарный тег Огненных Медных Слитков, чтобы узнать характеристику элементов этого предмета.</Tasks.37.TaskDesc>
+			<Tasks.39.TaskDesc>Нажмите и выберите внутреннего ученика.</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Нажмите, чтобы открыть меню Закон &amp; Культивация.</Tasks.40.TaskDesc>
+			<Tasks.41.TaskDesc>После изменения элементарной среды у этого ученика теперь есть соответствующие Пять Элементов для культивации.</Tasks.41.TaskDesc>
+			<Tasks.43.TipsData.Desc>Все в игре имеет элементарную характеристику. Игрок может проверить диаграмму Пяти Элементов, чтобы увидеть статистику элементов и диапазон эффекта. Игрок также может изменять Пять Элементов в окружающей среде, размещая или перемещая предметы, создавая объекты, укладывая полы, выращивая растения и т. д.</Tasks.43.TipsData.Desc>
+		</Text>
+		<Text Name="XinJing">
+			<Type>Культивация</Type>
+			<DisplayName>Психическое Состояние</DisplayName>
+			<Desc>В этом уроке вы узнаете о влиянии психического состояния, о связи между настроением и психическим состоянием и о том, как его сохранять.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Психическое Состояние &amp; Культвация</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Проверьте событие Психически неуравновешенный</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Проверьте Настроение</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Проверьте Психическое Состояние</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Отрегулируйте Психическое Состояние</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Выберите Поиск Покоя</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Подождите, пока не будет установлен режим</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Проверьте изменение психического состояния</Chapters.1.Tasks.2>
+			<Chapters.2.DisplayName>Ешьте, чтобы Скорректировать Психическое состояние</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Проверьте эффект Чистого Листа</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Проверьте действие Пилюли Чистоты</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Съешьте Пилюлю Чистоты</Chapters.2.Tasks.2>
+			<Chapters.2.Tasks.3>Проверьте изменение психического состояния</Chapters.2.Tasks.3>
+			<Tasks.1.TaskDesc>Нажмите на уведомление о "психически неуравновешенном" в левом углу.</Tasks.1.TaskDesc>
+			<Tasks.3.TaskDesc>Нажмите Настроение &amp; Социальные отношения в правой части меню Состояния персонажа.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Игрок может проверить панель Настроения в меню Состояния, чтобы узнать настроение ученика, на которое в основном влияют различные настроения на странице Настроения.</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>Нажмите Закон &amp; Культивация в правой части меню Состояния персонажа.</Tasks.6.TaskDesc>
+			<Tasks.7.TipsData.Desc>Психическое состояние внутреннего ученика подвержено изменениям настроения.</Tasks.7.TipsData.Desc>
+			<Tasks.8.TaskDesc>Нажмите, чтобы закрыть меню Закон &amp; Культивация.</Tasks.8.TaskDesc>
+			<Tasks.10.TipsData.Desc>Психическое состояние внутреннего ученика влияет не только на эффективность их культивации, но и на успешность их прорыва, приготовления эликсира и создания артефактов. Как правило, стабильное психическое состояние приносит пользу культивации. Изменения в настроении сильно влияют на психическое состояние, так как оно будет ухудшаться быстрее и восстанавливаться медленнее, когда настроение слишком низкое, а когда психическое состояние слишком низкое, ученик может быть увлечен и потерять контроль.</Tasks.10.TipsData.Desc>
+			<Tasks.12.TaskDesc>Нажмите кнопку Поиск Покоя в меню Состояния персонажа.</Tasks.12.TaskDesc>
+			<Tasks.15.TaskDesc>Нажмите Скорость 3x в левом верхнем углу, чтобы ускорить игру.</Tasks.15.TaskDesc>
+			<Tasks.17.TaskDesc>Подождите, пока внутренний ученик не начнет искать покой.</Tasks.17.TaskDesc>
+			<Tasks.20.TaskDesc>Этот ученик немного восстановил психическое состояние после поиска покоя.</Tasks.20.TaskDesc>
+			<Tasks.22.TipsData.Desc>Потребуется некоторое время, чтобы восстановить психическое состояние ученика, ищущего покой, поэтому, когда это чрезвычайная ситуация, необходимо применить другие методы для восстановления психического состояния.</Tasks.22.TipsData.Desc>
+			<Tasks.24.TaskDesc>Игрок может прочитать инструкцию для Листа Чистоты, чтобы узнать его эффект.</Tasks.24.TaskDesc>
+			<Tasks.26.TaskDesc>Игрок может прочитать инструкцию к Пилюле Чистоты, чтобы узнать ее эффект.</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Нажмите кнопку Съесть в меню под NPC.</Tasks.27.TaskDesc>
+			<Tasks.27.UiData.Name>Есть</Tasks.27.UiData.Name>
+			<Tasks.29.TaskDesc>Нажмите, чтобы выбрать Пилюлю Чистоты.</Tasks.29.TaskDesc>
+			<Tasks.31.TaskDesc>Подождите, пока Пилюля Чистоты не будет съедена.</Tasks.31.TaskDesc>
+			<Tasks.33.TaskDesc>Этот ученик немного восстановил психическое состояние после употребления Пилюли Чистоты. Игрок может наблюдать эти изменения, проверяя психическое состояние.</Tasks.33.TaskDesc>
+			<Tasks.35.TipsData.Desc>Такие предметы, как эликсиры, сокровища и редкие лекарства, могут быть использованы для восстановления психического состояния внутреннего ученика, чтобы обеспечить его стабильность. Помимо этого, есть и другие предметы, которые могут восстановить или улучшить психическое состояние, такие как чудеса, талисманы, руководства, украшения, реликвии Фэн-Шуй и т. д..</Tasks.35.TipsData.Desc>
+		</Text>
+		<Text Name="Broken">
+			<Type>Культивация</Type>
+			<DisplayName>Прорыв</DisplayName>
+			<Desc>В этом уроке вы узнаете о значении прорыва, различных методах прорыва и о том, как выбрать подходящее место для прорыва.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Узнайте смысл Прорыва</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Нажмите на Информацию о Пределе</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Проверьте Узкое Место</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Факторы, влияющие на Прорыв</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Проверьте меню Прорыва</Chapters.1.Tasks.0>
+			<Chapters.2.DisplayName>Местоположение и шансы на успех</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Прорыв</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Осмотр вблизи Рудных жил</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Осмотрите вблизи Воды</Chapters.2.Tasks.2>
+			<Chapters.2.Tasks.3>Осмотрите вблизи деревьев Гинкго</Chapters.2.Tasks.3>
+			<Chapters.2.Tasks.4>Подтвердите Прорыв</Chapters.2.Tasks.4>
+			<Chapters.2.Tasks.5>Проверьте результат</Chapters.2.Tasks.5>
+			<Tasks.1.TaskDesc>Нажмите на уведомление о достижении Предела слева.</Tasks.1.TaskDesc>
+			<Tasks.4.TaskDesc>Нажмите Закон &amp; Культивация в правой части меню Состояния персонажа.</Tasks.4.TaskDesc>
+			<Tasks.5.TipsData.Desc>Игрок может проверить информацию о текущем пределе ученика.</Tasks.5.TipsData.Desc>
+			<Tasks.6.TaskDesc>Нажмите, чтобы закрыть меню Закон &amp; Культивация.</Tasks.6.TaskDesc>
+			<Tasks.8.TipsData.Desc>Когда практика внутреннего ученика достигает предела в текущем состоянии, он может начать следующую фазу только после успешного прорыва, поэтому особенно важно знать методы для прорыва. Есть много способов преодолеть предел, например, полагаясь на окружающую среду и случай, отправляясь в приключения, переживая жизнь внешнего ученика, переживая Бедствие Небес и т. д. Этот учебник учит, как полагаться на окружающую среду и случай.</Tasks.8.TipsData.Desc>
+			<Tasks.10.TaskDesc>Нажмите кнопку Прорыв в меню Состояния персонажа.</Tasks.10.TaskDesc>
+			<Tasks.10.UiData.Name>Прорыв</Tasks.10.UiData.Name>
+			<Tasks.11.TipsData.Desc>Стоимость ресурсов справа указывает, что прорыв будет стоить определенного количества ресурсов, таких как Ци, продолжительность жизни, предметы и Вдохновение. Если требования не будут выполнены, игрок не сможет выбрать место для прорыва.</Tasks.11.TipsData.Desc>
+			<Tasks.12.TipsData.Desc>Информация о прорыве слева показывает информацию об этом пределе, и иногда она дает игроку полезные советы, такие как "Этот прорыв будет сложнее для персонажей с высоким интеллектом".</Tasks.12.TipsData.Desc>
+			<Tasks.13.TipsData.Desc>Вознаграждение в центре указывает на дополнительные шансы на успех, которые текущая среда в выбранном месте добавляет к прорыву.</Tasks.13.TipsData.Desc>
+			<Tasks.15.TipsData.Desc>Ученики должны полагаться на комбинированное воздействие различных факторов, чтобы пробить предел, поэтому очень важно знать, как проверить вероятность прорыва.</Tasks.15.TipsData.Desc>
+			<Tasks.17.TaskDesc>Прорыв</Tasks.17.TaskDesc>
+			<Tasks.19.TaskDesc>Игрок может навести курсор на место рядом с рудными жилами, чтобы узнать вероятность прорыва там.</Tasks.19.TaskDesc>
+			<Tasks.21.TaskDesc>Игрок может навести курсор на место рядом с мелководьем, чтобы узнать вероятность прорыва там.</Tasks.21.TaskDesc>
+			<Tasks.23.TaskDesc>Игрок может навести курсор на место рядом с Гигантским Гинкго, чтобы узнать вероятность прорыва там.</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>Нажмите на место рядом с Гигантским Гинкго для прорыва.</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Нажмите Да.</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Переключитесь в режим Скорость 3x, нажав кнопку Скорость 3x в левом верхнем углу.</Tasks.27.TaskDesc>
+			<Tasks.30.TaskDesc>Нажмите Закрыть.</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Подождите, пока ученик не прибудет для прорыва.</Tasks.31.TaskDesc>
+			<Tasks.33.TaskDesc>Нажмите на уведомление о неудачном прорыве слева.</Tasks.33.TaskDesc>
+			<Tasks.35.TaskDesc>Нажмите кнопку Прорыв в меню Состояния персонажа.</Tasks.35.TaskDesc>
+			<Tasks.35.UiData.Name>Прорыв</Tasks.35.UiData.Name>
+			<Tasks.36.TaskDesc>Проверьте дополнительное Вдохновение в меню Прорыва.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Нажмите Закрыть.</Tasks.37.TaskDesc>
+			<Tasks.39.TipsData.Desc>При выборе места для прорыва место с высоким бонусом может увеличить шансы на успешный прорыв. Неудача прорыва иногда может нанести урон ученику, но иногда это добавляет небольшое количество бонуса Вдохновения для следующего прорыва. Ученик может начать следующую фазу только после успешного прорыва, и некоторый предел даст ученику бонус к статистике после того, как он будет пробит.</Tasks.39.TipsData.Desc>
+		</Text>
+		<Text Name="LearnEso">
+			<Type>Культивация</Type>
+			<DisplayName>Вдохновение &amp; Руководство</DisplayName>
+			<Desc>В этом уроке вы узнаете, что такое вдохновение, как его получить и связь между руководствами и достижениями.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Вдохновение &amp; Достижение</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Откройте меню Вдохновение</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Проверьте Использование для Вдохновения</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Откройте меню Основы</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Проверьте Использование для Достижений</Chapters.0.Tasks.3>
+			<Chapters.1.DisplayName>Как Изучать Руководства</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Проверьте Навык Лунной Формы</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Изучите Навык Лунной Формы</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Проверьте Рецепт Эликсира Буйства</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Узнайте Рецепт Эликсира Буйства</Chapters.1.Tasks.3>
+			<Chapters.2.DisplayName>Методы Получения Вдохновения</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Активируйте режим Тренировки</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Проверьте Уведомления</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Проверьте Вдохновение</Chapters.2.Tasks.2>
+			<Chapters.2.Tasks.3>Проверьте Пилюлю Небесного Пути</Chapters.2.Tasks.3>
+			<Chapters.2.Tasks.4>Съешьте Пилюлю Небесного Пути</Chapters.2.Tasks.4>
+			<Chapters.2.Tasks.5>Проверьте Вдохновение еще раз</Chapters.2.Tasks.5>
+			<Tasks.1.TaskDesc>Нажмите и выберите внутреннего ученика.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Нажмите, чтобы открыть меню Закон &amp; Культивация.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Нажмите, чтобы открыть меню Вдохновения.</Tasks.3.TaskDesc>
+			<Tasks.5.TaskDesc>Игрок может навести курсор, чтобы проверить вдохновение и информацию о нем в правом нижнем углу.</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Нажмите, чтобы закрыть меню Вдохновения.</Tasks.6.TaskDesc>
+			<Tasks.8.TaskDesc>Нажмите, чтобы открыть меню Общая Характеристика слева.</Tasks.8.TaskDesc>
+			<Tasks.10.TaskDesc>Игрок может навести курсор, чтобы увидеть достижения и соответствующую информацию.</Tasks.10.TaskDesc>
+			<Tasks.12.TipsData.Desc>Внутренние ученики будут продолжать получать вдохновение во время культивации, которое может быть использовано для изучения различных руководств, чтобы улучшить свои способности. Вдохновение, необходимое для овладения новым навыком, возрастает по мере того, как достижения становятся выше.</Tasks.12.TipsData.Desc>
+			<Tasks.14.TaskDesc>Нажмите, чтобы открыть меню Общая Характеристика слева.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Нажмите, чтобы открыть меню Вдохновения.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Проверьте требования к освоению навыка Лунной Формы.</Tasks.16.TaskDesc>
+			<Tasks.18.TaskDesc>Нажмите на Лунную Форму.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Нажмите Да.</Tasks.19.TaskDesc>
+			<Tasks.21.TaskDesc>Ознакомьтесь с требованиями, чтобы узнать рецепт Руководства Изобильного Эликсира.</Tasks.21.TaskDesc>
+			<Tasks.23.TaskDesc>Нажмите, чтобы закрыть меню Вдохновения.</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>Нажмите, чтобы закрыть меню Закон &amp; Культивация.</Tasks.24.TaskDesc>
+			<Tasks.26.TipsData.Desc>Внутренние ученики могут не только использовать вдохновение для изучения или продвижения обучения по руководству, но и для повышения своего уровня навыков и изучения уникальных отдельных руководств, таких как дневники путешествий и рецепты эликсиров. Ученики могут изучать руководства у своего учителя или изучать их в Павильоне Руководств, а также они могут изучать новые руководства во время приключений. Однако ученик не может выучить новое руководство, когда его вдохновения недостаточно.</Tasks.26.TipsData.Desc>
+			<Tasks.28.TaskDesc>Когда ученик находится в режиме тренировки, он получит много вдохновения во время тренировки, что является основным источником вдохновения.</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Нажмите Скорость 3x в левом верхнем углу, чтобы ускорить игру.</Tasks.29.TaskDesc>
+			<Tasks.31.TaskDesc>Подождите, пока ученик немного потренируется.</Tasks.31.TaskDesc>
+			<Tasks.33.TipsData.Desc>Когда над кнопкой вдохновения стоит "+", это означает, что этот ученик может выучить новое руководство. Когда внутренний ученик получит достаточно вдохновения для нового руководства, он автоматически покажет здесь "+", чтобы уведомить игрока о необходимости проверить эту информацию.</Tasks.33.TipsData.Desc>
+			<Tasks.35.TaskDesc>Нажмите, чтобы открыть меню Общая Характеристика слева.</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Нажмите, чтобы открыть меню Вдохновения.</Tasks.36.TaskDesc>
+			<Tasks.37.TipsData.Desc>Этот ученик получил некоторое вдохновение благодаря тренировкам.</Tasks.37.TipsData.Desc>
+			<Tasks.38.TaskDesc>Нажмите, чтобы закрыть меню Вдохновения.</Tasks.38.TaskDesc>
+			<Tasks.39.TaskDesc>Нажмите, чтобы закрыть меню Закон &amp; Культивация.</Tasks.39.TaskDesc>
+			<Tasks.41.TaskDesc>Игрок может навести курсор на Пилюлю Небесного Пути, чтобы увидеть ее эффект.</Tasks.41.TaskDesc>
+			<Tasks.43.TaskDesc>Нажмите кнопку Съесть в меню под NPC.</Tasks.43.TaskDesc>
+			<Tasks.43.UiData.Name>Есть</Tasks.43.UiData.Name>
+			<Tasks.44.TaskDesc>Пилюля Небесного Пути</Tasks.44.TaskDesc>
+			<Tasks.46.TaskDesc>Подождите, пока Пилюля Небесного Пути не будет съедена.</Tasks.46.TaskDesc>
+			<Tasks.48.TaskDesc>Нажмите, чтобы открыть меню Закон &amp; Культивация.</Tasks.48.TaskDesc>
+			<Tasks.49.TaskDesc>Нажмите, чтобы открыть меню Вдохновения.</Tasks.49.TaskDesc>
+			<Tasks.50.TipsData.Desc>Этот ученик получил много вдохновения, употребляя эликсир.</Tasks.50.TipsData.Desc>
+			<Tasks.52.TipsData.Desc>Когда ученик остро нуждается в большом вдохновении для изучения ключевого навыка, игрок может использовать другие способы его быстрого получения, такие как эликсиры, приключения, события, обучение в филиале и т. д. Психическое состояние, интеллект и скорость обучения ученика также могут влиять на скорость увеличения их вдохновения.</Tasks.52.TipsData.Desc>
+		</Text>
+		<Text Name="DTreatment">
+			<Type>Культивация</Type>
+			<DisplayName>Лечение внутренних травм</DisplayName>
+			<Desc>В этом уроке вы узнаете о различных видах травм для внутренних учеников и о том, как их исцелить.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Изучите Типы Внутренних Травм</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Выберите Раненого Ученика</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Осмотрите травму с помощью метки "Дух" </Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Осмотрите травму с помощью метки "Огонь" </Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Используйте Эликсиры для Исцеления Внутренних трав</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Выберите другого Ученика</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Проверьте алхимию</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Используйте Пилюлю Потока Ци</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Подождите, пока не будет Использована Пилюля Потока Ци</Chapters.1.Tasks.3>
+			<Chapters.1.Tasks.4>Проверьте травму Ученика</Chapters.1.Tasks.4>
+			<Chapters.2.DisplayName>Используйте Чудеса для исцеления Внутренних Травм</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Используйте Чудо Панацеи</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Дождитесь завершения</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Осмотрите травму</Chapters.2.Tasks.2>
+			<Tasks.1.TaskDesc>Нажмите на уведомление о травме слева.</Tasks.1.TaskDesc>
+			<Tasks.3.TaskDesc>Нажмите кнопку Здоровье в правой части меню пострадавшего персонажа.</Tasks.3.TaskDesc>
+			<Tasks.5.TaskDesc>Игрок может проверить метку "Дух" над повреждением, чтобы быстро узнать тип травмы.</Tasks.5.TaskDesc>
+			<Tasks.7.TaskDesc>Игрок может проверить метку "Огонь" над повреждением, чтобы быстро узнать тип травмы.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Закройте меню.</Tasks.8.TaskDesc>
+			<Tasks.10.TipsData.Desc>Существует в основном шесть типов внутренних травм, то есть" Дух", "Металл", "Дерево"," Вода", "Огонь" и "Земля". Такие действия, как неудачный прорыв, борьба с врагами и употребление пищи с слишком большим количеством Ци, могут вызвать такие внутренние травмы. Если вовремя не вылечить, то очень вероятно, что ученик умрет.</Tasks.10.TipsData.Desc>
+			<Tasks.12.TaskDesc>Нажмите и выберите другого внутреннего ученика.</Tasks.12.TaskDesc>
+			<Tasks.14.TaskDesc>Нажмите кнопку Алхимия в меню Состояния персонажа.</Tasks.14.TaskDesc>
+			<Tasks.14.UiData.Name>Алхимия</Tasks.14.UiData.Name>
+			<Tasks.15.TaskDesc>Игрок может навести курсор на Порошок Восстановления, чтобы увидеть его эффект.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Игрок может навести курсор на Пилюлю Потока Ци, чтобы увидеть ее эффект.</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Закройте страницу.</Tasks.17.TaskDesc>
+			<Tasks.19.TaskDesc>Нажмите, чтобы выбрать Пилюлю Потока Ци.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Нажмите кнопку Питание в меню Состояние.</Tasks.20.TaskDesc>
+			<Tasks.20.UiData.Name>Кормит</Tasks.20.UiData.Name>
+			<Tasks.21.TaskDesc>Нажмите и выберите травмированного внутреннего ученика.</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Нажмите Подтвердить.</Tasks.22.TaskDesc>
+			<Tasks.24.TaskDesc>Нажмите Скорость 3x в левом верхнем углу.</Tasks.24.TaskDesc>
+			<Tasks.26.TaskDesc>Закончите использовать Пилюлю Потока Ци.</Tasks.26.TaskDesc>
+			<Tasks.28.TaskDesc>Нажмите на травмированного внутреннего ученика.</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Нажмите кнопку Здоровье в правой части меню пострадавшего персонажа.</Tasks.29.TaskDesc>
+			<Tasks.31.TaskDesc>Игрок может перепроверить травму с помощью метки "Дух", чтобы увидеть, исцелена ли травма.</Tasks.31.TaskDesc>
+			<Tasks.33.TipsData.Desc>Для каждого типа внутренних травм существуют различные соответствующие эликсиры. По мере того, как внутренние ученики будут изучать больше рецептов эликсиров, будет больше эликсиров для лечения внутренних травм. Каждый эликсир имеет различный эффект и использование, поэтому убедитесь, что по крайней мере один ученик изучит эти рецепты, чтобы они могли приготовить эликсиры, если это необходимо.</Tasks.33.TipsData.Desc>
+			<Tasks.35.TaskDesc>Нажмите и выберите другого внутреннего ученика.</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Нажмите на Панацею.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Нажмите и выберите травмированного внутреннего ученика.</Tasks.37.TaskDesc>
+			<Tasks.39.TaskDesc>Подождите, пока чудо не завершится.</Tasks.39.TaskDesc>
+			<Tasks.41.TaskDesc>Нажмите на травмированного внутреннего ученика.</Tasks.41.TaskDesc>
+			<Tasks.42.TipsData.Desc>Внутренние повреждения как с меткой "Огонь", так и с остальными были исцелены с помощью Панацеи, поэтому они больше не отображаются здесь.</Tasks.42.TipsData.Desc>
+			<Tasks.44.TipsData.Desc>Внутренние ученики также могут использовать Панацею, чудо со специальными эффектами, для лечения раненых учеников в секте. Ученик с более высокой Ци может лучше относиться к другим. Это чудо очень важно для лечения внутренних травм, и лучше обучать больше учеников в случае чрезвычайной ситуации.</Tasks.44.TipsData.Desc>
+		</Text>
+		<Text Name="SchoolManager">
+			<Type>Развитие</Type>
+			<DisplayName>Управление Секой</DisplayName>
+			<Desc>В этом уроке вы узнаете о различных функциях в меню Секты и о том, как ее репутация и место в системе этики влияют на секту.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Основная Информация</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Секта Открыта</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Проверьте Репутацию</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Проверьте Добрая или Злая</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Проверьте Фэн-Шуй Секты</Chapters.0.Tasks.3>
+			<Chapters.0.Tasks.4>Проверьте Еду Секты</Chapters.0.Tasks.4>
+			<Chapters.0.Tasks.5>Проверьте Законы Секты</Chapters.0.Tasks.5>
+			<Chapters.1.DisplayName>Другие функции Секты</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Проверьте Структуру Секты</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Проверьте Список Учеников</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Проверьте Дипломатию</Chapters.1.Tasks.2>
+			<Tasks.1.TipsData.Desc>Как только у игрока появится внутренний ученик, он сможет проверять секту и управлять ею.</Tasks.1.TipsData.Desc>
+			<Tasks.3.TaskDesc>Нажмите кнопку Секта справа.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Игрок может получить репутацию благодаря таким действиям, как приключения, события и чудеса, но чем выше репутация, тем сильнее будут вторгающиеся враги.</Tasks.4.TaskDesc>
+			<Tasks.5.TipsData.Desc>Секта может расширяться каждый раз, когда ее репутация достигает новой стадии. Более крупная секта может набрать больше учеников.</Tasks.5.TipsData.Desc>
+			<Tasks.7.TaskDesc>Действия игрока в игре влияют на то, склоняется ли секта к добру или злу, что еще больше влияет на отношения между вашей сектой и другими сектами и влияет на ваш выбор во время событий и на то, как они развиваются.</Tasks.7.TaskDesc>
+			<Tasks.9.TipsData.Desc>Фэн-Шуй секты определяется Фэн-Шуй всех комнат и зданий, что повлияет на удачу всех учеников.</Tasks.9.TipsData.Desc>
+			<Tasks.11.TipsData.Desc>Как только игрок выберет еду секты, ученики автоматически оформят заказ на приготовление пищи за два часа до приема пищи. Учитывая текущее хранение пищи, игрок может выбирать различные блюда, чтобы улучшить рацион учеников. Когда запасенной пищи достаточно, игрок также может отменить выбор.</Tasks.11.TipsData.Desc>
+			<Tasks.13.TaskDesc>Нажмите кнопку Закон в правом нижнем углу меню Секты.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Нажмите, чтобы сложить Высший Закон слева.</Tasks.14.TaskDesc>
+			<Tasks.15.TipsData.Desc>Здесь показаны все Законы, приобретенные сектой игрока в разных категориях. Ученики, которые культивируют мирские Законы, могут достичь только фазы Формирования Ядра, в то время как Законы Золотого Ядра могут достичь только фазы Золотого Ядра. И другие типы законов различаются по-разному.</Tasks.15.TipsData.Desc>
+			<Tasks.16.TipsData.Desc>Здесь показана подробная информация о типах Законов, сопоставлении Законов, характеристиках Законов и т. д.</Tasks.16.TipsData.Desc>
+			<Tasks.17.TaskDesc>Нажмите, чтобы просмотреть Дерево Вдохновения.</Tasks.17.TaskDesc>
+			<Tasks.18.TipsData.Desc>Здесь показано подробное Дерево Вдохновения для просмотра игроком. Дерево дает информацию о том, какие руководства можно изучить для этого Закона.</Tasks.18.TipsData.Desc>
+			<Tasks.19.TaskDesc>Нажмите, чтобы закрыть Дерево Вдохновения.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Нажмите, чтобы закрыть меню Закон.</Tasks.20.TaskDesc>
+			<Tasks.22.TipsData.Desc>На странице для получения основной информации о секте игрок может узнать различную информацию о текущей секте, чтобы легко управлять ею.</Tasks.22.TipsData.Desc>
+			<Tasks.24.TaskDesc>Нажмите на Структуру Секты</Tasks.24.TaskDesc>
+			<Tasks.25.TipsData.Desc>Игрок может использовать это, чтобы установить подходящего лидера секты для текущей секты. Способности лидера секты влияют на настроение учеников, и смена или уход лидера секты имеет тот же эффект.</Tasks.25.TipsData.Desc>
+			<Tasks.26.TipsData.Desc>Как только секта игрока становится Небесной Обителью, могут быть созданы филиалы. Чем более способный руководитель филиала, тем больше бонусов получат ученики в филиале. Как только филиал будет создан, области филиалов могут быть спланированы с помощью строительства, что обеспечивает бонусные эффекты для учеников. Смена или уход лидера секты также повлияет на учеников.</Tasks.26.TipsData.Desc>
+			<Tasks.28.TaskDesc>Нажмите на Список Учеников</Tasks.28.TaskDesc>
+			<Tasks.29.TipsData.Desc>Игрок может видеть всех внутренних учеников и их учителей.</Tasks.29.TipsData.Desc>
+			<Tasks.30.TipsData.Desc>Игрок может нажать X, чтобы исключить ученика.</Tasks.30.TipsData.Desc>
+			<Tasks.32.TaskDesc>Нажмите Дипломатия.</Tasks.32.TaskDesc>
+			<Tasks.33.TipsData.Desc>Игрок может проверить эту страницу, чтобы узнать информацию об отношениях, дружбе, интерактивных взаимодействиях между вашей сектой и другими сектами, чтобы лучше спланировать развитие секты.</Tasks.33.TipsData.Desc>
+			<Tasks.34.TaskDesc>Нажмите Подробнее на Обитель Красных Облаков.</Tasks.34.TaskDesc>
+			<Tasks.35.TipsData.Desc>Игрок может нажать Детали, чтобы увидеть связь между одной сектой и другими, узнать силу секты и отслеживать ее изменения, чтобы планировать различные стратегии.</Tasks.35.TipsData.Desc>
+			<Tasks.36.TaskDesc>Нажмите, чтобы закрыть меню Обитель Красных Облаков.</Tasks.36.TaskDesc>
+			<Tasks.38.TipsData.Desc>Эти функции секты играют важную роль во время игры, и игрок может использовать их для разработки своей собственной секты и планирования различных стратегий.</Tasks.38.TipsData.Desc>
+		</Text>
+		<Text Name="FengShui">
+			<Type>Развитие</Type>
+			<DisplayName>Фэн-Шуй</DisplayName>
+			<Desc>В этом уроке вы узнаете разницу между зданиями Фэн-Шуй и зданиями, не относящимися к Фэн-Шуй, и как настроить Фэн-шуй в соответствии с их элементом.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Фэн-Шуй Зданий и Украшений</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Проверьте Фэн-Шуй Объекта</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Проверьте Украшения</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Фэн-шуй Объектов</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Проверьте Фэн-Шуй Стола</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Проверьте Фэн-Шуй возле Стола</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Расположите Огненные Медные Слитки</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Переместите Украшения</Chapters.1.Tasks.3>
+			<Chapters.1.Tasks.4>Проверьте Изменения в Фэн-Шуй</Chapters.1.Tasks.4>
+			<Chapters.2.DisplayName>Как настроить Фэн-Шуй в Комнатах</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Проверьте Фэн-Шуй в Комнатах</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Проверьте Фэн-Шуй Объектов</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Проверьте Размещение Комнаты</Chapters.2.Tasks.2>
+			<Chapters.2.Tasks.3>Проверьте Направление Двери</Chapters.2.Tasks.3>
+			<Tasks.1.TaskDesc>Нажмите кнопку Собрать в левом нижнем углу, чтобы открыть страницу Сборки.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Нажмите кнопку Жизнь, чтобы открыть страницу Объектов для Жизни.</Tasks.2.TaskDesc>
+			<Tasks.2.UiData.Name>Жизнь</Tasks.2.UiData.Name>
+			<Tasks.3.TaskDesc>В игре большинство объектов, классифицированных для Жизни, Работы, Секты и Развлечениям с тегом Фэн-Шуй, относятся к зданиям Фэн-Шуй. Фэн-Шуй этих объектов меняется в зависимости от элементарной среды в их местоположении. Когда элемент окружающей среды порождает элемент объекта, Фэн-Шуй будет хорошим, и наоборот.</Tasks.3.TaskDesc>
+			<Tasks.5.TaskDesc>В игре здание без тега Фэн-Шуй является украшением. Большинство из этих объектов унаследуют элементарный атрибут своего основного материала и повлияют на элементарную среду вокруг них. Сами объекты не подвержены влиянию Пяти Элементов, как и Фэн-Шуй.</Tasks.5.TaskDesc>
+			<Tasks.6.TipsData.Desc>В игре некоторые объекты имеют свой собственный элементарный тег. Когда здание имеет элементарный или неопределенный тег, на него не будет влиять элемент основного материала, поэтому то, что влияет на элементарную среду, - это элемент в теге.</Tasks.6.TipsData.Desc>
+			<Tasks.8.TipsData.Desc>Помните, что некоторые объекты имеют элементарный атрибут земли, на которой они находятся, который полностью отличается от элемента зданий, например, земля печи имеет элемент Огня, а земля колодца - элемент Воды, поэтому игроку необходимо изучить эту функцию и узнать больше о Фэн-Шуй.</Tasks.8.TipsData.Desc>
+			<Tasks.11.TaskDesc>Нажмите Фэн-Шуй в левом верхнем углу, чтобы войти в режим Фэн-Шуй.</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Стол из коричневого камня - это здание Фэн-Шуй элемента Земли, поэтому на него влияют взаимодействия Пяти Элементов в окружающей среде. В режиме Фэн-Шуй, если здание желтое или красное, это означает, что его Фэн-Шуй плохой. Текущее здание красного цвета, на которое явно влияет противодействующий элемент.</Tasks.12.TaskDesc>
+			<Tasks.14.TaskDesc>Пиломатериалы - это элемент Дерева, который влияет на окружающую среду вокруг него.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Фонарь - это украшение Дерева, которое влияет на элементарную среду вокруг него.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Нажмите кнопку Фэн-Шуй в левом верхнем углу, чтобы выйти из режима Фэн-Шуй.</Tasks.16.TaskDesc>
+			<Tasks.18.TaskDesc>Выберите отображение Камня Духа слева от таблицы коричневого камня.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Нажмите кнопку Разместить Предмет.</Tasks.19.TaskDesc>
+			<Tasks.19.UiData.Name>Разместить Предмет</Tasks.19.UiData.Name>
+			<Tasks.20.TaskDesc>Нажмите, чтобы выбрать Огеупорный Медный Слиток.</Tasks.20.TaskDesc>
+			<Tasks.22.TaskDesc>Выберите Фонарь справа от стола из коричневого камня.</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Нажмите кнопку Снести.</Tasks.23.TaskDesc>
+			<Tasks.23.UiData.Name>Сносит</Tasks.23.UiData.Name>
+			<Tasks.24.TaskDesc>Выберите Фонарь справа от стола из коричневого камня.</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Нажмите кнопку Переместить.</Tasks.25.TaskDesc>
+			<Tasks.25.UiData.Name>Движение</Tasks.25.UiData.Name>
+			<Tasks.26.TaskDesc>Нажмите кнопку Разместить и поместите его в указанное место.</Tasks.26.TaskDesc>
+			<Tasks.27.TaskDesc>Переключитесь в режим Скорость 3x, нажав кнопку Скорость 3x в левом верхнем углу.</Tasks.27.TaskDesc>
+			<Tasks.29.TaskDesc>Дождитесь завершения.</Tasks.29.TaskDesc>
+			<Tasks.31.TaskDesc>Нажмите кнопку Фэн-Шуй в левом верхнем углу, чтобы выйти из режима Фэн-Шуй.</Tasks.31.TaskDesc>
+			<Tasks.32.TaskDesc>Размещение Огненного Медного Слитка улучшило элемент Огня в окружающей среде.</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Наличие Фонаря из Огненной Меди улучшило элемент Огня в окружающей среде.</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>Из-за изменения элементарной среды на стол из коричневого камня влияет элемент Огня в окружающей среде, который порождает элемент Земли стола, поэтому Фэн-Шуй стал лучше.</Tasks.34.TaskDesc>
+			<Tasks.36.TipsData.Desc>Игрок может изменить Пять Элементов, окружающих здание Фэн-Шуй, чтобы изменить Фэн-Шуй, а Фэн-Шуй объекта, в свою очередь, влияет на Фэн-Шуй комнаты.</Tasks.36.TipsData.Desc>
+			<Tasks.38.TaskDesc>Выберите комнату, нажав на пустую область в ней.</Tasks.38.TaskDesc>
+			<Tasks.39.TaskDesc>Игрок может проверить отображение Фэн-Шуй здесь и увидеть, что Фэн-Шуй комнаты определяется несколькими факторами.</Tasks.39.TaskDesc>
+			<Tasks.41.TipsData.Desc>Фэн-Шуй всех зданий Фэн-Шуй влияет на Фэн-Шуй комнаты, который определяется общим Фэн-Шуй всех зданий в нем.</Tasks.41.TipsData.Desc>
+			<Tasks.43.TipsData.Desc>Тесная или пустая планировка комнаты ухудшит Фэн-Шуй.</Tasks.43.TipsData.Desc>
+			<Tasks.44.TipsData.Desc>В зависимости от функции комнаты, на ее Фэн-Шуй будут влиять такие факторы, как направление двери и наличие нескольких дверей. Спальня должна быть обращена на юг, поэтому дверь должна быть построена внизу. Используйте справку (Горячая клавиша: F10), чтобы проверить Фэн-Шуй и направление для других типов Комнат.</Tasks.44.TipsData.Desc>
+			<Tasks.46.TipsData.Desc>Игрок может нажать кнопку "Справка" (Горячая клавиша: F10) в правой части, чтобы проверить Фэн-Шуй комнаты в Пяти Элементах &amp; Фэн-шуй, чтобы узнать более подробные правила о Фэн-шуй.</Tasks.46.TipsData.Desc>
+		</Text>
+		<Text Name="RoomDesign">
+			<Type>Развитие</Type>
+			<DisplayName>Комната Внутреннего Ученика</DisplayName>
+			<Desc>В этом уроке вы узнаете об основных потребностях комнаты внутреннего ученика и о том, как соответствовать требованиям Фэн-Шуй.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Выбор комнаты для внутренних учеников</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Проверьте Тип Закона</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Проверьте Пять Элементов Комнаты</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Постройте Тренировочное Место</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Выберите Основные Материалы</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Подождите, пока строительство не будет завершено</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Выберите Жильца</Chapters.1.Tasks.2>
+			<Chapters.2.DisplayName>Улучшите Фэн-Шуй</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Поставьте Масляную Лампу</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Расставьте Мебель</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Нажмите и выберите внутреннего ученика.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Нажмите, чтобы открыть меню Закон &amp; Культивация.</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>Закон ученика состоит из элемента Металла, и в соответствии с взаимодействием Пяти Элементов нам нужно назначить этому ученику комнату элемента Земли.</Tasks.3.TipsData.Desc>
+			<Tasks.4.TaskDesc>Нажмите, чтобы закрыть меню Закон &amp; Культивация.</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>Нажмите Фэн-Шуй в левом верхнем углу, чтобы войти в режим Фэн-Шуй.</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Эта комната имеет высокий элемент Огня, противодействующий элементу Закона ученика, поэтому она не подходит для того, чтобы быть его комнатой.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Эта комната имеет высокий элемент Земли, соединенный со стихией Закона ученика, поэтому она подходит для того, чтобы быть его комнатой.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Нажмите кнопку Фэн-Шуй в левом верхнем углу, чтобы выйти из режима Фэн-Шуй.</Tasks.9.TaskDesc>
+			<Tasks.11.TipsData.Desc>Пожалуйста, проследите за взаимодействием Пяти Элементов, чтобы выбрать комнату для внутреннего ученика, и попытайтесь построить комнату в области элемента, который породил ученика.</Tasks.11.TipsData.Desc>
+			<Tasks.13.TaskDesc>Нажмите кнопку Собрать в левом нижнем углу, чтобы открыть страницу Сборки.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Нажмите кнопку Жизнь, чтобы открыть страницу Объекты для Жизни.</Tasks.14.TaskDesc>
+			<Tasks.14.UiData.Name>Жизнь</Tasks.14.UiData.Name>
+			<Tasks.15.TaskDesc>Нажмите Кровать, чтобы начать режим размещения.</Tasks.15.TaskDesc>
+			<Tasks.16.TipsData.Desc>Этот ученик имеет элемент Металла, поэтому ему больше подходит практика в среде, богатой Землей. Здание Фэн-Шуй должно сопровождаться украшениями с элементом, который порождает Землю, поэтому лучше выбрать основной материал, который состоит из элемента Металла, чтобы разместить много украшений элемента Земли, который порождает Металл.</Tasks.16.TipsData.Desc>
+			<Tasks.17.TaskDesc>Нажмите, чтобы выбрать Железный Слиток.</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Поместите его в указанное место на схеме.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Нажмите правой кнопкой мыши, чтобы отменить режим Сборки.</Tasks.19.TaskDesc>
+			<Tasks.21.TaskDesc>Переключитесь в режим Скорость 3x, нажав кнопку Скорость 3x в левом верхнем углу.</Tasks.21.TaskDesc>
+			<Tasks.23.TaskDesc>Подождите, пока строительство не будет завершено.</Tasks.23.TaskDesc>
+			<Tasks.25.TaskDesc>Нажмите, чтобы выбрать Железную Кровать.</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Нажмите, чтобы назначить владельца.</Tasks.26.TaskDesc>
+			<Tasks.26.UiData.Name>Назначить</Tasks.26.UiData.Name>
+			<Tasks.27.TaskDesc>Нажмите на первого персонажа и назначьте для него кровать.</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Подтвердите назначение.</Tasks.28.TaskDesc>
+			<Tasks.30.TipsData.Desc>В качестве тренировочного места можно использовать кровать, подушку или трон. Его основной материал должен быть из того же элемента, что и Закон внутреннего ученика.</Tasks.30.TipsData.Desc>
+			<Tasks.32.TaskDesc>Нажмите кнопку Собрать в левом нижнем углу, чтобы открыть страницу Сборки.</Tasks.32.TaskDesc>
+			<Tasks.33.TaskDesc>Нажмите Украшение, чтобы открыть страницу Объекты для Жизни.</Tasks.33.TaskDesc>
+			<Tasks.33.UiData.Name>Декорации</Tasks.33.UiData.Name>
+			<Tasks.34.TaskDesc>Нажмите кнопку Масляная Лампа, чтобы начать режим размещения.</Tasks.34.TaskDesc>
+			<Tasks.35.TaskDesc>Нажмите, чтобы выбрать коричневый камень в качестве основного материала.</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Поместите его в указанное место на схеме.</Tasks.36.TaskDesc>
+			<Tasks.38.TaskDesc>Нажмите Мебель.</Tasks.38.TaskDesc>
+			<Tasks.38.UiData.Name>Досуг</Tasks.38.UiData.Name>
+			<Tasks.39.TaskDesc>Нажмите Ваза.</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Поместите его в указанное место на схеме.</Tasks.40.TaskDesc>
+			<Tasks.41.TaskDesc>Нажмите Кадило.</Tasks.41.TaskDesc>
+			<Tasks.42.TaskDesc>Поместите его в указанное место на схеме.</Tasks.42.TaskDesc>
+			<Tasks.44.TipsData.Desc>Главным объектом Фэн-Шуй в комнате внутреннего ученика обычно является кровать, подушка, трон и т. д. Комнаты, которые содержат эти объекты Фэн-Шуй, обычно являются спальнями, которые должны быть обращены на юг. Ключ к планированию комнаты внутреннего ученика заключается в том, чтобы использовать элементы украшения, которые порождают Закон ученика. Масляная Лампа элемента Земли порождает Закон Металла ученика, поэтому используйте металлические материалы, чтобы построить тренировочное место. (В этом уроке в качестве примера используется кровать)</Tasks.44.TipsData.Desc>
+		</Text>
+		<Text Name="WalkStop">
+			<Type>Развитие</Type>
+			<DisplayName>Торговля</DisplayName>
+			<Desc>В этом уроке вы узнаете необходимую информацию, связанную с торговлей и тем, как торговать с продавцами.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Подготовка Перед Торговлей</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Проверьте Информацию у Продавцов</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Спланируйте Торговую Зону</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Подготовка Предметов для Продажи</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Как Торговать</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Торговля с Продавцом</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Проверьте меню Торговли</Chapters.1.Tasks.1>
+			<Tasks.2.TaskDesc>Нажмите Подтвердить.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Нажмите на уведомление о прибытии продавца слева.</Tasks.3.TaskDesc>
+			<Tasks.5.TipsData.Desc>Торговцы будут приходить в секту время от времени, и игрок может торговать с ними ресурсами. Валютой для торговли в основном являются Камни Духа, и предметы равной ценности могут быть обменены. Игроку необходимо подготовить ресурсы для торговли перед каждой сделкой.</Tasks.5.TipsData.Desc>
+			<Tasks.7.TaskDesc>Нажмите кнопку Собрать в левом нижнем углу, чтобы открыть страницу Сборки.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Нажмите на Область, чтобы открыть страницу Здания Области.</Tasks.8.TaskDesc>
+			<Tasks.8.UiData.Name>Область</Tasks.8.UiData.Name>
+			<Tasks.9.TaskDesc>Нажмите Кровать, чтобы начать режим размещения.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Перетащите и выберите торговую зону в указанном месте.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Нажмите правой кнопкой мыши, чтобы отменить режим Сборки.</Tasks.11.TaskDesc>
+			<Tasks.13.TaskDesc>Выберите Камень Духа.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Нажмите кнопку Торговля в нижнем меню.</Tasks.14.TaskDesc>
+			<Tasks.14.UiData.Name>Рынок</Tasks.14.UiData.Name>
+			<Tasks.15.TaskDesc>Переключитесь в режим Скорость 3x, нажав кнопку Скорость 3x в левом верхнем углу.</Tasks.15.TaskDesc>
+			<Tasks.17.TaskDesc>Дождитесь перемещения товаров в торговую зону.</Tasks.17.TaskDesc>
+			<Tasks.19.TipsData.Desc>Каждый раз, когда приходит торговец, он приносит большое количество ресурсов, поэтому заранее подготовьте предметы, которые необходимо продать, на случай, если вы пропустите торговое время.</Tasks.19.TipsData.Desc>
+			<Tasks.21.TaskDesc>Нажмите, чтобы выбрать продавца.</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Нажмите кнопку Торговля.</Tasks.22.TaskDesc>
+			<Tasks.22.UiData.Name>Торговля</Tasks.22.UiData.Name>
+			<Tasks.23.TaskDesc>Подождите, пока ученик не пойдет торговать.</Tasks.23.TaskDesc>
+			<Tasks.25.TipsData.Desc>Вот ресурсы торговца.</Tasks.25.TipsData.Desc>
+			<Tasks.26.TaskDesc>Игрок может использовать горячие клавиши для выбора нескольких ресурсов в пакетном режиме.</Tasks.26.TaskDesc>
+			<Tasks.27.TipsData.Desc>Вот ресурсы в торговой зоне секты игрока.</Tasks.27.TipsData.Desc>
+			<Tasks.28.TipsData.Desc>Вот ресурсы, которые торгуются, вверху слева - общая стоимость ресурсов, торгуемых продавцом, а вверху справа - стоимость ресурсов из секты игрока. Когда обе стороны согласны с ценой, игрок может нажать кнопку Подтвердить ниже, чтобы завершить сделку.</Tasks.28.TipsData.Desc>
+			<Tasks.30.TipsData.Desc>Каждый раз, когда торговец прибывает, они остаются на некоторое время, так что игрок может торговать несколько раз. Но помните, если торговец умрет в секте игрока, все ресурсы будут принадлежать секте игрока, но ни один торговец больше не придет в секту торговать, поэтому, пожалуйста, дважды подумайте, прежде чем действовать.</Tasks.30.TipsData.Desc>
+		</Text>
+		<Text Name="WorldMap">
+			<Type>Развитие</Type>
+			<DisplayName>Мировые Локации</DisplayName>
+			<Desc>В этом уроке вы узнаете о локациях в мире и Карте Мира, а также о том, как взаимодействовать с этими местоположениями.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Карта Мира</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Проверьте Местоположение</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Проверка Секретности</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Проверьте Список Учеников</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Проверить Расширение</Chapters.0.Tasks.3>
+			<Chapters.1.DisplayName>Как отправиться в приключения и Лагерь</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Отправляйте Учеников в Приключения</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Отправить Лагерь</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Проверьте ход Разведки</Chapters.1.Tasks.2>
+			<Tasks.1.TaskDesc>Нажмите, чтобы открыть Карту Мира.</Tasks.1.TaskDesc>
+			<Tasks.3.TipsData.Desc>Как только у игрока появятся внутренние ученики, вы можете использовать Карту Мира, чтобы отправить учеников в эти места для приключений, во время которых они столкнутся с различными секретами и получат от них награды и ресурсы.</Tasks.3.TipsData.Desc>
+			<Tasks.5.TaskDesc>Нажмите Секрет в правом нижнем углу.</Tasks.5.TaskDesc>
+			<Tasks.6.TipsData.Desc>Когда игрок сталкивается с секретом в игре, текущий секрет будет отображаться здесь. Нажмите на секрет, и камера переместится в то место, где это происходит.</Tasks.6.TipsData.Desc>
+			<Tasks.8.TaskDesc>Нажмите на Ученика в правом нижнем углу.</Tasks.8.TaskDesc>
+			<Tasks.9.TipsData.Desc>Если игрок отправил ученика в приключение или в поход куда-нибудь, они будут показаны здесь. Нажмите кнопку Отозвать, если игроку нужно позвать ученика.</Tasks.9.TipsData.Desc>
+			<Tasks.11.TaskDesc>Нажмите кнопку Расширение в левом верхнем углу, чтобы перейти в режим Расширения.</Tasks.11.TaskDesc>
+			<Tasks.12.TipsData.Desc>Каждая сила на карте имеет свой собственный диапазон и территорию, и разные территории показаны разными цветами. Есть много способов расширить свою секту, и нейтральную зону легче всего получить.</Tasks.12.TipsData.Desc>
+			<Tasks.13.TaskDesc>Нажмите кнопку Информация в левом верхнем углу, чтобы выйти из режима Расширения.</Tasks.13.TaskDesc>
+			<Tasks.15.TipsData.Desc>После введения Карты Мира мы узнали много взаимодействий. Далее, давайте узнаем больше об основных локациях.</Tasks.15.TipsData.Desc>
+			<Tasks.17.TaskDesc>Нажмите Деревня Наньпин.</Tasks.17.TaskDesc>
+			<Tasks.18.TaskDesc>Нажмите Приключение.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Когда ученик отправляется в приключение в целевое место, затраты времени связаны с характеристиками ученика, такой как его состояние и скорость приключения. Игрок может отправить несколько учеников одновременно в место для приключений.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Нажмите и выберите ученика.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Нажмите Подтвердить.</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Нажмите Хорошо.</Tasks.22.TaskDesc>
+			<Tasks.24.TaskDesc>Нажмите кнопку Лагерь.</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Нажмите и выберите ученика.</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Нажмите Подтвердить.</Tasks.26.TaskDesc>
+			<Tasks.28.TipsData.Desc>Вот ход исследования текущего местоположения. Как в приключениях, так и в Лагере игрок может постепенно продвигаться в исследовании, и по мере продвижения исследования секретные места вокруг него будут разблокированы. 100% означает, что локация былоа полностью исследована.</Tasks.28.TipsData.Desc>
+			<Tasks.30.TipsData.Desc>Узнав о приключениях и лагере, игрок может отправиться в мировые локации, чтобы получить различные редкие ресурсы, открыть интересные секреты и посетить другие секты и т. д.</Tasks.30.TipsData.Desc>
+		</Text>
+		<Text Name="DLPlace">
+			<Type>Развитие</Type>
+			<DisplayName>Назначить Агентство</DisplayName>
+			<Desc>Узнайте, как создать агентство и управлять им в этом руководстве.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Проверьте Агентство</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Откройте меню Назначения</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Проверьте агентство Южной Горы</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Управление Агентством</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Проверьте Управление Силой</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Политика Распространения</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Забрать Припасы</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Повышенное внимание</Chapters.1.Tasks.3>
+			<Chapters.1.Tasks.4>Проверьте меню Агентства</Chapters.1.Tasks.4>
+			<Chapters.2.DisplayName>Управление Агентскими Мероприятиями</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Организация Благотворительных Мероприятий</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Проверка Результатов</Chapters.2.Tasks.1>
+			<Chapters.2.Tasks.2>Управление Специальными Событиями</Chapters.2.Tasks.2>
+			<Tasks.1.TaskDesc>Нажмите, чтобы открыть Карту Мира.</Tasks.1.TaskDesc>
+			<Tasks.3.TaskDesc>Нажмите на Город Изобилия.</Tasks.3.TaskDesc>
+			<Tasks.4.TipsData.Desc>Прежде чем внешний ученик будет назначен в агентство, необходимо выполнить определенные требования.</Tasks.4.TipsData.Desc>
+			<Tasks.6.TaskDesc>Нажмите на Южную Гору.</Tasks.6.TaskDesc>
+			<Tasks.7.TipsData.Desc>Как только внешний ученик будет назначен в агентство, будут разблокированы дополнительные функции и здания агентства.</Tasks.7.TipsData.Desc>
+			<Tasks.8.TaskDesc>Нажмите, чтобы закрыть меню Южной Горы.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Нажмите, чтобы закрыть меню Карты Мира.</Tasks.9.TaskDesc>
+			<Tasks.11.TipsData.Desc>Как только у игрока появится агентство, он сможет проверить его и управлять им.</Tasks.11.TipsData.Desc>
+			<Tasks.13.TaskDesc>Нажмите кнопку Сила справа.</Tasks.13.TaskDesc>
+			<Tasks.14.TipsData.Desc>Вот все агентства в игре, и только если агентство было назначено ученику, игрок может управлять им через это меню. Основная информация о каждом агентстве может быть быстро доступна здесь, и нажатие кнопок справа открывает меню Агентства для получения более подробной информации.</Tasks.14.TipsData.Desc>
+			<Tasks.16.TaskDesc>Нажмите кнопку Ручной труд.</Tasks.16.TaskDesc>
+			<Tasks.17.TipsData.Desc>У каждого агентства может быть своя местная политика. Когда происходят особые события, решение о политике часто связано с такими факторами, как влияние, убеждения и население.</Tasks.17.TipsData.Desc>
+			<Tasks.18.TaskDesc>Нажмите Благотворительность.</Tasks.18.TaskDesc>
+			<Tasks.20.TipsData.Desc>Каждое агентство имеет свое собственное хранилище. Время от времени игрок может нажать кнопку Взять, чтобы собрать локальные ресурсы, но помните, что хранилище ограничено.</Tasks.20.TipsData.Desc>
+			<Tasks.21.TaskDesc>Нажмите Взять.</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Нажмите Хорошо.</Tasks.22.TaskDesc>
+			<Tasks.24.TipsData.Desc>Иногда уделение внимания - хороший способ увеличить частоту событий в агентстве, но это будет стоить больше ресурсов.</Tasks.24.TipsData.Desc>
+			<Tasks.25.TaskDesc>Нажмите кнопку Смотреть.</Tasks.25.TaskDesc>
+			<Tasks.27.TaskDesc>Нажмите на Южную Гору.</Tasks.27.TaskDesc>
+			<Tasks.28.TipsData.Desc>Вот основная информация об агентствах, контролируемых игроком, таких как ключевые агенты, основные здания, выход, хранилище и т. д.</Tasks.28.TipsData.Desc>
+			<Tasks.29.TaskDesc>Нажмите Агент слева.</Tasks.29.TaskDesc>
+			<Tasks.30.TipsData.Desc>Вот информация об агентах агентств, контролируемых игроком, например, общая статистика агента и агенты-ученики.</Tasks.30.TipsData.Desc>
+			<Tasks.31.TaskDesc>Нажмите Вера слева.</Tasks.31.TaskDesc>
+			<Tasks.32.TipsData.Desc>Вот информация о Вере в агентствах, контролируемые игроком, такие как местные религиозные течения, верования, статуи, общая численность населения и т. д.</Tasks.32.TipsData.Desc>
+			<Tasks.33.TaskDesc>Нажмите, чтобы закрыть меню Южной Горы.</Tasks.33.TaskDesc>
+			<Tasks.34.TaskDesc>Нажмите, чтобы закрыть меню Карты Мира.</Tasks.34.TaskDesc>
+			<Tasks.35.TaskDesc>Нажмите, чтобы закрыть меню Управления Силой.</Tasks.35.TaskDesc>
+			<Tasks.37.TipsData.Desc>Как только у игрока появится агентство, он сможет проверить его и управлять им.</Tasks.37.TipsData.Desc>
+			<Tasks.40.TipsData.Desc>Как только в агентстве произойдет событие, игрок может проверить его в маленьком окне справа. Если игрок справился с событием до окончания обратного отсчета, он получит вознаграждение.</Tasks.40.TipsData.Desc>
+			<Tasks.41.TaskDesc>Нажмите кнопку Проверить События справа.</Tasks.41.TaskDesc>
+			<Tasks.42.TipsData.Desc>Следуя советам, игрок может выбрать подходящее решение, эффект от которого обычно связан с характеристиками учеников в агентстве.</Tasks.42.TipsData.Desc>
+			<Tasks.43.TaskDesc>Нажмите, чтобы выбрать Дерево.</Tasks.43.TaskDesc>
+			<Tasks.44.TaskDesc>Нажмите Да.</Tasks.44.TaskDesc>
+			<Tasks.45.TipsData.Desc>Как только событие будет обработано, в окне политики больше не будет отображаться восклицательный знак.</Tasks.45.TipsData.Desc>
+			<Tasks.46.TaskDesc>Нажмите, чтобы закрыть меню Управления Силой.</Tasks.46.TaskDesc>
+			<Tasks.48.TaskDesc>Переключитесь в режим Скорость 3x, нажав кнопку Скорость 3x в левом верхнем углу.</Tasks.48.TaskDesc>
+			<Tasks.50.TaskDesc>Окно события, которое появляется после завершения благотворительного мероприятия.</Tasks.50.TaskDesc>
+			<Tasks.51.TaskDesc>Нажмите, чтобы проверить результат.</Tasks.51.TaskDesc>
+			<Tasks.52.TipsData.Desc>После того, как игрок успешно завершит мероприятие, агентство наберет много последователей. Большое количество последователей выигрывает от расширения агентства.</Tasks.52.TipsData.Desc>
+			<Tasks.53.TaskDesc>Нажмите Хорошо.</Tasks.53.TaskDesc>
+			<Tasks.56.TaskDesc>Нажмите Хорошо.</Tasks.56.TaskDesc>
+			<Tasks.57.TaskDesc>Нажмите на сообщение слева: "Катастрофа в учебном зале: Землетрясение".</Tasks.57.TaskDesc>
+			<Tasks.58.TipsData.Desc>Игрок может проверить сообщение слева, чтобы увидеть текущее специальное мероприятие в агентстве.</Tasks.58.TipsData.Desc>
+			<Tasks.59.TaskDesc>Нажмите на Южную Гору.</Tasks.59.TaskDesc>
+			<Tasks.60.TipsData.Desc>Игрок должен выполнить следующие требования до окончания обратного отсчета. Событие завершается только в том случае, если требования выполнены до окончания обратного отсчета. Несколько последователей уйдут, если мероприятие не будет завершено. Игрок может использовать приключение, чтобы помочь закончить специальные события.</Tasks.60.TipsData.Desc>
+			<Tasks.62.TipsData.Desc>Иногда в агентстве проводятся специальные мероприятия, которыми должен заниматься игрок. При надлежащем обращении агентство получит большое влияние. Большое влияние помогает игроку расширить свою территорию и повысить уровень агентства. Агентства также могут принести много преимуществ секте игрока, таких как местный выход, набор учеников, получение веры и т. д.</Tasks.62.TipsData.Desc>
+		</Text>
+		<Text Name="SchoolInteractive">
+			<Type>Развитие</Type>
+			<DisplayName>Взаимодействие Сект</DisplayName>
+			<Desc>В этом уроке вы узнаете, как взаимодействовать с другими сектами и торговать с ними.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Выстраивайте Отношения с другими Сектами</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Посетите Гору Шу</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Выполняйте задания Секты</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Как торговать с Другими Сектами</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Торговля с Сектами</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Проверка Предметов для Торговли</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Попытайтесь Торговать</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Попытайтесь Торговать снова</Chapters.1.Tasks.3>
+			<Tasks.1.TaskDesc>Нажмите, чтобы открыть Карту Мира.</Tasks.1.TaskDesc>
+			<Tasks.3.TaskDesc>Нажмите, чтобы выбрать Гору Шу.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Нажмите кнопку Посетить.</Tasks.4.TaskDesc>
+			<Tasks.5.TipsData.Desc>Игрок должен подарить секте подарок на встречу, чтобы завершить визит, поэтому, пожалуйста, заранее спланируйте торговую зону и выберите подходящий торговый предмет. Дополнительные материалы будут разблокированы только после завершения визита.</Tasks.5.TipsData.Desc>
+			<Tasks.6.TaskDesc>Нажмите Ноты.</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Нажмите Подтвердить.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Нажмите Подтвердить.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Нажмите, чтобы закрыть меню Карты Мира.</Tasks.9.TaskDesc>
+			<Tasks.13.TipsData.Desc>Когда появляется уведомление о задании секты, игрок может выбрать нужный пункт в меню Расширения..</Tasks.13.TipsData.Desc>
+			<Tasks.14.TaskDesc>Нажмите Хорошо.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Нажмите, чтобы открыть Карту Мира.</Tasks.15.TaskDesc>
+			<Tasks.16.TipsData.Desc>Как только задание секты будет запущено, над кнопкой Расширения появится знак вопроса, что означает, что игрок может предложить помощь другой секте и получить связи.</Tasks.16.TipsData.Desc>
+			<Tasks.17.TaskDesc>Нажмите кнопку Расширения в левом верхнем углу, чтобы перейти в режим Расширения.</Tasks.17.TaskDesc>
+			<Tasks.18.TipsData.Desc>Вот предмет квеста, необходимый другой секте. Игроку нужно поместить подготовленный предмет в торговую зону, чтобы отдать его им.</Tasks.18.TipsData.Desc>
+			<Tasks.19.TaskDesc>Нажмите кнопку Дать.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Нажмите на Пилюлю Жизни.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Нажмите Подтвердить.</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Нажмите Хорошо.</Tasks.22.TaskDesc>
+			<Tasks.23.TaskDesc>Нажмите Подтвердить.</Tasks.23.TaskDesc>
+			<Tasks.25.TipsData.Desc>Есть много способов установить связи с другой сектой, которые влияют на будущую торговлю с этой сектой. Как правило, торговля с сектой выиграет от большего количества связей с не.</Tasks.25.TipsData.Desc>
+			<Tasks.27.TaskDesc>Нажмите, чтобы выбрать Гору Шу.</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Нажмите кнопку Торговля.</Tasks.28.TaskDesc>
+			<Tasks.30.TipsData.Desc>Игрок может видеть, какие предметы можно продать здесь. Элемент, показанный красным цветом, означает, что связи с другой сектой слишком низки, чтобы торговать этим типом элементов.</Tasks.30.TipsData.Desc>
+			<Tasks.31.TaskDesc>Нажмите на пункт меню, чтобы увеличить масштаб.</Tasks.31.TaskDesc>
+			<Tasks.32.TipsData.Desc>Игрок может щелкнуть и увеличить масштаб, чтобы увидеть больше торгуемых типов, таких как аренда артефактов и обращение за помощью к ученикам с Золотым Ядром.</Tasks.32.TipsData.Desc>
+			<Tasks.34.TaskDesc>Нажмите на пункт меню, чтобы увеличить масштаб.</Tasks.34.TaskDesc>
+			<Tasks.35.TaskDesc>Нажмите на Красный Женьшень из предметов секты слева.</Tasks.35.TaskDesc>
+			<Tasks.36.TaskDesc>Нажмите на Талисман Крови из предметов игрока справа.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Попытайтесь Торговать.</Tasks.37.TaskDesc>
+			<Tasks.39.TaskDesc>Нажмите на Талисман Крови из предметов игрока справа.</Tasks.39.TaskDesc>
+			<Tasks.40.TaskDesc>Попытайтесь Торговать.</Tasks.40.TaskDesc>
+			<Tasks.41.TaskDesc>Нажмите Подтвердить.</Tasks.41.TaskDesc>
+			<Tasks.42.TaskDesc>Нажмите Подтвердить.</Tasks.42.TaskDesc>
+			<Tasks.44.TipsData.Desc>Во время торговли с сектой игрок может использовать "Попытку торговли", чтобы оценить стоимость предмета другой секты, что помогает приобрести предмет по соответствующей цене.</Tasks.44.TipsData.Desc>
+		</Text>
+		<Text Name="MapExplore">
+			<Type>Развитие</Type>
+			<DisplayName>Исследование</DisplayName>
+			<Desc>Узнайте, как войти на локацию и начать исследование в этом руководстве.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Получить Доступ</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Посмотрите, где вы находитесь</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Получите Доступ</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Исследование</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Проверьте Вход</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Войдите на Карту</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Мобильная Разведка</Chapters.1.Tasks.2>
+			<Chapters.1.Tasks.3>Скрытое Исследование</Chapters.1.Tasks.3>
+			<Chapters.2.DisplayName>Взаимодействие с Картой</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Собирайте Предметы</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Покиньте Карту</Chapters.2.Tasks.1>
+			<Tasks.1.TaskDesc>Нажмите, чтобы открыть Карту Мира.</Tasks.1.TaskDesc>
+			<Tasks.3.TaskDesc>Нажмите на Гору Нелумбо.</Tasks.3.TaskDesc>
+			<Tasks.4.TipsData.Desc>Здесь показана текущее местоположение. Если место принадлежит какой-то силе, ученики должны получить доступ к этой силе, чтобы отправиться в приключение или разбить там лагерь.</Tasks.4.TipsData.Desc>
+			<Tasks.6.TaskDesc>Нажмите Торговля.</Tasks.6.TaskDesc>
+			<Tasks.7.TipsData.Desc>Доступ можно приобрести заранее, чтобы свободно входить во все локации, принадлежащие секте, что помогает игроку исследовать другие локации секты.</Tasks.7.TipsData.Desc>
+			<Tasks.8.TaskDesc>Нажмите Доступ из раздела Доступ слева.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Нажмите Поток Земли из предметов игрока справа.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Нажмите Подтвердить.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Нажмите Подтвердить.</Tasks.11.TaskDesc>
+			<Tasks.13.TipsData.Desc>Красная область на карте мира - это место, к которому у игрока нет доступа. Вы можете приобрести доступ к областям, которые принадлежали этой силе. После разблокировки область станет нормального цвета, что означает, что игрок может войти и исследовать ее.</Tasks.13.TipsData.Desc>
+			<Tasks.15.TaskDesc>Нажмите, чтобы выбрать Гору Шу.</Tasks.15.TaskDesc>
+			<Tasks.16.TipsData.Desc>В большинство локаций в игре можно войти и исследовать, отправив ученика, который там разбивает лагерь.</Tasks.16.TipsData.Desc>
+			<Tasks.18.TaskDesc>Нажмите Войти.</Tasks.18.TaskDesc>
+			<Tasks.19.TipsData.Desc>Игрок может отправить ученика в поход туда, чтобы войти на карту.</Tasks.19.TipsData.Desc>
+			<Tasks.20.TaskDesc>Нажмите и выберите ученика.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Нажмите Подтвердить.</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Нажмите Да.</Tasks.22.TaskDesc>
+		</Text>
+		<Text Name="MapExplore2">
+			<Type>Развитие</Type>
+			<DisplayName>Исследование II</DisplayName>
+			<Desc>Узнайте, как войти на локацию и начать исследование в этом руководстве.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Исследование</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Нажмите Войти</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Войдите на Карту</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Мобильное Исследование</Chapters.0.Tasks.2>
+			<Chapters.0.Tasks.3>Скрытое Исследование</Chapters.0.Tasks.3>
+			<Chapters.1.DisplayName>Взаимодействие с Картой</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Собирайте Предметы</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Покиньте Карту</Chapters.1.Tasks.1>
+			<Tasks.3.TaskDesc>Нажмите и выберите ученика.</Tasks.3.TaskDesc>
+			<Tasks.4.TaskDesc>Игрок может использовать клавишу V для перемещения и изучения карты.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Используйте горячую клавишу {0}, чтобы использовать Скорость 2x.</Tasks.5.TaskDesc>
+			<Tasks.7.TaskDesc>Используйте горячую клавишу {0}, чтобы быстро начать исследование.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Нажмите кнопку Разместить и поместите его в указанное место.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Щелкните правой кнопкой мыши, чтобы отменить режим непрерывного перемещения.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Подождите, пока они двинутся.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Нажмите кнопку Скрыться и войдите в режим Скрытности.</Tasks.11.TaskDesc>
+			<Tasks.11.UiData.Name>Скрыть</Tasks.11.UiData.Name>
+			<Tasks.13.TipsData.Desc>Когда вы крадетесь, если значок в форме глаза над учеником красный, у них есть высокая вероятность быть замеченными другими; если он желтый, у них низкая вероятность быть замеченными; если он белый, они не будут замечены; если нет значка в форме глаза, это означает, что никто здесь не беспокоится о движении ученика.</Tasks.13.TipsData.Desc>
+			<Tasks.14.TaskDesc>Используйте горячую клавишу {0}, чтобы быстро начать исследование.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Нажмите и переместитесь в указанное место.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Щелкните правой кнопкой мыши, чтобы отменить режим непрерывного перемещения.</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Подождите, пока они двинутся.</Tasks.17.TaskDesc>
+			<Tasks.18.TipsData.Desc>Вероятность быть замеченным очень сильно связана с конституцией и восприятием ученика, а также зависит от расстояния и разницы в состоянии между учеником и другим персонажем.</Tasks.18.TipsData.Desc>
+			<Tasks.20.TipsData.Desc>Пожалуйста, помните, что не все карты безопасны. На некоторых картах будут вражеские цели или силы. На карте также есть объекты и здания, с которыми можно взаимодействовать во время исследования, что может быть использовано для получения дополнительной информации. Однако сбор предмета другой секты при краже будет иметь серьезные последствия, если ученик будет замечен.</Tasks.20.TipsData.Desc>
+			<Tasks.22.TaskDesc>Нажмите кнопку Собрать и начните сбор.</Tasks.22.TaskDesc>
+			<Tasks.22.UiData.Name>Взять</Tasks.22.UiData.Name>
+			<Tasks.23.TaskDesc>Нажмите, чтобы собрать предмет Мятежный Клинок.</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>Подождите, пока Мятежный Клинок будет собран.</Tasks.24.TaskDesc>
+			<Tasks.25.TipsData.Desc>Предметы, собранные игроком, будут показаны в этом меню, и каждый ученик может нести не более шести видов предметов. Игрок может отбросить ненужные элементы, нажав соответствующую кнопку в меню элементов. Собранные предметы будут получены, как только ученик благополучно вернется в секту.</Tasks.25.TipsData.Desc>
+			<Tasks.27.TaskDesc>Нажмите и выберите ученика.</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Используйте горячую клавишу {0}, чтобы быстро начать исследование.</Tasks.28.TaskDesc>
+			<Tasks.29.TaskDesc>Нажмите и переместитесь в указанное место.</Tasks.29.TaskDesc>
+			<Tasks.30.TaskDesc>Щелкните правой кнопкой мыши, чтобы отменить режим непрерывного перемещения.</Tasks.30.TaskDesc>
+			<Tasks.31.TaskDesc>Подождите, пока они двинутся.</Tasks.31.TaskDesc>
+			<Tasks.32.TaskDesc>Нажмите кнопку Скрыться и остановите режим Скрытности.</Tasks.32.TaskDesc>
+			<Tasks.32.UiData.Name>Скрыть</Tasks.32.UiData.Name>
+			<Tasks.34.TipsData.Desc>Игрок может нажать кнопку Покинуть, чтобы покинуть текущую карту и вернуться в секту, но сначала ученик должен быть в безопасности. Они не могут покинуть карту, если находятся в бою. Если жизнь ученика окажется под угрозой, они также будут вынуждены уйти.</Tasks.34.TipsData.Desc>
+			<Tasks.36.TipsData.Desc>В игре есть различные другие локации, но основной метод исследования один и тот же. Пожалуйста, будьте осторожны, исследуя другие карты и обращайте внимание на скрытые опасности и возможности.</Tasks.36.TipsData.Desc>
+		</Text>
+		<Text Name="Fight">
+			<Type>Дополнение</Type>
+			<DisplayName>Основы Сражения</DisplayName>
+			<Desc>В этой главе вы узнаете об основных методах ведения боя, а также о некоторых операциях,обычно используемых в бою.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Введение в основы ведения боя</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Режимы Убить &amp; Не Убивать</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Режим Автоматической  Защиты</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Побег из Боя</Chapters.0.Tasks.2>
+			<Chapters.1.DisplayName>Массовые сражения</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Как выбрать массовую атаку</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Перемещение &amp; Нападение</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Замена Бойцов</Chapters.1.Tasks.2>
+			<Tasks.1.TaskDesc>Нажмите, чтобы выбрать ученика.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Проверьте режим Поражения в левой части строки состояния ниже.</Tasks.2.TaskDesc>
+			<Tasks.4.TaskDesc>Проверьте режим Защиты в левой части строки состояния ниже.</Tasks.4.TaskDesc>
+			<Tasks.6.TaskDesc>Проверьте Быстрый выход в левой части строки состояния ниже.</Tasks.6.TaskDesc>
+			<Tasks.8.TipsData.Desc>Выше приведено несколько режимов работы, обычно используемых в бою, конечно, есть и другие режимы работы, игроки могут попробовать и исследовать свои собственные во время игры.</Tasks.8.TipsData.Desc>
+			<Tasks.10.TaskDesc>Удерживая нажатой левую кнопку мыши, потяните за рамку, чтобы выбрать всех учеников в комнате.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Используйте горячую клавишу {0}, чтобы Атаковать.</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Отдайте приказ атаковать Монстра.</Tasks.12.TaskDesc>
+			<Tasks.14.TaskDesc>Используйте горячую клавишу {0}, чтобы переместиться.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Нажмите и переместитесь в указанное место.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Дождитесь перемещения.</Tasks.16.TaskDesc>
+			<Tasks.17.TipsData.Desc>Игрок может использовать движение и атаку одновременно, чтобы затянуть битву, а иногда это может даже переломить ход сражения.</Tasks.17.TipsData.Desc>
+			<Tasks.19.TaskDesc>Нажмите на раненого ученика в бою.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Нажмите Побег.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Используйте горячую клавишу {0}, чтобы переместиться.</Tasks.21.TaskDesc>
+			<Tasks.22.TaskDesc>Переместитесь в более безопасное место в секте.</Tasks.22.TaskDesc>
+			<Tasks.23.TipsData.Desc>Игрок может использовать Бегство, чтобы заставить раненых учеников покинуть битву и отступить в более безопасное место, чтобы никто не умер.</Tasks.23.TipsData.Desc>
+			<Tasks.24.TaskDesc>Нажмите и выберите внутреннего ученика, не участвующего в битве.</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Используйте горячую клавишу {0}, чтобы атаковать.</Tasks.25.TaskDesc>
+			<Tasks.26.TaskDesc>Отдайте приказ атаковать Монстра.</Tasks.26.TaskDesc>
+			<Tasks.27.TipsData.Desc>Игрок может заменить учеников в команде во время боя, чтобы продолжить бой. Конечно, игрок может организовать несколько команд, чтобы по очереди сражаться или получать припасы.</Tasks.27.TipsData.Desc>
+			<Tasks.29.TipsData.Desc>В бою игрок может менять элементы управления в ответ на различные ситуации, чтобы получить преимущество над врагом и предотвратить уничтожение секты.</Tasks.29.TipsData.Desc>
+		</Text>
+		<Text Name="ZhenFa">
+			<Type>Дополнение</Type>
+			<DisplayName>Формация</DisplayName>
+			<Desc>Узнайте, как редактировать формацию и устанавливать элементы для нее в этом руководстве.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Редактор Формации</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Создайте новую Формацию</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Размещение Формации</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Оценка Формации &amp; Участники</Chapters.1.Tasks.0>
+			<Chapters.2.DisplayName>Операции Формации</Chapters.2.DisplayName>
+			<Chapters.2.Tasks.0>Форма Формации</Chapters.2.Tasks.0>
+			<Chapters.2.Tasks.1>Меню Формации</Chapters.2.Tasks.1>
+			<Tasks.1.TipsData.Desc>Как только формация, вспомогательная или столп будет получена любым другим способом в игре, игрок может создать или проверить формацию здесь.</Tasks.1.TipsData.Desc>
+			<Tasks.2.TaskDesc>Нажмите Формация.</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>Вот все формации, которыми владеет игрок. Нажмите, чтобы проверить или изменить любую конфигурацию формирования.</Tasks.3.TipsData.Desc>
+			<Tasks.4.TaskDesc>Нажмите Создать.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Нажмите, чтобы выбрать вспомогательную окружность.</Tasks.5.TaskDesc>
+			<Tasks.7.TaskDesc>Нажмите, чтобы выбрать столп Созвездия Сокрытого Клинка.</Tasks.7.TaskDesc>
+			<Tasks.8.TipsData.Desc>При редактировании Формации игроку сначала нужно настроить столп, который может связываться с другими вспомогательными элементами. Там может быть только один столп.</Tasks.8.TipsData.Desc>
+			<Tasks.9.TaskDesc>Нажмите, чтобы выбрать вспомогательный круг.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Нажмите, чтобы выбрать вспомогательный Меч.</Tasks.10.TaskDesc>
+			<Tasks.11.TipsData.Desc>При редактировании Формации игрок может разместить вспомогательные элементы, которые подключаются к соответствующей связи Формации. Если связь правильно подключена, связанная область будет зеленой, например, текущий вспомогательный “Меч” был правильно активирован.</Tasks.11.TipsData.Desc>
+			<Tasks.12.TipsData.Desc>Если отредактированная формация имеет вспомогательный элемент, который неправильно связан, она будет показана как неполная, и неполная формация не может быть сформирована.</Tasks.12.TipsData.Desc>
+			<Tasks.13.TipsData.Desc>Как только отредактированная формация удовлетворит требованиям к Истинности Формаций, она получит бонусные эффекты. Разные столпы имеют разную Истину Формаций.</Tasks.13.TipsData.Desc>
+			<Tasks.14.TipsData.Desc>Как только игрок закончит редактирование формации, нажмите кнопку Сохранить, чтобы сохранить вновь созданную формацию.</Tasks.14.TipsData.Desc>
+			<Tasks.15.TaskDesc>Нажмите Вернуться.</Tasks.15.TaskDesc>
+			<Tasks.17.TipsData.Desc>После того, как полная формация была отредактирована и сохранена, игрок может назначить персонажей в эту формацию и быть готовым сформировать ее.</Tasks.17.TipsData.Desc>
+			<Tasks.19.TaskDesc>Нажмите Настроить Учебник.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Нажмите кнопку Конфигурация Формации справа.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Нажмите, чтобы выбрать первый: Учебник.</Tasks.21.TaskDesc>
+			<Tasks.22.TipsData.Desc>Игрок может выделить внутреннего ученика для каждого столпа и вспомогательного. По пути от вспомогательного элемента к столпу каждый раз, когда элемент порождает следующий элемент, вспомогательные звенья будут получать усиленные специальные эффекты, и наоборот.</Tasks.22.TipsData.Desc>
+			<Tasks.23.TaskDesc>Нажмите Столп.</Tasks.23.TaskDesc>
+			<Tasks.24.TaskDesc>Нажмите и выберите ученика.</Tasks.24.TaskDesc>
+			<Tasks.25.TaskDesc>Нажмите Подтвердить.</Tasks.25.TaskDesc>
+			<Tasks.26.TipsData.Desc>Формация имеет девять различных связанных характеристик. Игрок может проверить их с помощью оценки Формации слева.</Tasks.26.TipsData.Desc>
+			<Tasks.27.TaskDesc>Нажмите Сохранить справа.</Tasks.27.TaskDesc>
+			<Tasks.28.TaskDesc>Нажмите кнопку Закрыть в правом верхнем углу.</Tasks.28.TaskDesc>
+			<Tasks.30.TipsData.Desc>Как только Формация завершена и участники распределены, игрок может сформировать Формацию, чтобы активировать ее.</Tasks.30.TipsData.Desc>
+			<Tasks.32.TaskDesc>Нажмите и выберите ученика.</Tasks.32.TaskDesc>
+			<Tasks.33.TipsData.Desc>Только ученик у столпа способен сформировать формацию. Когда все ученики в других вспомогательных подразделениях здоровы и находятся в одной и той же области, формация может быть сформировано в соответствии с конфигурацией.</Tasks.33.TipsData.Desc>
+			<Tasks.34.TaskDesc>Нажмите Форма Формации.</Tasks.34.TaskDesc>
+			<Tasks.35.TipsData.Desc>Перед формированием Формации игрок может проверить детали, чтобы подтвердить фактические бонусные эффекты и статистику после формирования Формации.</Tasks.35.TipsData.Desc>
+			<Tasks.36.TaskDesc>Нажмите Фома Формации.</Tasks.36.TaskDesc>
+			<Tasks.37.TaskDesc>Дождитесь формирования.</Tasks.37.TaskDesc>
+			<Tasks.39.TipsData.Desc>Вот все навыки формации текущей формации, каждый из которых имеет различное применение.</Tasks.39.TipsData.Desc>
+			<Tasks.40.TipsData.Desc>Вот навыки заклинаний учеников в формации.</Tasks.40.TipsData.Desc>
+			<Tasks.41.TipsData.Desc>Игрок может использовать элементы управления здесь и отдавать различные приказы формации.</Tasks.41.TipsData.Desc>
+			<Tasks.42.TaskDesc>Нажмите, чтобы проверить Фокус.</Tasks.42.TaskDesc>
+			<Tasks.43.TipsData.Desc>Игрок может проверить Фокус, чтобы обратить пристальное внимание на работу формации, что помогает корректировать формацию в любое время в бою.</Tasks.43.TipsData.Desc>
+			<Tasks.45.TipsData.Desc>Игрок может организовать и объединить различные функции, чтобы сформировать более подходящую и мощную формацию, и даже овладеть древней формацией. Различные формации имеют разные эффекты, ожидая, пока игрок изучит их, поэтому в этом уроке не будет объяснено, как редактировать любые другие формации.</Tasks.45.TipsData.Desc>
+		</Text>
+		<Text Name="DragonHole">
+			<Type>Дополнение</Type>
+			<DisplayName>Таинственная Пещера</DisplayName>
+			<Desc>В этом уроке вы узнаете о влиянии таинственных пещер и о том, как использовать реликвии Фэн-Шуй для их подавления.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Пещера Речного Дракона</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Таинственная Пещер</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Подавление Таинственных Пещер</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Поместите Реликвии Фэн-Шуй</Chapters.1.Tasks.0>
+			<Tasks.2.TaskDesc>Нажмите Хорошо.</Tasks.2.TaskDesc>
+			<Tasks.3.TipsData.Desc>Когда в игре пройдет определенный период времени, произойдет особый секрет, когда в случайном месте в месте расположения секты игрока появится таинственная пещера, и в ней будет спать Речной Дракон. Игрок может использовать различные методы, чтобы справиться с ситуацией, одним из которых является использование реликвий Фэн-Шуй, которые делают комнаты очень благоприятными для подавления пещеры.</Tasks.3.TipsData.Desc>
+			<Tasks.5.TipsData.Desc>Есть много способов справиться с таинственной пещерой, но для игроков на поздней стадии, которые все еще не уверены, что делать, выберите реликвии Фэн-Шуй, чтобы подавить ее. Поскольку другие методы требуют более глубокого понимания игры, этот учебник не будет вдаваться в подробности.</Tasks.5.TipsData.Desc>
+			<Tasks.7.TaskDesc>Идентифицированная реликвия Фэн-Шуй будет иметь подробное описание. Игроку необходимо обратиться к описанию и поместить ее в нужное место, чтобы правильно активировать реликвию. Как только она будет активирован, она мгновенно сделает комнату очень благоприятной.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Нажмите, чтобы выбрать Кристалл Духа реликвии Фэн-Шуй.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Нажмите Разместить.</Tasks.9.TaskDesc>
+			<Tasks.9.UiData.Name>Место</Tasks.9.UiData.Name>
+			<Tasks.10.TaskDesc>Нажмите, чтобы выбрать Отображение.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Выберите комнату, нажав на пустую область в ней.</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>При размещении реликвии Фэн-Шуй игрок может наблюдать за изменением Фэн-Шуй в комнате здесь.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Подождите, пока они будут размещены.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Когда реликвия Фэн-Шуй находится в среде, соответствующей описанию, это будет совпадение, которое сделает комнату очень благоприятной, что может подавить таинственную пещеру.</Tasks.14.TaskDesc>
+			<Tasks.16.TipsData.Desc>Когда игрок успешно подавляет таинственную пещеру, Речной Дракон во сне также будет эффективно подавлен, и игрок может использовать это окно времени, чтобы улучшить способности учеников, чтобы уничтожить его раньше.</Tasks.16.TipsData.Desc>
+		</Text>
+		<Text Name="DragonFight">
+			<Type>Дополнение</Type>
+			<DisplayName>Битва с Боссом</DisplayName>
+			<Desc>В этой главе вы узнаете, как просмотреть основную информацию о Боссе древнем звере и использовать эту информацию для борьбы с Боссом древнем звере.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Узнайте О Древнем Звере</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Узнайте О Древнем Звере</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Части тела Речного Дракона в Бою</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Проверьте Каждую Часть Тела</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Проверьте характеристики артефакта Ученика</Chapters.1.Tasks.1>
+			<Tasks.1.TaskDesc>Откройте меню Секрета справа.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Нажмите Древние Звери.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Нажмите Речной Дракон.</Tasks.3.TaskDesc>
+			<Tasks.4.TipsData.Desc>Как только секрет древнего зверя будет разблокирован, игрок сможет проверить информацию о соответствующих навыках босса.</Tasks.4.TipsData.Desc>
+			<Tasks.5.TipsData.Desc>Здесь показано, что Речной Дракон относится к водной стихии, которая более подвержена повреждению Земли.</Tasks.5.TipsData.Desc>
+			<Tasks.6.TaskDesc>Закройте меню Секрета.</Tasks.6.TaskDesc>
+			<Tasks.8.TipsData.Desc>Игрок может столкнуться с другими древними зверями с помощью различных методов в игре, которые не будут перечислены здесь подробно.</Tasks.8.TipsData.Desc>
+			<Tasks.10.TaskDesc>Нажмите Речной Дракон.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Нажмите Фокус.</Tasks.11.TaskDesc>
+			<Tasks.12.TipsData.Desc>Вы можете отслеживать состояние Ци каждой части тела Речного Дракона, устанавливая фокусы, и соответственно разрабатывать свою стратегию.</Tasks.12.TipsData.Desc>
+			<Tasks.13.TaskDesc>Нажмите Фокус.</Tasks.13.TaskDesc>
+			<Tasks.15.TaskDesc>Нажмите и выберите внутреннего ученика.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Нажмите, чтобы открыть меню Предметы &amp; Экипировка.</Tasks.16.TaskDesc>
+			<Tasks.17.TipsData.Desc>Согласно приведенной выше информации, мы можем носить артефакт стихии Земли, чтобы атаковать Речного Дракона.</Tasks.17.TipsData.Desc>
+			<Tasks.18.TaskDesc>Нажмите, чтобы закрыть меню Предметы &amp; Экипировка.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Нажмите кнопку Атака в левой части меню персонажа.</Tasks.19.TaskDesc>
+			<Tasks.20.TipsData.Desc>Игрок может сосредоточить атаку на определенной части тела, чтобы быстро уничтожить эту часть Речного Дракона.</Tasks.20.TipsData.Desc>
+			<Tasks.22.TipsData.Desc>Каждый игрок использует различные элементы управления и стратегии в бою, поэтому в этом уроке не будет подробно рассказываться о сражениях, которые игрок может испытать в игре. Как только босс будет побежден, от его тела останутся различные останки, которые можно будет искать в поисках добычи. Чем больше частей тела уничтожено, тем больше добычи будет получено.</Tasks.22.TipsData.Desc>
+		</Text>
+		<Text Name="GetFood">
+			<Type>Дополнение</Type>
+			<DisplayName>Экстренное Приобретение Продовольствия</DisplayName>
+			<Desc>В этом уроке вы узнаете, как быстро получить пищу в чрезвычайно сложных условиях.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Отсутствие уведомления о еде</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Проверьте уведомления</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Экстренное обращение</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Используйте Повторное приключение для еды</Chapters.1.Tasks.0>
+			<Tasks.1.TipsData.Desc>Когда у игрока недостаточно места для хранения продуктов, появится это уведомление.</Tasks.1.TipsData.Desc>
+			<Tasks.3.TipsData.Desc>Если запасы продовольствия недостаточны, ученики в секте игрока могут медленно умирать от голода, поэтому игроку необходимо реагировать на эту чрезвычайную ситуацию, например, отправляться в приключения, чтобы получить еду.</Tasks.3.TipsData.Desc>
+			<Tasks.5.TaskDesc>Нажмите, чтобы открыть Карту Мира.</Tasks.5.TaskDesc>
+			<Tasks.7.TaskDesc>Нажмите Деревня Наньпин.</Tasks.7.TaskDesc>
+			<Tasks.8.TipsData.Desc>Деревня Наньпин является ближайшим местом с продовольственными ресурсами.</Tasks.8.TipsData.Desc>
+			<Tasks.9.TaskDesc>Нажмите Приключение.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Нажмите и выберите ученика.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Нажмите и выберите другого ученика.</Tasks.11.TaskDesc>
+			<Tasks.12.TaskDesc>Нажмите Подтвердить.</Tasks.12.TaskDesc>
+			<Tasks.13.TipsData.Desc>Используйте ползунок, чтобы настроить время повторных приключений.</Tasks.13.TipsData.Desc>
+			<Tasks.14.TaskDesc>Нажмите Хорошо.</Tasks.14.TaskDesc>
+			<Tasks.16.TipsData.Desc>Игрок может одновременно отправить несколько учеников на приключения и использовать повторные приключения, чтобы как снизить потребность в пище в секте и увеличить выход пищи приключениями в период времени. Игрок может ждать, пока ученики принесут еду.</Tasks.16.TipsData.Desc>
+		</Text>
+		<Text Name="CombatWeather">
+			<Type>Дополнение</Type>
+			<DisplayName>Экстремальные погодные условия</DisplayName>
+			<Desc>В этом учебнике вы узнаете о некоторых экстремальных погодных условиях в игре и как обращаться с ними.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Влияние экстремальной погоды</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Проверьте Погоду</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Проверьте Температуру</Chapters.0.Tasks.1>
+			<Chapters.1.DisplayName>Как реагировать</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Экипируйте Талисман Высшего Ян</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Проверьте источник тепла</Chapters.1.Tasks.1>
+			<Tasks.1.TipsData.Desc>Когда в секте игрока происходит экстремальная погода, игрок может проверить значок погоды в левом верхнем левом верхнем части, чтобы увидеть ее продолжительность. Игрок должен скорректировать свою стратегию вовремя, чтобы справиться с ситуацией.</Tasks.1.TipsData.Desc>
+			<Tasks.3.TipsData.Desc>Когда произойдет экстремальная погода, это изменит текущую температуру.</Tasks.3.TipsData.Desc>
+			<Tasks.4.TaskDesc>Нажмите и выберите ученика.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Нажмите, чтобы открыть меню Общая Характеристика.</Tasks.5.TaskDesc>
+			<Tasks.6.TipsData.Desc>Температурные характеристики учеников в секте решают, будут ли они затронуты экстремальной погодой.</Tasks.6.TipsData.Desc>
+			<Tasks.8.TipsData.Desc>Когда ученик в секте игрока испытывает дискомфорт из-за экстремальной погоды, это может привести к травмам, и ученик может умереть, если травмы слишком серьезны.</Tasks.8.TipsData.Desc>
+			<Tasks.10.TaskDesc>Нажмите Экипировать Предмет.</Tasks.10.TaskDesc>
+			<Tasks.10.UiData.Name>Надеть</Tasks.10.UiData.Name>
+			<Tasks.12.TaskDesc>Нажмите, чтобы экипировать Талисман Высшего Ян.</Tasks.12.TaskDesc>
+			<Tasks.13.TaskDesc>Подождите, пока он будет оснащен.</Tasks.13.TaskDesc>
+			<Tasks.14.TipsData.Desc>Ученик может экипировать талисман или использовать другие методы для повышения температуры, что является самым прямым способом борьбы с экстремальной погодой.</Tasks.14.TipsData.Desc>
+			<Tasks.15.TaskDesc>Нажмите, чтобы закрыть меню Общая Характеристика.</Tasks.15.TaskDesc>
+			<Tasks.17.TaskDesc>Выберите комнату, нажав на пустую область в ней.</Tasks.17.TaskDesc>
+			<Tasks.18.TipsData.Desc>Есть много зданий или предметов, которые могут повысить температуру в определенной области. Игрок может ловко использовать их для борьбы с экстремальными погодными условиями.</Tasks.18.TipsData.Desc>
+			<Tasks.20.TipsData.Desc>Существует несколько видов экстремальных погодных условий. Игрок должен разумно использовать предметы в игре, чтобы лучше справляться с другими типами экстремальных погодных условий.</Tasks.20.TipsData.Desc>
+		</Text>
+		<Text Name="Prestige">
+			<Type>Дополнение</Type>
+			<DisplayName>Управление &amp; Контроль Репутации</DisplayName>
+			<Desc>В этом уроке вы узнаете, для чего используется Талисман Невидимости и как использовать его для снижения репутации.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Использование Талисмана Невидимости</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Проверьте Репутацию Секты</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Осмотрите Талисман Невидимости</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Экипируйте Талисман Невидимости</Chapters.0.Tasks.2>
+			<Tasks.1.TaskDesc>Нажмите Секта справа.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>В игре большая репутация будет манить более сильных врагов атаковать, поэтому игроку необходимо использовать предметы в игре, чтобы снизить полученную репутацию.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Нажмите, чтобы закрыть меню Секты.</Tasks.3.TaskDesc>
+			<Tasks.5.TaskDesc>Игрок может получить Талисман Невидимости, рисуя. Когда внутренний ученик отправляется в приключение с активированным Талисманом Невидимости, это может эффективно снизить полученную репутацию.</Tasks.5.TaskDesc>
+			<Tasks.7.TaskDesc>Нажмите и выберите ученика.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Нажмите кнопку Экипировать Предмет.</Tasks.8.TaskDesc>
+			<Tasks.8.UiData.Name>Надеть</Tasks.8.UiData.Name>
+			<Tasks.10.TaskDesc>Нажмите, чтобы экипировать Талисман Невидимости.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Подождите, пока он будет оснащен.</Tasks.11.TaskDesc>
+			<Tasks.13.TipsData.Desc>Репутация в некоторой степени влияет на секту игрока, поэтому игрок может использовать Талисман Невидимости, чтобы понизить полученную репутацию, чтобы управлять репутацией секты.</Tasks.13.TipsData.Desc>
+		</Text>
+		<Text Name="ShortcutKey">
+			<Type>Дополнение</Type>
+			<DisplayName>Горячие Клавиши</DisplayName>
+			<Desc>Узнайте об общих горячих клавишах и о том, как настроить горячие клавиши в этом руководстве.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Настройка горячих клавиш</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Проверьте меню горячих клавиш</Chapters.0.Tasks.0>
+			<Chapters.1.DisplayName>Использование горячих клавиш</Chapters.1.DisplayName>
+			<Chapters.1.Tasks.0>Используйте Интерактивные Горячие Клавиши</Chapters.1.Tasks.0>
+			<Chapters.1.Tasks.1>Используйте горячие клавиши для организации Команды</Chapters.1.Tasks.1>
+			<Chapters.1.Tasks.2>Используйте горячие клавиши для Перемещения и Атаки</Chapters.1.Tasks.2>
+			<Tasks.2.TipsData.Desc>Игрок может нажать Система, а затем Горячие клавиши, чтобы проверить меню Горячие клавиши, где горячие клавиши можно настроить и сбросить.</Tasks.2.TipsData.Desc>
+			<Tasks.3.TaskDesc>Нажмите, чтобы закрыть меню горячих клавиш.</Tasks.3.TaskDesc>
+			<Tasks.5.TipsData.Desc>Игрок может настроить горячие клавиши в соответствии со своей привычкой и использовать их соответствующим образом.</Tasks.5.TipsData.Desc>
+			<Tasks.7.TaskDesc>Нажмите и выберите ученика.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Используйте горячую клавишу F1 для Еды.</Tasks.8.TaskDesc>
+			<Tasks.9.TaskDesc>Нажмите, чтобы выбрать.</Tasks.9.TaskDesc>
+			<Tasks.10.TaskDesc>Используйте горячую клавишу F2 для Экипирования Предмета.</Tasks.10.TaskDesc>
+			<Tasks.11.TaskDesc>Нажмите, чтобы выбрать.</Tasks.11.TaskDesc>
+			<Tasks.13.TaskDesc>Удерживайте нажатой левую кнопку мыши и потяните, чтобы выбрать всех учеников в комнате.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Используйте левую клавишу Ctrl и клавишу 1, чтобы организовать их в Команду 1.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Щелкните правой кнопкой мыши, чтобы отменить.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Используйте клавишу 1, чтобы выбрать команду 1.</Tasks.16.TaskDesc>
+			<Tasks.18.TaskDesc>Используйте горячую клавишу {0}, чтобы Атаковать.</Tasks.18.TaskDesc>
+			<Tasks.19.TaskDesc>Отдайте приказ атаковать Монстра.</Tasks.19.TaskDesc>
+			<Tasks.20.TaskDesc>Используйте горячую клавишу {0}, чтобы переместиться.</Tasks.20.TaskDesc>
+			<Tasks.21.TaskDesc>Выдайте приказ на Перемещение для передвижения в указанное место.</Tasks.21.TaskDesc>
+			<Tasks.23.TipsData.Desc>Есть много элементов управления, которые можно выполнить с помощью горячих клавиш. Игрок может настроить их в соответствии со своей привычкой. Игрок может поместить курсор на кнопки, чтобы проверить другие горячие клавиши, поэтому в этом уроке мы не будем подробно рассказывать о них.</Tasks.23.TipsData.Desc>
+		</Text>
+		<Text Name="Batch">
+			<Type>Дополнение</Type>
+			<DisplayName>Пакетная задача</DisplayName>
+			<Desc>В этом уроке вы узнаете о некоторых распространенных пакетных задачах в игре и о том, как их выполнять.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Основные пакетные задачи</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Ешьте Эликсиры порционно</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Запрет &amp; Отмена Запрета в пакетном режиме</Chapters.0.Tasks.1>
+			<Chapters.0.Tasks.2>Перестройка в пакетном режиме</Chapters.0.Tasks.2>
+			<Tasks.1.TaskDesc>Нажмите и выберите ученика.</Tasks.1.TaskDesc>
+			<Tasks.2.TaskDesc>Игрок может поместить курсор, чтобы увидеть горячую клавишу для выдачи пакетной задачи Есть. Игрок может нажать левую клавишу Shift и щелкнуть левой кнопкой мыши несколько продуктов, чтобы съесть их в пакетном режиме.</Tasks.2.TaskDesc>
+			<Tasks.2.UiData.Name>Есть</Tasks.2.UiData.Name>
+			<Tasks.3.TaskDesc>Нажмите кнопку Съесть.</Tasks.3.TaskDesc>
+			<Tasks.3.UiData.Name>Есть</Tasks.3.UiData.Name>
+			<Tasks.4.TaskDesc>Нажмите Shift и выберите продукты, которые нужно съесть.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Щелкните правой кнопкой мыши, чтобы отменить режим выбора.</Tasks.5.TaskDesc>
+			<Tasks.7.TaskDesc>Нажмите кнопку Отмена в нижнем меню.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Перетащите и выберите целевую область, удерживая клавишу Ctrl, чтобы выполнить перестройку в пакетном режиме.</Tasks.8.TaskDesc>
+			<Tasks.9.TipsData.Desc>Игрок может использовать Запрет в пакетном режиме, чтобы запретить некоторые предметы, которые в данный момент не нужны.</Tasks.9.TipsData.Desc>
+			<Tasks.10.TaskDesc>Перетащите и выберите целевую область, удерживая клавишу Ctrl, чтобы отменить запрет в пакетном режиме.</Tasks.10.TaskDesc>
+			<Tasks.11.TipsData.Desc>Игрок может использовать Отмену запрета в пакетном режиме, чтобы отменить запрет на некоторые из запрещенных предметов.</Tasks.11.TipsData.Desc>
+			<Tasks.12.TaskDesc>Щелкните правой кнопкой мыши, чтобы отменить режим выбора.</Tasks.12.TaskDesc>
+			<Tasks.14.TipsData.Desc>Игрок может использовать Перестройку в пакетном режиме для восстановления поврежденных зданий.</Tasks.14.TipsData.Desc>
+			<Tasks.15.TaskDesc>Нажмите кнопку Снести в нижнем меню.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Перетащите и выберите целевую область, удерживая клавишу Ctrl, чтобы выполнить перестройку в пакетном режиме.</Tasks.16.TaskDesc>
+			<Tasks.17.TipsData.Desc>Как только игрок использует Перестройку в пакетном режиме, внешние ученики, запланированные для строительства, автоматически перейдут к поврежденным зданиям и восстановят их.</Tasks.17.TipsData.Desc>
+			<Tasks.19.TipsData.Desc>В игре есть и другие формы пакетных заданий, которые ждут игрока для изучения.</Tasks.19.TipsData.Desc>
+		</Text>
+		<Text Name="AreaExpand">
+			<Type>Дополнение</Type>
+			<DisplayName>Расширение площади</DisplayName>
+			<Desc>В этом уроке вы узнаете, как быстро расширить различные области в зданиях и использовать расширение области для наследования характеристики области.\n[color=#BC1717](Во время урока игроки могут дважды нажать Esc, чтобы пропустить задание и продолжить обучение. )[/color]</Desc>
+			<Chapters.0.DisplayName>Расширение площади</Chapters.0.DisplayName>
+			<Chapters.0.Tasks.0>Расширение хранилища</Chapters.0.Tasks.0>
+			<Chapters.0.Tasks.1>Расширение поля</Chapters.0.Tasks.1>
+			<Tasks.1.TipsData.Desc>Когда хранилище достигнет полной емкости, игрок может расширить область хранения, чтобы увеличить его емкость.</Tasks.1.TipsData.Desc>
+			<Tasks.2.TaskDesc>Используйте горячую клавишу {0}, чтобы открыть страницу Сборки.</Tasks.2.TaskDesc>
+			<Tasks.3.TaskDesc>Перейдите на страницу Области.</Tasks.3.TaskDesc>
+			<Tasks.3.UiData.Name>Область</Tasks.3.UiData.Name>
+			<Tasks.4.TaskDesc>Щелкните Хранилище, чтобы начать планирование хранилища.</Tasks.4.TaskDesc>
+			<Tasks.5.TaskDesc>Перетащите, чтобы расширить хранилище.</Tasks.5.TaskDesc>
+			<Tasks.6.TaskDesc>Щелкните правой кнопкой мыши, чтобы отменить режим Сборки.</Tasks.6.TaskDesc>
+			<Tasks.7.TaskDesc>Выберите хранилище.</Tasks.7.TaskDesc>
+			<Tasks.8.TaskDesc>Откройте меню Хранилища.</Tasks.8.TaskDesc>
+			<Tasks.8.UiData.Name>Фильтр</Tasks.8.UiData.Name>
+			<Tasks.9.TipsData.Desc>Расширенное хранилище сохранит настройки фильтра исходного хранилища.</Tasks.9.TipsData.Desc>
+			<Tasks.10.TaskDesc>Закройте меню Хранилища.</Tasks.10.TaskDesc>
+			<Tasks.12.TipsData.Desc>Когда площадь поля больше не может удовлетворить потребности внутренних учеников, игрок может расширить поле, чтобы увеличить площадь области для растений.</Tasks.12.TipsData.Desc>
+			<Tasks.13.TaskDesc>Используйте горячую клавишу {0}, чтобы открыть страницу Сборки.</Tasks.13.TaskDesc>
+			<Tasks.14.TaskDesc>Щелкните Поле, чтобы начать планирование поля.</Tasks.14.TaskDesc>
+			<Tasks.15.TaskDesc>Перетащите, чтобы расширить поле.</Tasks.15.TaskDesc>
+			<Tasks.16.TaskDesc>Щелкните правой кнопкой мыши, чтобы отменить режим сборки.</Tasks.16.TaskDesc>
+			<Tasks.17.TaskDesc>Выберите поле.</Tasks.17.TaskDesc>
+			<Tasks.18.TipsData.Desc>В развернутом поле будут сохранены заводские настройки исходного поля.</Tasks.18.TipsData.Desc>
+			<Tasks.18.TipsData.Name>Выращивать растения</Tasks.18.TipsData.Name>
+			<Tasks.20.TipsData.Desc>В игре есть похожие области, которые могут быть расширены таким образом, поэтому в этом уроке мы не будем подробно рассказывать о них.</Tasks.20.TipsData.Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,59 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="Item_WeaponBow" sParam="Item">
+      <ThingName>Лук</ThingName>
+      <Desc>Лук, который можно использовать для охоты на далекие цели.</Desc>
+      <Item.FabaoSuffix>Лук</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WeaponWoodBow" sParam="Item">
+      <ThingName>Лук</ThingName>
+      <Desc>Лук, который можно использовать для охоты на далекие цели.</Desc>
+      <Item.FabaoSuffix>Лук</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WeaponKnife" sParam="Item">
+      <ThingName>Сабля</ThingName>
+      <Desc>Однолезвийный меч, который отлично рубит и рубит.</Desc>
+      <Item.FabaoSuffix>Сабля</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WeaponLance" sParam="Item">
+      <ThingName>Копье</ThingName>
+      <Desc>Длинное копье, способное эффективно наносить колющие повреждения внутренним органам.</Desc>
+      <Item.FabaoSuffix>Копье</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WeaponSword" sParam="Item">
+      <ThingName>Меч</ThingName>
+      <Desc>Легкий и гибкий меч.</Desc>
+      <Item.FabaoSuffix>Меч</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WeaponHalbert" sParam="Item">
+      <ThingName>Булава</ThingName>
+      <Desc>Тяжелое тупое оружие, достаточно мощное, чтобы сломать кости и сухожилия врага.</Desc>
+      <Item.FabaoSuffix>Булава</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WeaponAxeRing" sParam="Item">
+      <ThingName>Чакрам</ThingName>
+      <Desc>Экзотическое оружие. Наденьте его на боксерскую перчатку, и с его помощью можно очень быстро нанести противнику большое количество ран.</Desc>
+      <Item.FabaoSuffix>Чакрам</Item.FabaoSuffix>
+    </Text>
+    <Text Name="SP_Sword1" sParam="Item">
+      <ThingName>Дарабумба</ThingName>
+      <Desc>Говорят, что в далекой стране на Западе воин по имени Дарабумба использовал этот меч, чтобы убить могущественное существо по имени "дракон". Весь меч алого цвета, как будто он купался в драконьей крови. При нанесении удара этим мечом есть шанс нанести врагу ожоговое ранение сердца.</Desc>
+    </Text>
+    <Text Name="SP_Sword2" sParam="Item">
+      <ThingName>Благодетель</ThingName>
+      <Desc>Простой деревянный меч, оставленный бессмертным перламутровым деревом. Он не выглядит чем-то необычным, но обладает чудесной способностью вызывать дождь и ветер.</Desc>
+    </Text>
+    <Text Name="SP_Sword3" sParam="Item">
+      <ThingName>Техно Меч</ThingName>
+      <Desc>Этот меч-память о Ван Лаоцзю, лидере секты будущих технологий. Присутствие этого меча символизирует присутствие самого Лаоджу. Обладатель этого меча может повысить моральный дух всех сотрудников, сделав их более готовыми к работе.</Desc>
+    </Text>
+    <Text Name="SP_Sword4" sParam="Item">
+      <ThingName>Меч Банедрагона</ThingName>
+      <Desc>Чрезвычайно мощный меч, это тот, который носил темный Мастер меча с древних времен.</Desc>
+    </Text>
+    <Text Name="SP_Bow1" sParam="Item">
+      <ThingName>Охотничий Лук</ThingName>
+      <Desc>Лук специально разработан для охоты на животных. Он использует специальные стрелы, которые покрыты анестетиками и не могут проникнуть в кожу, поэтому обычно не причиняют смертельных травм.</Desc>
+    </Text>
+  </List>
+</Texts>

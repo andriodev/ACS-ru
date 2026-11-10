@@ -1,0 +1,367 @@
+﻿<Texts Type="Story">
+	<List>
+		<Text Name="TESTALL">
+			<DisplayName>Происхождение мудрецов</DisplayName>
+			<Desc>С начала Тысячелетнего прилива древние культиваторы появлялись повсюду. Соберите как можно больше информации, в этом мире уже рождается множество мудрецов.</Desc>
+			<Selections.0.Display>Происхождение мудрецов</Selections.0.Display>
+		</Text>
+		<Text Name="BaseFillingStory">
+			<DamageCache.0.DescTags>Расколотый Артефакт</DamageCache.0.DescTags>
+			<DamageCache.1.DescTags>Расколотый Артефакт</DamageCache.1.DescTags>
+			<DamageCache.2.DescTags>Расколотый Артефакт</DamageCache.2.DescTags>
+			<DamageCache.3.DescTags>Расколотый Артефакт</DamageCache.3.DescTags>
+			<DamageCache.4.DescTags>Расколотый Артефакт</DamageCache.4.DescTags>
+			<DamageCache.5.DescTags>Расколотый Артефакт</DamageCache.5.DescTags>
+			<DamageCache.6.DescTags>Расколотый Артефакт</DamageCache.6.DescTags>
+			<DamageCache.7.DescTags>Расколотый Артефакт</DamageCache.7.DescTags>
+			<DamageCache.8.DescTags>Расколотый Артефакт</DamageCache.8.DescTags>
+			<DamageCache.9.DescTags>Расколотый Артефакт</DamageCache.9.DescTags>
+			<DamageCache.10.DescTags>Повреждение Металла</DamageCache.10.DescTags>
+			<DamageCache.11.DescTags>Повреждение Металла</DamageCache.11.DescTags>
+			<DamageCache.12.DescTags>Повреждение Металла</DamageCache.12.DescTags>
+			<DamageCache.13.DescTags>Повреждение Металла</DamageCache.13.DescTags>
+			<DamageCache.14.DescTags>Повреждение Металла</DamageCache.14.DescTags>
+			<DamageCache.15.DescTags>Повреждение Дерева</DamageCache.15.DescTags>
+			<DamageCache.16.DescTags>Повреждение Дерева</DamageCache.16.DescTags>
+			<DamageCache.17.DescTags>Повреждение Дерева</DamageCache.17.DescTags>
+			<DamageCache.18.DescTags>Повреждение Дерева</DamageCache.18.DescTags>
+			<DamageCache.19.DescTags>Повреждение Дерева</DamageCache.19.DescTags>
+			<DamageCache.20.DescTags>Повреждение Дерева</DamageCache.20.DescTags>
+			<DamageCache.21.DescTags>Повреждение Воды</DamageCache.21.DescTags>
+			<DamageCache.22.DescTags>Повреждение Воды</DamageCache.22.DescTags>
+			<DamageCache.23.DescTags>Повреждение Воды</DamageCache.23.DescTags>
+			<DamageCache.24.DescTags>Повреждение Воды</DamageCache.24.DescTags>
+			<DamageCache.25.DescTags>Повреждение Воды</DamageCache.25.DescTags>
+			<DamageCache.26.DescTags>Повреждение Огнем</DamageCache.26.DescTags>
+			<DamageCache.27.DescTags>Повреждение Огнем</DamageCache.27.DescTags>
+			<DamageCache.28.DescTags>Повреждение Огнем</DamageCache.28.DescTags>
+			<DamageCache.29.DescTags>Повреждение Огнем</DamageCache.29.DescTags>
+			<DamageCache.30.DescTags>Повреждение Огнем</DamageCache.30.DescTags>
+			<DamageCache.31.DescTags>Повреждение Земли</DamageCache.31.DescTags>
+			<DamageCache.32.DescTags>Повреждение Земли</DamageCache.32.DescTags>
+			<DamageCache.33.DescTags>Повреждение Земли</DamageCache.33.DescTags>
+			<DamageCache.34.DescTags>Повреждение Земли</DamageCache.34.DescTags>
+			<DamageCache.35.DescTags>Повреждение Земли</DamageCache.35.DescTags>
+			<DamageCache.36.DescTags>Повреждение Земли</DamageCache.36.DescTags>
+		</Text>
+		<Text Name="Free_Base">
+			<DisplayName>Бродить</DisplayName>
+			<Desc>[NAME] обнаружил место с прекрасными видами, убрал  [ITS] артефакт и отправилось любоваться пейзажем.</Desc>
+		</Text>
+		<Text Name="Free_1">
+			<DisplayName>Пейте Чай</DisplayName>
+			<Desc>[NAME] проезжал мимо небольшого городка, почувствовал себя немного усталым и поэтому, напустив на себя вид простолюдина, заехал отдохнуть в местную чайхану.</Desc>
+		</Text>
+		<Text Name="Free_2">
+			<DisplayName>Отдых</DisplayName>
+			<Desc>[NAME] почувствовал себя немного усталым по дороге и решил вздремнуть под деревом.</Desc>
+		</Text>
+		<Text Name="Join_Base">
+			<DisplayName>Настроить Бессмертную Судьбу</DisplayName>
+			<Desc>[NAME] наткнулся на некоторых простолюдинов, которые посвятили себя Дао и поэтому сообщили простолюдинам местоположение [ITS] школы, а затем направились дальше.</Desc>
+		</Text>
+		<Text Name="Kidnap_Base">
+			<DisplayName>Похищение смертных</DisplayName>
+			<Desc>[NAME] совершил чудо, а затем похитил несколько смертных.</Desc>
+		</Text>
+		<Text Name="Join_1">
+			<DisplayName>Настроить Бессмертную Судьбу</DisplayName>
+			<Desc>[NAME] обнаружил невероятно талантливого молодого человека и открыл им чудо во сне, дав бессмертную судьбу этому простолюдину. Если этот ученик решит искать долголетия, следуя Дао, они, вероятно, прибудут к вратам ордена в течение дня или двух.</Desc>
+		</Text>
+		<Text Name="Join_2">
+			<DisplayName>Настроить Бессмертную Судьбу</DisplayName>
+			<Desc>[NAME] сталкивался с кровной местью раз в каждую голубую Луну. Увидев человека, за которым охотились, и поняв, что их судьба, казалось, была связана со школой, [NAME] произнес заклинание, чтобы спасти их, и направил их в школу.</Desc>
+		</Text>
+		<Text Name="Visit_Base">
+			<DisplayName>Случайная Встреча</DisplayName>
+			<Desc>[NAME] наткнулся на группу учеников [SCHOOL], которые пришли поприветствовать [ENHIM], стоявшего на дороге.</Desc>
+			<Selections.0.Display>Приступайте</Selections.0.Display>
+			<Selections.1.Display>Дружеская Беседа</Selections.1.Display>
+			<Selections.2.Display>Светская Беседа</Selections.2.Display>
+			<Selections.3.Display>Насмешка</Selections.3.Display>
+			<Selections.4.Display>Насмешка</Selections.4.Display>
+			<Selections.5.Display>Игнорировать</Selections.5.Display>
+			<Selections.6.Display>Провоцировать</Selections.6.Display>
+			<Selections.6.Tip>Золотое Ядро</Selections.6.Tip>
+			<Selections.7.Display>Провоцировать</Selections.7.Display>
+			<Selections.7.Tip>Золотое Ядро</Selections.7.Tip>
+			<Selections.8.Display>Игнорировать</Selections.8.Display>
+			<Selections.8.Tip>Золотое Ядро</Selections.8.Tip>
+			<Selections.9.Display>Игнорировать</Selections.9.Display>
+			<Selections.9.Tip>Золотое Ядро</Selections.9.Tip>
+		</Text>
+		<Text Name="Visit_1">
+			<DisplayName>Случайная Встреча</DisplayName>
+			<Desc>[NAME] случайно наткнулся на старейшину [SCHOOL], когда шел по дороге.</Desc>
+			<Selections.0.Display>Приступайте</Selections.0.Display>
+			<Selections.1.Display>Посетить</Selections.1.Display>
+			<Selections.2.Display>Светская Беседа</Selections.2.Display>
+			<Selections.3.Display>Скрытая Атака</Selections.3.Display>
+			<Selections.3.Tip>Золотое Ядро</Selections.3.Tip>
+			<Selections.4.Display>Скрытая Атака</Selections.4.Display>
+			<Selections.4.Tip>Золотое Ядро</Selections.4.Tip>
+			<Selections.5.Display>Атака</Selections.5.Display>
+			<Selections.5.Tip>Золотое Ядро</Selections.5.Tip>
+			<Selections.6.Display>Игнорировать</Selections.6.Display>
+			<Selections.7.Display>Провоцировать</Selections.7.Display>
+			<Selections.7.Tip>Золотое Ядро</Selections.7.Tip>
+			<Selections.8.Display>Провоцировать</Selections.8.Display>
+			<Selections.8.Tip>Золотое Ядро</Selections.8.Tip>
+			<Selections.9.Display>Игнорировать</Selections.9.Display>
+			<Selections.9.Tip>Золотое Ядро</Selections.9.Tip>
+			<Selections.10.Display>Игнорировать</Selections.10.Display>
+			<Selections.10.Tip>Золотое Ядро</Selections.10.Tip>
+		</Text>
+		<Text Name="Visit_2">
+			<DisplayName>Посетите Горную школу</DisplayName>
+			<Desc>[NAME] спешил вперед, когда понял, что горная школа [SCHOOL] была рядом.</Desc>
+			<Selections.0.Display>Войти</Selections.0.Display>
+			<Selections.1.Display>Посетите лидера секты</Selections.1.Display>
+			<Selections.2.Display>Посетите лидера секты</Selections.2.Display>
+			<Selections.3.Display>Доверенное лицо Дворца Небосвода</Selections.3.Display>
+			<Selections.4.Display>Тайна пещеры Громовержца</Selections.4.Display>
+			<Selections.5.Display>Посетить</Selections.5.Display>
+			<Selections.6.Display>Посетить</Selections.6.Display>
+			<Selections.7.Display>Посетить</Selections.7.Display>
+			<Selections.8.Display>Проникнуть</Selections.8.Display>
+			<Selections.8.Tip>Отличный шанс на стадии Юань Шен</Selections.8.Tip>
+			<Selections.9.Display>Игнорировать</Selections.9.Display>
+			<Selections.7.Tip>Изначальный дух или обе стороны должны иметь хорошие отношения.</Selections.7.Tip>																										   
+			<Selections.10.Display>Проникнуть в</Selections.10.Display>
+			<Selections.10.Tip>Изначальное духовное состояние и удача высоки</Selections.10.Tip>
+			<Selections.11.Display>Игнорировать</Selections.11.Display>
+		</Text>
+		<Text Name="Story_Base">
+			<DisplayName>Царство Смертных</DisplayName>
+			<Desc>[NAME] прошел мимо небольшого города, принял на себя мирские чувства и поэтому решил принять облик простолюдина и исчез в городе.</Desc>
+			<Selections.0.Display>Наслаждайтесь царством смертных</Selections.0.Display>
+			<Selections.1.Display>Повергните Царство смертных в хаос</Selections.1.Display>
+			<Selections.2.Display>Уйти</Selections.2.Display>
+		</Text>
+		<Text Name="Story_1">
+			<DisplayName>Царство Смертных</DisplayName>
+			<Desc>[NAME] заметил, что на берегу реки старуха полирует железный прут.</Desc>
+			<Selections.0.Display>Спросите (Благое Намерение)</Selections.0.Display>
+			<Selections.1.Display>Вы получили некоторое понимание.</Selections.1.Display>
+			<Selections.2.Display>Спросите (Злой Умысел)</Selections.2.Display>
+			<Selections.3.Display>Опять она.</Selections.3.Display>
+			<Selections.4.Display>Опять она.</Selections.4.Display>
+			<Selections.5.Display>Опять она.</Selections.5.Display>
+		</Text>
+		<Text Name="Story_2">
+			<DisplayName>Царство Смертных</DisplayName>
+			<Desc>[NAME], казалось, было суждено наткнуться на это живописное место, наполненное природной красотой. Охваченный благоговейным трепетом, [IT] сел прямо там и не знал, возможно ли прозрение.</Desc>
+			<Selections.0.Display>Глубокое Вдохновение</Selections.0.Display>
+			<Selections.0.Tip>Интеллект</Selections.0.Tip>
+			<Selections.1.Display>Поглощать Ци</Selections.1.Display>
+		</Text>
+		<Text Name="Story_3">
+			<DisplayName>Царство Смертных</DisplayName>
+			<Desc>[NAME] время от времени видел двух странных зверей, дерущихся в воздухе. Оба зверя, казалось, совершали неестественные подвиги, как будто это была битва между зверями из другого мира. [NAME] был взволнован и заинтригован, потому что казалось, что битва между этими двумя зверями скрывала какую-то тайну.</Desc>
+			<Selections.0.Display>Подражайте странным зверям</Selections.0.Display>
+			<Selections.0.Tip>Восприятие</Selections.0.Tip>
+			<Selections.1.Display>Игнорировать</Selections.1.Display>
+		</Text>
+		<Text Name="GoodFight_Base">
+			<DisplayName>Чума сеет хаос</DisplayName>
+			<Desc>[NAME] прошел мимо города и обнаружил, что чума сеет хаос в этом месте. На въезде в город, кажется, есть какие-то культиваторы, помогающие горожанам бороться с чумой. Однако ситуация продолжает ухудшаться, и кажется, что они не смогут ее контролировать.</Desc>
+			<Selections.0.Display>Выручить</Selections.0.Display>
+			<Selections.1.Display>Помогите неискренне</Selections.1.Display>
+			<Selections.1.Tip>Очистка Ци</Selections.1.Tip>
+			<Selections.2.Display>Помогите неискренне</Selections.2.Display>
+			<Selections.2.Tip>Сгущение Ядра</Selections.2.Tip>
+			<Selections.3.Display>Игнорировать</Selections.3.Display>
+		</Text>
+		<Text Name="GoodFight_1">
+			<DisplayName>Битва справедливости и зла</DisplayName>
+			<Desc>[NAME] видит вспышки света, как будто от мечей вдалеке, кажется, что там сражаются люди.</Desc>
+			<Selections.0.Display>Атака Ученика Злой Секты</Selections.0.Display>
+			<Selections.0.Tip>Сгущение Ядра</Selections.0.Tip>
+			<Selections.1.Display>Атака Ученика Злой Секты</Selections.1.Display>
+			<Selections.1.Tip>Сгущение Ядра</Selections.1.Tip>
+			<Selections.2.Display>Атака Ученика Справедливой Секты</Selections.2.Display>
+			<Selections.2.Tip>Сгущение Ядра</Selections.2.Tip>
+			<Selections.3.Display>Атака Ученика Справедливой Секты</Selections.3.Display>
+			<Selections.3.Tip>Сгущение Ядра</Selections.3.Tip>
+			<Selections.4.Display>Игнорировать</Selections.4.Display>
+		</Text>
+		<Text Name="BadFight_Base">
+			<DisplayName>Злой массив очищает душу</DisplayName>
+			<Desc>[NAME] прошел мимо города и обнаружил, что обида переполняет это место. Похоже, кто-то занимается темными искусствами.</Desc>
+			<Selections.0.Display>Выручить</Selections.0.Display>
+			<Selections.1.Display>Помогите неискренне</Selections.1.Display>
+			<Selections.1.Tip>Золотое Ядро</Selections.1.Tip>
+			<Selections.2.Display>Остановите их.</Selections.2.Display>
+			<Selections.2.Tip>Золотое Ядро</Selections.2.Tip>
+			<Selections.3.Display>Игнорировать</Selections.3.Display>
+		</Text>
+		<Text Name="BadFight_1">
+			<DisplayName>Битва справедливости и зла</DisplayName>
+			<Desc>[NAME] видит вспышки света, как будто от мечей вдалеке, кажется, что там сражаются люди.</Desc>
+			<Selections.0.Display>Атака Ученика Злой Секты</Selections.0.Display>
+			<Selections.0.Tip>Сгущение Ядра</Selections.0.Tip>
+			<Selections.1.Display>Атака Ученика Злой Секты</Selections.1.Display>
+			<Selections.1.Tip>Сгущение Ядра</Selections.1.Tip>
+			<Selections.2.Display>Атака Ученика Справедливой Секты</Selections.2.Display>
+			<Selections.2.Tip>Сгущение Ядра</Selections.2.Tip>
+			<Selections.3.Display>Атака Ученика Справедливой Секты</Selections.3.Display>
+			<Selections.3.Tip>Сгущение Ядра</Selections.3.Tip>
+			<Selections.4.Display>Игнорировать</Selections.4.Display>
+		</Text>
+		<Text Name="Treasure_Base">
+			<DisplayName>Поиск реликвий</DisplayName>
+			<Desc>[NAME] случайно наткнулся на скрытую резиденцию культиватора... похоже, она была заброшена довольно давно.</Desc>
+			<Selections.0.Display>Посмотри</Selections.0.Display>
+			<Selections.0.Tip>Удача</Selections.0.Tip>
+			<Selections.1.Display>Игнорировать</Selections.1.Display>
+		</Text>
+		<Text Name="Treasure_1">
+			<DisplayName>Встреча В Глубоком Бассейне</DisplayName>
+			<Desc>[NAME] торопился в течение нескольких дней подряд, и хотя он устал, только когда в сумерках наткнулся на глубокую лужу воды, этот человек решил отдохнуть. Ночью, [NAME] с удивлением обнаружил, что свет, казалось, исходит из воды.</Desc>
+			<Selections.0.Display>Посмотри</Selections.0.Display>
+			<Selections.0.Tip>Войдите В Состояние Практики</Selections.0.Tip>
+			<Selections.1.Display>Игнорировать</Selections.1.Display>
+		</Text>
+		<Text Name="Find_Base">
+			<DisplayName>Сбор Ресурсов</DisplayName>
+			<Desc>Когда [NAME] прибыл в это место, оказалось, что вокруг было много всего, что можно было собрать.</Desc>
+			<Selections.0.Display>Сбор Ресурсов</Selections.0.Display>
+			<Selections.1.Display>Игнорировать</Selections.1.Display>
+		</Text>
+		<Text Name="City_Base">
+			<DisplayName>Город</DisplayName>
+			<Desc>[NAME] пришел в [PLACE] и обнаружил, что оно густонаселено и бизнес процветает.</Desc>
+			<Selections.0.Display>Поиск учеников</Selections.0.Display>
+			<Selections.0.Tip>Удача и харизма</Selections.0.Tip>
+			<Selections.1.Display>Пленить Смертных</Selections.1.Display>
+			<Selections.2.Display>Помогите другим</Selections.2.Display>
+			<Selections.3.Display>Закупка Материалов</Selections.3.Display>
+			<Selections.4.Display>Отказаться</Selections.4.Display>
+		</Text>
+		<Text Name="Business_Base">
+			<DisplayName>Закупка Материалов</DisplayName>
+			<Desc>[NAME] обнаружил, что в этом месте есть развитый рынок с низкими ценами, и поэтому решил забрать вещи, прежде чем отправиться обратно.</Desc>
+			<Selections.0.Display>Приобретение Еды</Selections.0.Display>
+			<Selections.1.Display>Купить Мрамор</Selections.1.Display>
+			<Selections.2.Display>Покупка Древесины</Selections.2.Display>
+			<Selections.3.Display>Покупка Железной Руды</Selections.3.Display>
+			<Selections.4.Display>Купить Хлопок</Selections.4.Display>
+		</Text>
+		<Text Name="Highfind_Base">
+			<DisplayName>Собирайте Сокровища</DisplayName>
+			<Desc>[NAME]слышал, что есть некоторые предметы, произведенные в [PLACE] которые были полезны для практики.</Desc>
+			<Selections.0.Display>Поиск</Selections.0.Display>
+			<Selections.0.Tip>Удача</Selections.0.Tip>
+			<Selections.1.Display>Игнорировать</Selections.1.Display>
+		</Text>
+		<Text Name="Secret_Base">
+			<DisplayName>Ищите улики</DisplayName>
+			<Desc>[NAME] проезжал мимо [PLACE] во время путешествия и обнаружил, что там было очень много людей, которые что-то обсуждали.</Desc>
+			<Selections.0.Display>Поспрашивайте вокруг</Selections.0.Display>
+			<Selections.1.Display>Игнорировать</Selections.1.Display>
+		</Text>
+		<Text Name="Place_Base">
+			<DisplayName>Поиск локаций</DisplayName>
+			<Desc>[NAME] услышал, что рядом с [PLACE] есть несколько ужасно интересных мест, и поэтому решил отправиться на экскурсию.</Desc>
+			<Selections.0.Display>Ищите укромные места</Selections.0.Display>
+			<Selections.1.Display>Игнорировать</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Cold">
+			<DisplayName>Случайная встреча на снежном поле</DisplayName>
+			<Desc>[NAME], казалось, было суждено наткнуться на это живописное место, наполненное природной красотой. Охваченный благоговейным трепетом, [IT] сел прямо там и не знал, возможно ли прозрение.</Desc>
+			<Selections.0.Display>Глубокое Вдохновение</Selections.0.Display>
+			<Selections.0.Tip>Интеллект</Selections.0.Tip>
+			<Selections.1.Display>Поглощать Ци</Selections.1.Display>
+			<Selections.2.Display>Слишком холодно.</Selections.2.Display>
+		</Text>
+		<Text Name="Story_Cold2">
+			<DisplayName>Случайная встреча на снежном поле</DisplayName>
+			<Desc>[NAME] время от времени видел двух странных зверей, дерущихся в воздухе. Оба зверя, казалось, совершали неестественные подвиги, как будто это была битва между зверями из другого мира. [NAME] был взволнован и заинтригован, потому что казалось, что битва между этими двумя зверями скрывала какую-то тайну.</Desc>
+			<Selections.0.Display>Подражайте странным зверям</Selections.0.Display>
+			<Selections.0.Tip>Восприятие</Selections.0.Tip>
+			<Selections.1.Display>Игнорировать</Selections.1.Display>
+			<Selections.2.Display>Слишком холодно.</Selections.2.Display>
+		</Text>
+		<Text Name="Secret_Cold_Base">
+			<DisplayName>Ищите улики</DisplayName>
+			<Desc>[NAME] отправился в [PLACE] и [IT] услышал, что здесь ходят интересные слухи, и поэтому попытался выяснить, что можно узнать.</Desc>
+			<Selections.0.Display>Поспрашивайте вокруг</Selections.0.Display>
+			<Selections.0.Tip>Устойчивость К Холоду</Selections.0.Tip>
+			<Selections.1.Display>Игнорировать</Selections.1.Display>
+		</Text>
+		<Text Name="Place_Cold_Base">
+			<DisplayName>Поиск локаций</DisplayName>
+			<Desc>[NAME] услышал, что рядом с [PLACE] есть несколько ужасно интересных мест, и поэтому решил отправиться на экскурсию.</Desc>
+			<Selections.0.Display>Ищите укромные места</Selections.0.Display>
+			<Selections.0.Tip>Устойчивость К Холоду</Selections.0.Tip>
+			<Selections.1.Display>Игнорировать</Selections.1.Display>
+		</Text>
+		<Text Name="Find_Cold_Base">
+			<DisplayName>Сбор Ресурсов</DisplayName>
+			<Desc>Пока [NAME] путешествовал, оказалось, что вокруг [PLACE] было много такого, что могло бы пригодиться.</Desc>
+			<Selections.0.Display>Соберите Местные Фирменные Блюда</Selections.0.Display>
+			<Selections.0.Tip>Устойчивость К Холоду</Selections.0.Tip>
+			<Selections.1.Display>Игнорировать</Selections.1.Display>
+		</Text>
+		<Text Name="Highfind_Cold_Base">
+			<DisplayName>Собирайте Сокровища</DisplayName>
+			<Desc>[NAME]слышал, что есть некоторые предметы, произведенные в [PLACE] которые были полезны для практики.</Desc>
+			<Selections.0.Display>Поиск</Selections.0.Display>
+			<Selections.0.Tip>Удача</Selections.0.Tip>
+			<Selections.1.Display>Игнорировать</Selections.1.Display>
+			<Selections.2.Display>Слишком холодно.</Selections.2.Display>
+		</Text>
+		<Text Name="Visit_Old_Base">
+			<DisplayName>Случайная Встреча</DisplayName>
+			<Desc>[NAME] наткнулся на группу учеников [SCHOOL], которые пришли поприветствовать [ENHIM], стоявшего на дороге.</Desc>
+			<Selections.0.Display>Дружеская Беседа</Selections.0.Display>
+			<Selections.1.Display>Светская Беседа</Selections.1.Display>
+			<Selections.2.Display>Насмешка</Selections.2.Display>
+			<Selections.3.Display>Насмешка</Selections.3.Display>
+			<Selections.4.Display>Игнорировать</Selections.4.Display>
+			<Selections.5.Display>Провоцировать</Selections.5.Display>
+			<Selections.5.Tip>Золотое Ядро</Selections.5.Tip>
+			<Selections.6.Display>Провоцировать</Selections.6.Display>
+			<Selections.6.Tip>Золотое Ядро</Selections.6.Tip>
+			<Selections.7.Display>Игнорировать</Selections.7.Display>
+			<Selections.7.Tip>Золотое Ядро</Selections.7.Tip>
+			<Selections.8.Display>Игнорировать</Selections.8.Display>
+			<Selections.8.Tip>Золотое Ядро</Selections.8.Tip>
+		</Text>
+		<Text Name="Visit_Old_1">
+			<DisplayName>Случайная Встреча</DisplayName>
+			<Desc>[NAME] случайно наткнулся на старейшину [SCHOOL], когда шел по дороге.</Desc>
+			<Selections.0.Display>Посетить</Selections.0.Display>
+			<Selections.1.Display>Светская Беседа</Selections.1.Display>
+			<Selections.2.Display>Скрытая Атака</Selections.2.Display>
+			<Selections.2.Tip>Золотое Ядро</Selections.2.Tip>
+			<Selections.3.Display>Скрытая Атака</Selections.3.Display>
+			<Selections.3.Tip>Золотое Ядро</Selections.3.Tip>
+			<Selections.4.Display>Атака</Selections.4.Display>
+			<Selections.4.Tip>Золотое Ядро</Selections.4.Tip>
+			<Selections.5.Display>Игнорировать</Selections.5.Display>
+			<Selections.6.Display>Провоцировать</Selections.6.Display>
+			<Selections.6.Tip>Золотое Ядро</Selections.6.Tip>
+			<Selections.7.Display>Провоцировать</Selections.7.Display>
+			<Selections.7.Tip>Золотое Ядро</Selections.7.Tip>
+			<Selections.8.Display>Игнорировать</Selections.8.Display>
+			<Selections.8.Tip>Золотое Ядро</Selections.8.Tip>
+			<Selections.9.Display>Игнорировать</Selections.9.Display>
+			<Selections.9.Tip>Золотое Ядро</Selections.9.Tip>
+		</Text>
+		<Text Name="Visit_Old_2">
+			<DisplayName>Посетите Горную школу</DisplayName>
+			<Desc>[NAME] спешил вперед, когда понял, что горная школа [SCHOOL] была рядом.</Desc>
+			<Selections.0.Display>Посетите лидера секты</Selections.0.Display>
+			<Selections.1.Display>Посетить</Selections.1.Display>
+			<Selections.2.Display>Посетить</Selections.2.Display>
+			<Selections.3.Display>Посетить</Selections.3.Display>
+			<Selections.4.Display>Посетить</Selections.4.Display>
+			<Selections.5.Display>Посетить</Selections.5.Display>
+			<Selections.5.Tip>Изначальный дух или обе стороны должны иметь хорошие отношения.</Selections.5.Tip>
+			<Selections.6.Display>Проникнуть в</Selections.6.Display>
+			<Selections.6.Tip>Изначальное духовное состояние и удача высоки</Selections.6.Tip>
+			<Selections.7.Display>Игнорировать</Selections.7.Display>
+		</Text>
+	</List>
+</Texts>

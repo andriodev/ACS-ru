@@ -1,0 +1,147 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="FacialScar">
+			<DisplayName>Лицо со шрамом</DisplayName>
+			<Desc>На лице этого человека ужасный шрам.</Desc>
+		</Text>
+		<Text Name="UglyFace1">
+			<DisplayName>Непривлекательный</DisplayName>
+			<Desc>Этот человек выглядит слишком некрасиво, чтобы вызывать симпатию.</Desc>
+		</Text>
+		<Text Name="UglyFace2">
+			<DisplayName>Уродливый</DisplayName>
+			<Desc>Этот человек выглядит слишком уродливо, чтобы быть человеком.</Desc>
+		</Text>
+		<Text Name="BeautifulFace1">
+			<DisplayName>Привлекательный</DisplayName>
+			<Desc>Этот человек невероятно привлекательный.</Desc>
+		</Text>
+		<Text Name="BeautifulFace2">
+			<DisplayName>Красивый</DisplayName>
+			<Desc>Этот человек невероятно красивый.</Desc>
+		</Text>
+		<Text Name="OldViscusInjury">
+			<DisplayName>Поврежденные органы</DisplayName>
+			<Desc>Внутренние органы этого человека серьезно повреждены, и они не заживают.</Desc>
+		</Text>
+		<Text Name="CrippleLeft">
+			<DisplayName>Хромота (слева)</DisplayName>
+			<Desc>У этого человека хромает левая нога из-за длительного заболевания.</Desc>
+		</Text>
+		<Text Name="CrippleRight">
+			<DisplayName>Хромота (справа)</DisplayName>
+			<Desc>У этого человека хромает правая нога из-за длительного заболевания.</Desc>
+		</Text>
+		<Text Name="BanLeftTibia">
+			<DisplayName>Отрезанная нога (левая)</DisplayName>
+			<Desc>У этого человека была отрезана левая нога.</Desc>
+		</Text>
+		<Text Name="BanRightTibia">
+			<DisplayName>Отрезанная нога (правая)</DisplayName>
+			<Desc>У этого человека была отрезана левая нога.</Desc>
+		</Text>
+		<Text Name="BanLeftScapula">
+			<DisplayName>Отрезанная рука (левая)</DisplayName>
+			<Desc>Вся левая рука этого человека была отрезана.</Desc>
+		</Text>
+		<Text Name="BanRightScapula">
+			<DisplayName>Отрезанная рука (правая)</DisplayName>
+			<Desc>Вся правая рука этого человека была отрезана.</Desc>
+		</Text>
+		<Text Name="Deaf">
+			<DisplayName>Глухой</DisplayName>
+			<Desc>Этот человек родился глухим.</Desc>
+		</Text>
+		<Text Name="BanLeftEye">
+			<DisplayName>Слепой (слева)</DisplayName>
+			<Desc>Слепой на левый глаз.</Desc>
+		</Text>
+		<Text Name="BanRightEye">
+			<DisplayName>Слепой (справа)</DisplayName>
+			<Desc>Слепой на правый глаз.</Desc>
+		</Text>
+		<Text Name="BanLeftEar">
+			<DisplayName>Глухой (слева)</DisplayName>
+			<Desc>Глухой на левое ухо.</Desc>
+		</Text>
+		<Text Name="BanRightEar">
+			<DisplayName>Глухой (справа)</DisplayName>
+			<Desc>Глухой на правое ухо.</Desc>
+		</Text>
+		<Text Name="MeridianIncomplete">
+			<DisplayName>Сломанные меридианы</DisplayName>
+			<Desc>Этот человек родился с нарушенными меридианами.</Desc>
+		</Text>
+		<Text Name="HealthOverdraft1">
+			<DisplayName>Нездоровый</DisplayName>
+			<Desc>Этот человек не уделял особого внимания своему здоровью, и его продолжительность жизни короче, чем у других.</Desc>
+		</Text>
+		<Text Name="HealthOverdraft2">
+			<DisplayName>Больной</DisplayName>
+			<Desc>Этот человек не обращал внимания на свое здоровье, и его продолжительность жизни намного короче, чем у других.</Desc>
+		</Text>
+		<Text Name="HealthMaintain1">
+			<DisplayName>Здоровый</DisplayName>
+			<Desc>Этот человек знает, как поддерживать хорошее здоровье, и его продолжительность жизни больше, чем у других.</Desc>
+		</Text>
+		<Text Name="HealthMaintain2">
+			<DisplayName>Крепкий</DisplayName>
+			<Desc>Этот человек знает, как поддерживать хорошее здоровье, и его продолжительность жизни намного дольше, чем у других.</Desc>
+		</Text>
+		<Text Name="ColdPatience">
+			<DisplayName>Морозостойкий</DisplayName>
+			<Desc>Этот человек жил в холодном регионе и хорошо переносит холодную погоду.</Desc>
+		</Text>
+		<Text Name="HotPatience">
+			<DisplayName>Термостойкий</DisplayName>
+			<Desc>Этот человек жил в жарком регионе и хорошо переносит жаркую погоду.</Desc>
+		</Text>
+		<Text Name="DarkPatience">
+			<DisplayName>Темный житель</DisplayName>
+			<Desc>Этому человеку нравятся темные места.</Desc>
+		</Text>
+		<Text Name="HighMan">
+			<DisplayName>Высокий</DisplayName>
+			<Desc>Этот человек выше и сильнее большинства людей, поэтому он с большей вероятностью решит проблемы с помощью насилия.</Desc>
+		</Text>
+		<Text Name="LowMan">
+			<DisplayName>Маленький</DisplayName>
+			<Desc>Этот человек худой и маленького роста, как ребенок, поэтому с большей вероятностью он решит проблемы с помощью интеллекта.</Desc>
+		</Text>
+		<Text Name="NoHair">
+			<DisplayName>Лысый</DisplayName>
+			<Desc>У этого человека нет волос.</Desc>
+		</Text>
+		<Text Name="LeftHanded">
+			<DisplayName>Левша</DisplayName>
+			<Desc>Этот человек левша.</Desc>
+		</Text>
+		<Text Name="Mute">
+			<DisplayName>Немой</DisplayName>
+			<Desc>Этот человек не может разговаривать с другими людьми.</Desc>
+		</Text>
+		<Text Name="BanRightMiddleFinger">
+			<DisplayName>Сломанный палец</DisplayName>
+		</Text>
+		<Text Name="RunFast">
+			<DisplayName>Подвижный</DisplayName>
+			<Desc>Этот человек очень подвижен и может очень быстро ходить.</Desc>
+		</Text>
+		<Text Name="Indigestion">
+			<DisplayName>Несварение</DisplayName>
+			<Desc>У этого человека плохое пищеварение, которое препятствует усвоению питательных веществ.</Desc>
+		</Text>
+		<Text Name="IronStomach">
+			<DisplayName>Железный желудок</DisplayName>
+			<Desc>У этого человека чрезвычайно здоровое пищеварение, которое помогает усваивать питательные вещества.</Desc>
+		</Text>
+		<Text Name="GoodEyesight">
+			<DisplayName>Зоркий</DisplayName>
+			<Desc>У этого человека хорошее зрение, и он может видеть очень далеко.</Desc>
+		</Text>
+		<Text Name="ShallowSleep">
+			<DisplayName>Чуткий сон</DisplayName>
+			<Desc>Этот человек, вероятно, проснется посреди ночи.</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,60 @@
+﻿ID	Name	Des	InitialKey1	InitialKey2	IgnoreCombinationkeys	Lock	Type
+Function ID	Name	Des	Hotkey Set 1	Hotkey Set 2	Ignore key combination conflict	Locked (cannot be modified by palyers)	Category
+Up	Вверх		W	UpArrow	LeftAlt		Player
+down	Вниз		S	DownArrow	LeftAlt		Player
+left	Влево		A	LeftArrow	LeftAlt		Player
+right	Вправо		D	RightArrow	LeftAlt		Player
+SpeedP	- скорость		Q				Player
+SpeedN	+ скорость		E				Player
+GamePauseOrPlay	Пауза		Space				Player
+Attack	Атака		BackQuote				Character
+RunAway	Бежать		LeftControl+BackQuote				Character
+Moveto	Перейти к		V				Character
+StopJob	Прервать	Interrupts the current action (some actions cannot be interrupted).	LeftAlt+S				Character
+Work	Рабочее меню		T				Menu
+School	Меню секты		G				Menu
+World	Карта мира		M				Menu
+Help	Помощь		F10				Menu
+AttributePanel	Панель статистики		C				Character
+MoodPanel	Меню настроения		F				Character
+HealthPanel	Меню Здоровья		H				Character
+PracticePanel	Меню культивации		X				Character
+EquipmentPanel	Меню экипировки		Z				Character
+Interaction	Взаимодействие 1-9	F1-F9				1	Character
+RotBuilding	Повернуть здание		R				Area
+RepeatBuild	Копировать здание		LeftControl+V				Area
+Harvest	Сбор		LeftControl+G				Area
+Log	Рубить		LeftControl+X				Area
+Mine	Добывать		LeftControl+T				Area
+Cutoff	Очистить		LeftControl+E				Area
+Dismantle	Разрушить		LeftControl+C				Area
+RemoveFloor	Удалить пол		LeftControl+B				Area
+Explore	Область поиска		LeftControl+F				Area
+Melting	Переплавить предметы		LeftControl+Y				Area
+Hunting	Охота		LeftControl+H				Area
+CancelCMD	Отменить приказ		LeftControl+D				Area
+BuildPanel	Меню строительства		B				Menu
+SearchPanel	Целевое меню		Y				Menu
+ProducePanel	Меню продукции		P				Menu
+SwichNpc	Изменить цель		Tab				Player
+33	Целевая команда	L-Ctrl + 1-9				1	Player
+34	Выбрать команду 	1-9				1	Player
+36	Несколько	L-Shift				1	Player
+Story1	Adv. Option 1		Alpha1				Adventure
+Story2	Adv. Option 2		Alpha2				Adventure
+Story3	Adv. Option 3		Alpha3				Adventure
+Story4	Adv. Option 4		Alpha4				Adventure
+Story5	Adv. Option 5		Alpha5				Adventure
+Story6	Adv. Option 6		Alpha6				Adventure
+Story7	Adv. Option 7		Alpha7				Adventure
+Story8	Adv. Option 8		Alpha8				Adventure
+Story9	Adv. Option 9		Alpha9				Adventure
+QuickSave	Быстрый сейв		F9				System
+ShowOrHide	Скрыть/Показать интерфейс		F11				System
+37	Системное меню	Esc				1	System
+Zhen	Меню формации		N				Menu
+MinMap	Миникарта		Comma				Menu
+ShowElement	Пять элементов		L				Menu
+Power	Сила		K				Menu
+Miwen	Секреты		U				Menu
+IllHand	Энциклопедия		O				Menu

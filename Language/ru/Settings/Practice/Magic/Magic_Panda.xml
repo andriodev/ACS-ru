@@ -1,0 +1,18 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="LcSchoolPanda">
+			<DisplayName>Посол Бессмертных</DisplayName>
+			<Desc>Пошлите его в другой сектор, чтобы улучшить наши отношения.</Desc>
+			<sParam2>Panda</sParam2>
+		</Text>
+		<Text Name="PandaLingXi">
+			<DisplayName>Друг Природы</DisplayName>
+			<Desc>Приручите дикое животное.</Desc>
+			<TargetDesc>Выберите животное, не являющееся союзником.</TargetDesc>
+		</Text>
+		<Text Name="Magic_YG_RealYinYang">
+			<DisplayName>Сила родословной (Смешаная)</DisplayName>
+			<Desc>Быстро сжигает источник жизни, чтобы стимулировать изначальную силу ЯоГайя, чтобы резко повысить мастерство артефактов, барьер ци, а также силу и выносливость тайного тела. Используйте умение еще раз, чтобы остановить этот эффект.</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,50 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Zhen_XianTianMuLing">
+			<DisplayName>Домен древесной сущности</DisplayName>
+			<Desc>Активизация потенциала организма и повышение его устойчивости к физическим травмам.</Desc>
+		</Text>
+		<Text Name="Zhen_ZTLYQLSJ">
+			<DisplayName>Домен небесного спокойствия</DisplayName>
+			<Desc>Повышает настроение, психическое состояние и скорость культивирования.</Desc>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower1">
+			<DisplayName>Малая формационная нагрузка</DisplayName>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower2">
+			<DisplayName>Средняя формационная нагрузка</DisplayName>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower3">
+			<DisplayName>Большая формационная нагрузка</DisplayName>
+		</Text>
+		<Text Name="Zhen_ZhenEnginePower4">
+			<DisplayName>Продвинутая формация</DisplayName>
+		</Text>
+		<Text Name="Zhen_FashuhejiEffect">
+			<DisplayName>Совместная атака заклинанием</DisplayName>
+			<Desc>Произнесите следующее заклинание, объединив силу всех участников формации.</Desc>
+		</Text>
+		<Text Name="Zhen_LinkEffect">
+			<DisplayName>Формирование</DisplayName>
+		</Text>
+		<Text Name="Zhen_LinkEffectCore">
+			<DisplayName>Столб</DisplayName>
+		</Text>
+		<Text Name="Zhen_RevealEffect">
+			<DisplayName>Открыто Вспомогательное</DisplayName>
+			<Desc>Вспомогательное звено теперь открыто, атаки по нему наносят дополнительный урон. Его можно скрыть, изменив расстановку.</Desc>
+		</Text>
+		<Text Name="Zhen_CancelZhenRecover">
+			<DisplayName>Восстановление формации</DisplayName>
+			<Desc>Формация находится на стадии восстановления.</Desc>
+		</Text>
+		<Text Name="Zhen_ChangeEffect">
+			<DisplayName>Изменение формации</DisplayName>
+			<Desc>Столб был временно изменен, но через некоторое время изменения будут возвращены.</Desc>
+		</Text>
+		<Text Name="BDPW_Lock">
+			<DisplayName>Отмечено</DisplayName>
+			<Desc>Отмечен Боевой замкнутостью.</Desc>
+		</Text>
+	</List>
+</Texts>

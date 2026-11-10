@@ -1,0 +1,202 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="NpcFight_SneakValue">
+      <DisplayName>Скрытность</DisplayName>
+      <Desc>Степень, в которой персонаж скрыт во время кражи. Чем больше это число, тем труднее обнаружить характер.</Desc>
+      <FunctionKind>Базовые Характеристики</FunctionKind>
+    </Text>
+    <Text Name="PotentialOfBasepracticeAddValue">
+      <DisplayName>Потенциальный Бонус</DisplayName>
+      <Desc>Потенциал персонажа влияет на скорость обучения основам и эффективность, с которой очищается Ци.</Desc>
+    </Text>
+    <Text Name="GodPenaltyAddV">
+      <DisplayName>Бонус За Осуждение</DisplayName>
+      <Desc>Бонус за осуждение персонажа</Desc>
+    </Text>
+    <Text Name="MaxAccumulativeLingAddV">
+      <DisplayName>Бонус За Лимит Внутреннего Котла</DisplayName>
+      <Desc>Бонус внутреннего предела котла</Desc>
+    </Text>
+    <Text Name="BasepracticeSpeedCoefficient">
+      <DisplayName>Бонус К Скорости Обучения Фундамента</DisplayName>
+      <Desc>Фундаментальная скорость обучения внешних учеников.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="DeepPracticeSpeedSpecialCoefficient">
+      <DisplayName>Бонус К Скорости Культивирования</DisplayName>
+      <Desc>Скорость культивации, получаемая культиваторами с золотым ядром.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="MindStateBaseValue">
+      <DisplayName>Базовое Психическое Состояние</DisplayName>
+      <Desc>Базовое психическое состояние внутренних учеников.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="SpeedOfMindStateCoefficient">
+      <DisplayName>Уровень стабильного психического состояния</DisplayName>
+      <Desc>Скорость, с которой меняется психическое состояние внутренних учеников.</Desc>
+    </Text>
+    <Text Name="SpeedOfMindStateCoefficientByMoods">
+      <DisplayName>Настроение влияет на скорость изменения психического состояния</DisplayName>
+    </Text>
+    <Text Name="SpeedOfMindStateCoefficientByMoods_Easy">
+      <DisplayName>Настроение влияет на скорость изменения психического состояния</DisplayName>
+    </Text>
+    <Text Name="InspirationCoefficient">
+      <DisplayName>Умножитель Интеллекта Понимания</DisplayName>
+      <Desc>Чем выше интеллект человека, тем легче ему постигать вещи в жизни.</Desc>
+    </Text>
+    <Text Name="LingAbsorbSpeed">
+      <DisplayName>Бонус К Скорости Поглощения Ци</DisplayName>
+    </Text>
+    <Text Name="_SPECIAL_NOADD_NpcLingMaxValue">
+      <DisplayName>Базовая Ци</DisplayName>
+      <Desc>Базовое значение Ци культиватора.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="NpcLingMaxValue">
+      <DisplayName>Максимум Ци</DisplayName>
+      <Desc>Макс Ци персонажа.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="FabaoMake_SpeedAddV">
+      <DisplayName>Бонус К Скорости Создания Артефактов</DisplayName>
+      <Desc>Бонус к скорости при создании артефактов.</Desc>
+      <FunctionKind>Статистика Производства</FunctionKind>
+    </Text>
+    <Text Name="FabaoMake_SuccessRateAddV">
+      <DisplayName>Бонус К Успеху Создания Артефактов</DisplayName>
+      <Desc>Бонус к успеху при создании артефактов.</Desc>
+      <FunctionKind>Статистика Производства</FunctionKind>
+    </Text>
+    <Text Name="FabaoMake_LingInheritRateAddV">
+      <DisplayName>Бонус К Классу Создания Артефактов</DisplayName>
+      <Desc>Влияние Ци сырья на бонус класса артефакта при создании артефактов.</Desc>
+      <FunctionKind>Статистика Производства</FunctionKind>
+    </Text>
+    <Text Name="FabaoMake_QualityAddV">
+      <DisplayName>Бонус Качества Создания Артефактов</DisplayName>
+      <Desc>Бонус качества при создании артефактов.</Desc>
+      <FunctionKind>Статистика Производства</FunctionKind>
+    </Text>
+    <Text Name="FabaoMake_TwelveRateChance">
+      <DisplayName>Уровень успеха создания базовых артефактов</DisplayName>
+      <Desc>Базовый показатель успеха при создании артефактов.</Desc>
+      <FunctionKind>Статистика Производства</FunctionKind>
+    </Text>
+    <Text Name="DanMake_Speed">
+      <DisplayName>Скорость Приготовления Эликсира</DisplayName>
+      <Desc>Скорость, основанная на навыке алхимии, с которой можно состряпать эликсиры.</Desc>
+      <FunctionKind>Статистика Производства</FunctionKind>
+    </Text>
+    <Text Name="DanMake_SpeedAddV">
+      <DisplayName>Бонус К Скорости Алхимии</DisplayName>
+      <Desc>Дополнительный бонус скорости при приготовлении эликсиров.</Desc>
+      <FunctionKind>Статистика Производства</FunctionKind>
+    </Text>
+    <Text Name="DanMake_SuccessRate">
+      <DisplayName>Вероятность Успеха Алхимии</DisplayName>
+      <Desc>Показатель успеха, основанный на навыке алхимии, при приготовлении эликсиров.</Desc>
+      <FunctionKind>Статистика Производства</FunctionKind>
+    </Text>
+    <Text Name="DanMake_SuccessRateAddV">
+      <DisplayName>Бонус К Успеху Алхимии</DisplayName>
+      <Desc>Дополнительный бонус к успеху при приготовлении эликсиров.</Desc>
+      <FunctionKind>Статистика Производства</FunctionKind>
+    </Text>
+    <Text Name="DanMake_Yield">
+      <DisplayName>Бонус К Доходности Алхимии</DisplayName>
+      <Desc>Бонус к доходности, предоставляемый навыком алхимии при приготовлении эликсиров.</Desc>
+      <FunctionKind>Статистика Производства</FunctionKind>
+    </Text>
+    <Text Name="DanMake_YieldAddP">
+      <DisplayName>Бонус К Доходности Эликсира</DisplayName>
+      <Desc>Дополнительный бонус к доходности при приготовлении эликсиров.</Desc>
+      <FunctionKind>Статистика Производства</FunctionKind>
+    </Text>
+    <Text Name="PracticeRateAddPFromDan">
+      <DisplayName>Бонус Шанса Прорыва</DisplayName>
+      <Desc>бонусный показатель успеха при прорыве.</Desc>
+    </Text>
+    <Text Name="WorldMapFlySpeed">
+      <DisplayName>Приключенческая Скорость Полета</DisplayName>
+      <DisplayValue>{0:N1} км/Ци</DisplayValue>
+      <Desc>Максимальная скорость полета при приключениях.</Desc>
+      <FunctionKind>Базовые Характеристики</FunctionKind>
+    </Text>
+    <Text Name="WorldMapFlySpeedAddP">
+      <DisplayName>Приключенческий Бонус Скорости Полета</DisplayName>
+      <Desc>Максимальный бонус скорости полета при приключениях.</Desc>
+      <FunctionKind>Базовые Характеристики</FunctionKind>
+    </Text>
+    <Text Name="ExperienceNeckTimeCostCoefficient">
+      <DisplayName>Множитель Времени Прорыва</DisplayName>
+      <Desc>Множитель времени для выполнения прорыва во время приключения.</Desc>
+    </Text>
+    <Text Name="NeckCountdownAddV">
+      <DisplayName>Таймер Задержки Прорыва</DisplayName>
+      <DisplayValue>{0:N0} секунда (с)</DisplayValue>
+      <Desc>Время оставалось для того, чтобы совершить прорыв.</Desc>
+    </Text>
+    <Text Name="EsotericaNum">
+      <DisplayName>Предел Руководств</DisplayName>
+      <Desc>Максимальное количество руководств.</Desc>
+    </Text>
+    <Text Name="AbilityLvAddV">
+      <DisplayName>Бонус За Достижения</DisplayName>
+      <Desc>Фактическое значение Бонуса за достижение.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="ExperiencePrestigeAddP">
+      <DisplayName>Множитель Репутации</DisplayName>
+      <Desc>Бонусный множитель для приобретения репутации за приключения.</Desc>
+      <FunctionKind>Базовые Характеристики</FunctionKind>
+    </Text>
+    <Text Name="ExperienceFindSpeedAddV">
+      <DisplayName>Скорость Исследования Приключений</DisplayName>
+      <Desc>Бонус скорости при исследовании новой области во время приключения.</Desc>
+      <FunctionKind>Базовые Характеристики</FunctionKind>
+    </Text>
+    <Text Name="NutritionToJingYuanK">
+      <DisplayName>Скорость Приобретения Выносливости</DisplayName>
+      <Desc>Коэффициент преобразования выносливости для каждой точки насыщения.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="NutritionWaterAutoRecover">
+      <DisplayName>Эффективность Поглощения Ци</DisplayName>
+      <DisplayValue>{0:N2}/сек</DisplayValue>
+      <Desc>Способность получать энергию непосредственно с неба и земли для поддержания голода и жажды.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="YaoShou_BaseLing">
+      <DisplayName>Демоническая Ци</DisplayName>
+      <Desc>Демоническая Ци</Desc>
+    </Text>
+    <Text Name="YaoShou_BaseAttack">
+      <DisplayName>Демоническая Сила Атаки</DisplayName>
+      <Desc>Демоническая Сила Атаки</Desc>
+    </Text>
+    <Text Name="YaoShou_BaseFabaoNum">
+      <DisplayName>Количество Демонических Артефактов</DisplayName>
+      <Desc>Количество Демонических Артефактов</Desc>
+    </Text>
+    <Text Name="GongMatch_JinAddV">
+      <DisplayName>Бонус Соответствия Металлическому Закону</DisplayName>
+    </Text>
+    <Text Name="GongMatch_MuAddV">
+      <DisplayName>Бонус Соответствия Деревянному Закону</DisplayName>
+    </Text>
+    <Text Name="GongMatch_ShuiAddV">
+      <DisplayName>Бонус Соответствия Водному Праву</DisplayName>
+    </Text>
+    <Text Name="GongMatch_HuoAddV">
+      <DisplayName>Бонус Соответствия Закону Огня</DisplayName>
+    </Text>
+    <Text Name="GongMatch_TuAddV">
+      <DisplayName>Бонус Соответствия Закону Земли</DisplayName>
+    </Text>
+    <Text Name="GongMatch_NoneAddV">
+      <DisplayName>Бонус За Соответствие Неопределенному Закону</DisplayName>
+    </Text>
+  </List>
+</Texts>

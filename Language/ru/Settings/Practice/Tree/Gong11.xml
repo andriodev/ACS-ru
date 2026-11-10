@@ -1,0 +1,121 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong11_a5">
+			<DisplayName>Тело Луны</DisplayName>
+		</Text>
+		<Text Name="Gong11_a5_1">
+			<DisplayName>Малое Тело Луны</DisplayName>
+		</Text>
+		<Text Name="Gong11_a5_2">
+			<DisplayName>Морозное Тело Луны</DisplayName>
+		</Text>
+		<Text Name="Gong11_b1">
+			<DisplayName>Техника Божественных Шагов</DisplayName>
+		</Text>
+		<Text Name="Gong11_b1_1">
+			<DisplayName>Мгновенное Перемещение</DisplayName>
+		</Text>
+		<Text Name="Gong11_b3">
+			<DisplayName>Медитация Девяти Провинций</DisplayName>
+		</Text>
+		<Text Name="Gong11_b5">
+			<DisplayName>Техника Изгнания Зла</DisplayName>
+		</Text>
+		<Text Name="Gong11_b7">
+			<DisplayName>Сумрачный Меч</DisplayName>
+		</Text>
+		<Text Name="Gong11_b9">
+			<DisplayName>Трактат Матери Земли</DisplayName>
+		</Text>
+		<Text Name="Gong11_b11">
+			<DisplayName>Песня Души</DisplayName>
+		</Text>
+		<Text Name="Gong11_c0">
+			<DisplayName>Похититель Душ</DisplayName>
+		</Text>
+		<Text Name="Gong11_c0_1">
+			<DisplayName>Кузня Пустоты</DisplayName>
+		</Text>
+		<Text Name="Gong11_c1">
+			<DisplayName>Пыльный Дьявол</DisplayName>
+		</Text>
+		<Text Name="Gong11_c2">
+			<DisplayName>Возрождение Мечты</DisplayName>
+		</Text>
+		<Text Name="Gong11_c3">
+			<DisplayName>Техника Восьми Направлений</DisplayName>
+		</Text>
+		<Text Name="Gong11_c4">
+			<DisplayName>Духовное Зрение</DisplayName>
+		</Text>
+		<Text Name="Gong11_c5">
+			<DisplayName>Щит Изначальной Пустоты</DisplayName>
+		</Text>
+		<Text Name="Gong11_c5_1">
+			<DisplayName>Эгида Пустоты</DisplayName>
+		</Text>
+		<Text Name="Gong11_c6">
+			<DisplayName>Иайдо</DisplayName>
+		</Text>
+		<Text Name="Gong11_c7">
+			<DisplayName>Стиль Тёмной Скалы</DisplayName>
+		</Text>
+		<Text Name="Gong11_c7_1">
+			<DisplayName>Малый Стиль Тёмной Скалы</DisplayName>
+		</Text>
+		<Text Name="Gong11_c7_2">
+			<DisplayName>Частица Лунного Льда</DisplayName>
+		</Text>
+		<Text Name="Gong11_c8">
+			<DisplayName>Стиль Заточения в Бездне</DisplayName>
+		</Text>
+		<Text Name="Gong11_c8_1">
+			<DisplayName>Секрет Ада</DisplayName>
+		</Text>
+		<Text Name="Gong11_c9">
+			<DisplayName>Секретные Методы Призрака</DisplayName>
+		</Text>
+		<Text Name="Gong11_c10">
+			<DisplayName>Призрачное Улучшение</DisplayName>
+		</Text>
+		<Text Name="Gong11_c11">
+			<DisplayName>Духовное Улучшениеt</DisplayName>
+		</Text>
+		<Text Name="Gong11_d1">
+			<DisplayName>Истинная Ци Земли</DisplayName>
+		</Text>
+		<Text Name="Gong11_d1_1">
+			<DisplayName>Истинная Ци Земли</DisplayName>
+		</Text>
+		<Text Name="Gong11_d1_2">
+			<DisplayName>Истинная Ци Земли</DisplayName>
+		</Text>
+		<Text Name="Gong11_d1_3">
+			<DisplayName>Истинная Ци Земли</DisplayName>
+		</Text>
+		<Text Name="Gong11_d3">
+			<DisplayName>Заметки о Добродетелях</DisplayName>
+		</Text>
+		<Text Name="Gong11_d5">
+			<DisplayName>Визит в Пустоту</DisplayName>
+		</Text>
+		<Text Name="Gong11_d7">
+			<DisplayName>Стиль Порочного Уничтожения</DisplayName>
+		</Text>
+		<Text Name="Gong11_d7_1">
+			<DisplayName>Меч Одного Удара</DisplayName>
+		</Text>
+		<Text Name="Gong11_d7_2">
+			<DisplayName>Артефакт Наследия: Меч Одного Удара</DisplayName>
+		</Text>
+		<Text Name="Gong11_d9">
+			<DisplayName>Закалка Харизмы</DisplayName>
+		</Text>
+		<Text Name="Gong11_e4">
+			<DisplayName>Пилюля Небесного Пути</DisplayName>
+		</Text>
+		<Text Name="Gong11_e8">
+			<DisplayName>Небесный Артефакт</DisplayName>
+		</Text>
+	</List>
+</Texts>

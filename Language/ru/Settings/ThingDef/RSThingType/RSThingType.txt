@@ -1,0 +1,90 @@
+﻿ItemName	Type
+Item_Cake	Еда
+Item_Jerky	Еда
+Item_HomeFood	Еда
+Item_DeliciousFood	Еда
+Item_DelicacyFood	Еда
+Item_LingStone	Валюта
+Item_Ginseng	Растение
+Item_GanodermaLucidum	Растение
+Item_MagicHerb	Растение
+Item_Mint	Растение
+Item_Ginkgo	Растение
+Item_Healroot	Растение
+Item_SmallCycle	Растение
+Item_Hemostatics	Растение
+Item_Plaster	Растение
+Item_Anodyne	Растение
+Item_StoneEssenceDrug	Растение
+Item_Flour	Ингредиент
+Item_Wheat	Ингредиент
+Item_Mushroom	Ингредиент
+Item_Lotusroot	Ингредиент
+Item_Pear	Ингредиент
+Item_BoarMeat	Ингредиент
+Item_FrogMeat	Ингредиент
+Item_TurtleMeat	Ингредиент
+Item_BearMeat	Ингредиент
+Item_Beef	Ингредиент
+Item_RabbitMeat	Ингредиент
+Item_ChickenMeat	Ингредиент
+Item_WolfMeat	Ингредиент
+Item_FishMeat	Ингредиент
+Item_SnakeMeat	Ингредиент
+Item_CatMeat	Ингредиент
+Item_TigerMeat	Ингредиент
+Item_IronBlock	Материал
+Item_CopperBlock	Материал
+Item_SilverBlock	Материал
+Item_BrownRockBlock	Материал
+Item_GrayRockBlock	Материал
+Item_MarbleBlock	Материал
+Item_JadeBlock	Материал
+Item_LingStoneBlock	Материал
+Item_RoughWoodBlock	Материал
+Item_HardWoodBlock	Материал
+Item_LingWoodBlock	Материал
+Item_WoodLeftover	Материал
+Item_HardWoodLeftover	Материал
+Item_ParasolWoodLeftover	Материал
+Item_LingWoodLeftover	Материал
+Item_BrownRockLeftover	Материал
+Item_GrayRockLeftover	Материал
+Item_MarbleLeftover	Материал
+Item_JadeLeftover	Материал
+Item_SkyStoneLeftover	Материал
+Item_LingStoneLeftover	Материал
+Item_LingCrystalLeftover	Материал
+Item_IronRockLeftover	Материал
+Item_CopperRockLeftover	Материал
+Item_SilverRockLeftover	Материал
+Item_DarksteelRockLeftover	Материал
+Item_StarEssenceLeftover	Материал
+Item_SilverGrit	Материал
+Item_CopperGrit	Материал
+Item_CottonCloth	Ткань
+Item_PurpleCloth	Ткань
+Item_YellowCloth	Ткань
+Item_BlueCloth	Ткань
+Item_RedCloth	Ткань
+Item_WhiteCloth	Ткань
+Item_BlackCloth	Ткань
+Item_RabbitLeather	Ткань
+Item_BearLeather	Ткань
+Item_WolfLeather	Ткань
+Item_BoarLeather	Ткань
+Item_CattleLeather	Ткань
+Item_TigerLeather	Ткань
+Item_DeepBlueCloth	Ткань
+Item_Cotton	Сырой Материал
+Item_Cinnabar	Сырой Материал
+Item_IronRock	Сырой Материал
+Item_CopperRock	Сырой Материал
+Item_SilverRock	Сырой Материал
+Item_BrownRock	Сырой Материал
+Item_GrayRock	Сырой Материал
+Item_Marble	Сырой Материал
+Item_Wood	Сырой Материал
+Item_HardWood	Сырой Материал
+Item_LingWood	Сырой Материал
+Item_Shit	Сырой Материал

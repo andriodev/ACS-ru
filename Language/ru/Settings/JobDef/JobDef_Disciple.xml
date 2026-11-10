@@ -1,0 +1,79 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="JobPracticeFeeling">
+      <DisplayName>Прозрение</DisplayName>
+    </Text>
+    <Text Name="JobPractice">
+      <DisplayName>Закалка</DisplayName>
+    </Text>
+    <Text Name="JobBrokenNeck">
+      <DisplayName>Прорыв</DisplayName>
+    </Text>
+    <Text Name="JobPracticeSkill">
+      <DisplayName>Практика</DisplayName>
+    </Text>
+    <Text Name="JobReceiveApprentice">
+      <DisplayName>Принимает Ученика</DisplayName>
+    </Text>
+    <Text Name="JobBuildBody">
+      <DisplayName>Меняет Тело</DisplayName>
+    </Text>
+    <Text Name="JobRobBody">
+      <DisplayName>Овладевает</DisplayName>
+    </Text>
+    <Text Name="JobAbsorbLing">
+      <DisplayName>Пожирает Дух</DisplayName>
+    </Text>
+    <Text Name="JobRefiningFabao">
+      <DisplayName>Создаёт Артефакт</DisplayName>
+    </Text>
+    <Text Name="JobPaintCharm">
+      <DisplayName>Чертит Талисман</DisplayName>
+    </Text>
+    <Text Name="JobTeachHim">
+      <DisplayName>Обучает</DisplayName>
+    </Text>
+    <Text Name="JobLeave2Explore">
+      <DisplayName>Путешествует</DisplayName>
+    </Text>
+    <Text Name="JobMasterHelp">
+      <DisplayName>Сторожит</DisplayName>
+    </Text>
+    <Text Name="JobFeelEsoterica">
+      <DisplayName>Изучает Пособие</DisplayName>
+    </Text>
+    <Text Name="JobAbsorbGong">
+      <DisplayName>Учится</DisplayName>
+    </Text>
+    <Text Name="JobMelting">
+      <DisplayName>Плавит</DisplayName>
+    </Text>
+    <Text Name="JobEatPracticeFood">
+      <DisplayName>Принимает Пилюли</DisplayName>
+    </Text>
+    <Text Name="JobJiangdao">
+      <DisplayName>Наставляет</DisplayName>
+    </Text>
+    <Text Name="JobMagicNormal">
+      <DisplayName>Совершает Чудо</DisplayName>
+    </Text>
+    <Text Name="JobGodPractice">
+      <DisplayName>Баланс</DisplayName>
+    </Text>
+    <Text Name="JobCangJingGe">
+      <DisplayName>Павильон Пособий</DisplayName>
+    </Text>
+    <Text Name="JobGodPractice_Renunciation">
+      <DisplayName>Сдержанный</DisplayName>
+    </Text>
+    <Text Name="JobBodyPractice">
+      <DisplayName>Меняет Тело</DisplayName>
+    </Text>
+    <Text Name="JobToHumanThunder">
+      <DisplayName>Небесная Кара</DisplayName>
+    </Text>
+    <Text Name="JobBodyTuna">
+      <DisplayName>Дыхательная Техника</DisplayName>
+    </Text>
+  </List>
+</Texts>

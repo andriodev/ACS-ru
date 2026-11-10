@@ -1,0 +1,69 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Boss_Zhulong">
+			<DisplayName>Факел Дракон</DisplayName>
+		</Text>
+		<Text Name="Boss_ZhulongFight">
+			<DisplayName>Факел Дракон</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_ShadowFight">
+			<DisplayName>Призрачный боевой зум</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_YangShadow">
+			<DisplayName>Призрак Света</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_YinShadow">
+			<DisplayName>Призрак тьмы</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_LongPuFix">
+			<DisplayName>Исправление Слуги Дракона</DisplayName>
+		</Text>
+		<Text Name="Boss_ZhuLong_Part">
+			<DisplayName>Часть тела дракона-факела</DisplayName>
+		</Text>
+		<Text Name="Boss_ZhulongShadow">
+			<DisplayName>Тень дракона-факела</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_NightGod">
+			<DisplayName>Бог вечной ночи</DisplayName>
+			<Desc>Получает 1 слой [Дыхание лунного холода] каждые 6 секунд. Только элементы Артефакты и Заклинания Ян (Огонь, Дерево) могут нанести полный урон. Артефакты стихии Земли могут нанести меньший урон. Урон, нанесенный элементами Артефакты Инь, будет поглощен.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_Night">
+			<DisplayName>Дыхание лунного льда</DisplayName>
+			<Desc>Когда Дыхание лунного льда достигает 100 зарядов, оно высвобождает проявления внутреннего демона.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_DayGod">
+			<DisplayName>Бог Вечного Дня</DisplayName>
+			<Desc>Получает 1 слой [Дыхание солнечной вспышки] каждые 6 секунд. Только Артефакты и Заклинания элементов Инь (Металл, Вода) могут нанести полный урон. Артефакты стихии Земли могут нанести меньший урон. Урон, нанесенный элементами Артефактов Ян, будет поглощен.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_Day">
+			<DisplayName>Дыхание солнечной вспышки</DisplayName>
+			<Desc>Когда «Дыхание солнечной вспышки» достигнет 100 стаков, оно высвободит проявления силы кармы.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_Shennian">
+			<DisplayName>Когнитивное колебание</DisplayName>
+			<Desc>Каждый уровень снижает ментальное состояние на 2. Он будет очищен, когда Дракон-Факел сменит фазу.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_Zuinie">
+			<DisplayName>Запутанность греха</DisplayName>
+			<Desc>Каждый уровень уменьшает осуждение на 2. Он будет очищен, когда Дракон-Факел переключит фазу.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_yehuocanshen">
+			<DisplayName>Ад кармы</DisplayName>
+			<Desc>Осуждение увеличивается на 1000, но окончательно уменьшается на 200 по окончании.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_yehuocanshen_end">
+			<DisplayName>Ад кармы</DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong_xinlingzezao">
+			<DisplayName>Защита разума</DisplayName>
+			<Desc>Психическое состояние снижается на 100, но по окончании постоянно увеличивается на 20.</Desc>
+		</Text>
+		<Text Name="Boss_Zhulong_xinlingzezao_end">
+			<DisplayName>Защита разума</DisplayName>
+		</Text>
+		<Text Name="Boss_ZhulongIdleEffect">
+			<DisplayName>Специальный эффект дракона-факела</DisplayName>
+		</Text>
+	</List>
+</Texts>

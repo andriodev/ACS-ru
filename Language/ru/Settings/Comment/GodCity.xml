@@ -1,0 +1,16 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="GodCityGod_Gong_1">
+			<Title>Святое Царство - Сутра спасения небесного грома</Title>
+			<Desc>Святое Царство, установленное Сутрой Спасения Небесного Грома.</Desc>
+		</Text>
+		<Text Name="GodCityGod_Gong_2">
+			<Title>Святое Царство - Садхана восьми небес</Title>
+			<Desc>Святое Царство основано с Садханой Восьми Небес.</Desc>
+		</Text>
+		<Text Name="GodCityGod_Gong_3">
+			<Title>Святое Царство - Сутра Спасения Пустоты</Title>
+			<Desc>Святое Царство, основанное Сутрой Спасения Пустоты.</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,119 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name = "Hungry1">
+			<DisplayName> С ума сойти от голода </DisplayName>
+			<Desc> Пожалуйста, позвольте мне съесть что-нибудь, что угодно! </Desc>
+			<StoryDesc> Ощущение, что голодание без еды не оставляет ничего, кроме стона </StoryDesc>
+		</Text>
+		<Text Name = "Hungry2">
+			<DisplayName> Очень голоден </DisplayName>
+			<Desc> Я оооочень голоден. Есть что-нибудь поесть? </Desc>
+			<StoryDesc> Ощущение, что голод настолько силен, что единственное, что можно сделать, - это потереть живот </StoryDesc>
+		</Text>
+		<Text Name = "Hungry3">
+			<DisplayName> Голод </DisplayName>
+			<Desc> Я голоден, может, мне найти что-нибудь поесть? </Desc>
+			<StoryDesc> Ощущение, что трудно сосредоточиться, когда так голоден </StoryDesc>
+		</Text>
+		<Text Name = "Hungry4">
+			<DisplayName> Вздутие живота </DisplayName>
+			<Desc> Я так много съел, что это неудобно. </Desc>
+			<StoryDesc> Чувство, что переедание может причинить боль </StoryDesc>
+		</Text>
+		<Text Name = "Thirsty1">
+			<DisplayName> Сильная жажда </DisplayName>
+			<Desc> Мне так хочется пить, я не знаю, что делать. </Desc>
+			<StoryDesc> Ощущение неприятного ощущения, когда твои губы трескаются, потому что твой рот пересох, как пустыня </StoryDesc>
+		</Text>
+		<Text Name = "Thirsty2">
+			<DisplayName> Очень хочется пить </DisplayName>
+			<Desc> Пожалуйста, воды ... </Desc>
+			<StoryDesc> Чувство, что когда человек так хочет пить, он охрип от этого </StoryDesc>
+		</Text>
+		<Text Name = "Thirsty3">
+			<DisplayName> Сжатый </DisplayName>
+			<Desc> У меня пересохло в горле, мне нужно немного воды. </Desc>
+			<StoryDesc> Ощущение, что это чувство становится немного трудно проглотить </StoryDesc>
+		</Text>
+		<Text Name = "Fatigue1">
+			<DisplayName> Исчерпаны </DisplayName>
+			<Desc> Я чувствую, что потеряю сознание в любой момент. </Desc>
+			<StoryDesc> Ощущение, что истощение привело к сонливости, а это может привести к потере сознания </StoryDesc>
+		</Text>
+		<Text Name = "Fatigue2">
+			<DisplayName> Устал </DisplayName>
+			<Desc> Если я не получу отдыха, я могу потерять сознание. </Desc>
+			<StoryDesc> Ощущение, что потереть глаза - это все, что можно сделать, чтобы не заснуть </StoryDesc>
+		</Text>
+		<Text Name = "Fatigue3">
+			<DisplayName> Устал </DisplayName>
+			<Desc> Немного поспать было бы здорово. </Desc>
+			<StoryDesc> Ощущение, что сон действительно поможет остановить зевоту </StoryDesc>
+		</Text>
+		<Text Name = "Entertainment1">
+			<DisplayName> Скучно до смерти </DisplayName>
+			<Desc> Этот день длится вечно. </Desc>
+			<StoryDesc> Ощущение, что скука привела к волнению… </StoryDesc>
+		</Text>
+		<Text Name = "Entertainment2">
+			<DisplayName> Скука </DisplayName>
+			<Desc> Должно быть что-то более интересное. </Desc>
+			<StoryDesc> Ощущение, что все, что можно сделать, чтобы избавиться от скуки, - это обнять руками </StoryDesc>
+		</Text>
+		<Text Name = "Entertainment3">
+			<DisplayName> Скучно </DisplayName>
+			<Desc> Я смогу найти занятие поинтереснее. </Desc>
+			<StoryDesc> Чувство, что скука действует на нервы </StoryDesc>
+		</Text>
+		<Text Name = "Entertainment4">
+			<DisplayName> Тусклый </DisplayName>
+			<Desc> Это может быть немного скучно, но, по крайней мере, жизнь спокойна. </Desc>
+			<StoryDesc> Ощущение, что есть вещи похуже скуки </StoryDesc>
+		</Text>
+		<Text Name = "Entertainment5">
+			<DisplayName> Интересно </DisplayName>
+			<Desc> Жизнь кажется такой интересной и полной счастья. </Desc>
+			<StoryDesc> Ощущение, что интересная жизнь придает силы </StoryDesc>
+		</Text>
+		<Text Name = "Entertainment6">
+			<DisplayName> Разнообразие жизни </DisplayName>
+			<Desc> Яркая жизнь, действительно оставляет много радости для каждого дня. </Desc>
+			<StoryDesc> Ощущение, что такое разнообразие в жизни вызывает эйфорию </StoryDesc>
+		</Text>
+		<Text Name = "JoinSchool">
+			<DisplayName> Впервые в монастыре </DisplayName>
+			<Desc> Меня поймали, я стану Бессмертным !! </Desc>
+			<StoryDesc> Ощущение, что после того, как вас только что приняли, нетрудно почувствовать восторг </StoryDesc>
+		</Text>
+		<Text Name = "NoTool">
+			<DisplayName> Необходимые инструменты </DisplayName>
+			<Desc> Думаю, [TXT] можно руками? Это больно. </Desc>
+			<StoryDesc> Чувство, что отсутствие подходящих инструментов заставляет по-настоящему ворчать </StoryDesc>
+		</Text>
+		<Text Name = "BeKick">
+			<DisplayName> Исключено </DisplayName>
+			<Desc> Что я сделал не так? </Desc>
+			<StoryDesc> Ощущение, что гнев становится взрывоопасным после исключения </StoryDesc>
+		</Text>
+		<Text Name = "Iamdying">
+			<DisplayName> Исчерпанная продолжительность жизни </DisplayName>
+			<Desc> Я умру. </Desc>
+			<StoryDesc> Ощущение, что истощенная продолжительность жизни определенно вызывает беспокойство </StoryDesc>
+		</Text>
+		<Text Name = "WalkerBeHelp">
+			<DisplayName> Помощь </DisplayName>
+			<Desc> В этом мире действительно много хороших людей. </Desc>
+			<StoryDesc> Ощущение, что получение помощи оставляет чувство благодарности </StoryDesc>
+		</Text>
+		<Text Name = "WalkerBeKick">
+			<DisplayName> Исключено </DisplayName>
+			<Desc> Эти люди невероятны. </Desc>
+			<StoryDesc> Чувство изгнания наполняет гневом </StoryDesc>
+		</Text>
+		<Text Name = "BeSale">
+			<DisplayName> Одаренный </DisplayName>
+			<Desc> Что я сделал не так? </Desc>
+			<StoryDesc> Чувство огорчения из-за подарка другим </StoryDesc>
+		</Text>
+	</List>
+</Texts>

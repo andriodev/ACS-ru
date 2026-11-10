@@ -1,0 +1,169 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="BaseExpect1">
+			<DisplayName>Облегчение </DisplayName>
+			<Desc>Несколько дней в бегах действительно выматывают, но это лучше, чем умереть...</Desc>
+			<StoryDesc> радуется, что избежал смерти</StoryDesc>
+		</Text>
+		<Text Name="BaseExpect2">
+			<DisplayName>Вдали от хаоса </DisplayName>
+			<Desc>Хоть здесь и слегка скучно, но оставаться вдали от хаоса внешнего мира - величайшее благословение.</Desc>
+			<StoryDesc> наслаждается покоем вдали от хаоса</StoryDesc>
+		</Text>
+		<Text Name="BaseExpect3">
+			<DisplayName>Новая жизнь </DisplayName>
+			<Desc>Похоже, вы все полюбили это место. Нет ни войны, ни налогов, и хотя выживать бывает не просто, но с этим можно справиться. Будет ли это новым началом? Все полны надежд.</Desc>
+			<StoryDesc> надеется на новое начало</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect1">
+			<DisplayName>Ужасная комната </DisplayName>
+			<Desc>Это место вообще пригодно для жизни?</Desc>
+			<StoryDesc> злится из-за ужасного жилья</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect2">
+			<DisplayName>Отвратительная комната </DisplayName>
+			<Desc>Отвратительные условия. Было бы комфортнее спать в дикой природе, чем здесь.</Desc>
+			<StoryDesc> ноет из-за плохих условий жизни</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect3">
+			<DisplayName>Ужасная комната </DisplayName>
+			<Desc>Это место действительно не слишком комфортное. Годиться лишь чтобы укрыться от ветра и дождя.</Desc>
+			<StoryDesc> корчит несчастные гримасы из-за скромного жилища</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect4">
+			<DisplayName>Обычная комната </DisplayName>
+			<Desc>Довольно обычная комната.</Desc>
+			<StoryDesc> думает о том, как бы улучшить комнату</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect5">
+			<DisplayName>Хорошая комната </DisplayName>
+			<Desc>Комната выглядит довольно не плохо.</Desc>
+			<StoryDesc> довольно улыбается из-за хорошей комнаты</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect6">
+			<DisplayName>Изысканная комната </DisplayName>
+			<Desc>Эта прекрасная комната обставлена кропотливо со знанием дела.</Desc>
+			<StoryDesc> улыбается из-за уютной комнаты</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect7">
+			<DisplayName>Великолепная комната </DisplayName>
+			<Desc>Комната так роскошно обставлена, на сколько это вообще возможно.</Desc>
+			<StoryDesc> восхищается своей изысканной комнатой</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect8">
+			<DisplayName>Нужна комната </DisplayName>
+			<Desc>Мне нужна комната!</Desc>
+			<StoryDesc> злится из-за отсутствия жилья</StoryDesc>
+		</Text>
+		<Text Name="IndependentRoomNeed">
+			<DisplayName>Жизнь с Внешними Учениками </DisplayName>
+			<Desc>Глупая болтовня Внешних Учеников действительно мешает... Хотелось бы жить в отдельной комнате.</Desc>
+			<StoryDesc> досадует из-за практики в одной комнате с Внешними Учениками</StoryDesc>
+		</Text>
+		<Text Name="LiveWithBadMan">
+			<DisplayName>Неловкое соседство </DisplayName>
+			<Desc>Мы с [TXT] не так уж хорошо знакомы, чтобы практиковать в одной комнате.</Desc>
+			<StoryDesc> беспокоится из-за того, что практикует в одной комнате с тем, кого плохо знает</StoryDesc>
+		</Text>
+		<Text Name="BedroomFengShuiExpect1">
+			<DisplayName>Бедный Фен-Шуй </DisplayName>
+			<Desc>Фен-Шуй комнаты, в которой я живу, далеко не идеален.</Desc>
+			<StoryDesc> нервничает из-за проблем с Фен-Шуем</StoryDesc>
+		</Text>
+		<Text Name="BedroomFengShuiExpect2">
+			<DisplayName>Проклятая комната </DisplayName>
+			<Desc>Комната, в которой я живу, по праву может зваться Проклятой. Здесь правда безопасно жить?</Desc>
+			<StoryDesc> едва не теряет сознание из-за скверного Фен-Шуя</StoryDesc>
+		</Text>
+		<Text Name="BedroomFengShuiExpect3">
+			<DisplayName>Безжизненная комната </DisplayName>
+			<Desc>Фэн-Шуй в этой комнате настолько плох, что жить в ней действительно невозможно.</Desc>
+			<StoryDesc> злится из-за отвратительного Фен-Шуя в комнате</StoryDesc>
+		</Text>
+		<Text Name="BedroomFengShuiExpect4">
+			<DisplayName>Хороший Фен-Шуй </DisplayName>
+			<Desc>Фен-Шуй в моей комнате действительно неплох. Это не может не радовать.</Desc>
+			<StoryDesc> радуется хорошему Фен-Шую в комнате</StoryDesc>
+		</Text>
+		<Text Name="BedroomFengShuiExpect5">
+			<DisplayName>Счастливый Фен-Шуй </DisplayName>
+			<Desc>Фен-Шуй в моей комнате довольно великолепен. Кто бы ни обставлял эту комнату - он действительно знал, что делает.</Desc>
+			<StoryDesc> радостно улыбается из-за отличного Фен-Шуя</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect9">
+			<DisplayName>Тесная комната </DisplayName>
+			<Desc>В этой комнате слишком тесно!</Desc>
+			<StoryDesc> грустит, вспоминая о тесной комнате</StoryDesc>
+		</Text>
+		<Text Name="BedroomExpect10">
+			<DisplayName>Пустая комната </DisplayName>
+			<Desc>Эта комната пуста и не выглядит слишком уютно.</Desc>
+			<StoryDesc> тихо жалуется на свою пустую комнату</StoryDesc>
+		</Text>
+		<Text Name="ClosedRoom">
+			<DisplayName>Не могу выйти </DisplayName>
+			<Desc>В этой комнате нет двери. Я в ловушке!</Desc>
+			<StoryDesc> злится, оказавшись в ловушке</StoryDesc>
+		</Text>
+		<Text Name="ClothesExpect1">
+			<DisplayName>Плохая одежда </DisplayName>
+			<Desc>Неужели нет чего-то лучше этого тряпья? (Качество &lt;30)</Desc>
+			<StoryDesc> негодует из-за плохой одежды</StoryDesc>
+		</Text>
+		<Text Name="ClothesExpect2">
+			<DisplayName>Подобающая одежда </DisplayName>
+			<Desc>Эта одежда хорошо сидит на мне.</Desc>
+			<StoryDesc> просто улыбается, радуясь удобной одежде</StoryDesc>
+		</Text>
+		<Text Name="ClothesExpect3">
+			<DisplayName>Изысканная одежда </DisplayName>
+			<Desc>Этот комплект одежды не только удобно носить, но и выглядит он очень изысканно.</Desc>
+			<StoryDesc> словно сверкает от ощущения собственного великолепия</StoryDesc>
+		</Text>
+		<Text Name="BeautyExpect1">
+			<DisplayName>Уродливое окружение </DisplayName>
+			<Desc>Окружение на столько уродливо, что даже нищий не захочет здесь остаться.</Desc>
+			<StoryDesc> брезгует из-за уродливого окружения</StoryDesc>
+		</Text>
+		<Text Name="BeautyExpect2">
+			<DisplayName>Грязно </DisplayName>
+			<Desc>Здесь повсюду грязь и беспорядок. Это разражает.</Desc>
+			<StoryDesc> нервничает из-за грязного окружения</StoryDesc>
+		</Text>
+		<Text Name="BeautyExpect3">
+			<DisplayName>Обычный пейзаж </DisplayName>
+			<Desc>Пейзаж здесь неплох.</Desc>
+			<StoryDesc> чувствует, что покрайней мере этот пейзаж не раздражает</StoryDesc>
+		</Text>
+		<Text Name="BeautyExpect4">
+			<DisplayName>Шикарный пейзаж </DisplayName>
+			<Desc>Шикарный пейзаж радует глаз.</Desc>
+			<StoryDesc> восхищается пейзажем, застыв в изумлении</StoryDesc>
+		</Text>
+		<Text Name="BeautyExpect5">
+			<DisplayName>Великолепный пейзаж </DisplayName>
+			<Desc>Столь красивый и ошеломляющий вид трудно найти в мире.</Desc>
+			<StoryDesc> любуется пейзажем, затаив дыхание</StoryDesc>
+		</Text>
+		<Text Name="BeautyExpect6">
+			<DisplayName>Чудесный пейзаж </DisplayName>
+			<Desc>Что это за чудесные земли?</Desc>
+			<StoryDesc> не может оторвать глаз от чудесного вида</StoryDesc>
+		</Text>
+		<Text Name="NeedFabao">
+			<DisplayName>Нужен Артефакт </DisplayName>
+			<Desc>Вступив на путь Бессмертия, как можно не иметь Артефакта?</Desc>
+			<StoryDesc> беспокоится из-за отсутствия Артефакта</StoryDesc>
+		</Text>
+		<Text Name="NeedWeapon">
+			<DisplayName>Нужно оружие </DisplayName>
+			<Desc>Мне нужно оружие, чтобы защитить себя и сразить врага.</Desc>
+			<StoryDesc> не чувствует себя в безопасности, будучи безоружным</StoryDesc>
+		</Text>
+		<Text Name="Jingguai_HappyHuman">
+			<DisplayName>Воплощение в человека </DisplayName>
+			<Desc>Я... Я человек?! Я наконец-то человек!</Desc>
+			<StoryDesc> радуется, превратившись в человека</StoryDesc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,48 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="BaiManMibao">
+      <IVNUMBER.0.FabaoData.DisplayName>Небесный Веер</IVNUMBER.0.FabaoData.DisplayName>
+      <IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Каждая 10-я атака будет накладывать заклинание на целевого врага.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="TianJiMibao">
+      <IVNUMBER.0.FabaoData.DisplayName>Духи Умирают</IVNUMBER.0.FabaoData.DisplayName>
+      <IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Уровень навыка защиты повышен на 8.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="HeiShanMibao">
+      <IVNUMBER.0.FabaoData.DisplayName>Копье Звездной Пыли</IVNUMBER.0.FabaoData.DisplayName>
+      <IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>8% нанесенного урона будет пополняться Ци артефакта.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="ZhengYiMibao">
+      <IVNUMBER.0.FabaoData.DisplayName>Пятикратные Талисманы</IVNUMBER.0.FabaoData.DisplayName>
+      <IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Каждые 5 атак уменьшают время перезарядки навыка на 1 секунду.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="JiuHuaMibao">
+      <IVNUMBER.0.FabaoData.DisplayName>Черная Металлическая Лента</IVNUMBER.0.FabaoData.DisplayName>
+      <IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Увеличивает урон мишеням древесного элемента на 80%.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="WuLianMibao">
+      <IVNUMBER.0.FabaoData.DisplayName>Желтая Деревянная Лента</IVNUMBER.0.FabaoData.DisplayName>
+      <IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Увеличивает урон по целям стихии Земли на 80%.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="ShuShanMibao">
+      <IVNUMBER.0.FabaoData.DisplayName>Фиолетовая Водная Лента</IVNUMBER.0.FabaoData.DisplayName>
+      <IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Увеличивает урон по целям огненной стихии на 80%.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="KunLunMibao">
+      <IVNUMBER.0.FabaoData.DisplayName>Лента Красной Земли</IVNUMBER.0.FabaoData.DisplayName>
+      <IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Увеличивает урон по целям водной стихии на 80%.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="XianKongMibao">
+      <IVNUMBER.0.FabaoData.DisplayName>Зеленая Огненная Лента</IVNUMBER.0.FabaoData.DisplayName>
+      <IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Увеличивает урон по мишеням металлического элемента на 80%.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="DanXiaMibao">
+      <IVNUMBER.0.FabaoData.DisplayName>Меч благочестия</IVNUMBER.0.FabaoData.DisplayName>
+      <IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Наносит 1,25x урона при борьбе с другими артефактами.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="HeHuanMibao">
+      <IVNUMBER.0.FabaoData.DisplayName>Чакрам Веры</IVNUMBER.0.FabaoData.DisplayName>
+      <IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>Окружая все тело, он сосредотачивается на защите и не будет автоматически атаковать.</IVNUMBER.0.FabaoData.SpecialAbility.0.Desc>
+    </Text>
+  </List>
+</Texts>

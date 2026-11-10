@@ -1,0 +1,8 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="RPGSelectNpc">
+			<DisplayName>Обычный Тренировочный Спецэффект</DisplayName>
+			<Desc>Обычный Тренировочный Спецэффект</Desc>
+		</Text>
+	</List>
+</Texts>

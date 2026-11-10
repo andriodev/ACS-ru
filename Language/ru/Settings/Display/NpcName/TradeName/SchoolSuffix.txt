@@ -1,0 +1,24 @@
+﻿Обитель Красных Облаков Мужчина,M КрснОбл I schlsuf,М КрснОбл II schlsuf,М КрснОбл III schlsuf
+Обитель Красных Облаков Женщина,Ж КрснОбл I schlsuf,Ж КрснОбл II schlsuf,Ж КрснОбл III schlsuf
+Дворец Кунь-Лунь Мужчина,M КЛ I schlsuf,М КЛ II schlsuf,М КЛ III schlsuf
+Дворец Кунь-Лунь Женщина,Ж КЛ I schlsuf,Ж КЛ II schlsuf,Ж КЛ III schlsuf
+Дворец Небосвода Мужчина,М Неб I schlsuf,М Неб II schlsuf,М Неб III schlsuf
+Дворец Небосвода Женщина,Ж Неб I schlsuf,Ж Неб II schlsuf,Ж Неб III schlsuf
+Храм Пурпурного Облака Мужчина,М Пурп I schlsuf,М Пурп II schlsuf,М Пурп III schlsuf
+Храм Пурпурного Облака Женщина,Ж Пурп I schlsuf,Ж Пурп II schlsuf,Ж Пурп III schlsuf
+Культ Тайного Единства Мужчина,М Тайн I schlsuf,М Тайн II schlsuf,М Тайн III schlsuf
+Культ Тайного Единства Женщина,Ж Тайн I schlsuf,Ж Тайн II schlsuf,Ж Тайн III schlsuf
+Храм Голубого Лотоса Мужчина,М Лтс I schlsuf,М Лтс II schlsuf,М Лтс III schlsuf
+Храм Голубого Лотоса Женщина,Ж Лтс I schlsuf,Ж Лтс II schlsuf,Ж Лтс III schlsuf
+Вечерняя Обитель Мужчина,М Вчр I schlsuf,М Вчр II schlsuf,М Вчр III schlsuf
+Вечерняя Обитель Женщина,Ж Вчр I schlsuf,Ж Вчр II schlsuf,Ж Вчр III schlsuf
+Гора Сотни Гадов Мужчина,М Гад I schlsuf,М Гад II schlsuf,М Гад III schlsuf
+Гора Сотни Гадов Женщина,Ж Гад I schlsuf,Ж Гад II schlsuf,Ж Гад III schlsuf
+Яма Пропащих Мужчина,М Яма I schlsuf,М Яма II schlsuf,М Яма III schlsuf
+Яма Пропащих Женщина,Ж Яма I schlsuf,Ж Яма II schlsuf,Ж Яма III schlsuf
+Дворец Неотвратимой Резни Мужчина,М Убий I schlsuf,М Убий II schlsuf,М Убий III schlsuf
+Дворец Неотвратимой Резни Женщина,Ж Убий I schlsuf,Ж Убий II schlsuf,Ж Убий III schlsuf
+Культ Ликующих Мужчина,М Лик I schlsuf,М Лик II schlsuf,М Лик III schlsuf
+Культ Ликующих Женщина,Ж Лик I schlsuf,Ж Лик II schlsuf,Ж Лик III schlsuf
+Храм Демонов Мужчина,М Дем I schlsuf,М Дем II schlsuf,М Дем III schlsuf
+Храм Демонов Женщина,Ж Дем I schlsuf,Ж Дем II schlsuf,Ж Дем III schlsuf

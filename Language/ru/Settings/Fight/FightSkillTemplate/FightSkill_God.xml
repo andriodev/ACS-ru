@@ -1,0 +1,25 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="FightSkill_God_Damage1">
+      <DisplayName>Рев Дракона</DisplayName>
+    </Text>
+    <Text Name="FightSkill_God_Damage2">
+      <DisplayName>Гром семи Убийств</DisplayName>
+    </Text>
+    <Text Name="FightSkill_God_FaBao1">
+      <DisplayName>Меч Асуры</DisplayName>
+    </Text>
+    <Text Name="FightSkill_God_FightSkill1">
+      <DisplayName>Проклятие Якши</DisplayName>
+    </Text>
+    <Text Name="FightSkill_God_Sheild1">
+      <DisplayName>Страж Непостоянства</DisplayName>
+    </Text>
+    <Text Name="FightSkill_God_Health1">
+      <DisplayName>Песнопение Роскоши</DisplayName>
+    </Text>
+    <Text Name="FightSkill_God_Health2">
+      <DisplayName>Спокойствие</DisplayName>
+    </Text>
+  </List>
+</Texts>

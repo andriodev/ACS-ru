@@ -1,0 +1,20 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="WuLianA">
+      <IVNUMBER.0.Animal.DisplayName>Клетка Для Черепахи</IVNUMBER.0.Animal.DisplayName>
+      <IVNUMBER.0.Animal.Tip>Внутри нее находится черепаха в состоянии пробуждения. Обучение, которое он получил от секты, дало ему защиту связанных с ней воспоминаний.</IVNUMBER.0.Animal.Tip>
+    </Text>
+    <Text Name="WuLianAL">
+      <IVNUMBER.0.Animal.DisplayName>Простая Клетка Для Черепахи</IVNUMBER.0.Animal.DisplayName>
+      <IVNUMBER.0.Animal.Tip>Внутри нее находится черепаха в состоянии пробуждения, она обладает разумом страха.</IVNUMBER.0.Animal.Tip>
+      <IVNUMBER.1.Animal.DisplayName>Простая Клетка Для Черепахи</IVNUMBER.1.Animal.DisplayName>
+      <IVNUMBER.1.Animal.Tip>Внутри нее находится черепаха в состоянии пробуждения, она обладает интеллектом мыслей.</IVNUMBER.1.Animal.Tip>
+      <IVNUMBER.2.Animal.DisplayName>Простая Клетка Для Черепахи</IVNUMBER.2.Animal.DisplayName>
+      <IVNUMBER.2.Animal.Tip>Внутри нее находится черепаха в состоянии пробуждения, она обладает разумом восторга.</IVNUMBER.2.Animal.Tip>
+      <IVNUMBER.3.Animal.DisplayName>Простая Клетка Для Черепахи</IVNUMBER.3.Animal.DisplayName>
+      <IVNUMBER.3.Animal.Tip>Внутри нее черепаха в состоянии пробуждения, она обладает разумом ярости.</IVNUMBER.3.Animal.Tip>
+      <IVNUMBER.4.Animal.DisplayName>Простая Клетка Для Черепахи</IVNUMBER.4.Animal.DisplayName>
+      <IVNUMBER.4.Animal.Tip>Внутри нее находится черепаха в состоянии пробуждения, она обладает разумом тревоги.</IVNUMBER.4.Animal.Tip>
+    </Text>
+  </List>
+</Texts>

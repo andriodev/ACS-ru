@@ -1,0 +1,9 @@
+﻿<Texts Type="Story">
+	<List>
+		<Text Name="OutSpread_TreeEXP">
+			<DisplayName>Изучайте естество</DisplayName>
+			<Desc>Вы уже достаточно узнали о Небесном Кредо, и теперь ваши достижения можно превратить в пилюлю.</Desc>
+			<Selections.0.Display>Проверить результаты</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>

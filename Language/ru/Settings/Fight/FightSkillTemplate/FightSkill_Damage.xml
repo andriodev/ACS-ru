@@ -1,0 +1,28 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="TDamageSkill">
+      <DisplayName>Урон Навыка</DisplayName>
+    </Text>
+    <Text Name="DamageSkill_1">
+      <DisplayName>Врожденная Ци</DisplayName>
+    </Text>
+    <Text Name="DamageSkill_2">
+      <DisplayName>Огненная Буря</DisplayName>
+    </Text>
+    <Text Name="DamageSkill_3">
+      <DisplayName>Божественная Стрела</DisplayName>
+    </Text>
+    <Text Name="DamageSkill_4">
+      <DisplayName>Поражение Души</DisplayName>
+    </Text>
+    <Text Name="DamageSkill_Gong4_1">
+      <DisplayName>Хаос Пустоты</DisplayName>
+    </Text>
+    <Text Name="DamageSkill_Gong7_1">
+      <DisplayName>Лезвие Силы Ауры</DisplayName>
+    </Text>
+    <Text Name="DamageSkill_Teach">
+      <DisplayName>Учебное мастерство</DisplayName>
+    </Text>
+  </List>
+</Texts>

@@ -1,0 +1,29 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name = "LsHelpPlayHappy">
+			<DisplayName> Очень хорошо </DisplayName>
+			<Desc> Игра с духовным питомцем доставляет вам удовольствие весь день. </Desc>
+			<StoryDesc> Ощущение, что такое веселое настроение действительно скрашивает день </StoryDesc>
+		</Text>
+		<Text Name = "BiteHappy">
+			<DisplayName> В восторге </DisplayName>
+			<Desc> Нежный укус духовного питомца заставил вас почувствовать поддержку. </Desc>
+			<StoryDesc> Чувство, что это совсем не больно, только немного зудит </StoryDesc>
+		</Text>
+		<Text Name = "BiteSad">
+			<DisplayName> Расстроен </DisplayName>
+			<Desc> Похлопан духом питомца, и он все еще болит. Мне это не очень нравится. </Desc>
+			<StoryDesc> Чувство несчастья </StoryDesc>
+		</Text>
+		<Text Name = "PetHeal">
+			<DisplayName> Духовный питомец в компании </DisplayName>
+			<Desc> С духовным питомцем в компании ваше настроение стало намного лучше. </Desc>
+			<StoryDesc> Чувство несчастья </StoryDesc>
+		</Text>
+		<Text Name = "PetStay">
+			<DisplayName> Духовный питомец в компании </DisplayName>
+			<Desc> С духовным питомцем в компании ваше настроение стало намного лучше. </Desc>
+			<StoryDesc> Чувство несчастья </StoryDesc>
+		</Text>
+	</List>
+</Texts>

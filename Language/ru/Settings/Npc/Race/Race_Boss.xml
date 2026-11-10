@@ -1,0 +1,35 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Boss_Long">
+			<DisplayName>Речной Дракон</DisplayName>
+			<Desc>Древний Зверь: Речной Дракон</Desc>
+			<FightParts.0.DisplayName>Тело</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Хвост</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>Рога</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>Когти Левой Передней Лапы</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>Когти Правой Передней Лапы</FightParts.4.DisplayName>
+			<FightParts.5.DisplayName>Когти Левой Задней Лапы</FightParts.5.DisplayName>
+			<FightParts.6.DisplayName>Когти Правой Задней Лапы</FightParts.6.DisplayName>
+			<FightParts.7.DisplayName>Запретная Чешуя</FightParts.7.DisplayName>
+		</Text>
+		<Text Name="Boss_Feng">
+			<DisplayName>Феникс</DisplayName>
+			<Desc>Древний Зверь: Феникс</Desc>
+			<FightParts.0.DisplayName>Тело</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Корона Из Перьев</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>Левое Крыло</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>Правое Крыло</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>Хвостовые Перья</FightParts.4.DisplayName>
+			<FightParts.5.DisplayName>Глаз Солнца</FightParts.5.DisplayName>
+		</Text>
+		<Text Name="Boss_Zhulong">
+			<DisplayName>Светозарный Дракон</DisplayName>
+			<Desc>Древний Зверь: Светозарный Дракон</Desc>
+			<FightParts.0.DisplayName>Тело</FightParts.0.DisplayName>
+			<FightParts.1.DisplayName>Небесная Чешуя</FightParts.1.DisplayName>
+			<FightParts.2.DisplayName>Драконий Нефрит</FightParts.2.DisplayName>
+			<FightParts.3.DisplayName>Левый глаз</FightParts.3.DisplayName>
+			<FightParts.4.DisplayName>Правый глаз</FightParts.4.DisplayName>
+		</Text>
+	</List>
+</Texts>

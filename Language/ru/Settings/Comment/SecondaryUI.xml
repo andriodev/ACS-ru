@@ -1,0 +1,203 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="SystemMessage">
+			<Notes>Панель комментариев системного сообщения</Notes>
+			<Title>Системное сообщение</Title>
+			<Desc>Системное сообщение</Desc>
+		</Text>
+		<Text Name="Architecture">
+			<Notes>Панель комментариев строительства</Notes>
+			<Title>Страница строительства</Title>
+			<Desc>Страница строительства</Desc>
+		</Text>
+		<Text Name="NpcProperty">
+			<Notes>Панель комментариев характеристик персонажа</Notes>
+			<Title>Характеристики персонажей</Title>
+			<Desc>Характеристики персонажей</Desc>
+		</Text>
+		<Text Name="NpcSociality">
+			<Notes>Панель комментариев Социального персонажа</Notes>
+			<Title>Социальный персонаж</Title>
+			<Desc>Социальный персонаж</Desc>
+		</Text>
+		<Text Name="NpcHealth">
+			<Notes>Панель комментариев здоровья персонажа</Notes>
+			<Title>Панель здоровья</Title>
+			<Desc>Панель здоровья</Desc>
+		</Text>
+		<Text Name="NpcPractice">
+			<Notes>Панель комментариев по развитию/обучению персонажа</Notes>
+			<Title>Панель Культивации</Title>
+			<Desc>Панель Культивации</Desc>
+		</Text>
+		<Text Name="NpcZhuJi">
+			<Notes>Панель комментариев базовой подготовки персонажа</Notes>
+			<Title>Панель базовой подготовки</Title>
+			<Desc>Панель базовой подготовки</Desc>
+		</Text>
+		<Text Name="NpcGnosis">
+			<Notes>Панель комментариев интеллекта персонажа</Notes>
+			<Title>Панель Интеллекта</Title>
+			<Desc>Панель Интеллекта</Desc>
+		</Text>
+		<Text Name="NpcEquipment">
+			<Notes>Панель комментариев снаряжения персонажа</Notes>
+			<Title>Страница Снаряжения</Title>
+			<Desc>Страница Снаряжения</Desc>
+		</Text>
+		<Text Name="NpcEquipmentOfBodyPractice">
+			<Notes>Панель комментариев конфигураций снаряжения и секретного тела</Notes>
+			<Title>Панель конфигураций снаряжения и секретного тела</Title>
+			<Desc>Панель конфигураций снаряжения и секретного тела</Desc>
+		</Text>
+		<Text Name="NpcCombatStyle">
+			<Notes>Панель комментариев боевой тактики персонажа</Notes>
+			<Title>Панель тактики боя</Title>
+			<Desc>Панель тактики боя</Desc>
+		</Text>
+		<Text Name="NpcDetailProperty">
+			<Notes>Панель комментариев подробных характеристик персонажа</Notes>
+			<Title>Панель подробной статистики</Title>
+			<Desc>Панель подробной статистики</Desc>
+		</Text>
+		<Text Name="NpcDrugResistance">
+			<Notes>Панель комментариев толерантности персонажа к лекарствам</Notes>
+			<Title>Панель переносимости лекарств</Title>
+			<Desc>Панель переносимости лекарств</Desc>
+		</Text>
+		<Text Name="Secret">
+			<Notes>Панель комментариев тайны</Notes>
+			<Title>Загадочная панель</Title>
+			<Desc>Загадочная панель</Desc>
+		</Text>
+		<Text Name="Character">
+			<Notes>Панель комментариев NPC</Notes>
+			<Title>Панель NPC</Title>
+			<Desc>Панель NPC</Desc>
+		</Text>
+		<Text Name="Clue">
+			<Notes>Панель комментариев Подсказок</Notes>
+			<Title>Панель подсказок</Title>
+			<Desc>Панель подсказок</Desc>
+		</Text>
+		<Text Name="ZhenGraph">
+			<Notes>Панель комментариев диаграммы формирования</Notes>
+			<Title>Панель диаграммы формации</Title>
+			<Desc>Панель диаграммы формации</Desc>
+		</Text>
+		<Text Name="ZhenEdit">
+			<Notes>Панель комментариев Редактирования формации</Notes>
+			<Title>Панель редактирования формации</Title>
+			<Desc>Панель редактирования формации</Desc>
+		</Text>
+		<Text Name="ZhenEyesOverview">
+			<Notes>Панель комментариев вспомогательного обзора</Notes>
+			<Title>Вспомогательная панель обзора</Title>
+			<Desc>Вспомогательная панель обзора</Desc>
+		</Text>
+		<Text Name="WorkSchedule">
+			<Notes>Панель комментариев графика работы</Notes>
+			<Title>Панель рабочего графика</Title>
+			<Desc>Панель рабочего графика</Desc>
+		</Text>
+		<Text Name="SectOverview">
+			<Notes>Панель комментариев обзора секты</Notes>
+			<Title>Панель секты</Title>
+			<Desc>Панель секты</Desc>
+		</Text>
+		<Text Name="SectStructure">
+			<Notes>Панель комментариев структуры секты</Notes>
+			<Title>Панель структуры секты</Title>
+			<Desc>Панель структуры секты</Desc>
+		</Text>
+		<Text Name="SectFollower">
+			<Notes>Панель комментариев ученика секты</Notes>
+			<Title>Панель учеников секты</Title>
+			<Desc>Панель учеников секты</Desc>
+		</Text>
+		<Text Name="SectRelationship">
+			<Notes>Панель комментариев дипломатии секты</Notes>
+			<Title>Панель дипломатии секты</Title>
+			<Desc>Панель дипломатии секты</Desc>
+		</Text>
+		<Text Name="PowerManagement">
+			<Notes>Панель комментариев управления питанием</Notes>
+			<Title>Управление питанием</Title>
+		</Text>
+		<Text Name="SectGift">
+			<Notes>Панель комментариев подарка секты</Notes>
+			<Title>Подарок</Title>
+			<Desc>Подарок секты</Desc>
+		</Text>
+		<Text Name="SectTransaction">
+			<Notes>Панель комментариев Торговли Секты</Notes>
+			<Title>Торговля Секты</Title>
+			<Desc>Торговля Секты</Desc>
+		</Text>
+		<Text Name="SectMessageManagement">
+			<Notes>Панель комментариев сообщений секты</Notes>
+			<Title>Сообщения секты</Title>
+			<Desc>Сообщения секты</Desc>
+		</Text>
+		<Text Name="SectLaws">
+			<Notes>Панель комментариев правил секты</Notes>
+			<Title>Правила секты</Title>
+			<Desc>Правила секты</Desc>
+		</Text>
+		<Text Name="PedlarTransaction">
+			<Notes>Панель комментариев торговли</Notes>
+			<Title>Торговля</Title>
+			<Desc>Торговля</Desc>
+		</Text>
+		<Text Name="KeyholeReport">
+			<Notes>Панель комментариев секрета</Notes>
+			<Title>Секрет</Title>
+			<Desc>Секрет</Desc>
+		</Text>
+		<Text Name="RefineBody">
+			<Notes>Панель комментариев Изменений</Notes>
+			<Title>Панель Изменений</Title>
+			<Desc>Панель Изменений</Desc>
+		</Text>
+		<Text Name="DomesticateSpiritBeast">
+			<Notes>Панель комментариев по выращиванию домашних животных</Notes>
+			<Title>Выращивание домашних животных</Title>
+			<Desc>Выращивание домашних животных</Desc>
+		</Text>
+		<Text Name="TrainSpiritBeast">
+			<Notes>Панель комментариев дрессировки домашних животных</Notes>
+			<Title>Дрессировка домашних животных</Title>
+			<Desc>Дрессировка домашних животных</Desc>
+		</Text>
+		<Text Name="FeedSpiritBeast">
+			<Notes>Панель комментариев Корм для домашних животных</Notes>
+			<Title>Корм для домашних животных</Title>
+			<Desc>Корм для домашних животных</Desc>
+		</Text>
+		<Text Name="BehaviorRecordSpiritBeast">
+			<Notes>Панель комментариев записей поведения домашних животных</Notes>
+			<Title>Поведение питомца</Title>
+			<Desc>Поведение питомца</Desc>
+		</Text>
+		<Text Name="EmotionAndThinkingOfAnimal">
+			<Notes>Панель комментариев мысли и мышления</Notes>
+			<Title>Мысль и мышление</Title>
+			<Desc>Мысль и мышление</Desc>
+		</Text>
+		<Text Name="EmotionATarget">
+			<Notes>О мысли: Панель комментариев реализации</Notes>
+			<Title>Мысль: реализация</Title>
+			<Desc>Три идентичных фрагмента Реализационной Мысли можно объединить в одну Реализационную Мысль.</Desc>
+		</Text>
+		<Text Name="EmotionAScene">
+			<Notes>О мысли: панель комментариев рациональности</Notes>
+			<Title>Мысль: рациональность</Title>
+			<Desc>Три идентичных фрагмента мысли о рациональности можно объединить в одну мысль о рациональности.</Desc>
+		</Text>
+		<Text Name="EmotionAEmotion">
+			<Notes>О мысли: Панель восприятия комментариев</Notes>
+			<Title>Мысль: восприятие</Title>
+			<Desc>Три идентичных фрагмента мысли восприятия можно объединить в одну мысль восприятия.</Desc>
+		</Text>
+	</List>
+</Texts>

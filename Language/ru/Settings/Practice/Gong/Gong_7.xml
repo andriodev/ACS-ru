@@ -1,0 +1,26 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_7_Huo">
+			<DisplayName>Техника Отсечения Эмоций</DisplayName>
+			<Desc>Тайная техника Небесного Дворца. Чтобы начать культивацию этой техники, нужно быть потрясающе привлекательным. Практикующий должен пройти через приключения в царстве смертных, изучить все человеческие чувства, прежде чем отказаться от них, осознать истинное «я» среди всех страданий и вознестись к бессмертию. Человек часто будет иметь сложные отношения с другими людьми и испытывать запутанную любовь и ненависть из-за особого метода культивации.</Desc>
+			<SelectDesc>Практикующий преуспеет в мастерстве владения мечом и манипуляциях, но ему придется неоднократно проходить через приключения, чтобы прорваться. Вы уверены, что хотите соблюдать этот Закон? Вы уверены, что хотите начать культивировать согласно этой технике?</SelectDesc>
+			<Stages.0.DisplayName>Самодостаточность</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Гармония</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Отчужденность</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Беспощадность</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.1.DisplayName>Совершенствование</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>Экстремальных Эмоции</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Желание</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nПрорваться через этот барьер можно совершая многократные попытки. \nПрорыв на эту ступень будет сложнее для персонажей с низкой Харизмой.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Возрождение</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>Познание</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Самопознание</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>[color=#D06508]\nПрорваться через этот барьер можно совершая многократные попытки. \nПрорыв на эту ступень будет сложнее для персонажей с низкой Харизмой.[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Крайняя привязанность</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>Сильное Желание</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Отсечение</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>[color=#D06508]\nПрорваться крайне сложно, да и бонуса к опыту не будет.[/color]</Stages.4.Necks.0.Desc>
+			<Stages.4.Necks.1.DisplayName>Забвение</Stages.4.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>

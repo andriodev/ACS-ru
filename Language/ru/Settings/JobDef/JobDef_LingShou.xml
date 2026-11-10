@@ -1,0 +1,70 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="JobLsDecide">
+      <DisplayName>Сомневается</DisplayName>
+    </Text>
+    <Text Name="JobEatItem2">
+      <DisplayName>Ест</DisplayName>
+    </Text>
+    <Text Name="JobAtk4Fun">
+      <DisplayName>Нападает</DisplayName>
+    </Text>
+    <Text Name="JobGoShit">
+      <DisplayName>Испражняется</DisplayName>
+    </Text>
+    <Text Name="JobLsCarry">
+      <DisplayName>Несёт</DisplayName>
+    </Text>
+    <Text Name="JobLsCutoff">
+      <DisplayName>Рубит</DisplayName>
+    </Text>
+    <Text Name="JobLsMine">
+      <DisplayName>Добывает</DisplayName>
+    </Text>
+    <Text Name="JobLsCarryToBed">
+      <DisplayName>Несёт</DisplayName>
+    </Text>
+    <Text Name="JobLsCarryToDest">
+      <DisplayName>Несёт</DisplayName>
+    </Text>
+    <Text Name="JobPlayWithSelf">
+      <DisplayName>Развлекается</DisplayName>
+    </Text>
+    <Text Name="JobPlayWithSth">
+      <DisplayName>Играет</DisplayName>
+    </Text>
+    <Text Name="JobLsFun">
+      <DisplayName>Играет</DisplayName>
+    </Text>
+    <Text Name="JobLsHelpPlay">
+      <DisplayName>Играет</DisplayName>
+    </Text>
+    <Text Name="JobLsTrain">
+      <DisplayName>Тренируется</DisplayName>
+    </Text>
+    <Text Name="JobLsPee">
+      <DisplayName>Поливает</DisplayName>
+    </Text>
+    <Text Name="JobLsCure">
+      <DisplayName>Лечит</DisplayName>
+    </Text>
+    <Text Name="JobLsFollow">
+      <DisplayName>Следует</DisplayName>
+    </Text>
+    <Text Name="JobLsFeedHim">
+      <DisplayName>Кормит</DisplayName>
+    </Text>
+    <Text Name="JobLsSleep">
+      <DisplayName>Спит</DisplayName>
+    </Text>
+    <Text Name="JobLsSleepWithNpc">
+      <DisplayName>Спит</DisplayName>
+    </Text>
+    <Text Name="JobLsGotoThing">
+      <DisplayName>Идти к</DisplayName>
+    </Text>
+    <Text Name="JobConfuse">
+      <DisplayName>Смущается</DisplayName>
+    </Text>
+  </List>
+</Texts>

@@ -1,0 +1,42 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_9_Mu">
+			<DisplayName>Путь Шести Реинкарнации</DisplayName>
+			<Desc>Одна из истинных стихийных (Земля) техник секты Тайи. Практикующий будет наиболее могущественным в начале каждого ступени, но по мере культивации его сила будет постепенно уменьшаться, пока практик не станет таким же слабым, как и любой другой смертный. Только после прорыва можно "возродиться" и продвинуться в культивации. Из-за этой особенности, хотя эта техника широко известна, мало кто ее использует.</Desc>
+			<SelectDesc>Практик будет силён в битвах, если будет культивировать в соответствии с этой техникой, но будет крайне посредственнен в алхимии и создании артефактов. Однако, нужно переживать реинкарнации и постепенно терять свою силу до окончательного вознесения. Вы уверены, что хотите начать культивировать согласно этой технике?</SelectDesc>
+			<Stages.0.DisplayName>Путь Человека</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Рождение</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nThis breakthrough is more difficult for characters with low Intelligence.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Угасание</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.2.DisplayName>Реинкарнация</Stages.0.Necks.2.DisplayName>
+			<Stages.0.Necks.2.Desc>[color=#D06508]\nThis breakthrough is more difficult for characters with low Intelligence.[/color]</Stages.0.Necks.2.Desc>
+			<Stages.1.DisplayName>Путь Животного</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Рождение</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nThis breakthrough is more difficult for characters with low Intelligence.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Угасание</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.2.DisplayName>Реинкарнация</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>Путь Призрака</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Рождение</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nThis breakthrough is more difficult for characters with low Intelligence.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Угасание</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Реинкарнация</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.2.Desc>[color=#D06508]\nThis breakthrough is more difficult for characters with low Intelligence.[/color]</Stages.2.Necks.2.Desc>
+			<Stages.3.DisplayName>Путь Ада</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Рождение</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>[color=#D06508]\nThis breakthrough is more difficult for characters with low Intelligence.[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Угасание</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.2.DisplayName>Реинкарнация</Stages.3.Necks.2.DisplayName>
+			<Stages.4.DisplayName>Путь Асуры</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Рождение</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>[color=#D06508]\nThis breakthrough can be completed after repeated attempts. \nThis breakthrough is more difficult for characters with low Intelligence.[/color]</Stages.4.Necks.0.Desc>
+			<Stages.4.Necks.1.DisplayName>Угасание</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.2.DisplayName>Реинкарнация</Stages.4.Necks.2.DisplayName>
+			<Stages.5.DisplayName>Путь Небес</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Рождение</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.0.Desc>[color=#D06508]\nThis breakthrough can be completed after repeated attempts. \nThis breakthrough is more difficult for characters with low Intelligence.[/color]</Stages.5.Necks.0.Desc>
+			<Stages.5.Necks.1.DisplayName>Угасание</Stages.5.Necks.1.DisplayName>
+			<Stages.5.Necks.2.DisplayName>Реинкарнация</Stages.5.Necks.2.DisplayName>
+			<Stages.5.Necks.2.Desc>После этой реинкарнации человек покинет все шесть путей и достигнет бессмертия.</Stages.5.Necks.2.Desc>
+		</Text>
+	</List>
+</Texts>

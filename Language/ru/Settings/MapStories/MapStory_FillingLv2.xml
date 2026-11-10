@@ -1,0 +1,305 @@
+﻿<Texts Type="Story">
+	<List>
+		<Text Name="Story_LingZhiGet">
+			<DisplayName>Место Совершенствования</DisplayName>
+			<Desc>[NAME] прийдя в [PLACE] вспоминает слухи, что здесь могут расти земные и небесные Духовные Коренья. Беглого взгляда хватило, чтобы понять, что это место наполнено энергией и не похоже на мирские земли.</Desc>
+			<Selections.0.Display>Искать Духовные Корни</Selections.0.Display>
+			<Selections.1.Display>Установить Формацию</Selections.1.Display>
+			<Selections.2.Display>Собрать урожай Духовный Корней</Selections.2.Display>
+			<Selections.3.Display>Просто прогуляться</Selections.3.Display>
+			<Selections.4.Display>Проигнорировать</Selections.4.Display>
+		</Text>
+		<Text Name="Story_LingZhiBeg">
+			<DisplayName>Место Совершенствования</DisplayName>
+			<Desc>[NAME] прийдя в [PLACE] вспоминает, что в этом месте могут расти земные и небесные Духовные Коренья .</Desc>
+			<Selections.0.Display>Искать Духовные Корни</Selections.0.Display>
+			<Selections.1.Display>Просто прогуляться</Selections.1.Display>
+			<Selections.2.Display>Проигнорировать</Selections.2.Display>
+		</Text>
+		<Text Name="Story_XiuLian_Jin">
+			<DisplayName>Место Закалки</DisplayName>
+			<Desc>[NAME] обнаруживает что здешние места насыщены мощной Ци Металла, безлюдны, и что эта земли благодатны для Практики.</Desc>
+			<Selections.0.Display>Медитация и просветление</Selections.0.Display>
+			<Selections.1.Display>Медитация и просветление</Selections.1.Display>
+			<Selections.2.Display>Медитация и просветление</Selections.2.Display>
+			<Selections.3.Display>Медитация и просветление</Selections.3.Display>
+			<Selections.4.Display>Медитация и просветление</Selections.4.Display>
+			<Selections.5.Display>Проигнорировать</Selections.5.Display>
+		</Text>
+		<Text Name="Story_XiuLian_Mu">
+			<DisplayName>Место Закалки</DisplayName>
+			<Desc>[NAME] обнаруживает что здешние места насыщены мощной Ци Дерева, безлюдны, и что эта земли благодатны для Практики.</Desc>
+			<Selections.0.Display>Медитация и просветление</Selections.0.Display>
+			<Selections.1.Display>Медитация и просветление</Selections.1.Display>
+			<Selections.2.Display>Медитация и просветление</Selections.2.Display>
+			<Selections.3.Display>Медитация и просветление</Selections.3.Display>
+			<Selections.4.Display>Медитация и просветление</Selections.4.Display>
+			<Selections.5.Display>Проигнорировать</Selections.5.Display>
+		</Text>
+		<Text Name="Story_XiuLian_Shui">
+			<DisplayName>Место Закалки</DisplayName>
+			<Desc>[NAME] обнаруживает что здешние места насыщены мощной Ци Воды, безлюдны, и что эта земли благодатны для Практики.</Desc>
+			<Selections.0.Display>Медитация и просветление</Selections.0.Display>
+			<Selections.1.Display>Медитация и просветление</Selections.1.Display>
+			<Selections.2.Display>Медитация и просветление</Selections.2.Display>
+			<Selections.3.Display>Медитация и просветление</Selections.3.Display>
+			<Selections.4.Display>Медитация и просветление</Selections.4.Display>
+			<Selections.5.Display>Проигнорировать</Selections.5.Display>
+		</Text>
+		<Text Name="Story_XiuLian_Huo">
+			<DisplayName>Место Закалки</DisplayName>
+			<Desc>[NAME] обнаруживает что здешние места насыщены мощной Ци Огня, безлюдны, и что эта земли благодатны для Практики.</Desc>
+			<Selections.0.Display>Медитация и просветление</Selections.0.Display>
+			<Selections.1.Display>Медитация и просветление</Selections.1.Display>
+			<Selections.2.Display>Медитация и просветление</Selections.2.Display>
+			<Selections.3.Display>Медитация и просветление</Selections.3.Display>
+			<Selections.4.Display>Медитация и просветление</Selections.4.Display>
+			<Selections.5.Display>Проигнорировать</Selections.5.Display>
+		</Text>
+		<Text Name="Story_XiuLian_Tu">
+			<DisplayName>Место Закалки</DisplayName>
+			<Desc>[NAME] обнаруживает что здешние места насыщены мощной Ци Земли, безлюдны, и что эта земли благодатны для Практики.</Desc>
+			<Selections.0.Display>Медитация и просветление</Selections.0.Display>
+			<Selections.1.Display>Медитация и просветление</Selections.1.Display>
+			<Selections.2.Display>Медитация и просветление</Selections.2.Display>
+			<Selections.3.Display>Медитация и просветление</Selections.3.Display>
+			<Selections.4.Display>Медитация и просветление</Selections.4.Display>
+			<Selections.5.Display>Проигнорировать</Selections.5.Display>
+		</Text>
+		<Text Name="HighFind_Jin">
+			<DisplayName>Поиск Сокровищ</DisplayName>
+			<Desc>[NAME] из слухов известно, что это место наполнено духовной энергией, однако сомневается что здесь имеются духовные артефакты.</Desc>
+			<Selections.0.Display>Искать Сокровища</Selections.0.Display>
+			<Selections.0.Tip>Положиться на удачу</Selections.0.Tip>
+			<Selections.1.Display>Искать Сокровища</Selections.1.Display>
+			<Selections.1.Tip>Положиться на удачу</Selections.1.Tip>
+			<Selections.2.Display>Искать Сокровища</Selections.2.Display>
+			<Selections.3.Display>Искать Сокровища</Selections.3.Display>
+			<Selections.4.Display>Искать Сокровища</Selections.4.Display>
+			<Selections.5.Display>Искать Сокровища</Selections.5.Display>
+			<Selections.5.Tip>Положиться на удачу</Selections.5.Tip>
+			<Selections.6.Display>Уйти</Selections.6.Display>
+		</Text>
+		<Text Name="HighFind_Mu">
+			<DisplayName>Поиск Сокровищ</DisplayName>
+			<Desc>[NAME] из слухов известно, что это место наполнено духовной энергией, однако сомневается что здесь имеются духовные артефакты.</Desc>
+			<Selections.0.Display>Искать Сокровища</Selections.0.Display>
+			<Selections.0.Tip>Положиться на удачу</Selections.0.Tip>
+			<Selections.1.Display>Искать Сокровища</Selections.1.Display>
+			<Selections.1.Tip>Положиться на удачу</Selections.1.Tip>
+			<Selections.2.Display>Искать Сокровища</Selections.2.Display>
+			<Selections.3.Display>Искать Сокровища</Selections.3.Display>
+			<Selections.4.Display>Искать Сокровища</Selections.4.Display>
+			<Selections.5.Display>Искать Сокровища</Selections.5.Display>
+			<Selections.5.Tip>Положиться на удачу</Selections.5.Tip>
+			<Selections.6.Display>Уйти</Selections.6.Display>
+		</Text>
+		<Text Name="HighFind_Shui">
+			<DisplayName>Поиск Сокровищ</DisplayName>
+			<Desc>[NAME] из слухов известно, что это место наполнено духовной энергией, однако сомневается что здесь имеются духовные артефакты.</Desc>
+			<Selections.0.Display>Искать Сокровища</Selections.0.Display>
+			<Selections.0.Tip>Положиться на удачу</Selections.0.Tip>
+			<Selections.1.Display>Искать Сокровища</Selections.1.Display>
+			<Selections.1.Tip>Положиться на удачу</Selections.1.Tip>
+			<Selections.2.Display>Искать Сокровища</Selections.2.Display>
+			<Selections.3.Display>SИскать Сокровища</Selections.3.Display>
+			<Selections.4.Display>Искать Сокровища</Selections.4.Display>
+			<Selections.5.Display>Искать Сокровища</Selections.5.Display>
+			<Selections.5.Tip>Положиться на удачу</Selections.5.Tip>
+			<Selections.6.Display>Уйти</Selections.6.Display>
+		</Text>
+		<Text Name="HighFind_Huo">
+			<DisplayName>Поиск Сокровищ</DisplayName>
+			<Desc>[NAME] из слухов известно, что это место наполнено духовной энергией, однако сомневается что здесь имеются духовные артефакты.</Desc>
+			<Selections.0.Display>Искать Сокровища</Selections.0.Display>
+			<Selections.0.Tip>Положиться на удачу</Selections.0.Tip>
+			<Selections.1.Display>Искать Сокровища</Selections.1.Display>
+			<Selections.1.Tip>Положиться на удачу</Selections.1.Tip>
+			<Selections.2.Display>Искать Сокровища</Selections.2.Display>
+			<Selections.3.Display>Искать Сокровища</Selections.3.Display>
+			<Selections.4.Display>Искать Сокровища</Selections.4.Display>
+			<Selections.5.Display>Искать Сокровища</Selections.5.Display>
+			<Selections.5.Tip>Положиться на удачу</Selections.5.Tip>
+			<Selections.6.Display>Уйти</Selections.6.Display>
+		</Text>
+		<Text Name="HighFind_Tu">
+			<DisplayName>Поиск Сокровищ</DisplayName>
+			<Desc>[NAME] из слухов известно, что это место наполнено духовной энергией, однако сомневается что здесь имеются духовные артефакты.</Desc>
+			<Selections.0.Display>Искать Сокровища</Selections.0.Display>
+			<Selections.0.Tip>Положиться на удачу</Selections.0.Tip>
+			<Selections.1.Display>Искать Сокровища</Selections.1.Display>
+			<Selections.1.Tip>Положиться на удачу</Selections.1.Tip>
+			<Selections.2.Display>Искать Сокровища</Selections.2.Display>
+			<Selections.3.Display>Искать Сокровища</Selections.3.Display>
+			<Selections.4.Display>Искать Сокровища</Selections.4.Display>
+			<Selections.5.Display>Искать Сокровища</Selections.5.Display>
+			<Selections.5.Tip>Положиться на удачу</Selections.5.Tip>
+			<Selections.6.Display>Уйти</Selections.6.Display>
+		</Text>
+		<Text Name="Story_MuBai">
+			<DisplayName>Дождевой лес Мубай</DisplayName>
+			<Desc>В этом месте, тысячи лет назад, бессмертный Мубай(пер. Белое Дерево) ушел в затвор. По слухам, сразу после того как бессмертный вознесся, на эти земли больше не упало ни капли дождя.</Desc>
+			<Selections.0.Display>Помолиться о дожде</Selections.0.Display>
+			<Selections.1.Display>Обыскать</Selections.1.Display>
+			<Selections.2.Display>Покинуть</Selections.2.Display>
+		</Text>
+		<Text Name="Story_QiSha">
+			<DisplayName>Формация Циша</DisplayName>
+			<Desc>Это место накрыто куполом Формацией Циша (пер. Семь Убийств), будет опрометчиво входить туда, ведь не имея токена пропуска, не сносить головы вошедшему.</Desc>
+			<Selections.0.Display>Покинуть</Selections.0.Display>
+		</Text>
+		<Text Name="Story_JianZhong">
+			<DisplayName>Могила Мечей</DisplayName>
+			<Desc>Это место хранилище Храма Голубого Лотоса, где испокон веков выдающиеся предки-мечники, оставляли свои клинки, под тщательной охраной. Если сможешь проникнуть внутрь, то  будет один шанс, получить благосклонность старинного меча. </Desc>
+			<Selections.0.Display>Искать меч в Могиле Мечей</Selections.0.Display>
+			<Selections.0.Tip>Дорожить чувствами Шушань</Selections.0.Tip>
+			<Selections.1.Display>Покинуть</Selections.1.Display>
+		</Text>
+		<Text Name="BaoZang_YuJingTan">
+			<DisplayName>Горный Хрусталь, скрытый в Золотой Сокровищнице</DisplayName>
+			<Desc>Здесь храниться Золотой сундук сокровищь демонического императора Фу Пи Конга, к сожалению сокровища были притянуты первоначальным сердцем магнита, и нет никого, кто мог бы извлеч их.</Desc>
+			<Selections.0.Display>Покинуть</Selections.0.Display>
+		</Text>
+		<Text Name="Story_YiJieLieFeng">
+			<DisplayName>Разлом иного мира</DisplayName>
+			<Desc>Леганды гласят, что этот разлом появился во время Второй Войны между Богами и Дьяволами, после чего бесследно исчез. Кто бы мог подумать, что много лет спустя, разлом снова появится в наше время. Однако это место крайне опасно, и даже не особо сильный Золотой Бессмертный может пропасть внутри.</Desc>
+			<Selections.0.Display>Преисполниться торжественной атмосферой разлома</Selections.0.Display>
+			<Selections.1.Display>Преисполниться величественной атмосферой разлома</Selections.1.Display>
+			<Selections.2.Display>Покинуть</Selections.2.Display>
+		</Text>
+		<Text Name="BaoZang_LiHenHai">
+			<DisplayName>Море Разлуки</DisplayName>
+			<Desc>Кто бы мог подумать, что это творение Неба и Земли, вопреки всему, сможет стать таким удивительным местом, достоверно не известно, какие тайны здесь храняться.</Desc>
+			<Selections.0.Display>Идти в глубь</Selections.0.Display>
+			<Selections.1.Display>Покинуть</Selections.1.Display>
+			<Selections.2.Display>Покинуть</Selections.2.Display>
+		</Text>
+		<Text Name="BaoZang_XieDiLing">
+			<DisplayName>Гробница Демонического Императора</DisplayName>
+			<Desc>Это мавзолей патриарха южного учения Дьявольской веры, но Девять Небес и Десять Земель окружены негативной духовной энергией и нет никого, кто мог бы проникнуть туда.</Desc>
+			<Selections.0.Display>Покинуть</Selections.0.Display>
+		</Text>
+		<Text Name="BaoZang_TaoHuaZhang">
+			<DisplayName>Извечные миазмы Цветов Персика</DisplayName>
+			<Desc>Эти отдаленные южные пустныи являются непроходимым местом, и даже люди, достигшие просветления в культивации, не устоят перед этими миазмами. Стоит вдохнуть один глоток воздуха, как все тело покроется гноем, а вскоре погибнешь. Только тот, кто развил свое тело, до нечеловеческого уровня, получить возможность войти внутрь и выжить. </Desc>
+			<Selections.0.Display>Идти в глубь</Selections.0.Display>
+			<Selections.1.Display>Покинуть</Selections.1.Display>
+		</Text>
+		<Text Name="BaoZang_ChiLianYuan">
+			<DisplayName>Исследовать тайны Лунного Чертога</DisplayName>
+			<Desc>Согласно Тайным Законам [NAME] входит в горную обитель оставленную после себя небожителем Нангонг Хонгом. В соответствии с "Записями Бессмертных" наследие Наньгонг Хонга расположено в трех места: первое находится в центре Лунного чертога, в Зале судьбы, второе находится там где он рафинировал предметы - Зале Десяти тысяч Сокровищ, третье, место, где для он запирался для получения просветления - Библиотека Трипитака(будд. тексты).</Desc>
+			<Selections.0.Display>Войни в Зал Судьбы</Selections.0.Display>
+			<Selections.1.Display>Войти в Зал Десяти тысяч Сокровищ</Selections.1.Display>
+			<Selections.2.Display>Войти в Библиотека Трипитака</Selections.2.Display>
+			<Selections.3.Display>Покинуть</Selections.3.Display>
+		</Text>
+		<Text Name="BaoZang_XuanKong">
+			<DisplayName>Нефритовая Обитель Бессмертных</DisplayName>
+			<Desc>[NAME] на входе в Нефритовую Обитель Бессмертных, согласно образцу из "Записей Бессмертных" фокусирует и посылает свою волю в центр, открыв Запрет мешающий проникнуть в Нефритовую Обитель Бессмертных, и входит внутрь. </Desc>
+			<Selections.0.Display>Обыскать Обитель</Selections.0.Display>
+			<Selections.1.Display>Покинуть</Selections.1.Display>
+		</Text>
+		<Text Name="BaoZang_QingLianShan">
+			<DisplayName>Гора Синего Лотоса</DisplayName>
+			<Desc>[NAME] согласно тайному манускрипту приходит в Южное море, и после многократных поисков, наконец отыскивает скрытую в десяти тысячах морских волнах, одну каплю Истинной воды Женьгуй. [NAME] посредством божественного взора касается её и успешно проникает в водный мир.  Где пред глазами предстает гора бессмертных окрашенная в чистый голубой цвет. Вдали, на склоне горы, кажется, находится бамбуковая хижина, окруженная чудесными травами и струящимися облаками. Однако вершина горы закрыта, похожими на смоль, черными грозовыми облаками, в которых грохочет гром и сверкают молнии, создавая крайне странные ощущения.</Desc>
+			<Selections.0.Display>Осмотреть гору</Selections.0.Display>
+			<Selections.1.Display>Отправиться к бамбуковой хижине</Selections.1.Display>
+			<Selections.2.Display>Обследовать горный пик</Selections.2.Display>
+			<Selections.3.Display>Покинуть</Selections.3.Display>
+		</Text>
+		<Text Name="BaoZang_QingLianShan1">
+			<DisplayName>Необычная формация на вершине горы</DisplayName>
+			<Desc>[NAME] оказавшись вблизи горного пика, сразу обнаруживает схожее с тюрьмой место, где возникает, похожее на морскую пучину давление. Окружающие, горный пик Горы Синего Лотоса, многослойные темные тучи, к удивлению, оказываются Небесным Испытанием, крепко скованным неописуемой силы оковами. [NAME] дрожа от страха подымается на гоный пик, где обнаруживает сглаженную вершину, обтесанную великими законами мира, поверх которой имеется выгравированный бесподобный по сложности некий чертеж построения.</Desc>
+			<Selections.0.Display>Изучить чертеж построения</Selections.0.Display>
+			<Selections.1.Display>Вернуться к входу</Selections.1.Display>
+		</Text>
+		<Text Name="BaoZang_QingLianShan2">
+			<DisplayName>Бамбуковая хижина на склоне горы</DisplayName>
+			<Desc>[NAME] приходит к склону горы, к бамбуковой хижине. Войдя внутрь обнаруживает необычайно аскетичную обстановку: только узкую деревянную кровать и одинокий стол из дерева. Кажется нет ничего необычного в этом месте. [NAME] проводит поверхностный осмотр, и онаруживает что на деревянной столешнице есть какие-то поблескивающие предметы.</Desc>
+			<Selections.0.Display>Обследовать деревянный стол</Selections.0.Display>
+			<Selections.1.Display>Вернуться к входу</Selections.1.Display>
+		</Text>
+		<Text Name="BaoZang_QingLianShan2_end">
+			<DisplayName>Бамбуковая хижина на склоне горы</DisplayName>
+			<Desc>Чертеж Построения уже был взят, здесь больше нет ничего интересного.</Desc>
+			<Selections.0.Display>Вернуться к входу</Selections.0.Display>
+		</Text>
+		<Text Name="BaoZang_QingLianShan21">
+			<DisplayName>Мистический Чертеж Построения</DisplayName>
+			<Desc>[NAME] обнаруживает, что на Чертеже Построения имеется четыре углубления, похоже являющиеся ключевыми точками. Кроме светящегося углубления, остальные три углубления полностью неактивны, и не подвержены воздейстию.</Desc>
+			<Selections.0.Display>Влить энергию</Selections.0.Display>
+			<Selections.1.Display>Покинуть</Selections.1.Display>
+		</Text>
+		<Text Name="BaoZang_QingLianShan3">
+			<DisplayName>Горный пейзаж</DisplayName>
+			<Desc>[NAME] следует по серпантину, пока не проникает вглубь гор, где обнаруживает, что эти места наполненны прямо-таки неслыханной, густой, энергией Ци. Поистене непостижимо, что такая огромная обитель святых может поместиться в всего лишь в одной капле воды.</Desc>
+			<Selections.0.Display>Пройтись</Selections.0.Display>
+			<Selections.1.Display>Вернуться к входу</Selections.1.Display>
+		</Text>
+		<Text Name="BaoZang_DengXian">
+			<DisplayName>Исследование Руин</DisplayName>
+			<Desc>Подслушав разговоры [NAME] узнает что в Терассе Восхождения Небожителей оставлено наследие Дунхуа - монарха прошлых времен. [NAME] чувствует, что нужно хотя-бы раз обыскать это место.</Desc>
+			<Selections.0.Display>Тщательный поиск</Selections.0.Display>
+			<Selections.0.Tip>Положиться на духовные чувства и удачу</Selections.0.Tip>
+			<Selections.1.Display>Покинуть</Selections.1.Display>
+		</Text>
+		<Text Name="BaoZang_FeiLei">
+			<DisplayName>Грот Буревестника</DisplayName>
+			<Desc>По слухам, в этом месте, бессмертный Цяньлинь (Синий лотос), ушел в затвор. После чего вознесся, оставив за собой большую тайну. [NAME] не удержав свое любопытство, хочет проникнуть внутрь.</Desc>
+			<Selections.0.Display>Проникнуть внутрь и осмотреться</Selections.0.Display>
+		</Text>
+		<Text Name="BaoZang_FeiLei1">
+			<DisplayName>Грот Буревестника</DisplayName>
+			<Desc>С горы Шу, говорят, что ключ от Грота Буревестника - том, оставленный Мудрецом. Они одарят того, кто сможет принести этот том.</Desc>
+			<Selections.0.Display>Одолжить том</Selections.0.Display>
+			<Selections.1.Display>Покинуть</Selections.1.Display>
+		</Text>
+		<Text Name="LingWu_DanXia">
+			<DisplayName>Закат в Данься</DisplayName>
+			<Desc>[NAME] находясь на обрыве в Данься (цветные горы в Китае) смотрит за мириадом лучей, утренней зари, что изливается сквозь пелену облаков, испытывая потрясение.</Desc>
+			<Selections.0.Display>Заняться просветлением</Selections.0.Display>
+			<Selections.0.Tip>Постигать природу и пределы мира</Selections.0.Tip>
+			<Selections.1.Display>Заняться просветлением</Selections.1.Display>
+			<Selections.1.Tip>Постигать природу и пределы мира</Selections.1.Tip>
+			<Selections.2.Display>Любоваться прекрасным видом</Selections.2.Display>
+		</Text>
+		<Text Name="LingWu_JiuHua1">
+			<DisplayName>Земли Скрытого дракона</DisplayName>
+			<Desc>[NAME] стоя перед Скрытой Обителью Драконов, вспоминает древние времена, когда всемогущие пасли здесь Святых драконов, и не может сдержать восхищения.</Desc>
+			<Selections.0.Display>Получить что-нибудь</Selections.0.Display>
+			<Selections.1.Display>Заняться просветлением</Selections.1.Display>
+			<Selections.2.Display>Любоваться прекрасным видом</Selections.2.Display>
+		</Text>
+		<Text Name="LingWu_JiuHua2">
+			<DisplayName>Земли Феникса</DisplayName>
+			<Desc>[NAME] стоя в Землях Феникса перед давно окаменевшими священными деревьями Вутонг, предается легкой печали, и как в трансе слышит плачущее пение Феникса.</Desc>
+			<Selections.0.Display>Получить что-нибудь</Selections.0.Display>
+			<Selections.1.Display>Заняться просветлением</Selections.1.Display>
+			<Selections.2.Display>Любоваться прекрасным видом</Selections.2.Display>
+		</Text>
+		<Text Name="LingWu_LongHu">
+			<DisplayName>Парящий водопад</DisplayName>
+			<Desc>[NAME] видя стремительное течение водопада, чей поток, как белый шелк величественно и могущественно падал с неба, не удерживает в себе восторженный восклик. Мощь воды, не уступает удару культиватора достигшего стадии Золотого Ядра.</Desc>
+			<Selections.0.Display>Получить что-нибудь</Selections.0.Display>
+			<Selections.0.Tip>Использовать Мастерство артефактов</Selections.0.Tip>
+			<Selections.1.Display>Получить что-нибудь</Selections.1.Display>
+			<Selections.1.Tip>Использовать Чувствительность Ци</Selections.1.Tip>
+			<Selections.2.Display>Любоваться прекрасным видом</Selections.2.Display>
+		</Text>
+		<Text Name="Story_TianJi">
+			<DisplayName>Мистический Грот</DisplayName>
+			<Desc>Это обычная пещера, находящаяся внутри горного кряжа, выглядит пустой. Но не смотря на то, что она первый взгляд заурядна, вызывает чувство дисгармонии, созданного специально. Только человек, что отличное знает этот горный кряж, мог обнаружить эту пещеру снаружи. Вход внутрь имеет природные узоры, которые выглядят очень необычно.</Desc>
+			<Selections.0.Display>Обыскать</Selections.0.Display>
+			<Selections.1.Display>Постичь узон на стене</Selections.1.Display>
+			<Selections.1.Tip>Пределы/Мастерство/Восприимчивость</Selections.1.Tip>
+			<Selections.2.Display>Исследовать Нефритовое Семя Удачи</Selections.2.Display>
+			<Selections.3.Display>Покинуть</Selections.3.Display>
+		</Text>
+		<Text Name="Story_HighFind_SpPlace">
+			<DisplayName>В поисках Удачи</DisplayName>
+			<Desc>[NAME] пришел в [PLACE] в поисках удачи.</Desc>
+			<Selections.0.Display>Положиться на удачу</Selections.0.Display>
+			<Selections.1.Display>Покинуть</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

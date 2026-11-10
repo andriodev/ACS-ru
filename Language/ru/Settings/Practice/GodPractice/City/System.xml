@@ -1,0 +1,8 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="GodCityBuilding_SYSLOST">
+			<DisplayName>Пусто</DisplayName>
+			<Desc>Ничейное заброшенное здание. \n(Пусто.)</Desc>
+		</Text>
+	</List>
+</Texts>

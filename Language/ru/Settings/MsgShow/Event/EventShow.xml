@@ -1,0 +1,56 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="t1">
+			<DisplayName>Обычная погода</DisplayName>
+			<Desc>Обычная погода</Desc>
+		</Text>
+		<Text Name="t2">
+			<DisplayName>Редкая погода</DisplayName>
+			<Desc>Редкая погода</Desc>
+		</Text>
+		<Text Name="t3">
+			<DisplayName>Сокровище спускается</DisplayName>
+			<Desc>Сокровище спускается</Desc>
+		</Text>
+		<Text Name="t8">
+			<DisplayName>Рекомендация ученика</DisplayName>
+			<Desc>Рекомендация ученика</Desc>
+		</Text>
+		<Text Name="t_vistor">
+			<DisplayName>Посетитель Событие</DisplayName>
+			<Desc>Посетитель Событие</Desc>
+		</Text>
+		<Text Name="t5">
+			<DisplayName>Атака диких животных</DisplayName>
+			<Desc>Атака диких животных</Desc>
+		</Text>
+		<Text Name="t6">
+			<DisplayName>Враги наступают</DisplayName>
+			<Desc>Враги наступают</Desc>
+		</Text>
+		<Text Name="t7">
+			<DisplayName>Нападение монстров</DisplayName>
+			<Desc>Нападение монстров</Desc>
+		</Text>
+		<Text Name="s_fabao">
+			<DisplayName>Секрет - Раскопаный артефакт</DisplayName>
+			<Desc>Секрет - Раскопаный артефакт</Desc>
+		</Text>
+		<Text Name="s_miji">
+			<DisplayName>Секрет - Раскрывающийся Мануал</DisplayName>
+			<Desc>Секрет - Раскрывающийся Мануал</Desc>
+		</Text>
+		<Text Name="s_daotong">
+			<DisplayName>Секрет - проявление мандата</DisplayName>
+			<Desc>Секрет - проявление мандата</Desc>
+		</Text>
+		<Text Name="s_dongfu">
+			<DisplayName>Секрет - Пещера Проявлений</DisplayName>
+			<Desc>Секрет - Пещера Проявлений</Desc>
+		</Text>
+		<Text Name="s_zhengxie">
+			<DisplayName>Секрет - След знаменитого</DisplayName>
+			<Desc>Секрет - След знаменитого</Desc>
+		</Text>
+	</List>
+</Texts>

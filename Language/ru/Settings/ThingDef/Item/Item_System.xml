@@ -1,0 +1,394 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="SYS_LOASITEM" sParam="Item">
+      <ThingName>Потерянный Предмет</ThingName>
+      <Desc>Потерянное здание, которое никто не узнает. </Desc>
+    </Text>
+    <Text Name="Item_HorribleMeal" sParam="Item">
+      <ThingName>Испорченная Еда</ThingName>
+      <Desc>Блюдо, приготовление которого провалилось, его вкус едва ли приемлем. Может служить только для наполнения желудка.</Desc>
+    </Text>
+    <Text Name="Item_HomeFood" sParam="Item">
+      <ThingName>Простая еда</ThingName>
+      <Desc>Простое домашнее блюдо, вкус средний, но искренний.</Desc>
+    </Text>
+    <Text Name="Item_DeliciousFood" sParam="Item">
+      <ThingName>Прекрасная Еда</ThingName>
+      <Desc>Деликатес, как ингредиенты, так и методы, с помощью которых он сделан, довольно сложны. На вкус он очень Восхитительный.</Desc>
+    </Text>
+    <Text Name="Item_DelicacyFood" sParam="Item">
+      <ThingName>Обильная Трапеза</ThingName>
+      <Desc>Щедрая еда, которая может быть выполнена только с превосходными кулинарными навыками и изысканными ингредиентами, на вкус чрезвычайно вкусна.</Desc>
+    </Text>
+    <Text Name="Item_GuanyinMud" sParam="Item">
+      <ThingName>Глина Гуаньинь</ThingName>
+      <Desc>Разновидность белой глины, которая считается альтернативой пище в отчаянные времена.</Desc>
+    </Text>
+    <Text Name="Item_Water" sParam="Item">
+      <ThingName>Water</ThingName>
+      <Desc>Порция чистой воды.</Desc>
+      <Item.FabaoSuffix>Water</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_DirtyWater" sParam="Item">
+      <ThingName>Грязная Вода</ThingName>
+      <Desc>Нечистая вода. Кажется, в нем что-то движется.</Desc>
+      <Item.FabaoSuffix>Water</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Garbage" sParam="Item">
+      <ThingName>Мусор</ThingName>
+      <Desc>Бесполезная трата.</Desc>
+      <Item.FabaoSuffix>Порошок, Яд, Муть</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Shit" sParam="Item">
+      <ThingName>Экскременты</ThingName>
+      <Desc>Фекалии твари.</Desc>
+      <Item.FabaoSuffix>Фекалии, Гуано, Навоз</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_DragonShit" sParam="Item">
+      <ThingName>Драконьи Экскременты</ThingName>
+      <Desc>Экскременты дракона.</Desc>
+      <Item.FabaoSuffix>Фекалии, Гуано, Навоз</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_FunPainting" sParam="Item">
+      <ThingName>Картина</ThingName>
+      <Desc>Нарисованная картина.</Desc>
+      <Item.FabaoSuffix>Свиток, Картинка</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_FunPoem" sParam="Item">
+      <ThingName>Сценарий</ThingName>
+      <Desc>Письменная работа.</Desc>
+      <Item.FabaoSuffix>Том, Книга, Слипы, Свиток</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_FunMusic" sParam="Item">
+      <ThingName>Ноты</ThingName>
+      <Desc>Ноты.</Desc>
+      <Item.FabaoSuffix>Лист, Свиток</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_FunChess" sParam="Item">
+      <ThingName>Го</ThingName>
+      <Desc>Шахматная диаграмма Го, на которой записан матч.</Desc>
+      <Item.FabaoSuffix>Лист, Свиток, Спичка</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SysAxe" sParam="Item">
+      <ThingName>Топор</ThingName>
+      <Desc>Топор может значительно повысить эффективность лесозаготовок. Конечно, его можно использовать и как оружие.</Desc>
+      <Item.FabaoSuffix>Топор</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SysPickaxe" sParam="Item">
+      <ThingName>Кирка</ThingName>
+      <Desc>Кирка может значительно увеличить скорость добычи. Конечно, его можно использовать и как оружие.</Desc>
+      <Item.FabaoSuffix>Мотыга</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SysSickle" sParam="Item">
+      <ThingName>Мотыга</ThingName>
+      <Desc>Набор сельскохозяйственных инструментов может значительно увеличить вашу скорость ведения сельского хозяйства и скорость сбора урожая.</Desc>
+      <Item.FabaoSuffix>Мотыга</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SysAcupuncture" sParam="Item">
+      <ThingName>Акупунктурные иглы</ThingName>
+      <Desc>Акупунктурный набор, который может улучшить качество и успешность лечения.</Desc>
+      <Item.FabaoSuffix>Игла, Шип</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Umbrella" sParam="Item">
+      <ThingName>Зонтик</ThingName>
+      <Desc>Зонтик.</Desc>
+      <Item.FabaoSuffix>Зонтик</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Esoterica" sParam="Item">
+      <ThingName>Руководство</ThingName>
+      <Desc>Секретное руководство.</Desc>
+      <Item.FabaoSuffix>Книга, Том, Свиток</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_StoneBox" sParam="Item">
+      <ThingName>Каменная Шкатулка</ThingName>
+      <Desc>Таинственная каменная шкатулка размером около фута. Внешний корпус-это единое целое, кажется, что это не обычная вещь.</Desc>
+      <Item.FabaoSuffix>Коробка</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Открыть</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попробуй открыть этот ларец</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_StoneBox1" sParam="Item">
+      <ThingName>Каменная Шкатулка</ThingName>
+      <Desc>Каменная шкатулка, добытая охотником по имени Чжан Эрва из деревни Наньпин. Он обладает странным качеством и неуязвим для воды и огня.</Desc>
+      <Item.FabaoSuffix>Коробка</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Открыть</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попробуй открыть этот ларец</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_E_FaBaoBox" sParam="Item">
+      <ThingName>Шкатулка Полярной Звезды</ThingName>
+      <Desc>В ночь нападения вы заметили, что комната артефактов была взломана. Вам было невыносимо видеть, как разграбляют такие редкости, и вы рисковали жизнью, чтобы сохранить несколько из них в шкатулке и забрать ее.</Desc>
+      <Item.FabaoSuffix>Коробка</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Открыть</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Открыть Шкатулку Полярной Звезды</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_E_DanBox" sParam="Item">
+      <ThingName>Шкатулка Полярной Звезды</ThingName>
+      <Desc>В ночь нападения вы заметили, что комната с эликсиром была взломана. Вам было невыносимо видеть, как разграбляют такие редкости, и вы рисковали жизнью, чтобы сохранить несколько из них в шкатулке и забрать ее.</Desc>
+      <Item.FabaoSuffix>Коробка</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Открыть</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Открыть Шкатулку Полярной Звезды</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_E_MiJiBox" sParam="Item">
+      <ThingName>Шкатулка Полярной Звезды</ThingName>
+      <Desc>В ночь нападения вы заметили, что скрипторий взломан. Вам было невыносимо видеть, как разграбляют такие редкости, и вы рисковали жизнью, чтобы сохранить несколько из них в шкатулке и забрать ее.</Desc>
+      <Item.FabaoSuffix>Коробка</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Открыть</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Открыть Шкатулку Полярной Звезды</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_E_FuBox" sParam="Item">
+      <ThingName>Шкатулка Полярной Звезды</ThingName>
+      <Desc>В ночь нападения вы заметили, что комната талисманов была взломана. Вам было невыносимо видеть, как разграбляют такие редкости, и вы рисковали жизнью, чтобы сохранить несколько из них в шкатулке и забрать ее.</Desc>
+      <Item.FabaoSuffix>Коробка</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Открыть</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Открыть Шкатулку Полярной Звезды</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_StoneBox2" sParam="Item">
+      <ThingName>Древняя Шкатулка</ThingName>
+      <Desc>Каменная шкатулка, погребенная глубоко под горными скалами, кажется, довольно устарела. Неизвестно, что в ней содержится.</Desc>
+      <Item.FabaoSuffix>Коробка</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Открыть</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попробуй открыть этот ларец</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_BuildingBox" sParam="Item">
+      <ThingName>Строительный Пакет</ThingName>
+      <Desc>Упакованное здание, которое можно где-то переставить.</Desc>
+    </Text>
+    <Text Name="Item_Baobeier" sParam="Item">
+      <ThingName>Удочка</ThingName>
+      <Desc>Запоминающиеся вещи.</Desc>
+      <Item.FabaoSuffix>Корень</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_LunHui_Box1" sParam="Item">
+      <ThingName>Шкатулка С Магическим Талисманом</ThingName>
+      <Desc>Госпожа Лу несет волшебную шкатулку-талисман с тремя таинственными талисманами внутри.</Desc>
+      <Item.FabaoSuffix>Коробка</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Открыть</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Открыть Шкатулку Полярной Звезды</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_LunHui_Box2" sParam="Item">
+      <ThingName>Шкатулка С Магическим Талисманом</ThingName>
+      <Desc>Волшебная шкатулка-талисман, которую Ян Шу носил с собой, содержит три таинственных талисмана.</Desc>
+      <Item.FabaoSuffix>Коробка</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Открыть</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Открыть Шкатулку Полярной Звезды</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_ZuShiZhiCi" sParam="Item">
+      <ThingName>Подарок мастера</ThingName>
+      <Desc>Подарок от мастера предков, с очень ценным сокровищем внутри.</Desc>
+      <Item.FabaoSuffix>Коробка</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Открыть</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Открытый подарок мастера.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_SuoYingZhiJuan" sParam="Item">
+      <ThingName>Атлас существ</ThingName>
+      <Desc>В нем записаны миниатюры всех живых существ со всех времен от рождения неба и земли до наших дней. Если вы знаете истинное имя существа, о котором идет речь, вы можете вызвать его из свитка. Это одно из двенадцати изначальных Нуминозных сокровищ Хаоса.</Desc>
+      <Item.FabaoSuffix>Объем</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Открыть</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Откройте Атлас существ.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_XiangHuo1" sParam="Item">
+      <ThingName>Ритуал Морали</ThingName>
+      <Desc>ОСНОВНОЙ РИТУАЛ, с относительно простым процессом. Порождает 1 Веру. Дополнительная Вера может быть порождена использованием пищи высокого уровня в качестве подношений в ритуале.</Desc>
+    </Text>
+    <Text Name="Item_XiangHuo2" sParam="Item">
+      <ThingName>Ритуал Элемента</ThingName>
+      <Desc>Ритуал среднего уровня, требующий использования некоторых артефактов. Порождает 4 Веры. Дополнительная Вера может быть порождена использованием пищи высокого уровня в качестве подношений в ритуале.</Desc>
+    </Text>
+    <Text Name="Item_XiangHuo3" sParam="Item">
+      <ThingName>Ритуал Гармонии</ThingName>
+      <Desc>Ритуал высочайшего уровня, он требует сложных артефактов и длительных молитв. Порождает 9 Веры. Дополнительная Вера может быть порождена использованием пищи высокого уровня в качестве подношений в ритуале.</Desc>
+    </Text>
+    <Text Name="Item_XiangHuo4" sParam="Item">
+      <ThingName>Ритуал Духа</ThingName>
+      <Desc>ОСНОВНОЙ РИТУАЛ Бога, с относительно простым процессом. Порождает 1 Веру. Дополнительная Вера может быть порождена использованием пищи высокого уровня в качестве подношений в ритуале.</Desc>
+    </Text>
+    <Text Name="Item_XiangHuo5" sParam="Item">
+      <ThingName>Ритуал небес</ThingName>
+      <Desc>Ритуал Бога среднего уровня, требующий использования некоторых инструментов. Порождает 4 Веры. Дополнительная Вера может быть порождена использованием пищи высокого уровня в качестве подношений в ритуале.</Desc>
+    </Text>
+    <Text Name="Item_XiangHuo6" sParam="Item">
+      <ThingName>Ритуал почитания</ThingName>
+      <Desc>Ритуал Бога высочайшего уровня, он требует сложных инструментов и длительных молитв. Порождает 9 Веры. Дополнительная Вера может быть порождена использованием пищи высокого уровня в качестве подношений в ритуале.</Desc>
+    </Text>
+    <Text Name="Item_OldSchool_Letter" sParam="Item">
+      <ThingName>Таинственное Письмо</ThingName>
+      <Desc>Письмо, оставленное таинственным земледельцем, который спас тебя от опасности в ту ночь, когда секта была уничтожена.</Desc>
+      <Item.FabaoSuffix>Письмо</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Прочесть</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Читать письмо.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_StrangeMush" sParam="Item">
+      <ThingName>Странный Гриб</ThingName>
+      <Desc>Странный гриб, употребление которого может вызвать галлюцинации.</Desc>
+      <Item.FabaoSuffix>Корзина, Гриб</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Попытка еды</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попытайтесь съесть этот предмет.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_AuctionPaper" sParam="Item">
+      <ThingName>Приглашение На Аукцион</ThingName>
+      <Desc>Письмо-приглашение на аукцион, который проводит Е Сюань.</Desc>
+      <StoryBnts.0.Name>Проверить</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Осмотрите этот предмет.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_GodPractice_MiJuan" sParam="Item">
+      <ThingName>древний свиток</ThingName>
+      <Desc>Секретный свиток, который циркулировал в древние времена, его содержание неизвестно.</Desc>
+      <Item.FabaoSuffix>Объем</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Исследовать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Изучить свиток</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_GodPractice_MiJuan_1" sParam="Item">
+      <ThingName>Чудо-Место: Небесный Дворец</ThingName>
+      <Desc>Лист бумаги, на котором записано, как материализовать чудо-место: Небесный дворец, который могут постичь только культиваторы закона Шендао.</Desc>
+      <StoryBnts.0.Name>Исследовать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Изучить свиток</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_GodPractice_MiJuan_2" sParam="Item">
+      <ThingName>Свиток Положения Чуда</ThingName>
+      <Desc>Лист бумаги, на котором записано, как материализовать чудо-место: алтарь инвеституры, который могут постичь только культиваторы закона Шендао.</Desc>
+      <StoryBnts.0.Name>Исследовать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Изучить свиток</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_GodPractice_MiJuan_3" sParam="Item">
+      <ThingName>Свиток Положения Чуда</ThingName>
+      <Desc>Лист бумаги, на котором записано, как материализовать чудо-место: Меланхолия царства смертных, которую могут постичь только культиваторы закона Шендао.</Desc>
+      <StoryBnts.0.Name>Исследовать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Изучить свиток</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_GodPractice_MiJuan_4" sParam="Item">
+      <ThingName>Свиток Положения Чуда</ThingName>
+      <Desc>Лист бумаги, на котором записано, как материализовать чудо-место: резиденция общности; чудо-место: резиденция связи, которую могут постичь только культиваторы закона Шендао.</Desc>
+      <StoryBnts.0.Name>Исследовать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Изучить свиток</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_GodPractice_MiJuan_6" sParam="Item">
+      <ThingName>Фрагмент Свитка Чудесного Места: Священный Павильон</ThingName>
+      <Desc>Фрагменты свитков, в которых записан особый метод строительства Священного павильона, постичь который способны только культиваторы закона Шендао.</Desc>
+      <StoryBnts.0.Name>Исследовать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Изучить свиток</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_GodPractice_MiJuan_5" sParam="Item">
+      <ThingName>Наследие Тайи</ThingName>
+      <Desc>Своеобразный шар, запечатанный силой Небесной скорби. Неизвестно, что хранится внутри.</Desc>
+      <Item.FabaoSuffix>Объем</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Распечатывать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попытайтесь снять печать.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_Gong12" sParam="Item">
+      <ThingName>Закон Изначальных Символов</ThingName>
+      <Desc>Школа учений, как считалось, пришла от Золотого Бессмертного Юньчжун Цзы. Он нашел новый путь за пределами традиционной системы культивирования Золотого ядра. Улучив момент прорыва, можно было бы застыть в пяти натальных талисманах, которые имеют завораживающее применение.</Desc>
+      <Item.FabaoSuffix>Объем</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Исследовать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Изучите Закон</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_Body_Gong_2" sParam="Item">
+      <ThingName>Варварская Ковка Тела</ThingName>
+      <Desc>Переделанное заклинание, созданное человеческими физическими культиваторами в отношении естественных тел древних мудрецов Яогуай. Это заклинание известно своей дикой и агрессивной природой и превосходно очищает кости, чтобы в конечном итоге создать варварское кованое тело. Физическое тело становится божественным и обнимает забвение.</Desc>
+      <Item.FabaoSuffix>Объем</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Исследовать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Изучите Закон</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_Body_Gong_5" sParam="Item">
+      <ThingName>Тело Облитерации</ThingName>
+      <Desc>В прошлом некоторые физические культиваторы думали об этой жизни как о клетке, а полярные ночи - это свет, отбрасываемый снаружи клетки. Они впитали странную эссенцию из полярных ночей и использовали ее, чтобы переделать тело, полагая, что оно в конечном итоге превратится в транспортное средство, которое сломает клетку и унесет их прочь от страданий. Эта школа физкультурников поклонялась полярным ночам и избегалась всеми остальными, поэтому ее называли культом уничтожения. Поэтому их основополагающий закон называется телом уничтожения.</Desc>
+      <Item.FabaoSuffix>Объем</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Исследовать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Изучите Закон</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_God_GongAll" sParam="Item">
+      <ThingName>Записи Шендао</ThingName>
+      <Desc>В этой книге записано несколько древних методов культивирования закона Шендао. Он был составлен во время правления императора демонов, когда он доминировал.</Desc>
+      <Item.FabaoSuffix>Объем</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Исследовать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Изучите Закон</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_God_Guard1" sParam="Item">
+      <ThingName>Полис Ядра Люмины</ThingName>
+      <Desc>Ядро люмины с обитающей в нем силой звездного полиса. Возможно, можно использовать эту силу в качестве охранника, взаимодействуя с ней через закон Шендао.</Desc>
+      <Item.FabaoSuffix>Объем</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Исследовать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Изучите Закон</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_God_Guard2" sParam="Item">
+      <ThingName>Алкаидный Люминесцентный Сердечник</ThingName>
+      <Desc>Ядро люмины с обитающей в нем силой звезды Алкаид. Возможно, можно использовать эту силу в качестве охранника, взаимодействуя с ней через закон Шендао.</Desc>
+    </Text>
+    <Text Name="Item_God_Guard3" sParam="Item">
+      <ThingName>Ядро Люмины Дубхе</ThingName>
+      <Desc>Ядро люмины с обитающей в нем силой звезды Дубхе. Возможно, можно использовать эту силу в качестве охранника, взаимодействуя с ней через закон Шендао.</Desc>
+    </Text>
+    <Text Name="Item_Sys_Gong" sParam="Item">
+      <ThingName>Закон</ThingName>
+      <Desc>Свод законов.</Desc>
+      <Item.FabaoSuffix>Книга, Том, Свиток</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Firecracker" sParam="Item">
+      <ThingName>Фейерверк</ThingName>
+      <Desc>Своеобразная игрушка из потустороннего мира. Выберите место, чтобы установить его, и он может легко привлечь людей вокруг вас, чтобы посмотреть. Это довольно устрашающее приспособление для слабонервных.</Desc>
+      <Item.FabaoSuffix>Фейерверк</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Свет</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Поджечь</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_FirecrackerShit" sParam="Item">
+      <ThingName>Обработанные Фейерверк</ThingName>
+      <Desc>Специально обработанная петарда. Очень страшно.</Desc>
+      <Item.FabaoSuffix>Фейерверк</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Свет</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Поджечь</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_Jiaozi" sParam="Item">
+      <ThingName>Клецка</ThingName>
+      <Desc>Еда из потустороннего мира, наполненная добрыми пожеланиями и праздничными радостями. Съешьте его, и вы можете обнаружить какой-нибудь приятный сюрприз!</Desc>
+      <Item.FabaoSuffix>Клецка</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Yingbi1" sParam="Item">
+      <ThingName>Молитвенная Монета</ThingName>
+      <Desc>Твердый металлический диск, спрятанный внутри пельменей, таил в себе добрые пожелания многих существ потустороннего мира, жаждущих счастья и богатства. Факельный Дракон, проявление господства Инь и Ян в этом мире, в последнее время стал немного странным под влиянием потустороннего мира. Кажется, его очень интересует этот объект.</Desc>
+      <Item.FabaoSuffix>Монета</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Тереть</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попробовать потереть?</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_Yingbi2" sParam="Item">
+      <ThingName>Молитвенная Монета</ThingName>
+      <Desc>Твердый металлический диск, спрятанный внутри пельменей, таил в себе добрые пожелания многих существ потустороннего мира, жаждущих долголетия и здоровья. Факельный Дракон, проявление господства Инь и Ян в этом мире, в последнее время стал немного странным под влиянием потустороннего мира. Кажется, его очень интересует этот объект.</Desc>
+      <Item.FabaoSuffix>Монета</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Тереть</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попробовать потереть?</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_Yingbi3" sParam="Item">
+      <ThingName>Молитвенная Монета</ThingName>
+      <Desc>Твердый металлический диск, спрятанный внутри пельменей, таил в себе добрые пожелания многих существ потустороннего мира, жаждущих красивой новой одежды. Факельный Дракон, проявление господства Инь и Ян в этом мире, в последнее время стал немного странным под влиянием потустороннего мира. Кажется, его очень интересует этот объект.</Desc>
+      <Item.FabaoSuffix>Монета</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Тереть</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попробовать потереть?</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_SpringBox" sParam="Item">
+      <ThingName>Праздничные Товары</ThingName>
+      <Desc>Таинственный подарок из потустороннего мира, его называют" праздничным товаром " люди, живущие там.</Desc>
+      <Item.FabaoSuffix>Коробка</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Открыть</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попробуй открыть этот ларец</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_SuperPartItem" sParam="Item">
+      <ThingName>Глубинное Тело</ThingName>
+      <Desc>Физические культиваторы могут изучать его, чтобы получить новые знания о тайных телах.</Desc>
+      <Item.FabaoSuffix>Объем</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Вдохновение</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Изучить Глубину</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_AnimalBox" sParam="Item">
+      <ThingName>Красивая Клетка</ThingName>
+      <Desc>Внутри клетки находится тщательно выращенное животное в состоянии пробуждения.</Desc>
+      <Item.FabaoSuffix>Коробка</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_NormalAnimalBox" sParam="Item">
+      <ThingName>Простая Клетка</ThingName>
+      <Desc>Внутри простой клетки находится животное в состоянии пробуждения.</Desc>
+      <Item.FabaoSuffix>Коробка</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BodyAnimalBox" sParam="Item">
+      <ThingName>Клетка</ThingName>
+      <Desc>Внутри клетки находится животное в состоянии пробуждения.</Desc>
+      <Item.FabaoSuffix>Коробка</Item.FabaoSuffix>
+    </Text>
+  </List>
+</Texts>

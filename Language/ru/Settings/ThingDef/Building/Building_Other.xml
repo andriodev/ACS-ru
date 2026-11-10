@@ -1,0 +1,39 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="Building_Jiaolong_Body" sParam="Building">
+      <ThingName>Труп Дракона Наводнения</ThingName>
+      <Desc>Труп, оставленный павшим Драконом Наводнения.</Desc>
+    </Text>
+    <Text Name="Building_Dragon_Hole" sParam="Building">
+      <ThingName>Пещера Тайн</ThingName>
+      <Desc>Пещера часто имеет свой собственный разум и будет просить вас о жертвоприношениях. Его можно подавить с помощью фэн-шуй комнаты. Лучший Фэн-Шуй заставит его спрашивать реже. Каждая успешная жертва укрепляет пещерный ум, делая его более трудным для подавления.</Desc>
+      <StoryBnts.0.Name>Гнев</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попробуйте заполнить пещеру.</StoryBnts.0.Desc>
+      <StoryBnts.0.Script>local t = bind.ID; CS.Wnd_Message.Show("пещерный разум чрезвычайно силен и опасен. Вы уверены, что хотите его разозлить? (Если вы подтвердите, будет вызван древний зверь. Ваша секта может быть убита сразу, если вы не будете хорошо подготовлены. Пожалуйста, подумайте хорошенько.) ", 2, function(b) if (b ~= "1") then return end local hole = ThingMgr:FindThingByID(t); if (hole == nil) then return end hole.luaclass:GetTable():BornYaoLong() end)</StoryBnts.0.Script>
+    </Text>
+    <Text Name="Building_Xiongfeng_dan" sParam="Building">
+      <ThingName>Яйцо Феникса</ThingName>
+      <Desc>Чрезвычайно горячий и излучающий свет, он пытается поглотить Ци и вылупиться.</Desc>
+    </Text>
+    <Text Name="Building_Xiongfeng_danbroken" sParam="Building">
+      <ThingName>Яйцо Феникса</ThingName>
+      <Desc>Яйцо Феникса, чья Ци иссякла и в результате остановила процесс Нирваны.</Desc>
+    </Text>
+    <Text Name="Building_Zhulong_yingdan" sParam="Building">
+      <ThingName>Яйцо Инь</ThingName>
+      <Desc>Яйцо пытается вылупиться. Очень благоприятный фэн-шуй может подчинить его.</Desc>
+    </Text>
+    <Text Name="Building_Zhulong_yangdan" sParam="Building">
+      <ThingName>Яйцо Ян</ThingName>
+      <Desc>Яйцо пытается вылупиться. Очень зловещий фэн-шуй может подчинить его.</Desc>
+    </Text>
+    <Text Name="Building_Zhulong_yingdan_broken" sParam="Building">
+      <ThingName>Яйцо Инь (Мертвое)</ThingName>
+      <Desc>Мертвый.</Desc>
+    </Text>
+    <Text Name="Building_Zhulong_yangdan_broken" sParam="Building">
+      <ThingName>Яйцо Ян (Мертвое)</ThingName>
+      <Desc>Мертвый.</Desc>
+    </Text>
+  </List>
+</Texts>

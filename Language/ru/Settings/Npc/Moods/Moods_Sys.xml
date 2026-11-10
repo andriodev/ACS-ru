@@ -1,0 +1,57 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Mood_Sys_Lost">
+			<DisplayName>[Empty]</DisplayName>
+			<Desc>Empty</Desc>
+		</Text>
+		<Text Name = "Mood_Sys_School_Disappointment">
+			<DisplayName> Неутешительный руководитель филиала </DisplayName>
+			<Desc> Даже человек такого уровня может быть лидером филиала? Я думаю, что даже я мог бы стать руководителем филиала с такой скоростью ... </Desc>
+			<StoryDesc> Чувство, что легко быть недовольным таким разочаровывающим руководителем филиала </StoryDesc>
+		</Text>
+		<Text Name = "Mood_Sys_School_ZhangMen1">
+			<DisplayName> Новый лидер </DisplayName>
+			<Desc> Я так рад, что [TXT] стал лидером нашей секты! </Desc>
+		</Text>
+		<Text Name = "Mood_Sys_School_ZhangMen2">
+			<DisplayName> Новый лидер </DisplayName>
+			<Desc> [TXT] стал лидером нашей секты, это ужасно! </Desc>
+		</Text>
+		<Text Name = "Mood_Sys_School_ZhangMen3">
+			<DisplayName> Отклонено </DisplayName>
+			<Desc> Думаю, я все еще мог бы служить лидером секты ... </Desc>
+		</Text>
+		<Text Name = "Mood_Sys_School_ZhangMen4">
+			<DisplayName> Уходит в отставку с должности лидера секты </DisplayName>
+			<Desc> К сожалению, [TXT] больше не будет нашим лидером секты! </Desc>
+		</Text>
+		<Text Name = "Mood_Sys_School_ZhangMen5">
+			<DisplayName> Уходит в отставку с должности лидера секты </DisplayName>
+			<Desc> [TXT] больше не будет нашим лидером секты ... это здорово! </Desc>
+		</Text>
+		<Text Name = "Mood_Sys_School_TangZhu0">
+			<DisplayName> Стать лидером филиала </DisplayName>
+			<Desc> Я стал руководителем филиала ... Я должен сделать все возможное, чтобы соответствовать этой должности! </Desc>
+		</Text>
+		<Text Name = "Mood_Sys_School_TangZhu1">
+			<DisplayName> Руководитель отделения в Office </DisplayName>
+			<Desc> Я так рад, что [TXT] стал руководителем отделения! </Desc>
+		</Text>
+		<Text Name = "Mood_Sys_School_TangZhu2">
+			<DisplayName> Руководитель отделения в Office </DisplayName>
+			<Desc> Даже [TXT] стал лидером отрасли? Думаю, с такой скоростью любой может стать лидером филиала. </Desc>
+		</Text>
+		<Text Name = "Mood_Sys_School_TangZhu3">
+			<DisplayName> Отклонено </DisplayName>
+			<Desc> Я чувствую, что могу продолжить работу в качестве руководителя отделения ... посвятив себя секте ... </Desc>
+		</Text>
+		<Text Name = "Mood_Sys_School_TangZhu4">
+			<DisplayName> Уход с поста руководителя филиала </DisplayName>
+			<Desc> Не могу поверить, что [TXT] больше не будет нашим руководителем отделения! </Desc>
+		</Text>
+		<Text Name = "Mood_Sys_School_TangZhu5">
+			<DisplayName> Отставка с должности руководителя филиала </DisplayName>
+			<Desc> Наконец, [TXT] больше не будет нашим лидером отрасли! </Desc>
+		</Text>
+	</List>
+</Texts>

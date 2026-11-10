@@ -1,0 +1,52 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="JobAIPathMove">
+      <DisplayName>Идёт</DisplayName>
+    </Text>
+    <Text Name="JobRPGAIFree">
+      <DisplayName>Блуждает</DisplayName>
+    </Text>
+    <Text Name="JobRPGAIStay">
+      <DisplayName>Остаётся</DisplayName>
+    </Text>
+    <Text Name="JobRPGAIRoute">
+      <DisplayName>Патрулирует</DisplayName>
+    </Text>
+    <Text Name="JobRPGAIPatrol">
+      <DisplayName>Бродит</DisplayName>
+    </Text>
+    <Text Name="JobRPGPlayerMove">
+      <DisplayName>Идёт</DisplayName>
+    </Text>
+    <Text Name="JobRPGOpt">
+      <DisplayName>Идёт</DisplayName>
+    </Text>
+    <Text Name="JobRPGMine">
+      <DisplayName>Добывает</DisplayName>
+    </Text>
+    <Text Name="JobRPGCutoff">
+      <DisplayName>Рубит</DisplayName>
+    </Text>
+    <Text Name="JobRPGPickup">
+      <DisplayName>Собирает</DisplayName>
+    </Text>
+    <Text Name="JobRPGEat">
+      <DisplayName>Ест</DisplayName>
+    </Text>
+    <Text Name="JobRPGDialog">
+      <DisplayName>Говорит</DisplayName>
+    </Text>
+    <Text Name="JobRPGEquip">
+      <DisplayName>Надевает</DisplayName>
+    </Text>
+    <Text Name="JobRPGPassiveMove">
+      <DisplayName>Идёт</DisplayName>
+    </Text>
+    <Text Name="JobRPGMoveTo">
+      <DisplayName>Идёт к</DisplayName>
+    </Text>
+    <Text Name="JobRPGSlaughter">
+      <DisplayName>Потрошит</DisplayName>
+    </Text>
+  </List>
+</Texts>

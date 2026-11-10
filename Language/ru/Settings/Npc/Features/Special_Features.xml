@@ -1,0 +1,433 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="SonOfDestiny">
+			<DisplayName>Избранник Судьбы</DisplayName>
+			<Desc>Этот человек рожден со всей благосклонностью Земли и Неба абсолютный избранник.</Desc>
+		</Text>
+		<Text Name="YinBody">
+			<DisplayName>Тело Инь</DisplayName>
+			<Desc>Этот человек обладает чистой энергией Инь и имеет короткую продолжительность жизни, но чрезвычайно обаятельный, привлекательный и особенно одаренный в возвышении</Desc>
+		</Text>
+		<Text Name="YangBody">
+			<DisplayName>Тело Янь</DisplayName>
+			<Desc>Этот человек имеет чистую энергию Янь, рожденный, чтобы быть конкурентоспособным и очаровательным. Однако у его проблемы с ментальной стабильностью.</Desc>
+		</Text>
+		<Text Name="Cleanliness">
+			<DisplayName>Чистюля</DisplayName>
+			<Desc>Этому человеку нравится содержать вещи в чистоте.</Desc>
+		</Text>
+		<Text Name="Slovenly">
+			<DisplayName>Неопрятный</DisplayName>
+			<Desc>Этот человек очень неопрятный.</Desc>
+		</Text>
+		<Text Name="DragonBlood">
+			<DisplayName>Кровь Дракона</DisplayName>
+			<Desc>В жилах этого человека течет немного драконьей крови, что делает [his] сильнее и чувствительнее других. Однако жестокость, унаследованная от предков, ослабляет [his] самоконтроль.</Desc>
+		</Text>
+		<Text Name="DemonBlood">
+			<DisplayName>Кровь Демона</DisplayName>
+			<Desc>В жилах этого человека течет немного демонической крови, что делает [his] более чувствительным к Внутренней Ци. Однако это также делает его психическое состояние более переменчивым.</Desc>
+		</Text>
+		<Text Name="Realization">
+			<DisplayName>Осознанность</DisplayName>
+			<Desc>Хотя этот человек не знает, что он реинкарнировал, он все еще рождён с естественным осознанием многих вещей, что делает [his] более успешным в текущей жизни.</Desc>
+		</Text>
+		<Text Name="Retarded">
+			<DisplayName>Слабоумный</DisplayName>
+			<Desc>Черта для умственно отсталого человека.</Desc>
+		</Text>
+		<Text Name="LunHui_1">
+			<DisplayName>Наблюдательный</DisplayName>
+			<Desc>Этот человек быстрее замечает вещи и очень наблюдателен.</Desc>
+		</Text>
+		<Text Name="LunHui_2">
+			<DisplayName>Благословенный</DisplayName>
+			<Desc>Этот человек благословлен и имеет Интеллект выше среднего.</Desc>
+		</Text>
+		<Text Name="LunHui_3">
+			<DisplayName>Целеустремленный</DisplayName>
+			<Desc>Этот человек склонен к Даосизму и может терпеть больше трудностей, чем другие.</Desc>
+		</Text>
+		<Text Name="LunHui_4">
+			<DisplayName>Энергичный</DisplayName>
+			<Desc>Этот человек одарен неиссякаемой энергией, которая не дает ему спать допоздна.</Desc>
+		</Text>
+		<Text Name="LunHui_5">
+			<DisplayName>Медленный</DisplayName>
+			<Desc>Этот человек ходит очень медленно, медленнее, чем вы ожидаете.</Desc>
+		</Text>
+		<Text Name="LunHui_6">
+			<DisplayName>Путешественник во времени</DisplayName>
+			<Desc>Путешествие во времени подарило этому человеку долгую жизнь и тело, которое может выдерживать суровые погодные условия, такие как сильный холод или жара.</Desc>
+		</Text>
+		<Text Name="LunHui_7">
+			<DisplayName>Кровь Феникса</DisplayName>
+			<Desc>Этот человек родился с кровью феникса, но это было бессмысленно в современном обществе, где больше не существует Законов Возвышения.</Desc>
+		</Text>
+		<Text Name="LunHui_8">
+			<DisplayName>Современник</DisplayName>
+			<Desc>Современные знания и мышление сделали [his] чрезвычайно особенным в этом мире, но это также означает, что этот человек не может справиться со многими видами работы древних времён. Между тем, современный ум означает, что этот человек не может влюбиться ни в кого в этом мире.</Desc>
+		</Text>
+		<Text Name="LunHui_9">
+			<DisplayName>Добродетельный</DisplayName>
+			<Desc>Этот человек от рождения обладает добродетелями, и боги очень щедры по отношению к ним.</Desc>
+		</Text>
+		<Text Name="LunHui_10">
+			<DisplayName>Современник</DisplayName>
+			<Desc>Современные знания и образ мышления делают [his] более умным, чем другие, но его отвращение к феодальным суевериям означает, что [he] очень трудно культивировать.</Desc>
+		</Text>
+		<Text Name="LunHui_11">
+			<DisplayName>Современник</DisplayName>
+			<Desc>В своём времени [he] привык[enverb5] вести затворническую жизнь, и в этом мире [his] незначительное присутствие угнорируют даже Небеса, поэтому [he] рождается с меньшим Достижениями. Привыкнув к современной жизни, [he] не в состоянии справиться со многими видами работы в старинные времена. Этот человек стремится вернуться в свой собстенный мир через Вознесение, не имея никакого желания здесь оставаться.</Desc>
+		</Text>
+		<Text Name="LunHui_12">
+			<DisplayName>Упорный</DisplayName>
+			<Desc>Этот человек десятилетиями проходил экстремальные тренировки, чтобы восполнить недостаток естественного потенциала, заложив прочный фундамент для практики. Этот опыт означает, что этот человек может вынести больше трудностей, чем другие.</Desc>
+		</Text>
+		<Text Name="LunHui_13">
+			<DisplayName>Ленивый</DisplayName>
+			<Desc>Не спешит выполнять задания, часто бродит по улицам.</Desc>
+		</Text>
+		<Text Name="LunHui_14">
+			<DisplayName>Планировщик</DisplayName>
+			<Desc>Годы работы с бумагами сделали [him] непригодн[enadjabl2] для физической работы. Однако богатое воображение означает, что он может быстро слиться с остальным миром.</Desc>
+		</Text>
+		<Text Name="LunHui_15">
+			<DisplayName>Дурной Дух</DisplayName>
+			<Desc>Этот человек наделён особым телом благодаря своему опыту возвышения в злом Законе. И хотя построить фундамент было сложнее, чем другим, его потенциал намного превосходит.</Desc>
+		</Text>
+		<Text Name="LunHui_16">
+			<DisplayName>Божественное Видение</DisplayName>
+			<Desc>Этот человек однажды получил видение от Богов, изменившее его тело и увеличившее продолжительность его жизни.</Desc>
+		</Text>
+		<Text Name="LunHui_17">
+			<DisplayName>Мечерожденный</DisplayName>
+			<Desc>Этот человек на столько одержим клинками, что кажется, будто [he] был[enverb5] рожден[enverb5] для мечей.</Desc>
+		</Text>
+		<Text Name="LunHui_18">
+			<DisplayName>Современник</DisplayName>
+			<Desc>Современная жизнь сделала [his] физически слаб[enadjabl2], но у н[his] открытый взгляд на мир и прогрессивный ум.</Desc>
+		</Text>
+		<Text Name="LunHui_19">
+			<DisplayName>Быстрый</DisplayName>
+			<Desc>Этот человек научился быстрому движению наблюдая за летающими норками, что делает его движения гораздо быстрее, чем обычно.</Desc>
+		</Text>
+		<Text Name="LunHui_20">
+			<DisplayName>Галантный</DisplayName>
+			<Desc>Этот человек очень галантен, поэтому ему легко добиться расположения других.</Desc>
+		</Text>
+		<Text Name="LunHui_21">
+			<DisplayName>Безрассудный</DisplayName>
+			<Desc>Этот человек безрассуден и груб, его легко спровоцировать.</Desc>
+		</Text>
+		<Text Name="LunHui_22">
+			<DisplayName>Робкий</DisplayName>
+			<Desc>Этот человек очень робок и осторожен.</Desc>
+		</Text>
+		<Text Name="LunHui_23">
+			<DisplayName>Проворный</DisplayName>
+			<Desc>Этот человек очень подвижен и двигается с большой скоростью.</Desc>
+		</Text>
+		<Text Name="LunHui_24">
+			<DisplayName>Сонный</DisplayName>
+			<Desc>Этот человек любит поспать и легко впадает в сонливость.</Desc>
+		</Text>
+		<Text Name="LunHui_25">
+			<DisplayName>Элегантный</DisplayName>
+			<Desc>Этот человек обладает элегантностью и знаниями интеллектуала династий Вэй и Цзинь, по-своему очаровательный.</Desc>
+		</Text>
+		<Text Name="LunHui_26">
+			<DisplayName>Любитель Костей</DisplayName>
+			<Desc>Этот человек одержим костями.</Desc>
+		</Text>
+		<Text Name="LunHui_27">
+			<DisplayName>Рыбак</DisplayName>
+			<Desc>Этот человек умеет ловить рыбу, зоркий и подвижный.</Desc>
+		</Text>
+		<Text Name="LunHui_28">
+			<DisplayName>Песня сирены</DisplayName>
+			<Desc>Песнь этого человека так же прекрасна и волшебена, как у мифических сирен.</Desc>
+		</Text>
+		<Text Name="LunHui_29">
+			<DisplayName>Творческий</DisplayName>
+			<Desc>Человек с чутким сердцем, богатыми эмоциями, [he] обладает несравненно богатым воображением.</Desc>
+		</Text>
+		<Text Name="LunHui_30">
+			<DisplayName>Беззаботный</DisplayName>
+			<Desc>Этот человек непринужденен, всегда выглядит беззаботным и уверенным в себе и никогда не выказывает никаких признаков паники.</Desc>
+		</Text>
+		<Text Name="LunHui_31">
+			<DisplayName>Козёл отпущения</DisplayName>
+			<Desc>Этот человек обычно взваливает всё на себя, поэтому его все любят.</Desc>
+		</Text>
+		<Text Name="LunHui_32">
+			<DisplayName>Счастливчик</DisplayName>
+			<Desc>Этот человек родился удачливым, многие ему завидуют.</Desc>
+		</Text>
+		<Text Name="LunHui_33">
+			<DisplayName>Садист</DisplayName>
+			<Desc>Этот человек конченый садист.</Desc>
+		</Text>
+		<Text Name="LunHui_34">
+			<DisplayName>Везунчик</DisplayName>
+			<Desc>Этот человек родился с исключительной Ци.</Desc>
+		</Text>
+		<Text Name="LunHui_35">
+			<DisplayName>Друг животных</DisplayName>
+			<Desc>Этот человек любит животных и не может заниматься охотой.</Desc>
+		</Text>
+		<Text Name="LunHui_36">
+			<DisplayName>Технологии будущего</DisplayName>
+			<Desc>Этот человек владеет ядром технологий будущего, благодаря чему он работает эффективнее и двигается быстрее.</Desc>
+		</Text>
+		<Text Name="LunHui_37">
+			<DisplayName>Лучший Босс</DisplayName>
+			<Desc>Босс, которого любят все сотрудники.</Desc>
+		</Text>
+		<Text Name="LunHui_38">
+			<DisplayName>Робин Гуд</DisplayName>
+			<Desc>Этот человек - ловкий и героический преступник, который всегда ищет справедливости.</Desc>
+		</Text>
+		<Text Name="LunHui_39">
+			<DisplayName>Выносливый</DisplayName>
+			<Desc>Этот человек может переносить больше невзгод, чем другие, например, сильный холод и жару, а ещё он подвиженый и имеет большую продолжительность жизни.</Desc>
+		</Text>
+		<Text Name="LunHui_40">
+			<DisplayName>ОКР</DisplayName>
+			<Desc>Этот человек страдает Обсессивно-компульсивным расстройством, и ему требуется много времени на выполнение заданий, но обычно результат хороший.</Desc>
+		</Text>
+		<Text Name="LunHui_41">
+			<DisplayName>Благородный</DisplayName>
+			<Desc>Этот человек благороден и прямолинеен, мгновенно завоевывая расположение окружающих.</Desc>
+		</Text>
+		<Text Name="LunHui_42">
+			<DisplayName>Шеф-повар</DisplayName>
+			<Desc>Этот человек одарен в кулинарии.</Desc>
+		</Text>
+		<Text Name="LunHui_43">
+			<DisplayName>Перфекционист</DisplayName>
+			<Desc>Этот человек перфекционист, и на выполнение задач у него уходит много времени, но результат обычно хороший.</Desc>
+		</Text>
+		<Text Name="LunHui_44">
+			<DisplayName>Мастер на все руки</DisplayName>
+			<Desc>Этому человеку всё интересно и он увлечённо занимается любым делом.</Desc>
+		</Text>
+		<Text Name="LunHui_45">
+			<DisplayName>Хамелеон</DisplayName>
+			<Desc>Этот человек очень ловкий и быстрый, с зоркими глазами.</Desc>
+		</Text>
+		<Text Name="LunHui_46">
+			<DisplayName>Чревовещатель</DisplayName>
+			<Desc>Этот человек не любит говорить, общаясь с другими только посредством чревовещания.</Desc>
+		</Text>
+		<Text Name="LunHui_47">
+			<DisplayName>Странник</DisplayName>
+			<Desc>Этот человек рожден, чтобы быть странником в этом мире.</Desc>
+		</Text>
+		<Text Name="LunHui_48">
+			<DisplayName>Желанный</DisplayName>
+			<Desc>Этого человека, естественно, все любят.</Desc>
+		</Text>
+		<Text Name="LunHui_49">
+			<DisplayName>Потеря памяти</DisplayName>
+			<Desc>Этот человек потерял воспоминания и наслаждается только тем, что живет настоящим.</Desc>
+		</Text>
+		<Text Name="LunHui_50">
+			<DisplayName>Чик-Чирик</DisplayName>
+			<Desc>Чик-Чирик!</Desc>
+		</Text>
+		<Text Name="LunHui_51">
+			<DisplayName>Талантливый</DisplayName>
+			<Desc>Этот человек невероятно одарен и может выдерживать сильные холода и жару, вполне подходит для пути возвышения.</Desc>
+		</Text>
+		<Text Name="LunHui_52">
+			<DisplayName>Проклятие геморроя</DisplayName>
+			<Desc>Этот человек проклят и обречён вечно мучиться геморроем.</Desc>
+		</Text>
+		<Text Name="LunHui_53">
+			<DisplayName>Бездельник</DisplayName>
+			<Desc>Я не могу тяжело работать! Нет, ни за что!</Desc>
+		</Text>
+		<Text Name="LunHui_54">
+			<DisplayName>Высокий</DisplayName>
+			<Desc>Этот человек невероятно высокого роста.</Desc>
+		</Text>
+		<Text Name="LunHui_55">
+			<DisplayName>Ночной Страж</DisplayName>
+			<Desc>Этот человек долгое время наблюдал за ночным небом и научился бодрствовать почти всю ночь.</Desc>
+		</Text>
+		<Text Name="LunHui_56">
+			<DisplayName>Убедительный</DisplayName>
+			<Desc>Этот человек очень убедителен и искусен в беседе.</Desc>
+		</Text>
+		<Text Name="LunHui_57">
+			<DisplayName>Практик</DisplayName>
+			<Desc>Этот человек невероятно одарен, неплохо подходит для культивации.</Desc>
+		</Text>
+		<Text Name="LunHui_58">
+			<DisplayName>Реальная жизнь</DisplayName>
+			<Desc>Другие высоко ценят этого человека за его жизненный опыт.</Desc>
+		</Text>
+		<Text Name="LunHui_59">
+			<DisplayName>Учёный</DisplayName>
+			<Desc>Опыт этого человека в науке преисполнил его верой.</Desc>
+		</Text>
+		<Text Name="LunHui_60">
+			<DisplayName>Одарённый</DisplayName>
+			<Desc>Этот человек невероятно одарён, умён и быстро обучается.</Desc>
+		</Text>
+		<Text Name="LunHui_61">
+			<DisplayName>Хороший врач</DisplayName>
+			<Desc>Этот человек - опытный врач, который посвящает всё своё время спасению жизней людей.</Desc>
+		</Text>
+		<Text Name="LunHui_62">
+			<DisplayName>Безумный Практик</DisplayName>
+			<Desc>Этот человек одержим практикой и тренируется более 15 часов в день, как будто он сошёл с ума.</Desc>
+		</Text>
+		<Text Name="LunHui_63">
+			<DisplayName>Ремесленник</DisplayName>
+			<Desc>Этот человек невероятно одарён и мастерит изделия хорошего качества.</Desc>
+		</Text>
+		<Text Name="LunHui_64">
+			<DisplayName>Художник</DisplayName>
+		</Text>
+		<Text Name="LunHui_65">
+			<DisplayName>Мастер Талисманов</DisplayName>
+			<Desc>Этот человек вручную нарисовал множество талисманов, и известен как «Мастер Талисманов».</Desc>
+		</Text>
+		<Text Name="LunHui_66">
+			<DisplayName>Большегрудая красавица</DisplayName>
+			<Desc>Исключительно красива и имеет большую... харизму.</Desc>
+		</Text>
+		<Text Name="LunHui_67">
+			<DisplayName>Медик</DisplayName>
+			<Desc>Этот человек - искусный врач, который и мёртвого излечит.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_1">
+			<DisplayName>Цундере</DisplayName>
+			<Desc>Этому человеку очень трудно и неловко высказывать свою заботу другим людям.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_2">
+			<DisplayName>Злобный</DisplayName>
+			<Desc>Злоба этого человека часто лишает других дара речи.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_3">
+			<DisplayName>Благородный</DisplayName>
+			<Desc>Этот человек очень благороден.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_4">
+			<DisplayName>Интриган</DisplayName>
+			<Desc>Этот человек настолько коварен, что никому не доверяет.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_5">
+			<DisplayName>Певец</DisplayName>
+			<Desc>Этот человек уверен в себе, свободолюбив и любит петь.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_6">
+			<DisplayName>Непреклонный</DisplayName>
+			<Desc>У этого человека решительный ум, который может помочь в борьбе с заблуждениями в практике.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_7">
+			<DisplayName>Прекрасный голос</DisplayName>
+			<Desc>У этого человека прекрасный голос, который успокаивает людей даже вопреки их желанию.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_8">
+			<DisplayName>Замкнутый</DisplayName>
+			<Desc>Этот человек всегда был сдержанным и замкнутым.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_9">
+			<DisplayName>Долгая жизнь</DisplayName>
+		</Text>
+		<Text Name="LunHui_Kong_10">
+			<DisplayName>Отличный актёр</DisplayName>
+			<Desc>Этот человек невероятно одаренный актёр.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_11">
+			<DisplayName>Любопытный</DisplayName>
+			<Desc>Этот человек очень любопытен и любит совать везде свой нос.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_12">
+			<DisplayName>Очень долгая жизнь</DisplayName>
+		</Text>
+		<Text Name="LunHui_Kong_13">
+			<DisplayName>Трюкач</DisplayName>
+			<Desc>Уникальная судьба этого человека позволяет ему изменить план богов. Он, кажется, забыт Небесами и имеет невероятно долгую естественную продолжительность жизни.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_14">
+			<DisplayName>Лидер Школы</DisplayName>
+			<Desc>Прозвище среди даосов.</Desc>
+		</Text>
+		<Text Name="LunHui_Kong_15">
+			<DisplayName>Популярный Комментатор</DisplayName>
+			<Desc>Этот человек чрезвычайно харизматичен, он приобрел много последователей и поклонников, комментируя других.</Desc>
+		</Text>
+		<Text Name="Inborn_Jin_lost">
+			<DisplayName>Нехватка Металла</DisplayName>
+			<Desc>Изучение Законов Металла становится сложнее, а получение урона от Огня повышается.</Desc>
+		</Text>
+		<Text Name="Inborn_Mu_lost">
+			<DisplayName>Нехватка Дерева</DisplayName>
+			<Desc>Изучение Законов Дерева становится сложнее, а получение урона от Металла повышается.</Desc>
+		</Text>
+		<Text Name="Inborn_Shui_lost">
+			<DisplayName>Нехватка Воды</DisplayName>
+			<Desc>Изучение Законов Воды становится сложнее, а получение урона от Земли повышается.</Desc>
+		</Text>
+		<Text Name="Inborn_Huo_lost">
+			<DisplayName>Нехватка Огня</DisplayName>
+			<Desc>Изучение Законов Огня становится сложнее, а получение урона от Воды повышается.</Desc>
+		</Text>
+		<Text Name="Inborn_Tu_lost">
+			<DisplayName>Нехватка Земли</DisplayName>
+			<Desc>Изучение Законов Земли становится сложнее, а получение урона от Дерева повышается.</Desc>
+		</Text>
+		<Text Name="Inborn_Jin_Add">
+			<DisplayName>Милость Металла</DisplayName>
+			<Desc>Изучение Законов Металла становится легче, а защита от Дерева увеличивается.</Desc>
+		</Text>
+		<Text Name="Inborn_Mu_Add">
+			<DisplayName>Милость Дерева</DisplayName>
+			<Desc>Изучение Законов Дерева становится легче, а защита от Земли увеличивается.</Desc>
+		</Text>
+		<Text Name="Inborn_Shui_Add">
+			<DisplayName>Милость Воды</DisplayName>
+			<Desc>Изучение Законов Воды становится легче, а защита от Огня увеличивается.</Desc>
+		</Text>
+		<Text Name="Inborn_Huo_Add">
+			<DisplayName>Милость Огня</DisplayName>
+			<Desc>Изучение Законов Огня становится легче, а защита от Металла увеличивается.</Desc>
+		</Text>
+		<Text Name="Inborn_Tu_Add">
+			<DisplayName>Милость Земли</DisplayName>
+			<Desc>Изучение Законов Земли становится легче, а защита от Воды увеличивается.</Desc>
+		</Text>
+		<Text Name="Features_JingGuai_0">
+			<DisplayName>Перерождённый Дух</DisplayName>
+			<Desc>Изначально был[enverb] бездушной вещью между Небом и Землёй, но пробудил[enverb] сознание из-за какого-то случайного вдохновения. Обладая очень недисциплинированной природой, ему трудно заниматься медитацией и тренировками. Но, с другой стороны, из-за его простодушия [his] также трудно отвлечь на случайные мысли или навязчивые идеи. С определенной точки зрения, это ум первоклассного практикующего.</Desc>
+		</Text>
+		<Text Name="Features_JingGuai_1">
+			<DisplayName>Тело, Отлитое Духом</DisplayName>
+			<Desc>Первоначально это был Камень Духа, который стал разумным, поэтому он естественным образом родился с более высокой Базовой Ци.</Desc>
+		</Text>
+		<Text Name="Features_JingGuai_2">
+			<DisplayName>Тело Поглощающее Ци</DisplayName>
+			<Desc>Изначально это была съедобная пища, которая стала разумной, поэтому родилась с очень высокой естестенной способностью к Поглощению Ци и без чувствова голода.</Desc>
+		</Text>
+		<Text Name="Features_JingGuai_3">
+			<DisplayName>Тело Мастерства Артефактов</DisplayName>
+			<Desc>Первоначально это был артефакт, который стал разумным, поэтому, естественно, он был более искусным в Мастерстве Артефактов.</Desc>
+		</Text>
+		<Text Name="Sys_YuSheTeXing1">
+			<DisplayName>Custom 1</DisplayName>
+		</Text>
+		<Text Name="Sys_YuSheTeXing2">
+			<DisplayName>Custom 2</DisplayName>
+		</Text>
+		<Text Name="Sys_YuSheTeXing3">
+			<DisplayName>Custom 3</DisplayName>
+		</Text>
+		<Text Name="Sys_YuSheTeXing4">
+			<DisplayName>Custom 4</DisplayName>
+		</Text>
+	</List>
+</Texts>

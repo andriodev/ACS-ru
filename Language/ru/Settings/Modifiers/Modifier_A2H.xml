@@ -1,0 +1,60 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Animal2HumanThinkFull">
+			<DisplayName>Целая Мысль</DisplayName>
+			<Desc>Полон мыслей.</Desc>
+		</Text>
+		<Text Name="Animal2HumanFeelLing">
+			<DisplayName>Зарождающийся Интеллект</DisplayName>
+			<Desc>Предчувствует зарождение интеллекта.</Desc>
+		</Text>
+		<Text Name="AnimalToHuman">
+			<DisplayName>На Полпути К Превращению</DisplayName>
+			<Desc>Оборотень.</Desc>
+		</Text>
+		<Text Name="LingShou_fanshi">
+			<DisplayName>Перезарядка Питомца</DisplayName>
+			<Desc>Через некоторое время питомец произведет обратный эффект артефакта на своего владельца, в результате чего Ци артефакта уменьшится вдвое. Эффект удваивается для артефактов элемента огня и уменьшается вдвое для артефактов элемента Земли.</Desc>
+		</Text>
+		<Text Name="ToHumanThunderComing">
+			<DisplayName>Бедствие Оборотня</DisplayName>
+			<Desc>Надвигается бедствие оборотня.</Desc>
+		</Text>
+		<Text Name="Modifier_LingChong_Heal">
+			<DisplayName>Компаньон</DisplayName>
+			<Desc>С духовным питомцем в компании травмы восстанавливаются быстрее.</Desc>
+		</Text>
+		<Text Name="Modifier_LingChong_Stay">
+			<DisplayName>Компаньон</DisplayName>
+			<Desc>Во время тренировки с духовным питомцем, психическое состояние более стабильно.</Desc>
+		</Text>
+		<Text Name="Modifier_GlitterEyes">
+			<DisplayName>Пронзительный Взгляд</DisplayName>
+			<Desc>Пользуется пронзительным зрением Темного Феникса, чтобы видеть истинные черты предмета на аукционе.</Desc>
+		</Text>
+		<Text Name="Modifier_Shelter">
+			<DisplayName>Эгида</DisplayName>
+			<Desc>Резко увеличивает барьер Ци и выносливость секретного тела за короткий промежуток времени.</Desc>
+		</Text>
+		<Text Name="Modifier_YG_RealPower">
+			<DisplayName>Изначальная Сила (Энергия)</DisplayName>
+			<Desc>Мгновенно сжигает источник жизни, для стимуляции изначальной силы Яогуай, чтобы резко увеличить мощь артефактов и секретных тел.</Desc>
+		</Text>
+		<Text Name="Modifier_YG_RealRecover">
+			<DisplayName>Изначальная Сила (Воспитание)</DisplayName>
+			<Desc>Мгновенно сжигает источник жизни, для стимуляции изначальной силы Яогуай, чтобы резко увеличить сопротивляемость, скорость восстановления артефакта Ци и скорость восстановления секретного тела истинной Ци.</Desc>
+		</Text>
+		<Text Name="Modifier_YG_RealWisdom">
+			<DisplayName>Изначальная сила (INT)</DisplayName>
+			<Desc>Мгновенно сжигает источник жизни, для стимуляции первоначальной силы Яогуай, чтобы резко увеличить силу заклинания, точность атаки секретного тела, успешность защиты, проникновение барьера Ци и шанс подавления артефакта.</Desc>
+		</Text>
+		<Text Name="Modifier_YG_RealShield">
+			<DisplayName>Изначальная сила (PCT)</DisplayName>
+			<Desc>Мгновенно сжигает источник жизни, для стимуляции изначальной силы Яогуай, чтобы резко увеличить мастерство артефакта, барьер Ци, а также Секретную силу тела и выносливость.</Desc>
+		</Text>
+		<Text Name="Modifier_YG_NormalPower">
+			<DisplayName>Демоническое тело</DisplayName>
+			<Desc>Демоническое тело увеличивает боевую доблесть и ускоряет процесс переплавки. Но, движимые дикой природой, интеллект культиватора, скорость обучения и психическое состояние будут сильно затронуты.</Desc>
+		</Text>
+	</List>
+</Texts>

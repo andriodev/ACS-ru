@@ -1,0 +1,24 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="RockBrown" sParam="Plant">
+			<ThingName>Песчанник</ThingName>
+			<Desc>Горная порода коричневого цвета. Весьма рассыпчатый, потому добыть из него пригодный к использованию камень довольно сложно.</Desc>
+		</Text>
+		<Text Name="RockGray" sParam="Plant">
+			<ThingName>Базальт</ThingName>
+			<Desc>Горная порода серого цвета. Весьма плотный, можно использовать для строительства.</Desc>
+		</Text>
+		<Text Name="RockMarble" sParam="Plant">
+			<ThingName>Мраморный массив</ThingName>
+			<Desc>Горная порода, богатая мрамором, из которой можно добыть Мрамор.</Desc>
+		</Text>
+		<Text Name="RockJade" sParam="Plant">
+			<ThingName>Нефритовый массив</ThingName>
+			<Desc>Горная порода, богатая нефритом, из которой можно добыть Нефрит.</Desc>
+		</Text>
+		<Text Name="RockCinnabar" sParam="Plant">
+			<ThingName>Киноварь</ThingName>
+			<Desc>Горная порода, богатая киноварью, из которой можно добыть Киноварь.</Desc>
+		</Text>
+	</List>
+</Texts>

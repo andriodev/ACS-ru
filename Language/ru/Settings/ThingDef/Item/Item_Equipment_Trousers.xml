@@ -1,0 +1,67 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="TrousersBase" sParam="Item">
+      <Item.FabaoSuffix>Одежды,Броня,Доспех,Халат</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SummerTrousers" sParam="Item">
+      <ThingName>Тонкие Штаны</ThingName>
+      <Desc>Хорошо дышащие брюки, которые также слегка защищают от холода.</Desc>
+    </Text>
+    <Text Name="Item_SilkTrousers" sParam="Item">
+      <ThingName>Лёгкие Штаны</ThingName>
+      <Desc>Свободные брюки, в которой будет комфортно в жару.</Desc>
+    </Text>
+    <Text Name="Item_PracticeTrousers" sParam="Item">
+      <ThingName>Штаны Ученика</ThingName>
+      <Desc>Стандартные брюки секты, относительно тёплые, но не очень дышащие.</Desc>
+    </Text>
+    <Text Name="Item_FormalTrousers" sParam="Item">
+      <ThingName>Обычные Штаны</ThingName>
+      <Desc>Обычные повседневные штаны, относительно тёплые, но не очень дышащие.</Desc>
+    </Text>
+    <Text Name="Item_WinterTrousers" sParam="Item">
+      <ThingName>Тёплые Штаны</ThingName>
+      <Desc>Штаны из тёплой и плотной ткани.</Desc>
+    </Text>
+    <Text Name="Item_SP_Trousers1" sParam="Item">
+      <ThingName>Штаны Дракона</ThingName>
+      <Desc>Облачение, сотканное из чешуи дракона, которое повышает уровень Защиты и позволяет путешествовать, оседлав ветер, очень утончённо.</Desc>
+    </Text>
+    <Text Name="Item_SP_Trousers2" sParam="Item">
+      <ThingName>Штаны Инь</ThingName>
+      <Desc>Облачение, собирающее силу чистого Инь, которое повышает уровень Заклинания и позволяет путешествовать, оседлав ветер, очень утончённо.</Desc>
+    </Text>
+    <Text Name="Item_SP_Trousers3" sParam="Item">
+      <ThingName>Тлеющие Штаны</ThingName>
+      <Desc>Облачение, собирающее силу чистого Ян, которое повышает уровень Владения Артефактом и позволяет путешествовать, оседлав ветер, очень утончённо.</Desc>
+    </Text>
+    <Text Name="Item_SP_Trousers4" sParam="Item">
+      <ThingName>Штаны Небесного Покрова</ThingName>
+      <Desc>Облачение Небесного Покрова способно обмануть Пути Небес, что снизит Достижения при ношении и позволяет путешествовать, оседлав ветер, очень утончённо.</Desc>
+    </Text>
+    <Text Name="Item_SP_Trousers5" sParam="Item">
+      <ThingName>Штаны Перьев Ян</ThingName>
+      <Desc>Облачение, способное отгонять демонов. Ношение его улучшит ментальное состояние, изгнав внутренних демонов, и позволяет путешествовать, оседлав ветер, очень утончённо.</Desc>
+    </Text>
+    <Text Name="Item_SP_Trousers6" sParam="Item">
+      <ThingName>Золотые Штаны</ThingName>
+      <Desc>Облачение, собирающее силу чистого Ян, которое повышает уровень Владения Артефактом и позволяет путешествовать, оседлав ветер, очень утончённо.</Desc>
+    </Text>
+    <Text Name="Item_SP_Trousers7" sParam="Item">
+      <ThingName>Огенные Штаны</ThingName>
+      <Desc>Одеяние, сшитое из шкуры Огненной Крысы, которое повышает уровень Защиты, снижает получаемый от Огня урон и позволяет путешествовать, оседлав ветер, очень утончённо.</Desc>
+    </Text>
+    <Text Name="Item_SP_Trousers8" sParam="Item">
+      <ThingName>Штаны Чёрных Вод</ThingName>
+      <Desc>Облачение Чёрных Вод способно обмануть Пути Небес, что снизит Достижения при ношении и позволяет путешествовать, оседлав ветер, очень утончённо.</Desc>
+    </Text>
+    <Text Name="Item_SP_Trousers9" sParam="Item">
+      <ThingName>Штаны Непостижимого</ThingName>
+      <Desc>Облачение, собирающее силу чистого инь, которое повышает уровень Заклинания и позволяет путешествовать, оседлав ветер, очень утончённо.</Desc>
+    </Text>
+    <Text Name="Item_SP_Trousers10" sParam="Item">
+      <ThingName>Штаны Журавля</ThingName>
+      <Desc>Облачение, способное отгонять демонов. Ношение его улучшит ментальное состояние, изгнав внутренних демонов, и позволяет путешествовать, оседлав ветер, очень утончённо.</Desc>
+    </Text>
+  </List>
+</Texts>

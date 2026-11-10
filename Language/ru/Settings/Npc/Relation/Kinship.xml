@@ -1,0 +1,64 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Spouse">
+			<DisplayNameF>Жена</DisplayNameF>
+			<DisplayNameM>Муж</DisplayNameM>
+		</Text>
+		<Text Name="Child">
+			<DisplayNameF>Дочь</DisplayNameF>
+			<DisplayNameM>Сын</DisplayNameM>
+		</Text>
+		<Text Name="Brother">
+			<DisplayNameF>Старшая сестра, Младшая сестра</DisplayNameF>
+			<DisplayNameM>Старший брат, Младший брат</DisplayNameM>
+		</Text>
+		<Text Name="Parent">
+			<DisplayNameF>Мать</DisplayNameF>
+			<DisplayNameM>Отец</DisplayNameM>
+		</Text>
+		<Text Name="GodChild">
+			<DisplayNameF>Приёмная дочь</DisplayNameF>
+			<DisplayNameM>Приёмный сын</DisplayNameM>
+		</Text>
+		<Text Name="GodParent">
+			<DisplayNameF>Приёмная мать</DisplayNameF>
+			<DisplayNameM>Приёмный отец</DisplayNameM>
+		</Text>
+		<Text Name="BiaoBrother">
+			<DisplayNameF>Кузина, Кузина</DisplayNameF>
+			<DisplayNameM>Кузен, Кузен</DisplayNameM>
+		</Text>
+		<Text Name="Friend">
+			<DisplayNameF>Подруга</DisplayNameF>
+			<DisplayNameM>Друг</DisplayNameM>
+		</Text>
+		<Text Name="Fancy">
+			<DisplayNameF>Возлюбленная</DisplayNameF>
+			<DisplayNameM>Возлюбленный</DisplayNameM>
+		</Text>
+		<Text Name="FancyFlag">
+			<DisplayNameF>Поклонница</DisplayNameF>
+			<DisplayNameM>Поклонник</DisplayNameM>
+		</Text>
+		<Text Name="Lover">
+			<DisplayNameF>Любовница</DisplayNameF>
+			<DisplayNameM>Любовник</DisplayNameM>
+		</Text>
+		<Text Name="RivalInlove">
+			<DisplayNameF>Чёрная Страсть</DisplayNameF>
+			<DisplayNameM>Чёрная Страсть</DisplayNameM>
+		</Text>
+		<Text Name="PersonalEnemy">
+			<DisplayNameF>Враг</DisplayNameF>
+			<DisplayNameM>Враг</DisplayNameM>
+		</Text>
+		<Text Name="Reincarnation">
+			<DisplayNameF>Прошлая жизнь</DisplayNameF>
+			<DisplayNameM>Прошлая жизнь</DisplayNameM>
+		</Text>
+		<Text Name="SYS_LOST">
+			<DisplayNameF>Unknown (Empty)</DisplayNameF>
+			<DisplayNameM>Unknown (Empty)</DisplayNameM>
+		</Text>
+	</List>
+</Texts>

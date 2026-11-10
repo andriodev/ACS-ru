@@ -1,0 +1,25 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="_OnTheWay">
+      <DisplayName>По пути</DisplayName>
+    </Text>
+    <Text Name="_GodOnTheWay">
+      <DisplayName>Бог На Пути</DisplayName>
+    </Text>
+    <Text Name="_InMap">
+      <DisplayName>Область</DisplayName>
+    </Text>
+    <Text Name="_StayFree">
+      <DisplayName>Скитаться в поисках приключений.</DisplayName>
+    </Text>
+    <Text Name="Place_OldSchool">
+      <DisplayName>Древняя Секта</DisplayName>
+    </Text>
+    <Text Name="_TestMap">
+      <DisplayName>По пути</DisplayName>
+    </Text>
+    <Text Name="_LOSTPALCE">
+      <DisplayName>Потерянная Земля (Пустая)</DisplayName>
+    </Text>
+  </List>
+</Texts>

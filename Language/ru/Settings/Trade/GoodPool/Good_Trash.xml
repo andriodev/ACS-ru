@@ -1,0 +1,14 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="Trash">
+      <IVNUMBER.0.ItemExtraInfo.Desc>Эта свинина увеличивает утонченность призрака на 10. Свинина, от которой хочется летать.</IVNUMBER.0.ItemExtraInfo.Desc>
+      <IVNUMBER.1.ItemExtraInfo.Desc>Этот гриб увеличивает утонченность призрака на 10. Вкушая его, вы не только ощущаете Вознесение, но и на самом деле возноситесь (в грядущее Царство).</IVNUMBER.1.ItemExtraInfo.Desc>
+      <IVNUMBER.2.ItemExtraInfo.Desc>Этот платок сделан из звериной шкуры. Никто не может увидеть, что скрыто внутри.</IVNUMBER.2.ItemExtraInfo.Desc>
+      <IVNUMBER.3.ItemExtraInfo.Desc>Этот браслет сделан из священного камня, очень твердого и прочного.</IVNUMBER.3.ItemExtraInfo.Desc>
+      <IVNUMBER.4.ItemExtraInfo.Desc>Этот клинок сделан из ледяной эссенции, такой холодной и яркой, что ослепляет глаза врага.</IVNUMBER.4.ItemExtraInfo.Desc>
+      <IVNUMBER.5.ItemExtraInfo.Desc>Этот топор сделан из огненной эссенции, каждый порез сжигает врага в пепел.</IVNUMBER.5.ItemExtraInfo.Desc>
+      <IVNUMBER.6.ItemExtraInfo.Desc>Эта Кирка сделана из ядра люмины, сущности Вселенной, излучающей силу всех звезд.</IVNUMBER.6.ItemExtraInfo.Desc>
+      <IVNUMBER.7.ItemExtraInfo.Desc>Этот сельскохозяйственный инструмент сделан из темной стали. Это очень, очень, очень дорого!</IVNUMBER.7.ItemExtraInfo.Desc>
+    </Text>
+  </List>
+</Texts>

@@ -1,0 +1,190 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="BodyPratice_BodyRecover">
+      <DisplayName>Скорость самовосстановления физического культиватора</DisplayName>
+      <Desc>Скорость самовосстановления физических культиваторов, когда они были ранены.</Desc>
+      <DisplayValue>{0:P2}/сек</DisplayValue>
+      <FunctionKind>Базовые Характеристики</FunctionKind>
+    </Text>
+    <Text Name="BodyPratice_MaxZhenQi">
+      <DisplayName>Макс Истинная Ци</DisplayName>
+      <Desc>Максимальная истинная Ци физических культиваторов.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="BodyPratice_RecoverZhenQi">
+      <DisplayName>Базовое Значение Скорости Восстановления Истинной Ци</DisplayName>
+      <Desc>Основная скорость восстановления истинной Ци физических культиваторов.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="BodyPratice_DefenseRecoverZhenQi">
+      <DisplayName>Режим Восстановления Истинной Ци Скорость Восстановления</DisplayName>
+      <Desc>Процент истинной Ци, который должен быть восстановлен в секунду, когда истинная Ци физического культиватора исчерпана.</Desc>
+      <FunctionKind>Боевая Статистика</FunctionKind>
+    </Text>
+    <Text Name="BodyPratice_CatchFaboValue">
+      <DisplayName>Скорость потребления подавления</DisplayName>
+      <Desc>Количество дополнительной истинной Ци, которая будет потребляться, когда физический культиватор подавляет артефакт.</Desc>
+      <FunctionKind>Боевая Статистика</FunctionKind>
+    </Text>
+    <Text Name="BodyPratice_BodyStrong">
+      <DisplayName>Сила Тела</DisplayName>
+      <Desc>Способность физического тела культиватора выдерживать повреждения. Чем сильнее тело, тем меньше вероятность того, что оно умрет от травм.</Desc>
+      <FunctionKind>Базовые Характеристики</FunctionKind>
+    </Text>
+    <Text Name="BodyPratice_QuenchingSpeed">
+      <DisplayName>Скорость Изменения</DisplayName>
+      <Desc>Скорость, с которой физические культиваторы переделывают свои тела.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_SuperPartAtk_EquptMaxCount">
+      <DisplayName>Количество Секретных Наступательных Тел</DisplayName>
+      <Desc>Максимальное количество атакующих секретных тел, которые физический культиватор может активировать одновременно.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_SuperPartDef_EquptMaxCount">
+      <DisplayName>Количество Секретных Оборонительных Тел</DisplayName>
+      <Desc>Максимальное количество защитных секретных тел, которые физический культиватор может активировать одновременно.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_SuperPartBuff_EquptMaxCount">
+      <DisplayName>Количество Секретных Эффективных Тел</DisplayName>
+      <Desc>Максимальное количество эффективных секретных тел, которые физический культиватор может активировать одновременно.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_Other_TunaAddp">
+      <DisplayName>Дополнительный Дыхательный Эффект</DisplayName>
+      <Desc>Бонус, применяемый к эффективности физического культиватора в получении сущности от дыхания.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="BodyPratice_SuperPartCostAddP">
+      <DisplayName>Норма Потребления Секретного Тела</DisplayName>
+      <Desc>Бонус применяемый к истинной скорости потребления Ци всех активированных в данный момент секретных тел.</Desc>
+      <FunctionKind>Боевая Статистика</FunctionKind>
+    </Text>
+    <Text Name="BodyPratice_SuperPartRecoverAddP">
+      <DisplayName>Скорость Восстановления Секретного Тела Истинной Ци</DisplayName>
+      <Desc>Бонус применяемый к истинной скорости восстановления Ци всех активированных в данный момент секретных тел.</Desc>
+      <FunctionKind>Боевая Статистика</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_SuperPartAddp_AtkPower">
+      <DisplayName>Глобальная Сила Тайного Тела</DisplayName>
+      <Desc>Бонус применяемый к силе всех активированных в данный момент секретных тел.</Desc>
+      <FunctionKind>Боевая Статистика</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_SuperPartAddp_DefPower">
+      <DisplayName>Глобальная Выносливость Секретного Тела</DisplayName>
+      <Desc>Бонус применяемый к выносливости всех активированных в данный момент секретных тел.</Desc>
+      <FunctionKind>Боевая Статистика</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_SuperPartAddp_AtkRate">
+      <DisplayName>Глобальная Точность Секретного Тела</DisplayName>
+      <Desc>Бонус применяемый к точности атаки всех активированных в данный момент секретных тел.</Desc>
+      <FunctionKind>Боевая Статистика</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_SuperPartAddp_DefRate">
+      <DisplayName>Глобальная Степень Защиты Секретного Тела</DisplayName>
+      <Desc>Бонус применяемый к уровню успеха защиты всех активированных в данный момент секретных органов.</Desc>
+      <FunctionKind>Боевая Статистика</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_SuperPartAddp_ArmorPenetration">
+      <DisplayName>Глобальное Проникновение Секретного Тела</DisplayName>
+      <Desc>Бонус применяемый к проникновению барьера Ци во все активированные в данный момент секретные тела.</Desc>
+      <FunctionKind>Боевая Статистика</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_SuperPartAddp_CatchFabao">
+      <DisplayName>Глобальное Подавление Секретного Тела</DisplayName>
+      <Desc>Бонус применяемый к шансу подавления артефакта всех активированных в данный момент секретных тел.</Desc>
+      <FunctionKind>Боевая Статистика</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_SuperPartAddv_AtkPower">
+      <DisplayName>Глобальная Сила Тайного Тела</DisplayName>
+      <Desc>Бонусное значение применяемое к силе всех активированных в данный момент секретных тел.</Desc>
+      <FunctionKind>Боевая Статистика</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_SuperPartAddv_DefPower">
+      <DisplayName>Глобальная Выносливость Секретного Тела</DisplayName>
+      <Desc>Бонусное значение применяемое к выносливости всех активированных в данный момент секретных тел.</Desc>
+      <FunctionKind>Боевая Статистика</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_SuperPartAddv_AtkRate">
+      <DisplayName>Глобальная Точность Секретного Тела</DisplayName>
+      <Desc>Бонусное значение применяемое к точности атаки всех активированных в данный момент секретных тел.</Desc>
+      <FunctionKind>Боевая Статистика</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_SuperPartAddv_DefRate">
+      <DisplayName>Глобальная Степень Защиты Секретного Тела</DisplayName>
+      <Desc>Бонусное значение применяемое к уровню успеха защиты всех активированных в данный момент секретных органов.</Desc>
+      <FunctionKind>Боевая Статистика</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_SuperPartAddv_ArmorPenetration">
+      <DisplayName>Глобальное Проникновение Секретного Тела</DisplayName>
+      <Desc>Бонусное значение применяемое к проникновению барьера Ци во все активированные в данный момент секретные тела.</Desc>
+      <FunctionKind>Боевая Статистика</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_SuperPartAddv_CatchFabao">
+      <DisplayName>Глобальное Подавление Секретного Тела</DisplayName>
+      <Desc>Бонусное значение применяемое к шансу подавления артефакта всех активированных в данный момент секретных тел.</Desc>
+      <FunctionKind>Боевая Статистика</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_AngerFireNum">
+      <DisplayName>Макс Болезненные Воспоминания</DisplayName>
+      <Desc>Максимальное количество воспоминаний физические культиваторы могут запомнить как свои болезненные воспоминания.</Desc>
+      <FunctionKind>Боевая Статистика</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_AngerFireDuration">
+      <DisplayName>Яростный Берсерк Продолжительность</DisplayName>
+      <Desc>Длительное время яростного Берсерка, когда физический культиватор инициирует его.</Desc>
+      <DisplayValue>{0:N} сек</DisplayValue>
+      <FunctionKind>Боевая Статистика</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_AngerFireEffectAddp">
+      <DisplayName>Яростный Берсерк Множитель Эффекта</DisplayName>
+      <Desc>Эффективная сила яростного Берсерка, когда физический культиватор инициирует его.</Desc>
+      <FunctionKind>Боевая Статистика</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_EatItemMaxRate">
+      <DisplayName>Максимальный Уровень Пожирания Предметов</DisplayName>
+      <Desc>Самый высокий уровень предметов, которые могут пожирать физические культиваторы.</Desc>
+      <DisplayValue>Уровень {0:N}</DisplayValue>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_EatItemProduceCountAddp">
+      <DisplayName>Бонус к сумме поглощения</DisplayName>
+      <Desc>Бонусный процент применяемый к количеству эссенции, полученной физическими культиваторами после поглощения предметов.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_EatItemProduceRateAddp">
+      <DisplayName>Бонус к пожиранию раритета</DisplayName>
+      <Desc>Бонусный процент, применяемый к шансу получения редкой эссенции физическими культиваторами после поглощения предметов.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_RollAddtion_Cache1">
+      <DisplayName>Бонус к переделке необычайно</DisplayName>
+      <Desc>Бонусный шанс необычного направления эволюции возникает, когда физический культиватор перестраивается.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_RollAddtion_Cache2">
+      <DisplayName>Бонус к переделке редкого</DisplayName>
+      <Desc>Бонусный шанс редкого направления эволюции возникает, когда физический культиватор перестраивается.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_RollAddtion_Cache3">
+      <DisplayName>Бонус к переделке превосходного</DisplayName>
+      <Desc>Бонусный шанс превосходного направления эволюции возникает, когда физический культиватор перестраивается.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_RollAddtion_Cache4">
+      <DisplayName>Бонус к перековке эпического</DisplayName>
+      <Desc>Бонусный шанс эпического направления эволюции возникает, когда физический культиватор перестраивается.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="BodyPractice_RollAddtion_Null">
+      <DisplayName>Бонус К Шансу На Неудачу При Переделке</DisplayName>
+    </Text>
+    <Text Name="BodyPractice_MaxFoodAddtion">
+      <DisplayName>Максимальный Голодный Бонус</DisplayName>
+      <Desc>Максимальный голодный бонус физического культиватора</Desc>
+      <FunctionKind>Базовые Характеристики</FunctionKind>
+    </Text>
+  </List>
+</Texts>

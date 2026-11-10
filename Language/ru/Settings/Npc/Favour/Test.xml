@@ -1,0 +1,282 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>[Empty]</DisplayName>
+			<Desc>Эта благодать утрачена, как и вся информация о ней. (Пусто).</Desc>
+		</Text>
+		<Text Name="Opinion">
+			<DisplayName>Мнение</DisplayName>
+			<Desc>Специальный знак благосклонности, используемый при сортировке различных мнений.</Desc>
+		</Text>
+		<Text Name="Distrust">
+			<DisplayName>Отозвано</DisplayName>
+			<Desc>Этим миром правит прибыль и стремление к ней. Я никому не доверяю.</Desc>
+		</Text>
+		<Text Name="Enthusiasm">
+			<DisplayName>Дружелюбный</DisplayName>
+			<Desc>Наша встреча была предопределена. Мы все хорошие друзья!</Desc>
+		</Text>
+		<Text Name="BeReceived">
+			<DisplayName>Возлюбленный</DisplayName>
+			<Desc>[HENAME] он харизматичен и всегда был хорошо признан окружающими.</Desc>
+		</Text>
+		<Text Name="BeTrueMan">
+			<DisplayName>Хорошо Разбирается</DisplayName>
+			<Desc>Другие придерживаются [HENAME] в области их реального жизненного опыта.</Desc>
+		</Text>
+		<Text Name="Loyal">
+			<DisplayName>Галантный</DisplayName>
+			<Desc>[HENAME] обладает сильным чувством справедливости и становится хорошим другом.</Desc>
+		</Text>
+		<Text Name="BeiGuoXia">
+			<DisplayName>Козёл отпущения</DisplayName>
+			<Desc>[HENAME] часто берет на себя вину за других, зарабатывая любовь своих сверстников.</Desc>
+		</Text>
+		<Text Name="DongShiZhang">
+			<DisplayName>Босс</DisplayName>
+			<Desc>[HENAME], все в порядке, это наш босс!</Desc>
+		</Text>
+		<Text Name="HaoShuang">
+			<DisplayName>По-рыцарски</DisplayName>
+			<Desc>Справедливый сердцем и благородный по натуре, [HENAME] внушает дружбу окружающим!</Desc>
+		</Text>
+		<Text Name="BeginTogether">
+			<DisplayName>Странник</DisplayName>
+			<Desc>[HENAME] путешествовал по землям рядом со мной.</Desc>
+		</Text>
+		<Text Name="Charisma0">
+			<Desc>Преимущество Харизмы 0</Desc>
+			<Layers.0.DisplayName>Противный</Layers.0.DisplayName>
+			<Layers.0.Desc>Почему такие люди, как [HENAME], должны существовать...</Layers.0.Desc>
+			<Layers.1.DisplayName>Недобрый</Layers.1.DisplayName>
+			<Layers.1.Desc>Это тяжелая работа-пытаться ладить с [HENAME].</Layers.1.Desc>
+			<Layers.2.DisplayName>Сдержанный</Layers.2.DisplayName>
+			<Layers.2.Desc>Несмотря на то, что он не очень хорошо ладит с другими, [HENAME] действительно хороший человек.</Layers.2.Desc>
+		</Text>
+		<Text Name="Charisma1">
+			<Desc>Преимущество Харизмы 1</Desc>
+			<Layers.0.DisplayName>Лицемер</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME] - мошенник, поступающий весьма высокомерно.</Layers.0.Desc>
+			<Layers.1.DisplayName>Культурный</Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] кажется хорошим человеком.</Layers.1.Desc>
+			<Layers.2.DisplayName>Внимательный</Layers.2.DisplayName>
+			<Layers.2.Desc>С [HENAME] легко ладить, потому что он такой внимательный.</Layers.2.Desc>
+		</Text>
+		<Text Name="Charisma2">
+			<Desc>Преимущество Харизмы 2</Desc>
+			<Layers.0.DisplayName>Благородный</Layers.0.DisplayName>
+			<Layers.0.Desc>Терпеть не могу [HENAME], но он доблестен, это правда.</Layers.0.Desc>
+			<Layers.1.DisplayName>Лихой</Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] кажется таким изысканным и стильным.</Layers.1.Desc>
+			<Layers.2.DisplayName>Луч солнца</Layers.2.DisplayName>
+			<Layers.2.Desc>Ладить с [HENAME] - это действительно радость. Это маленький лучик солнца и отличный друг.</Layers.2.Desc>
+		</Text>
+		<Text Name="Relative">
+			<Desc>[HENAME] мой [TXT].</Desc>
+		</Text>
+		<Text Name="Practice">
+			<Desc>[HENAME] мой [TXT].</Desc>
+		</Text>
+		<Text Name="PracticeOther">
+			<Desc>[HENAME] мой [TXT].</Desc>
+		</Text>
+		<Text Name="Family">
+			<Desc>[HENAME] мой [TXT].</Desc>
+		</Text>
+		<Text Name="Friend">
+			<Desc>Преимущество Дружбы 2</Desc>
+			<Layers.0.DisplayName>Друг</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME] - мой друг, хотя в последнее время у нас были проблемы.</Layers.0.Desc>
+			<Layers.1.DisplayName>Друг</Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] - мой хороший друг.</Layers.1.Desc>
+			<Layers.2.DisplayName>Верный Друг</Layers.2.DisplayName>
+			<Layers.2.Desc>[HENAME] мой верный друг.</Layers.2.Desc>
+		</Text>
+		<Text Name="Scar">
+			<DisplayName>Шрам</DisplayName>
+			<Desc>[HENAME] имеет неприятный шрам на лице.</Desc>
+		</Text>
+		<Text Name="Fancy">
+			<DisplayName>Привлекательность</DisplayName>
+			<Desc>Привлекательность</Desc>
+			<Layers.0.DisplayName>Привлекательность</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME]... * Вздох*.</Layers.0.Desc>
+			<Layers.1.DisplayName>Привлекательность</Layers.1.DisplayName>
+		</Text>
+		<Text Name="Lover">
+			<DisplayName>Любовник</DisplayName>
+			<Desc>[HENAME] мой любовник.</Desc>
+		</Text>
+		<Text Name="VisceralScar">
+			<DisplayName>Ужасный Шрам</DisplayName>
+			<Desc>У [HENAME] на теле ужасный шрам, на который больно смотреть.</Desc>
+		</Text>
+		<Text Name="Evilfaced">
+			<DisplayName>Непривлекательный</DisplayName>
+			<Desc>[HENAME] просто уродлив, совсем не радует глаз.</Desc>
+		</Text>
+		<Text Name="BeautifulFace">
+			<DisplayName>Красивый</DisplayName>
+			<Desc>[HENAME] - истинная красавица, распространяющая счастье одним своим видом.</Desc>
+		</Text>
+		<Text Name="Cruel">
+			<DisplayName>Бесцеремонный</DisplayName>
+			<Desc>Поведение [HENAME] по отношению к другим просто ужасно, я этого не выношу.</Desc>
+		</Text>
+		<Text Name="Affinity">
+			<DisplayName>Приятный</DisplayName>
+			<Desc>[HENAME] - такой приветливый и гостеприимный человек, что позволяет другим легко сблизиться с ним.</Desc>
+		</Text>
+		<Text Name="SayHi">
+			<DisplayName>Приветствие</DisplayName>
+			<Desc>[HENAME] и я обменялись приветствием.</Desc>
+		</Text>
+		<Text Name="AfterTalk">
+			<DisplayName>Беседа</DisplayName>
+			<Desc>Я поболтал с [HENAME], это было довольно здорово.</Desc>
+		</Text>
+		<Text Name="DeepTalk">
+			<DisplayName>Разговор по душам</DisplayName>
+			<Desc>У меня был задушевный разговор с [HENAME]. Между нами установилась настоящая связь, и я думаю, что это сблизило нас.</Desc>
+		</Text>
+		<Text Name="Neglect">
+			<DisplayName>Холодный прием</DisplayName>
+			<Desc>Я что-то сказал [HENAME] но меня даже не заметили. В любом случае, мне все равно. Что угодно.</Desc>
+		</Text>
+		<Text Name="Quarrel">
+			<DisplayName>Ссора</DisplayName>
+			<Desc>У меня были некоторые разногласия с [HENAME]. Они не знают, о чем говорят, это хуже всего.</Desc>
+		</Text>
+		<Text Name="Insult">
+			<DisplayName>Униженный</DisplayName>
+			<Desc>[HENAME] и я обменялись оскорблениями. Я действительно не могу вынести одного их вида, идиот.</Desc>
+		</Text>
+		<Text Name="SayHiFight">
+			<DisplayName>Бой</DisplayName>
+			<Desc>Я вел светскую беседу с [HENAME], но по какой-то причине все стало напряженным, и мы начали ссориться. Какой беспорядок.</Desc>
+		</Text>
+		<Text Name="AfterTalkFight">
+			<DisplayName>Бой</DisplayName>
+			<Desc>У меня был разговор с [TXT], и мы закончили тем, что поссорились без всякой реальной причины.</Desc>
+		</Text>
+		<Text Name="DeepTalkFight">
+			<DisplayName>Бой</DisplayName>
+			<Desc>Я открыл свое сердце [HENAME], но мы вступили в жаркий спор и даже закончили тем, что подрались. Это такой позор.</Desc>
+		</Text>
+		<Text Name="NeglectFight">
+			<DisplayName>Бой</DisplayName>
+			<Desc>Я начал говорить с [HENAME], но они обиделись на то, что я сказал, и мы просто подрались друг с другом.</Desc>
+		</Text>
+		<Text Name="QuarrelFight">
+			<DisplayName>Бой</DisplayName>
+			<Desc>У меня была ссора с [TXT], которую можно было разрешить только кулаками.</Desc>
+		</Text>
+		<Text Name="InsultFight">
+			<DisplayName>Бой</DisplayName>
+			<Desc>Я обменялся оскорблениями с [HENAME]. Воинствующему идиоту надо было преподать урок, причем с моими кулаками.</Desc>
+		</Text>
+		<Text Name="WithYoung">
+			<Desc>Отношение к молодому поколению.</Desc>
+			<Layers.0.DisplayName>Грубость по отношению к старшим</Layers.0.DisplayName>
+			<Layers.0.Desc>Я думаю, что [HENAME] - абсолютная крыса.</Layers.0.Desc>
+			<Layers.1.DisplayName>Нежный</Layers.1.DisplayName>
+			<Layers.1.Desc>Я думаю, что [HENAME] все еще просто ребенок.</Layers.1.Desc>
+			<Layers.2.DisplayName>Молодой Потенциал</Layers.2.DisplayName>
+			<Layers.2.Desc>Я думаю, что [HENAME] показывает многообещающее.</Layers.2.Desc>
+		</Text>
+		<Text Name="WithElder">
+			<Desc>Отношение к старшим.</Desc>
+			<Layers.0.DisplayName>Мятежный</Layers.0.DisplayName>
+			<Layers.0.Desc>Мне не нравится быть рядом с [HENAME], это заставляет меня чувствовать себя неловко.</Layers.0.Desc>
+			<Layers.1.DisplayName>Уважает Старших</Layers.1.DisplayName>
+			<Layers.1.Desc>Я считаю, что к [HENAME] следует относиться уважительно, учитывая их возраст.</Layers.1.Desc>
+			<Layers.2.DisplayName>Благоговение</Layers.2.DisplayName>
+			<Layers.2.Desc>Я высоко ценю [HENAME].</Layers.2.Desc>
+		</Text>
+		<Text Name="RivalInlove">
+			<Desc>Любовный Соперник</Desc>
+			<Layers.0.DisplayName>Отвращение</Layers.0.DisplayName>
+			<Layers.0.Desc>О, если бы я мог просто засунуть клинок в [HENAME] и покончить с этим.</Layers.0.Desc>
+			<Layers.1.DisplayName>Сочувствие</Layers.1.DisplayName>
+			<Layers.1.Desc>Я думаю, что [HENAME] и я во многом похожи.</Layers.1.Desc>
+		</Text>
+		<Text Name="PersonalEnemyBegin">
+			<DisplayName>Ненависть</DisplayName>
+			<Desc>Я не могу даже находиться в одной комнате с [HENAME].</Desc>
+		</Text>
+		<Text Name="FeatureOpposition">
+			<DisplayName>На Плохих Условиях</DisplayName>
+			<Desc>Значит, вот какой [HE] человек. Я презираю [HE]. ([TXT])</Desc>
+		</Text>
+		<Text Name="FeatureClose">
+			<DisplayName>Закрывать</DisplayName>
+			<Desc>Мне нравятся такие люди, как [HE]. Мы сделаны из одного теста.  ([TXT])</Desc>
+		</Text>
+		<Text Name="SameBackstory">
+			<DisplayName>Точки Соприкосновения</DisplayName>
+			<Desc>У нас много общего опыта ([TXT]).</Desc>
+		</Text>
+		<Text Name="FeedGood">
+			<DisplayName>Заботиться</DisplayName>
+			<Desc>Спасибо, что присматриваешь за мной.</Desc>
+		</Text>
+		<Text Name="FeedBad">
+			<DisplayName>Что это?</DisplayName>
+			<Desc>Чем ты пытаешься меня накормить?</Desc>
+		</Text>
+		<Text Name="ThankTreat">
+			<DisplayName>Лечить</DisplayName>
+			<Desc>Спасибо, что помог мне исцелиться.</Desc>
+		</Text>
+		<Text Name="ThankHufa">
+			<DisplayName>Охрана</DisplayName>
+			<Desc>Спасибо, учитель.</Desc>
+		</Text>
+		<Text Name="BeAttack">
+			<DisplayName>Под Атакой</DisplayName>
+			<Desc>Ты пытаешься убить меня?</Desc>
+		</Text>
+		<Text Name="BeMagicBood">
+			<DisplayName>Признательность</DisplayName>
+			<Desc>Спасибо вам за все, что вы для меня сделали.</Desc>
+		</Text>
+		<Text Name="BeMagicBad">
+			<DisplayName>Поврежденный</DisplayName>
+			<Desc>Что ты только что со мной сделал?</Desc>
+		</Text>
+		<Text Name="AmuseME">
+			<DisplayName>Довольный</DisplayName>
+			<Desc>[HENAME] - настоящая бочка смеха.</Desc>
+		</Text>
+		<Text Name="PersonalEnemy">
+			<DisplayName>Ненависть</DisplayName>
+			<Desc>[HENAME] убит [TXT].</Desc>
+		</Text>
+		<Text Name="MagicBad">
+			<DisplayName>Поврежденный</DisplayName>
+			<Desc>Свидетель [HENAME] причинения вреда [TXT].</Desc>
+		</Text>
+		<Text Name="MagicGood">
+			<DisplayName>Признательность</DisplayName>
+			<Desc>Свидетель [HENAME], использующий магию против [TXT].</Desc>
+		</Text>
+		<Text Name="BeDeclaration">
+			<Layers.0.DisplayName>Заявляйте О Своих Чувствах</Layers.0.DisplayName>
+			<Layers.0.Desc>[HENAME] признался в своих чувствах ко мне, ха-ха.</Layers.0.Desc>
+			<Layers.1.DisplayName>Заявляйте О Своих Чувствах</Layers.1.DisplayName>
+			<Layers.1.Desc>[HENAME] рассказал мне о своих чувствах ко мне. Мое сердце бешено колотится.</Layers.1.Desc>
+		</Text>
+		<Text Name="Favour_School_FiveTangZhu">
+			<DisplayName>Презрение</DisplayName>
+			<Desc>Как может [HENAME] действовать в качестве лидера филиала с такой производительностью?</Desc>
+		</Text>
+		<Text Name="Favour_School_ZhangMen">
+			<DisplayName>Лидер Секты</DisplayName>
+			<Desc>[HENAME] Лидер нашей секты.</Desc>
+		</Text>
+		<Text Name="Favour_School_TangZhu">
+			<DisplayName>Руководитель Филиала</DisplayName>
+			<Desc>[HENAME] Руководитель нашего Филиала.</Desc>
+		</Text>
+	</List>
+</Texts>

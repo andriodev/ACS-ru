@@ -1,0 +1,28 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Farm">
+			<DisplayName>Поле</DisplayName>
+			<Desc>Сельскохозяйственные угодья в мире смертных. Производит пшеницу.</Desc>
+		</Text>
+		<Text Name="Mine">
+			<DisplayName>Шахта</DisplayName>
+			<Desc>Шахта в царстве смертных. Производит бурый камень.</Desc>
+		</Text>
+		<Text Name="Lumber">
+			<DisplayName>Лесозаготовительный лагерь</DisplayName>
+			<Desc>Лесные лагеря в царстве смертных. Производит древесину.</Desc>
+		</Text>
+		<Text Name="LingMine">
+			<DisplayName>Шахта Камня Духа</DisplayName>
+			<Desc>Камни духов копают в царстве смертных. Производит духовные камни.</Desc>
+		</Text>
+		<Text Name="Statue">
+			<DisplayName>Статуя</DisplayName>
+			<Desc>Статуя божества. После постройки, если ученик Шендао построил Храм Чудес в Божественном Царстве, вы можете назначить ученика одержимым здесь.</Desc>
+		</Text>
+		<Text Name="Arena">
+			<DisplayName>Додзё</DisplayName>
+			<Desc>Додзё. После постройки это место может быть использовано для практики учениками, находящимися здесь в гарнизоне.</Desc>
+		</Text>
+	</List>
+</Texts>

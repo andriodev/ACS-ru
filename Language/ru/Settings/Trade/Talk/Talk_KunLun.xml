@@ -1,0 +1,9 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="Talk_KunLun">
+      <Submiss.0>Сожалею об этом. Скажи мне, почему ты здесь.</Submiss.0>
+      <GiftLike.0>Я думал, что у меня нет привязанности к миру смертных, но, видя это, я все еще чувствовал себя счастливым и облегченным.</GiftLike.0>
+      <LowValueGift.0>Это совершенно бесполезно.</LowValueGift.0>
+    </Text>
+  </List>
+</Texts>

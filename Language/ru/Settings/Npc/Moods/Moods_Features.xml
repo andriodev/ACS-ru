@@ -1,0 +1,24 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name = "Optimistic">
+			<DisplayName> Оптимизм </DisplayName>
+			<Desc> Дела как всегда идут в гору, не так ли? </Desc>
+			<StoryDesc> Чувсвуется оптимистичность, как всегда </StoryDesc>
+		</Text>
+		<Text Name = "Pessimism">
+			<DisplayName> Пессимизм </DisplayName>
+			<Desc> В мире царит хаос, надо продолжать жить... чтобы страдать? </Desc>
+			<StoryDesc> Чувсвуется пессимистичность, как всегда </StoryDesc>
+		</Text>
+		<Text Name = "Depressed">
+			<DisplayName> Депрессия </DisplayName>
+			<Desc> Всё бесполезно... бессмысленно... </Desc>
+			<StoryDesc> Выглядит подавленно, как обычно </StoryDesc>
+		</Text>
+		<Text Name = "Regret">
+			<DisplayName> Сожаления </DisplayName>
+			<Desc> Я очень сожалею, что ...... не стоило делать этого тогда. Просто позвольте мне до конца жизни погрязнуть в боли и этим искупить свою вину. </Desc>
+			<StoryDesc> Как всегда, мучается угрызениями совести </StoryDesc>
+		</Text>
+	</List>
+</Texts>

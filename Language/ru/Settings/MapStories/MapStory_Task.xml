@@ -1,0 +1,9 @@
+﻿<Texts Type="Story">
+	<List>
+		<Text Name="Sup">
+			<DisplayName>Внедрение</DisplayName>
+			<Desc>Внедрить</Desc>
+			<Selections.0.Display>Ничего не произошло...</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>

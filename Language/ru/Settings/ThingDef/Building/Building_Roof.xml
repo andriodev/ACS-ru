@@ -1,0 +1,27 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="CaveRoof" sParam="Building">
+      <ThingName>Потолок Пещеры</ThingName>
+    </Text>
+    <Text Name="YaoRoof" sParam="Building">
+      <Desc>Крыша. Просто украшение, которое никак не влияет на Фэн-Шуй.</Desc>
+      <ThingName>Крыша</ThingName>
+    </Text>
+    <Text Name="WoodRoof" sParam="Building">
+      <ThingName>Крыша</ThingName>
+      <Desc>Крыша. Просто украшение, которое никак не влияет на Фэн-Шуй.</Desc>
+    </Text>
+    <Text Name="StoneRoof" sParam="Building">
+      <ThingName>Крыша</ThingName>
+      <Desc>Крыша. Просто украшение, которое никак не влияет на Фэн-Шуй.</Desc>
+    </Text>
+    <Text Name="WoodRoof_SpringFestival" sParam="Building">
+      <ThingName>Крыша (Пружинная)</ThingName>
+      <Desc>Специальная крыша для весеннего праздника. Просто украшение, которое никак не влияет на Фэн-Шуй.</Desc>
+    </Text>
+    <Text Name="StoneRoof_SpringFestival" sParam="Building">
+      <ThingName>Крыша (Фестиваль)</ThingName>
+      <Desc>Специальная крыша для весеннего праздника. Просто украшение, которое никак не влияет на Фэн-Шуй.</Desc>
+    </Text>
+  </List>
+</Texts>

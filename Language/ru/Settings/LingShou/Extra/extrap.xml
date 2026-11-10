@@ -1,0 +1,94 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="Fat">
+      <RaceExtra.0.Lv.0.SName>Тощий</RaceExtra.0.Lv.0.SName>
+      <RaceExtra.0.Lv.0.Desc>Выглядит очень худым. Скорость передвижения значительно увеличивается.</RaceExtra.0.Lv.0.Desc>
+      <RaceExtra.0.Lv.1.SName>Тощий</RaceExtra.0.Lv.1.SName>
+      <RaceExtra.0.Lv.1.Desc>Выглядит немного тощим. Скорость передвижения немного увеличена.</RaceExtra.0.Lv.1.Desc>
+      <RaceExtra.0.Lv.2.SName>Стройный</RaceExtra.0.Lv.2.SName>
+      <RaceExtra.0.Lv.2.Desc>Ни избыточного, ни недостаточного веса.</RaceExtra.0.Lv.2.Desc>
+      <RaceExtra.0.Lv.3.SName>Полный</RaceExtra.0.Lv.3.SName>
+      <RaceExtra.0.Lv.3.Desc>Похоже, несколько фунтов набираются. Максимальная Ци немного увеличилась, но скорость движения также уменьшилась.</RaceExtra.0.Lv.3.Desc>
+      <RaceExtra.0.Lv.4.SName>Тучный</RaceExtra.0.Lv.4.SName>
+      <RaceExtra.0.Lv.4.Desc>Похоже, началось ожирение. Максимальная Ци значительно увеличилась, но скорость движения также значительно снизилась.</RaceExtra.0.Lv.4.Desc>
+    </Text>
+    <Text Name="Stronger">
+      <RaceExtra.0.Lv.0.SName>Костлявый</RaceExtra.0.Lv.0.SName>
+      <RaceExtra.0.Lv.0.Desc>Кожу и кости, мышцы трудно найти, но время восстановления заклинаний значительно уменьшилось.</RaceExtra.0.Lv.0.Desc>
+      <RaceExtra.0.Lv.1.SName>Костлявый</RaceExtra.0.Lv.1.SName>
+      <RaceExtra.0.Lv.1.Desc>На этих костях не так много мышц, но в результате перезарядка заклинаний немного уменьшилась.</RaceExtra.0.Lv.1.Desc>
+      <RaceExtra.0.Lv.2.SName>Средний</RaceExtra.0.Lv.2.SName>
+      <RaceExtra.0.Lv.2.Desc>Не сильный, но и не костлявый.</RaceExtra.0.Lv.2.Desc>
+      <RaceExtra.0.Lv.3.SName>Сильный</RaceExtra.0.Lv.3.SName>
+      <RaceExtra.0.Lv.3.Desc>Похоже, он в хорошей форме, внутреннее ядро немного улучшилось.</RaceExtra.0.Lv.3.Desc>
+      <RaceExtra.0.Lv.4.SName>Здоровый</RaceExtra.0.Lv.4.SName>
+      <RaceExtra.0.Lv.4.Desc>Выглядит чрезвычайно здоровым, с хорошим телосложением. Внутреннее ядро значительно улучшилось.</RaceExtra.0.Lv.4.Desc>
+    </Text>
+    <Text Name="Justice">
+      <RaceExtra.0.Lv.0.SName>Злобный</RaceExtra.0.Lv.0.SName>
+      <RaceExtra.0.Lv.0.Desc>Он полон Проклятия. Сила барьера значительно уменьшается, в то время как сила заклинаний и внутренняя сила атаки ядра значительно увеличиваются.</RaceExtra.0.Lv.0.Desc>
+      <RaceExtra.0.Lv.1.SName>Злобный</RaceExtra.0.Lv.1.SName>
+      <RaceExtra.0.Lv.1.Desc>В некотором роде проклят. Сила барьера немного уменьшается, в то время как сила заклинаний и внутренняя сила атаки ядра немного увеличиваются.</RaceExtra.0.Lv.1.Desc>
+      <RaceExtra.0.Lv.2.SName>Нейтральный</RaceExtra.0.Lv.2.SName>
+      <RaceExtra.0.Lv.2.Desc>Не похоже, чтобы он был заметно благословлен или проклят.</RaceExtra.0.Lv.2.Desc>
+      <RaceExtra.0.Lv.3.SName>Освященный</RaceExtra.0.Lv.3.SName>
+      <RaceExtra.0.Lv.3.Desc>Слегка благословлен. Сила барьера немного увеличивается, в то время как сила заклинаний и внутренняя сила атаки ядра уменьшаются.</RaceExtra.0.Lv.3.Desc>
+      <RaceExtra.0.Lv.4.SName>Освященный</RaceExtra.0.Lv.4.SName>
+      <RaceExtra.0.Lv.4.Desc>Благословлен насколько это возможно. Сила барьера значительно увеличивается, в то время как сила заклинаний и внутренняя сила атаки ядра значительно уменьшаются.</RaceExtra.0.Lv.4.Desc>
+			<RaceExtra.1.Lv.0.SName>Великое проклятие</RaceExtra.1.Lv.0.SName>
+			<RaceExtra.1.Lv.0.Desc>Великое проклятие: Значительно снижает силу барьера, при этом значительно увеличивая силу заклинаний и основную силу атаки. Значительно увеличивает скорость потребления пищи и воды, при этом значительно снижая скорость поглощения пищи.</RaceExtra.1.Lv.0.Desc>
+			<RaceExtra.1.Lv.1.SName>Среднее проклятие</RaceExtra.1.Lv.1.SName>
+			<RaceExtra.1.Lv.1.Desc>Среднее проклятие: Немного снижает силу барьера, одновременно немного увеличивая силу заклинаний и основную силу атаки. Увеличивает скорость потребления пищи и воды, одновременно снижая скорость поглощения пищи.</RaceExtra.1.Lv.1.Desc>
+			<RaceExtra.1.Lv.2.SName>Малое проклятие</RaceExtra.1.Lv.2.SName>
+			<RaceExtra.1.Lv.2.Desc>Слабое чувство проклятия.</RaceExtra.1.Lv.2.Desc>
+			<RaceExtra.1.Lv.3.SName>Малое благословение</RaceExtra.1.Lv.3.SName>
+			<RaceExtra.1.Lv.3.Desc>Слабое чувство благословения.</RaceExtra.1.Lv.3.Desc>
+			<RaceExtra.1.Lv.4.SName>Среднее благословение</RaceExtra.1.Lv.4.SName>
+			<RaceExtra.1.Lv.4.Desc>Среднее благословение: Слегка увеличивает силу барьера, одновременно снижая силу заклинаний и основную силу атаки. Снижает скорость потребления пищи и воды, увеличивая при этом скорость поглощения пищи.</RaceExtra.1.Lv.4.Desc>
+			<RaceExtra.1.Lv.5.SName>Великое благословение</RaceExtra.1.Lv.5.SName>
+			<RaceExtra.1.Lv.5.Desc>Великое благословение: Значительно увеличивает силу барьера, при этом значительно снижая силу заклинаний и основную силу атаки. Значительно снижает скорость потребления пищи и воды, при этом значительно увеличивая скорость поглощения пищи.</RaceExtra.1.Lv.5.Desc>
+    </Text>
+    <Text Name="NeiDan">
+      <RaceExtra.0.Lv.2.SpecialAbility.0.Desc>При атаке на само тело противника есть 1% шанс нанести дополнительный урон, равный 30% Ци текущей цели.</RaceExtra.0.Lv.2.SpecialAbility.0.Desc>
+      <RaceExtra.1.Lv.2.SpecialAbility.0.Desc>Каждая 9-я атака будет накладывать заклинание на целевого врага.</RaceExtra.1.Lv.2.SpecialAbility.0.Desc>
+    </Text>
+    <Text Name="GrowPercent">
+      <RaceExtra.0.Lv.0.SName>Речной Дракон</RaceExtra.0.Lv.0.SName>
+      <RaceExtra.0.Lv.0.Desc>Обладает небольшой частью полной силы дракона.</RaceExtra.0.Lv.0.Desc>
+      <RaceExtra.0.Lv.1.SName>Речной Дракон</RaceExtra.0.Lv.1.SName>
+      <RaceExtra.0.Lv.1.Desc>Обладает частью полной силы дракона.</RaceExtra.0.Lv.1.Desc>
+      <RaceExtra.0.Lv.2.SName>Речной Дракон</RaceExtra.0.Lv.2.SName>
+      <RaceExtra.0.Lv.2.Desc>Обладает полностью пробужденной силой дракона.</RaceExtra.0.Lv.2.Desc>
+      <RaceExtra.1.Lv.0.SName>Фэнхуан Феникс</RaceExtra.1.Lv.0.SName>
+      <RaceExtra.1.Lv.0.Desc>Обладает небольшой частью полной силы Феникса.</RaceExtra.1.Lv.0.Desc>
+      <RaceExtra.1.Lv.1.SName>Фэнхуан Феникс</RaceExtra.1.Lv.1.SName>
+      <RaceExtra.1.Lv.1.Desc>Обладает частью полной силы Феникса.</RaceExtra.1.Lv.1.Desc>
+      <RaceExtra.1.Lv.2.SName>Фэнхуан Феникс</RaceExtra.1.Lv.2.SName>
+      <RaceExtra.1.Lv.2.Desc>Обладает полностью пробужденной Силой Феникса.</RaceExtra.1.Lv.2.Desc>
+      <RaceExtra.2.Lv.0.SName>Девятихвостая Лиса</RaceExtra.2.Lv.0.SName>
+      <RaceExtra.2.Lv.0.Desc>Обладает небольшой долей полной силы лисы.</RaceExtra.2.Lv.0.Desc>
+      <RaceExtra.2.Lv.1.SName>Девятихвостая Лиса</RaceExtra.2.Lv.1.SName>
+      <RaceExtra.2.Lv.1.Desc>Обладает частью полной силы лисы.</RaceExtra.2.Lv.1.Desc>
+      <RaceExtra.2.Lv.2.SName>Девятихвостая Лиса</RaceExtra.2.Lv.2.SName>
+      <RaceExtra.2.Lv.2.Desc>Обладает полностью пробужденной силой лисы.</RaceExtra.2.Lv.2.Desc>
+      <RaceExtra.3.Lv.0.SName>Собака Тяньгоу</RaceExtra.3.Lv.0.SName>
+      <RaceExtra.3.Lv.0.Desc>Обладает небольшой долей полной силы собаки.</RaceExtra.3.Lv.0.Desc>
+      <RaceExtra.3.Lv.1.SName>Собака Тяньгоу</RaceExtra.3.Lv.1.SName>
+      <RaceExtra.3.Lv.1.Desc>Обладает частью полной силы собаки.</RaceExtra.3.Lv.1.Desc>
+      <RaceExtra.3.Lv.2.SName>Собака Тяньгоу</RaceExtra.3.Lv.2.SName>
+      <RaceExtra.3.Lv.2.Desc>Обладает полностью пробужденной силой собаки.</RaceExtra.3.Lv.2.Desc>
+			<RaceExtra.4.Lv.0.SName>Панда</RaceExtra.4.Lv.0.SName>
+			<RaceExtra.4.Lv.0.Desc>Ущербная Сила Инь Ян</RaceExtra.4.Lv.0.Desc>
+			<RaceExtra.4.Lv.1.SName>Панда</RaceExtra.4.Lv.1.SName>
+			<RaceExtra.4.Lv.1.Desc>Неполная Сила Инь Ян</RaceExtra.4.Lv.1.Desc>
+			<RaceExtra.4.Lv.2.SName>Панда</RaceExtra.4.Lv.2.SName>
+			<RaceExtra.4.Lv.2.Desc>Полностью Пробужденная Сила Инь Ян</RaceExtra.4.Lv.2.Desc>
+      <RaceExtra.5.Lv.0.SName>Черная черепаха</RaceExtra.5.Lv.0.SName>
+      <RaceExtra.5.Lv.0.Desc>Ущербная Сила Черной черепахи</RaceExtra.5.Lv.0.Desc>
+      <RaceExtra.5.Lv.1.SName>Черная черепаха</RaceExtra.5.Lv.1.SName>
+      <RaceExtra.5.Lv.1.Desc>Неполная Сила Черной черепахи</RaceExtra.5.Lv.1.Desc>
+      <RaceExtra.5.Lv.2.SName>Черная черепаха</RaceExtra.5.Lv.2.SName>
+      <RaceExtra.5.Lv.2.Desc>Полностью Пробужденная Сила Черной черепахи</RaceExtra.5.Lv.2.Desc>
+    </Text>
+  </List>
+</Texts>

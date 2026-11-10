@@ -1,0 +1,46 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_SnatchBody">
+			<DisplayName>Обладание Богом Инь</DisplayName>
+		</Text>
+		<Text Name="Gong_LifeBurning">
+			<DisplayName>Горящая Жизнь</DisplayName>
+			<Desc>Увеличивает способности на короткое время за счет повреждения тела, когда оно заканчивается.</Desc>
+		</Text>
+		<Text Name="Gong_DevilBlood">
+			<DisplayName>Демонизация</DisplayName>
+			<Desc>Общайтесь с небесными демонами и полностью демонизируйте свое тело, значительно улучшая физические качества и скорость культивирования. Но отныне и небожители, и смертные будут презирать человека.</Desc>
+		</Text>
+		<Text Name="Gong_DevilBlood_LianHun">
+			<DisplayName>Очищение Души</DisplayName>
+			<Desc>Терпя пытки, душа переносила великие муки.</Desc>
+		</Text>
+		<Text Name="Gong_HunTin_Self">
+			<DisplayName>Расщепление Души</DisplayName>
+			<Desc>В результате расщепления части изначального духа для выполнения заражения души сознание персонажа повреждается. Интеллект, скорость культивирования и скорость получения вдохновения будут немного снижены.</Desc>
+		</Text>
+		<Text Name="Gong_TaHua_Self">
+			<DisplayName>Использованное сострадание</DisplayName>
+			<Desc>Выполняйте технику эксплуатации, чтобы получить вдохновение и развитие от разума других живых существ. Однако это приведет к снижению базовой ценности настроения и психического состояния в результате.</Desc>
+		</Text>
+		<Text Name="Gong_TaHua_Self1">
+			<DisplayName>Использованное сострадание</DisplayName>
+			<Desc>Выполняйте технику эксплуатации, чтобы получить вдохновение и развитие от разума других живых существ. Однако это приведет к снижению базовой ценности настроения и психического состояния в результате.</Desc>
+		</Text>
+		<Text Name="Gong_TianMoWu">
+			<DisplayName>Очарование Небесного демона</DisplayName>
+		</Text>
+		<Text Name="Gong_SoulKeYin">
+			<DisplayName>Отпечаток Разума</DisplayName>
+		</Text>
+		<Text Name="Modifier_GongXinYin_Damage">
+			<DisplayName>Песнь резонанса ответного огня</DisplayName>
+		</Text>
+		<Text Name="WuYinKeShenRestore">
+			<DisplayName>Восстановление Пяти Духовных Отпечатков</DisplayName>
+		</Text>
+		<Text Name="TianMoWuRestore">
+			<DisplayName>Восстановление Танца Небесного Демона</DisplayName>
+		</Text>
+	</List>
+</Texts>

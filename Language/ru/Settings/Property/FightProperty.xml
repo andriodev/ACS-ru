@@ -1,0 +1,138 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="NpcFight_BaseHitChance">
+      <DisplayName>Точность</DisplayName>
+      <Desc>Шанс Внешнего Ученика попасть по противнику.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_BaseDodgeChance">
+      <DisplayName>Уклонение</DisplayName>
+      <Desc>Шанс уклониться от атаки.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_FabaoNum">
+      <DisplayName>Максимум Артефактов</DisplayName>
+      <Desc>Количество Артефактов, которые может нести персонаж.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_FabaoLingRecoverK">
+      <DisplayName>Множитель Пополнения Ци Артефакта</DisplayName>
+      <Desc>Соотношение Ци Артефакта к Ци Персонажа, при восстановлении Ци Артефакта.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_FabaoPowerAddP">
+      <DisplayName>Сила Артефакта</DisplayName>
+      <Desc>Повреждающая способность Артефактов.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_FabaoLingRecoverAddP">
+      <DisplayName>Пополнение Ци Артефакта</DisplayName>
+      <Desc>Скорость восстановления Ци Артефактов.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_FabaoCoolDownAddP">
+      <DisplayName>Скорость Атаки Артефакта</DisplayName>
+      <Desc>Минимальный интервал между атаками Артефактами.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_FabaoMaxLingAddP">
+      <DisplayName>Максимум Ци Артефакта</DisplayName>
+      <Desc>Максимальное количество Ци, которое может содержать Артефакт.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_FabaoRepelDistanceAddV">
+      <DisplayName>Сила Отбрасывания Артефакта</DisplayName>
+      <Desc>Сила отбрасывания при столкновении двух Артефактов.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_FabaoFlySpeedAddP">
+      <DisplayName>Скорость Полёта Артефакта</DisplayName>
+      <Desc>Скорость, с которой летят Артефакты.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_FabaoTurnSpeedAddP">
+      <DisplayName>Скорость Поворота Артефакта</DisplayName>
+      <Desc>Скорость, с которой разворачиваются Артефакты.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_FabaoRepelResistanceAddV">
+      <DisplayName>Сопротивление Отбрасыванию Артефакта</DisplayName>
+      <Desc>Сопротивление отбрасыванию при столкновении двух Артефактов.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_FabaoTrailingLengthAddP">
+      <DisplayName>Длина Следа Артефакта</DisplayName>
+      <Desc>Длина следа, остающегося позади летящего Артефакта.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_SpellPowerAddP">
+      <DisplayName>Сила Заклинаний</DisplayName>
+      <Desc>Множитель Урона заклинаний.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_SpellLingCostAddP">
+      <DisplayName>Стоимость Заклинаний</DisplayName>
+      <Desc>Множитель требуемого количества Ци для сотворения заклинаний.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_SpellCastTimeAddP">
+      <DisplayName>Время Подготовки Заклинаний</DisplayName>
+      <Desc>Время подготовки, необходимое для высвобождения заклинаний.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_SpellCoolDownAddP">
+      <DisplayName>Откат Заклинаний</DisplayName>
+    </Text>
+    <Text Name="NpcFight_FightSkillSoul">
+      <DisplayName>Заклинание Духа</DisplayName>
+      <Desc>Только те, кто достиг высшего уровня в Заклинании, способны использовать его. Прикрепите его к заклинанию, и заклинание будет автоматически выпущено во время битвы.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_ShieldConversionRate">
+      <DisplayName>Бонус к Силе Щита</DisplayName>
+      <DisplayValue>{0:N3} Урон/Ци</DisplayValue>
+      <Desc>Бонусная величина, добавленная к сумме уменьшения урона, предоставляемого каждой точкой Ци при выдерживании урона с помощью барьера Ци.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_ShieldConversionRateAddP">
+      <DisplayName>Бонус к Прочности Щита</DisplayName>
+      <Desc>Бонус Щита Ци уменьшает урон на N Ци на единицу Урона.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_ZhenKeyPointNum">
+      <DisplayName>Размер Формации</DisplayName>
+      <Desc>Размер Формации, который может выдержать этот персонаж, выступая в качестве Столба Формации. Чем больше участников Формации, тем больше размер.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_ZhenEnginePower">
+      <DisplayName>Нагрузка Формации</DisplayName>
+      <Desc>Нагрузка Формации, которую может выдержать этот персонаж, выступая в качестве Столба Формации. Чем сложнее Формация, тем больше Нагрузка.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_ShieldResistanceToJin">
+      <DisplayName>Сопротивление Металлу</DisplayName>
+      <Desc>Бонус сопротивления урону стихии Металла.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_ShieldResistanceToMu">
+      <DisplayName>Сопротивление Дереву</DisplayName>
+      <Desc>Бонус сопротивления урону стихии Дерева.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_ShieldResistanceToShui">
+      <DisplayName>Сопротивление Воде</DisplayName>
+      <Desc>Бонус сопротивления урону стихии Воды.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_ShieldResistanceToHuo">
+      <DisplayName>Сопротивление Огню</DisplayName>
+      <Desc>Бонус сопротивления урону стихии Огня.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+    <Text Name="NpcFight_ShieldResistanceToTu">
+      <DisplayName>Сопротивление Земле</DisplayName>
+      <Desc>Бонус сопротивления урону стихии Земли.</Desc>
+      <FunctionKind>Параметры Боя</FunctionKind>
+    </Text>
+  </List>
+</Texts>

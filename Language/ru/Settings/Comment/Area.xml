@@ -1,0 +1,29 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="AreaRoom">
+			<Notes>Панель комментариев комнаты</Notes>
+			<Title>Комната</Title>
+			<Desc>Замкнутое пространство, окруженное стенами и скалами.</Desc>
+		</Text>
+		<Text Name="AreaWarehouse">
+			<Notes>Панель комментариев Склада</Notes>
+			<Title>Склад</Title>
+			<Desc>Площадка для хранения вещей.</Desc>
+		</Text>
+		<Text Name="AreaFarmland">
+			<Notes>Панель комментариев поля</Notes>
+			<Title>Поле</Title>
+			<Desc>Площадка для посадки сельскохозяйственных культур.</Desc>
+		</Text>
+		<Text Name="AreaHerbsField">
+			<Notes>Панель комментариев Травяноого сада</Notes>
+			<Title>Травяной сад</Title>
+			<Desc>Площадка для посадки лекарств.</Desc>
+		</Text>
+		<Text Name="AreaTransaction">
+			<Notes>Панель комментариев торговой зоны</Notes>
+			<Title>Торговая площадка</Title>
+			<Desc>Площадка для торговли.</Desc>
+		</Text>
+	</List>
+</Texts>

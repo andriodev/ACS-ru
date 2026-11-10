@@ -1,0 +1,37 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_4_None">
+			<DisplayName>Техника Бессмертия Чистого Нефрита</DisplayName>
+			<Desc>Ортодоксальная техника, оставленная Владыкой Изначального Начала. Тайный Закон дворца Куньлунь. Считается, что на этой технике основны все остальные даосские техники культивации. Техника ведет практикующего через 6 состояний и 12 ворот. Следуя этому Закону, человек будет обладать чрезвычайно обширной и мощной магической силой. Чтобы успешно культивировать эту технику, требуется невероятный интеллект и удача.</Desc>
+			<SelectDesc>Человек будет преуспевать во всех видах заклинаний и обладать огромной магической силой, но для прорыва и продвижения в этой технике требуются все виды редкостей. Вы уверены, что хотите начать культивировать согласно этой технике?</SelectDesc>
+			<Stages.0.DisplayName>Очистка Ци</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Врата Разума</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nПрорваться через этот барьер можно совершая многократные попытки. \nПрорыв на эту ступень будет сложнее для персонажей с низкой Удачей.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Врата  Энергии</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>[color=#D06508]\nПрорваться через этот барьер можно совершая многократные попытки. \nПрорыв на эту ступень будет сложнее для персонажей с низкой Удачей.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.1.DisplayName>Сгущение Ци</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Врата Ци</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nПрорваться через этот барьер можно совершая многократные попытки. \nПрорыв на эту ступень будет сложнее для персонажей с низким Интелектом.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Черные Врата</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.Desc>[color=#D06508]\nПрорваться через этот барьер можно совершая многократные попытки. \nПрорыв на эту ступень будет сложнее для персонажей с низкой Удачей.[/color]</Stages.1.Necks.1.Desc>
+			<Stages.2.DisplayName>Сгущение Ядра</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Красные Врата</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nПрорваться через этот барьер можно совершая многократные попытки. \nПрорыв на эту ступень будет сложнее для персонажей с низким Интелектом.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Врата Ядра</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>Объединение</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Врата Металла</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Врата Воды</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.2.DisplayName>Врата Дерева</Stages.3.Necks.2.DisplayName>
+			<Stages.3.Necks.3.DisplayName>Врата Огня</Stages.3.Necks.3.DisplayName>
+			<Stages.3.Necks.4.DisplayName>Врата Земли</Stages.3.Necks.4.DisplayName>
+			<Stages.3.Necks.5.DisplayName>Врата Грёз</Stages.3.Necks.5.DisplayName>
+			<Stages.4.DisplayName>Преобразование</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Врата Преобразования</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Ворота Изменения</Stages.4.Necks.1.DisplayName>
+			<Stages.5.DisplayName>Пережить Треволнение</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Врата Смерти</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.0.Desc>Проявите божественность своей души. Преодолев этот барьер, человек столкнется с Треволнением Небес.  [color=#D06508]\nПрорваться крайне сложно, да и бонуса к опыту не будет.[/color]</Stages.5.Necks.0.Desc>
+			<Stages.5.Necks.1.DisplayName>Врата Жизни</Stages.5.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>

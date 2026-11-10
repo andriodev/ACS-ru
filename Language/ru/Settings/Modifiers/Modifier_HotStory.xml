@@ -1,0 +1,55 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="HotStory_SocialContactLv">
+			<DisplayName>Понимание Социальных Навыков Увеличилось</DisplayName>
+		</Text>
+		<Text Name="HotStory_MedicineLv">
+			<DisplayName>Понимание Навыка Исцеления Возросло</DisplayName>
+		</Text>
+		<Text Name="HotStory_CookingLv">
+			<DisplayName>Понимание Кулинарных Навыков Возросло</DisplayName>
+		</Text>
+		<Text Name="HotStory_BuildingLv">
+			<DisplayName>Понимание Навыков Постройки Увеличено</DisplayName>
+		</Text>
+		<Text Name="HotStory_FarmingLv">
+			<DisplayName>Понимание Навыков Земледелия Возросло</DisplayName>
+		</Text>
+		<Text Name="HotStory_ManualLv">
+			<DisplayName>Понимание Навыка Изготовления Увеличено</DisplayName>
+		</Text>
+		<Text Name="HotStory_MiningLv">
+			<DisplayName>Понимание Навыков Горной Добычи Увеличилось</DisplayName>
+		</Text>
+		<Text Name="HotStory_ArtLv">
+			<DisplayName>Понимание Ремесленного Мастерства Возросло</DisplayName>
+		</Text>
+		<Text Name="HotStory_QiLv">
+			<DisplayName>Понимание Чувства Ци Возросло</DisplayName>
+		</Text>
+		<Text Name="HotStory_FabaoLv">
+			<DisplayName>Понимание Искусства Владения Артефактами Возросло</DisplayName>
+		</Text>
+		<Text Name="HotStory_FightSkillLv">
+			<DisplayName>Понимание Навыков Заклинаний Увеличилось</DisplayName>
+		</Text>
+		<Text Name="HotStory_MakeBigSuccess">
+			<DisplayName>Крафт Удался!</DisplayName>
+		</Text>
+		<Text Name="HotStory_BrokeningChance">
+			<DisplayName>Шанс Прорыва Увеличился</DisplayName>
+		</Text>
+		<Text Name="HotStory_Ling">
+			<DisplayName>Максимум Ци Повышено</DisplayName>
+		</Text>
+		<Text Name="HotStory_DanNum">
+			<DisplayName>Производство Эликсира Увеличилось</DisplayName>
+		</Text>
+		<Text Name="HotStory_FabaoQ">
+			<DisplayName>Качество Артефактов Возросло</DisplayName>
+		</Text>
+		<Text Name="HotStory_FabaoR">
+			<DisplayName>Качество Артефактов Возросло</DisplayName>
+		</Text>
+	</List>
+</Texts>

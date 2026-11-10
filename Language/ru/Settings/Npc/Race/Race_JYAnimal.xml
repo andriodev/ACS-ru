@@ -1,0 +1,86 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="JYRabbit">
+			<DisplayName>Монстр Кролик</DisplayName>
+			<Desc>Животное, которое обрело силу без пробуждения разума: Монстр Кролик</Desc>
+			<MaleName>Самец</MaleName>
+			<FemaleName>Самка</FemaleName>
+		</Text>
+		<Text Name="JYChicken">
+			<DisplayName>Монстр Курица</DisplayName>
+			<Desc>Животное, которое обрело силу без пробуждения разума: Монстр Курица</Desc>
+			<MaleName>Самец</MaleName>
+			<FemaleName>Самка</FemaleName>
+		</Text>
+		<Text Name="JYWolf">
+			<DisplayName>Монстр Волк</DisplayName>
+			<Desc>Животное, которое обрело силу без пробуждения разума: Монстр Волк</Desc>
+			<MaleName>Самец</MaleName>
+			<FemaleName>Самка</FemaleName>
+		</Text>
+		<Text Name="JYSnake">
+			<DisplayName>Монстр Змея</DisplayName>
+			<Desc>Животное, которое обрело силу без пробуждения разума: Монстр Змея</Desc>
+			<MaleName>Самец</MaleName>
+			<FemaleName>Самка</FemaleName>
+		</Text>
+		<Text Name="JYBoar">
+			<DisplayName>Монстр Кабан</DisplayName>
+			<Desc>Животное, которое обрело силу без пробуждения разума: Монстр Кабан</Desc>
+			<MaleName>Самец</MaleName>
+			<FemaleName>Самка</FemaleName>
+		</Text>
+		<Text Name="JYBear">
+			<DisplayName>Монстр Медведь</DisplayName>
+			<Desc>Животное, которое обрело силу без пробуждения разума: Монстр Медведь</Desc>
+			<MaleName>Самец</MaleName>
+			<FemaleName>Самка</FemaleName>
+		</Text>
+		<Text Name="JYFrog">
+			<DisplayName>Монстр Лягушка</DisplayName>
+			<Desc>Животное, которое обрело силу без пробуждения разума: Монстр Лягушка</Desc>
+			<MaleName>Самец</MaleName>
+			<FemaleName>Самка</FemaleName>
+		</Text>
+		<Text Name="JYTurtle">
+			<DisplayName>Монстр Черепаха</DisplayName>
+			<Desc>Животное, которое обрело силу без пробуждения разума: Монстр Черепаха</Desc>
+			<MaleName>Самец</MaleName>
+			<FemaleName>Самка</FemaleName>
+		</Text>
+		<Text Name="JYCat">
+			<DisplayName>Монстр Кот</DisplayName>
+			<Desc>Животное, которое обрело силу без пробуждения разума: Монстр Кот</Desc>
+			<MaleName>Самец</MaleName>
+			<FemaleName>Самка</FemaleName>
+		</Text>
+		<Text Name="JYCattle">
+			<DisplayName>Монстр Бык</DisplayName>
+			<Desc>Животное, которое обрело силу без пробуждения разума: Монстр Бык</Desc>
+			<MaleName>Самец</MaleName>
+			<FemaleName>Самка</FemaleName>
+		</Text>
+		<Text Name="JYTiger">
+			<DisplayName>Монстр Тигр</DisplayName>
+			<Desc>Животное, которое обрело силу без пробуждения разума: Монстр Тигр</Desc>
+			<MaleName>Самец</MaleName>
+			<FemaleName>Самка</FemaleName>
+		</Text>
+		<Text Name="JYLongpuNight">
+			<DisplayName>Слуга дракона (ночь)</DisplayName>
+			<Desc>Слуга, порожденный силой Инь и Ян.</Desc>
+		</Text>
+		<Text Name="JYLongpuDay">
+			<DisplayName>Слуга дракона (день)</DisplayName>
+			<Desc>Слуга, порожденный силой Инь и Ян.</Desc>
+		</Text>
+		<Text Name="JYZhuLongENian">
+			<DisplayName>Злобный Аватар Дракона</DisplayName>
+			<Desc>Проявления злого разума.</Desc>
+		</Text>
+		<Text Name="JYZhuLongShanNian">
+			<DisplayName>Добрый Аватар Дракона</DisplayName>
+			<Desc>Проявления доброго разума.</Desc>
+		</Text>
+	</List>
+</Texts>

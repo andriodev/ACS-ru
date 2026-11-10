@@ -1,0 +1,43 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="JobAnimalEatFood">
+      <DisplayName>Ест</DisplayName>
+    </Text>
+    <Text Name="JobBAnimalFree">
+      <DisplayName>Идёт</DisplayName>
+    </Text>
+    <Text Name="JobBAnimalGiveBirth">
+      <DisplayName>Спаривается</DisplayName>
+    </Text>
+    <Text Name="JobBirthIt">
+      <DisplayName>Вылупляется</DisplayName>
+    </Text>
+    <Text Name="JobEatFood">
+      <DisplayName>Ест</DisplayName>
+    </Text>
+    <Text Name="JobDrinkWater">
+      <DisplayName>Пьёт</DisplayName>
+    </Text>
+    <Text Name="JobTakeRest">
+      <DisplayName>Спит</DisplayName>
+    </Text>
+    <Text Name="JobLookAtSky">
+      <DisplayName>Смотрит на небо</DisplayName>
+    </Text>
+    <Text Name="JobFree">
+      <DisplayName>Блуждает</DisplayName>
+    </Text>
+    <Text Name="JobRunAway">
+      <DisplayName>Спасается</DisplayName>
+    </Text>
+    <Text Name="JobPlayWithBuilding">
+      <DisplayName>Веселится</DisplayName>
+    </Text>
+    <Text Name="JobBasePractice">
+      <DisplayName>Закалка Тела</DisplayName>
+    </Text>
+    <Text Name="JobIdle">
+      <DisplayName>Бездельничает</DisplayName>
+    </Text>
+  </List>
+</Texts>

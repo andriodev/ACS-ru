@@ -1,0 +1,218 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="NormalAttackBase" sParam="Item">
+      <ThingName>Обычная Атака</ThingName>
+    </Text>
+    <Text Name="Human_NormalAttack" sParam="Item">
+      <ThingName>Нападение Человека</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Укус, Удар Головой, Удар</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Удар, Удар, Удар Головой</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Пинок, Удар</Item.Equip.AtkDamage.2.DescTags>
+    </Text>
+    <Text Name="Zombie_NormalAttack" sParam="Item">
+      <ThingName>Атака Зомби</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Удар Головой, Удар Ногой</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Удар головой</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Удар головой</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Укус, Удар</Item.Equip.AtkDamage.3.DescTags>
+      <Item.Equip.AtkDamage.4.DescTags>Укус, Удар</Item.Equip.AtkDamage.4.DescTags>
+      <Item.Equip.AtkDamage.5.DescTags>Укус, Удар</Item.Equip.AtkDamage.5.DescTags>
+      <Item.Equip.AtkDamage.6.DescTags>Укус, Удар</Item.Equip.AtkDamage.6.DescTags>
+    </Text>
+    <Text Name="Rabbit_NormalAttack" sParam="Item">
+      <ThingName>Атака Кролика</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Укус</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Удар головой</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Удар</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Удар</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="Ls_Dog_NormalAttack" sParam="Item">
+      <ThingName>Внутреннее Ядро Божественной Собаки</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Укус, Коготь</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Укус, Коготь</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Укус, Коготь</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Укус, Коготь</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="Ls_Fox_NormalAttack" sParam="Item">
+      <ThingName>Внутреннее Ядро Духовной Лисы</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Укус, Коготь</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Укус, Коготь</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Укус, Коготь</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Укус, Коготь</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="Ls_Dragon_NormalAttack" sParam="Item">
+      <ThingName>Внутреннее Ядро Плавающего Дракона</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Равномерный Заряд</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Равномерный Заряд</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Равномерный Заряд</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Равномерный Заряд</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="Ls_Phoenix_NormalAttack" sParam="Item">
+      <ThingName>Внутреннее Ядро Темного Феникса</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Пламенный Заряд</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Пламенный Заряд</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Пламенный Заряд</Item.Equip.AtkDamage.2.DescTags>
+    </Text>
+    <Text Name="Chicken_NormalAttack" sParam="Item">
+      <ThingName>Куриная Атака</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Клевать</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Коготь</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Коготь</Item.Equip.AtkDamage.2.DescTags>
+    </Text>
+    <Text Name="Wolf_NormalAttack" sParam="Item">
+      <ThingName>Нападение Волка</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Укус, Коготь</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Укус, Коготь</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Укус, Коготь</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Укус, Коготь</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="Snake_NormalAttack" sParam="Item">
+      <ThingName>Нападение Змеи</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Укус</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Укус</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Душить</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Душить</Item.Equip.AtkDamage.3.DescTags>
+      <Item.Equip.AtkDamage.4.DescTags>Душить</Item.Equip.AtkDamage.4.DescTags>
+      <Item.Equip.AtkDamage.5.DescTags>Душить</Item.Equip.AtkDamage.5.DescTags>
+      <Item.Equip.AtkDamage.6.DescTags>Укус</Item.Equip.AtkDamage.6.DescTags>
+    </Text>
+    <Text Name="Boar_NormalAttack" sParam="Item">
+      <ThingName>Нападение Кабана</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Укус</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Укус</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Заряжать</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Заряжать</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="Bear_NormalAttack" sParam="Item">
+      <ThingName>Нападение Медведя</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Коготь</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Коготь</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Коготь</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Ударять</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="Turtle_NormalAttack" sParam="Item">
+      <ThingName>Нападение Черепахи</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Контрудар</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Укус</Item.Equip.AtkDamage.1.DescTags>
+    </Text>
+    <Text Name="Frog_NormalAttack" sParam="Item">
+      <ThingName>Атака Лягушки</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Лизать</Item.Equip.AtkDamage.0.DescTags>
+    </Text>
+    <Text Name="LuShu_NormalAttack" sParam="Item">
+      <ThingName>Атака Лушу</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Удар</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Удар</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Удар</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Удар</Item.Equip.AtkDamage.3.DescTags>
+      <Item.Equip.AtkDamage.4.DescTags>Вторжение Ци</Item.Equip.AtkDamage.4.DescTags>
+    </Text>
+    <Text Name="Fei_NormalAttack" sParam="Item">
+      <ThingName>Атака Фей</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Ударять</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Ударять</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Ударять</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Ударять</Item.Equip.AtkDamage.3.DescTags>
+      <Item.Equip.AtkDamage.4.DescTags>Дыхание Чумы</Item.Equip.AtkDamage.4.DescTags>
+    </Text>
+    <Text Name="Cat_NormalAttack" sParam="Item">
+      <ThingName>Кошачья Атака</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Укус, Коготь</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Укус, Коготь</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Укус, Коготь</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Укус, Коготь</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="Cattle_NormalAttack" sParam="Item">
+      <ThingName>Атака Быка</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Ударять</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Ударять</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Ударять</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Ударять</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="Tiger_NormalAttack" sParam="Item">
+      <ThingName>Нападение Тигра</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Укус, Коготь</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Укус, Коготь</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Укус, Коготь</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Укус, Коготь</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="JYCat_NormalAttack" sParam="Item">
+      <ThingName>Мяу Мяу Коготь</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Укус, Коготь</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Укус, Коготь</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Укус, Коготь</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Укус, Коготь</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="JYCattle_NormalAttack" sParam="Item">
+      <ThingName>Рог с острыми краями</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Ударять</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Ударять</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Ударять</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Ударять</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="JYTiger_NormalAttack" sParam="Item">
+      <ThingName>Свирепый Клык</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Укус, Коготь</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Укус, Коготь</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Укус, Коготь</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Укус, Коготь</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="JYRabbit_NormalAttack" sParam="Item">
+      <ThingName>Игольчатый Заячий мех</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Укус</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Удар головой</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Удар</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Удар</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="JYWolf_NormalAttack" sParam="Item">
+      <ThingName>Волчьи Зубы</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Укус, Коготь</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Укус, Коготь</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Укус, Коготь</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Укус, Коготь</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="JYSnake_NormalAttack" sParam="Item">
+      <ThingName>Закаленная Змеиная Чешуя</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Ядовитая Летающая Чешуя</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Ядовитая Летающая Чешуя</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Ядовитая Летающая Чешуя</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Ядовитая Летающая Чешуя</Item.Equip.AtkDamage.3.DescTags>
+      <Item.Equip.AtkDamage.4.DescTags>Ядовитая Летающая Чешуя</Item.Equip.AtkDamage.4.DescTags>
+    </Text>
+    <Text Name="JYBoar_NormalAttack" sParam="Item">
+      <ThingName>Сущность Глиняного Камня</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Заряд Земли</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Заряд Земли</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Заряд Земли</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Заряд Земли</Item.Equip.AtkDamage.3.DescTags>
+      <Item.Equip.AtkDamage.4.DescTags>Заряд Земли</Item.Equip.AtkDamage.4.DescTags>
+      <Item.Equip.AtkDamage.5.DescTags>Заряд Земли</Item.Equip.AtkDamage.5.DescTags>
+    </Text>
+    <Text Name="JYBear_NormalAttack" sParam="Item">
+      <ThingName>Летающий Медвежий Коготь</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Пламенный Заряд</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Пламенный Заряд</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Пламенный Заряд</Item.Equip.AtkDamage.2.DescTags>
+    </Text>
+    <Text Name="JYFrog_NormalAttack" sParam="Item">
+      <ThingName>Равномерное Падение</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Лизать</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Лизать</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Лизать</Item.Equip.AtkDamage.2.DescTags>
+    </Text>
+    <Text Name="JYTurtle_NormalAttack" sParam="Item">
+      <ThingName>Темный Панцирь Черепахи</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Равномерный Заряд</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Равномерный Заряд</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Равномерный Заряд</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Равномерный Заряд</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="JYLongPu_Night_NormalAttack" sParam="Item">
+      <ThingName>Зуб Слуги Дракона</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Равномерный Заряд</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Равномерный Заряд</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Равномерный Заряд</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Равномерный Заряд</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+  </List>
+</Texts>

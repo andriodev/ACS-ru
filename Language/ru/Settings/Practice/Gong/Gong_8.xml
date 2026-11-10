@@ -1,0 +1,30 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_8_Jin">
+			<DisplayName>Мудрость Большой Медведицы</DisplayName>
+			<Desc>Один из истинных стихийных законов секты Тайи. Поскольку Мудрость Большой Медведицы может указывать на смерть людей, размышления над ней будут способствовать продвижению в этой технике. Это даст практикующему непревзойденную мощь в битвах.</Desc>
+			<SelectDesc>Практикующий преуспеет в мастерстве владения мечом, но для совершенствования потребуется много времени. Вы уверены, что хотите начать культивировать согласно этой технике?</SelectDesc>
+			<Stages.0.DisplayName>Дубхе</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Дубхе</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nПрорваться через этот барьер можно совершая многократные попытки. \nПрорыв на эту ступень будет сложнее для персонажей с низким Восприятием.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.1.DisplayName>Мерак</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Мерак</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nПрорваться через этот барьер можно совершая многократные попытки. \nПрорыв на эту ступень будет сложнее для персонажей с низким Восприятием.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.2.DisplayName>Фегда</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Фегда</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nПрорваться через этот барьер можно совершая многократные попытки. \nПрорыв на эту ступень будет сложнее для персонажей с низким Телосложением.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.3.DisplayName>Мегрец</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Мегрец</Stages.3.Necks.0.DisplayName>
+			<Stages.4.DisplayName>Алиот</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Алиот</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>[color=#D06508]\nПрорваться через этот барьер можно совершая многократные попытки. \nПрорыв на эту ступень будет сложнее для персонажей с низким Телосложением.[/color]</Stages.4.Necks.0.Desc>
+			<Stages.5.DisplayName>Мицар</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Алькор</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.1.DisplayName>Мицар</Stages.5.Necks.1.DisplayName>
+			<Stages.5.Necks.1.Desc>Проявите божественность своей души. Преодолев этот барьер, человек столкнется с Треволнением Небес. [color=#D06508]\nПрорваться крайне сложно, да и бонуса к опыту не будет.[/color]</Stages.5.Necks.1.Desc>
+			<Stages.6.DisplayName>Алькаид</Stages.6.DisplayName>
+			<Stages.6.Necks.0.DisplayName>Алькаид</Stages.6.Necks.0.DisplayName>
+			<Stages.6.Necks.0.Desc>Оставьте смертное тело позади и вознеситесь к бессмертию.</Stages.6.Necks.0.Desc>
+		</Text>
+	</List>
+</Texts>

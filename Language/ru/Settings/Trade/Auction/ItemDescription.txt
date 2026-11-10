@@ -1,0 +1,137 @@
+﻿ItemName	Descript
+Item_Dan_IncreaseLife3	В бутылке, продлевает жизнь, светло-желтый
+Item_Dan_IncreaseLife4	В тыкве, продлевающей жизнь, синий
+Item_Dan_Ling2	Фиолетовый, Сферический, Основа
+Item_Dan_IncreaseLife5	Голубая, Сферическая, Небесное Бедствие
+Item_Dan_IncreaseNeckCountdown1	Тыква, Красная, Небесное Бедствие
+Item_ParasolWood	Дерево, Твердое, Реликвия Духа
+Item_Dan_PracticeSpeed	Огонь, скорость, в бутылке
+Item_Dan_Defense	Защита, Сферическая, Оранжевая
+Item_CopperBlock1	Квадрат, Огонь, Реликвия Духа
+Item_Dan_CureHuoDamage	Сферическая, заживляющая рана, пурпурная
+Item_Dan_CureTuDamage	Сферическая, заживляющая рана, оранжевая
+Item_Dan_CureShuiDamage	Порошок, Вода, Синий
+Item_Dan_CureMuDamage	Сферическая, Голубая, заживляет рану
+Item_Dan_CureFiveElementDamage	В бутылке, лечит рану, Оранжевое
+Item_EarthEssence_1	В тыкве, синей, заживляет раны
+Item_Dan_FiveBaseFromLife	Сферический, фиолетовый, сокращает срок службы
+Item_Dan_DredgeQi	В бутылке, лечит рану, Земля
+Item_RedGinseng	Подвой, Красный, Фундамент
+Item_LingWood	Дерево, Синий Цвет, Реликвия Духа
+Item_HardWood	Дерево, Желтое
+Item_Dan_PracticeRate	Мелкие гранулы, металл, предел
+Item_Dan_IncreaseLife1	Продлевает жизнь, в тыкве, древесине
+Item_Dan_IncreaseLife2	Продлевает жизнь, порошок, вода
+Item_BasePracticeDrug	Пять атрибутов, в бутылке, вода
+Item_LingMuXueJie	Выносливость, Порошок, Синий
+Item_Dan_CalmDown	Психическое состояние, маленькие гранулы, синий
+Item_Dan_Happiness	Коричневый, психическое состояние, мелкие гранулы
+Item_Dan_FiveBase2	Пять атрибутов, Земля, в бутылке
+Item_Dan_FiveBase1	Пять атрибутов, в бутылке, золотые
+Item_Dan_FiveBase3	Огонь, пять атрибутов, в бутылке
+Item_Dan_FiveBase4	Дерево, пять атрибутов, в бутылке
+Item_Dan_FiveBase5	Вода, пять атрибутов, в бутылке
+Item_Dan_IncreaseNeckCountdown2	Порошок, Небесное Бедствие, Металл
+Item_Dan_CureJinDamage	Футляр, Белый, заживляет рану
+Item_ShuiEssence	Белый, Сферический, Духовный
+Item_HuoEssence	Огонь, Сферический, Духовный
+Item_JinEssence	Коричневый, Сферический, Духовный
+Item_MuEssence	Коричневый, Духовный, Деревянный
+Item_TuEssence	Коричневый, Земной, Духовный
+Item_LifeStream	Жидкость, продлевающая жизнь, красный цвет
+Item_EarthEssence	Жидкий, Прозрачный, Тональный Крем
+Item_SkyStone	Камень, Духовное, Земля
+Item_StarEssence	Духовный, Рок, Металл
+Item_SoulPearl	Духовный, Водный, Сферический
+Item_EarthEssence1	Тональный Крем, Жидкий, Красный
+Item_Dan_LongDan1	Синий, Сферический, Водяной
+Item_Dan_FengDan1	Красный, Сферический, Огненный
+Item_YanDaoGuo	Достижения, Дерево, Фиолетовый
+Item_QieDaoGuo	Божественная Кара, Дерево, Синий
+Item_Dan_TreeEXP	Сферический, Прозрачный, Вдохновение
+Item_Dan_ExtremeLofty	В тыкве, Золотой, заживляет рану
+Item_ExtremeJade	Жесткий, Синий, Духовный
+Item_XianDaoShenNian	Сферический, Потенциальный, Зеленый
+Item_XianDaoXieNian	Сферический, Потенциальный, Фиолетовый
+Item_Dan_HundredRefine	Золотой, Сферический, Культивирование
+Item_Dan_ZhuLongDan1	Суб-дух, красочный, сферический
+Item_ThunderAir	Сферическая, Несъедобная, Небесное Бедствие
+Item_XianBone	Кость, Достижение, Никаких Пяти Атрибутов
+Item_ZaoHuaYuZi	Голубой, Без Пяти Атрибутов, Сущность
+Item_Dan_LingYuanZhong	Голубой, Духовный, Без Пяти Атрибутов
+Item_Dan_ReBorn_4	Сферический, Красный, продлевает жизнь
+Item_BenYuan_None	Нет Пяти Атрибутов, Достижения, Сущности
+Item_BenYuan_Jin	Золотое, Достижение, Сущность
+Item_BenYuan_Mu	Зеленый Цвет, Достижение, Сущность
+Item_BenYuan_Shui	Синий, Достижение, Сущность
+Item_BenYuan_Huo	Красный, Достижение, Сущность
+Item_BenYuan_Tu	Коричневый Цвет, Достижение, Сущность
+Item_Yao_RabbitLuck	Вода, Пушистая
+Item_Yao_WolfAtk	Металл, Твердый
+Item_Yao_SnakeHanLin	Вода, Жесткая
+Item_Yao_BearPiMao	Огонь, Пушистый
+Item_Yao_TurtleKe	Твердая, Земная
+Item_BoarMeat	Земля, Коричневый, Еда
+Item_StrangeMush	Дерево, Коричневый Цвет, Еда
+Item_MillVell	Дерево, Пушистое
+Item_SewingDefender	Дерево, Твердое
+Item_PerfumeBag	Дерево, Психическое Состояние
+Item_StoneCutter	Металл, Скорость
+Item_Handkerchief	Пушистый, Никаких Пяти Атрибутов
+Item_Bracelet	Жесткий, Без Пяти Атрибутов
+Item_SmallBell	Жесткий, Без Пяти Атрибутов
+Item_SysAxe	Жесткий, Без Пяти Атрибутов
+Item_SysPickaxe	Жесткий, Без Пяти Атрибутов
+Item_SysSickle	Жесткий, Без Пяти Атрибутов
+[ANIMAL]	Коробка Кубическая
+Item_BossFeng_TouYu	Огненный, Пушистый, Свирепый Зверь
+Item_BossFeng_WeiYu	Пушистый, Свирепый Зверь, Реликвия Духа
+Item_BossFeng_HongYu	Вдохновение, Свирепый Зверь, Красный
+Item_BossLong_Jiao	Свирепый Зверь, Жесткий, Мастерство Владения Мечом
+Item_BossLong_NiLin	Вдохновение, Вода, Свирепый Зверь
+Item_BossLong_Jing	Жесткий, Реликвия Духа, Свирепый Зверь
+Item_BossZhuLong_Eye	Свирепый Зверь, Болюс
+Item_BossZhuLong_LongYu	Хаос, Сопротивление, Свирепый Зверь
+Item_BossZhuLong_TianLin	Защита, Свирепый Зверь
+Item_Dan_FenShen1	Пангея, Красный, суб-дух
+Item_Dan_FenShen2	Судьба, Красный, суб-дух
+Item_Dan_FenShen3	Ментальное состояние, Красный, суб-дух
+Item_Yao_CatSoul	Болюс, синий, суб-дух
+Item_WhiteHair	Книга, Синяя, Белая
+Item_BossFeng_HuoYu	Реликвия Духа, Красный, Свирепый Зверь
+Item_BossFeng_GangYu	Огонь, Свирепый Зверь
+Item_BossFeng_Gu	Костяной, Твердый, Свирепый Зверь
+Item_DragonScale	Синий, Реликвия Духа, Свирепый Зверь
+Item_BossLong_Zhua	Острый Предмет, Свирепый Зверь
+Item_BossLong_Lin	Синий, Защита, Свирепый Зверь
+Item_BossZhuLong_BaiLin	Белый, Свирепый Зверь
+Item_BossZhuLong_HeiLin	Черный, Свирепый Зверь
+Item_BossFeng_Meat	Еда, Свирепый Зверь, Красный
+Item_BossLong_Meat	Еда, Красочный, Свирепый Зверь
+Item_BossZhuLong_Meat	Достижения, Еда, Свирепый Зверь
+Item_Dan_Restore	Целебный, Желтый, Порошок
+Item_Dan_SwordBall	Болюс, Синий
+Item_Dan_Ling3	Порошок, Желтый
+Item_Dan_Thin	Гранулы, Синий Цвет, Внешний Вид
+Item_Dan_FaceLock	Гранулы, Красные, Внешний Вид
+Item_Dan_FaceUnLock	Гранулы, Земля, Внешний Вид
+Item_Dan_Soul1	Гранулы, Вдохновение, Продолжительность Жизни
+Item_Dan_Soul2	Гранулы, Огонь, Вдохновение
+Item_Dan_Soul3	Гранулы, Земля, Вдохновение
+Item_Dan_Soul4	Гранулы, Интеллект, Вдохновение
+Item_QiZhi	Просвещение, Бутилированная Вода
+Item_Fall_LingZhi	Просвещение, Бутылочное, Металлическое
+Item_Winter_LingZhi	Просвещение, Бутылочное, Зимнее
+Item_Spring_LingZhi	Просвещение, Бутылочное, Деревянное
+Item_Summer_LingZhi	Просветляющий, Бутылочный, Огненный
+Item_Earth_LingZhi	Просвещение, Разлитая По Бутылкам Земля
+Item_SoulCrystalYou	Драгоценный Камень Души, Никаких Пяти Атрибутов, Боль
+Item_SoulCrystalNing	Драгоценный Камень Души, Никаких Пяти Атрибутов, Спокойствие
+Item_SoulCrystalLing	Драгоценный Камень Души, Никаких Пяти Атрибутов, Счастье
+Item_GodPractice_MiJuan	Книга, Никаких Пяти Атрибутов
+Item_PurpleGanodermaLucidum	Фиолетовый, Духовный, Пищевой
+Item_HorseFromFei	Пушистый,Никаких Пяти Атрибутов,Вода
+Item_HorseFromLuShu	Пушистый,Никаких Пяти Атрибутов,Огонь
+Item_WuDang_HuangJingFen	Порошок. Белый. Дерево
+Item_Dan_WuQiNoHunger2	Сферический. Еда. Дерево
+Item_Dan_SanHuaHuangJing	Дерево. Ци. Желтый

@@ -1,0 +1,24 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="GodCity_MaxResident">
+      <DisplayName>Максимум Божественных Жителей</DisplayName>
+      <Desc>Максимальное количество последователей, которое может принять практикующий закон Шендао.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="GodCity_MaxCoreBeliever">
+      <DisplayName>Максимум Основных Последователей</DisplayName>
+      <Desc>Максимальное количество основных последователей, которое может принять практикующий закон Шендао.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="GodCity_PracticeEffect">
+      <DisplayName>Бонус Получения Веры</DisplayName>
+      <Desc>Бонус Веры, полученный законом практикующих Шендао из Божественного Царства.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="GodPractice_GodPowerAddV">
+      <DisplayName>Божественность</DisplayName>
+      <Desc>Бонус божественности практикующего закон Шендао.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+  </List>
+</Texts>

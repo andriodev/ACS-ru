@@ -1,0 +1,12 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="NoHeavyWork">
+			<DisplayName>Избалованный</DisplayName>
+			<Desc>Привилегированная жизнь накладывает свой отпечаток, [he] не желает заниматься тяжелым ручным трудом.</Desc>
+		</Text>
+		<Text Name="NoMeticulousWork">
+			<DisplayName>Неуклюжий</DisplayName>
+			<Desc>Этот человек слишком неуклюж, чтобы выполнять любую работу требующую точности.</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,334 @@
+﻿<Texts Type="Other">
+  <List>
+		<Text Name="Sleep">
+      <Desc>Спать</Desc>
+		</Text>
+		<Text Name="EatWeight">
+      <Desc>Есть по расписанию</Desc>
+		</Text>
+		<Text Name="EatShit">
+      <Desc>Есть фекалии</Desc>
+		</Text>
+		<Text Name="EatEssence">
+      <Desc>Кушать Драгоценные Материалы</Desc>
+		</Text>
+		<Text Name="EatDrug">
+      <Desc>Пить Эликсир</Desc>
+		</Text>
+		<Text Name="EatWheat">
+      <Desc>Есть Пшеницу</Desc>
+		</Text>
+		<Text Name="EatDryMeat">
+      <Desc>Есть Сушеное Мясо</Desc>
+		</Text>
+		<Text Name="EatPear">
+      <Desc>Есть Груши</Desc>
+		</Text>
+		<Text Name="EatMeat">
+      <Desc>Есть Сырое Мясо</Desc>
+		</Text>
+		<Text Name="EatCook">
+      <Desc>Есть Вареное Мясо</Desc>
+		</Text>
+		<Text Name="BiteBuilding">
+      <Desc>Атаковать Здания </Desc>
+		</Text>
+		<Text Name="BiteClothes">
+      <Desc>Атаковать Одежду</Desc>
+		</Text>
+		<Text Name="BiteOuter">
+      <Desc>Атаковать Внешнего Ученика</Desc>
+		</Text>
+		<Text Name="BiteInner">
+      <Desc>Атаковать Внутреннего Ученика</Desc>
+		</Text>
+		<Text Name="BiteVisitor">
+      <Desc>Атаковать Посетителя</Desc>
+		</Text>
+		<Text Name="BiteIncoming">
+      <Desc>Атаковать Гостей</Desc>
+		</Text>
+		<Text Name="BiteExpel">
+      <Desc>Атаковать Неизвестных смертных</Desc>
+		</Text>
+		<Text Name="AtkEnemy">
+      <Desc>Атаковать врага</Desc>
+		</Text>
+		<Text Name="ShitAtShitPlace">
+      <Desc>Испражняться на месте</Desc>
+		</Text>
+		<Text Name="ShitAtPlants">
+      <Desc>Испражняться на растения</Desc>
+		</Text>
+		<Text Name="ShitAtDogHouse">
+      <Desc>Какать на мою кровать</Desc>
+		</Text>
+		<Text Name="ShitAtStorage">
+      <Desc>Какать на складе</Desc>
+		</Text>
+		<Text Name="ShitOnBed">
+      <Desc>Испражняться на кровать</Desc>
+		</Text>
+		<Text Name="ShitInFarm">
+      <Desc>Испражняться в поле</Desc>
+		</Text>
+		<Text Name="CarryOuterToBed">
+      <Desc>Заботиться об ученике</Desc>
+		</Text>
+		<Text Name="CarryOuterToDest">
+      <Desc>Перемещать Бессознательных Внешних Учеников</Desc>
+		</Text>
+		<Text Name="CarryInnerToDest">
+      <Desc>Перемещать Бессознательных Внутренних Учеников</Desc>
+		</Text>
+		<Text Name="CarryVisitorToDest">
+      <Desc>Перемещать Бессознательного Посетителя</Desc>
+		</Text>
+		<Text Name="CarryEnemyToDest">
+      <Desc>Перемещать Бессознательного Врага</Desc>
+		</Text>
+		<Text Name="CarryIncomingToDest">
+      <Desc>Перемещать Бессознательного Гостя</Desc>
+		</Text>
+		<Text Name="CarryEnemyBodyToDest">
+      <Desc>Перемещать труп врага</Desc>
+		</Text>
+		<Text Name="CarryVisitorBodyToDest">
+      <Desc>Перемещать труп посетителя</Desc>
+		</Text>
+		<Text Name="CarryIncomingBodyToDest">
+      <Desc>Перемещать труп гостя</Desc>
+		</Text>
+		<Text Name="CarryOuterBodyToDest">
+      <Desc>Перемещать труп внешнего ученика</Desc>
+		</Text>
+		<Text Name="CarryInnerBodyToDest">
+      <Desc>Перемещать труп внутреннего ученика</Desc>
+		</Text>
+		<Text Name="CarryMortalToDest">
+      <Desc>Перемещать Бессознательных Смертных</Desc>
+		</Text>
+		<Text Name="CarryMortalBodyToDest">
+      <Desc>Перемещать труп смертного</Desc>
+		</Text>
+		<Text Name="HelpCarry">
+      <Desc>Организовать предметы</Desc>
+		</Text>
+		<Text Name="HelpTimber">
+      <Desc>Рубить дерево</Desc>
+		</Text>
+		<Text Name="HelpMine">
+      <Desc>Добывать</Desc>
+		</Text>
+		<Text Name="HelpFind">
+      <Desc>Воровать предметы</Desc>
+		</Text>
+		<Text Name="HelpKill">
+      <Desc>Мясник</Desc>
+		</Text>
+		<Text Name="HelpPlant">
+      <Desc>Орошать</Desc>
+		</Text>
+		<Text Name="CureFreeze">
+      <Desc>Лечить Обморожение</Desc>
+		</Text>
+		<Text Name="CureHot">
+      <Desc>Лечить Тепловой Удар</Desc>
+		</Text>
+		<Text Name="HelpCook">
+      <Desc>Готовить</Desc>
+		</Text>
+		<Text Name="HeatEndure">
+      <Desc>Заклинание обновления</Desc>
+		</Text>
+		<Text Name="ColdEndure">
+      <Desc>Заклинание печи</Desc>
+		</Text>
+		<Text Name="HelpPlay">
+      <Desc>Присоединяйтесь к веселью</Desc>
+		</Text>
+		<Text Name="PlayToy">
+      <Desc>Играй с вещами</Desc>
+		</Text>
+		<Text Name="TrainQiGan">
+      <Desc>Оттачивать Ци</Desc>
+		</Text>
+		<Text Name="TrainNeiDan">
+      <Desc>Практиковать Ядро</Desc>
+		</Text>
+		<Text Name="TrainHuTi">
+      <Desc>Оттачивать Защиту</Desc>
+		</Text>
+		<Text Name="TrainLingZhi">
+      <Desc>Оттачивать Интеллект</Desc>
+		</Text>
+		<Text Name="TrainShuFa">
+      <Desc>Практиковать Заклинания</Desc>
+		</Text>
+		<Text Name="AtkDizzyOuter">
+      <Desc>Атаковать Бессознательного Внешнего Ученика</Desc>
+		</Text>
+		<Text Name="AtkDizzyInner">
+      <Desc>Атаковать Бессознательного Внутреннего Ученика</Desc>
+		</Text>
+		<Text Name="AtkDizzyComing">
+      <Desc>Атаковать Бессознательного Гостя</Desc>
+		</Text>
+		<Text Name="AtkDizzyVisitor">
+      <Desc>Атаковать Бессознательного Посетителя</Desc>
+		</Text>
+		<Text Name="AtkDizzyExpel">
+      <Desc>Атаковать Бессознательного Смертного</Desc>
+		</Text>
+		<Text Name="FeedTongXie">
+      <Desc>Есть Слабительное</Desc>
+		</Text>
+		<Text Name="HealInner">
+      <Desc>Лечить Травмы</Desc>
+		</Text>
+		<Text Name="Lay">
+      <Desc>Наслаждаться ветерком</Desc>
+		</Text>
+		<Text Name="Pee">
+      <Desc>Мочиться</Desc>
+		</Text>
+		<Text Name="FastCook">
+      <Desc>Готовить</Desc>
+		</Text>
+		<Text Name="CureInner">
+      <Desc>Лечить Травмы</Desc>
+		</Text>
+		<Text Name="HelpPlantD">
+      <Desc>Мочиться</Desc>
+		</Text>
+		<Text Name="ESkill">
+      <Desc>Использовать заклинания на враге</Desc>
+		</Text>
+		<Text Name="FSkill">
+      <Desc>Использовать заклинания на союзника</Desc>
+		</Text>
+		<Text Name="Feed_Item_Dan_Happiness">
+      <Desc>Кормить Пилюлей Эйфории</Desc>
+		</Text>
+		<Text Name="Feed_Item_Dan_PracticeSpeed">
+      <Desc>Кормить Пилюлей Роста</Desc>
+		</Text>
+		<Text Name="Feed_Item_Dan_CalmDown">
+      <Desc>Кормить Пилюлями Чистоты </Desc>
+		</Text>
+		<Text Name="Feed_Item_LingStone">
+      <Desc>Кормить Камнем Духа</Desc>
+		</Text>
+		<Text Name="Feed_Item_LingCrystal">
+      <Desc>Кормить Духовным Кристаллом</Desc>
+		</Text>
+		<Text Name="Eat_Item_SnakeGallbladder">
+      <Desc>Употреблять Змеиную Желчь</Desc>
+		</Text>
+		<Text Name="Eat_Item_BearGallbladder">
+      <Desc>Употреблять Медвежью Желчь</Desc>
+		</Text>
+		<Text Name="Eat_Item_RedGinseng">
+      <Desc>Употреблять Красный Женьшень</Desc>
+		</Text>
+		<Text Name="Eat_Item_PurpleGanodermaLucidum">
+      <Desc>Употреблять Фиолетовую Ганодерму</Desc>
+		</Text>
+		<Text Name="Eat_Item_TuEssence">
+      <Desc>Употреблять Эссенцию Охры </Desc>
+		</Text>
+		<Text Name="Eat_Item_HuoEssence">
+      <Desc>Употреблять Багровый плод</Desc>
+		</Text>
+		<Text Name="Eat_Item_ShuiEssence">
+      <Desc>Есть Призму Лотоса</Desc>
+		</Text>
+		<Text Name="Eat_Item_JinEssence">
+      <Desc>Употреблять Фрукты Мудрости</Desc>
+		</Text>
+		<Text Name="Eat_Item_MuEssence">
+      <Desc>Употреблять Корявую Лозу</Desc>
+		</Text>
+		<Text Name="Eat_Item_LifeStream">
+      <Desc>Употреблять Источник Жизни</Desc>
+		</Text>
+		<Text Name="Eat_Item_LongEgg">
+      <Desc>Употреблять Яйцо Дракона Наводнения</Desc>
+		</Text>
+		<Text Name="Eat_Item_FengEgg">
+      <Desc>Употреблять Яйцо Феникса</Desc>
+		</Text>
+		<Text Name="Eat_Item_DragonShit">
+      <Desc>Употреблять Драконьи Экскременты</Desc>
+		</Text>
+		<Text Name="Eat_Item_Jiaozi">
+      <Desc>Употреблять Клецки</Desc>
+		</Text>
+		<Text Name="Eat_Item_BossFeng_Meat">
+      <Desc>Употреблять Плоть Феникса</Desc>
+		</Text>
+		<Text Name="Eat_Item_BossLong_Meat">
+      <Desc>Употреблять Плоть Дракона </Desc>
+		</Text>
+		<Text Name="Eat_Item_BossZhuLong_Meat">
+      <Desc>Употреблять Первобытную Плоть</Desc>
+		</Text>
+		<Text Name="Eat_Item_Cake">
+      <Desc>Употреблять Хлеб</Desc>
+		</Text>
+		<Text Name="Eat_Item_MonsterBlood">
+      <Desc>Употреблять Звериную Кровь</Desc>
+		</Text>
+		<Text Name="Eat_Item_EarthEssence">
+      <Desc>Употреблять Поток Земли</Desc>
+		</Text>
+		<Text Name="Eat_Item_SilverGrit">
+      <Desc>Употреблять Порошок Кристаллов Льда</Desc>
+		</Text>
+		<Text Name="Eat_Item_CopperGrit">
+      <Desc>Употреблять Огненный Порошок</Desc>
+		</Text>
+		<Text Name="Eat_Item_Cinnabar">
+      <Desc>Употреблять Киноварь</Desc>
+		</Text>
+		<Text Name="Eat_Item_LingMuXueJie">
+      <Desc>Употреблять Экстракт Древесного Духа </Desc>
+		</Text>
+		<Text Name="Eat_Item_EarthEssence_1">
+      <Desc>Употреблять Святую Эссенцию</Desc>
+		</Text>
+		<Text Name="Eat_Item_EarthEssence1_1">
+      <Desc>Употреблять Злую Эссенцию</Desc>
+		</Text>
+		<Text Name="Eat_Item_Healroot">
+      <Desc>Употреблять Целебные Травы</Desc>
+		</Text>
+		<Text Name="Eat_Item_Mint">
+      <Desc>Употреблять Листья Чистоты</Desc>
+		</Text>
+		<Text Name="Eat_Item_MagicHerb">
+      <Desc>Употреблять Траву Духа</Desc>
+		</Text>
+		<Text Name="Eat_Item_Laxative">
+      <Desc>Употреблять Слабительное</Desc>
+		</Text>
+		<Text Name="Eat_Item_BambooShoot">
+      <Desc>Есть Побеги Бамбука</Desc>
+		</Text>
+		<Text Name="Eat_Item_Bamboo">
+      <Desc>Есть Бамбук</Desc>
+		</Text>
+		<Text Name="FakeEatItem">
+      <Desc>Ссть Что-Нибудь</Desc>
+		</Text>
+		<Text Name="Eat_Item_Dan_SanHuaHuangJing">
+      <Desc>Съесть пилюлю тримерной эссенции</Desc>
+		</Text>
+		<Text Name="Eat_Item_WuDang_HuangJingFen">
+      <Desc>Есть порошок эссенции почвы</Desc>
+		</Text>
+		<Text Name="Eat_Item_Dan_WuQiNoHunger2">
+      <Desc>Есть пилюли для голодания Ци</Desc>
+		</Text>
+  </List>
+</Texts>

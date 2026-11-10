@@ -1,0 +1,267 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="FishBase" sParam="Item">
+      <ThingName>Рыба (Общая)</ThingName>
+      <Item.FabaoSuffix>Сурими, Рыба, Кость</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Fish_StoneCrab" sParam="Item">
+      <ThingName>Краб</ThingName>
+      <Desc>Обыкновенный краб, который живет в грязи и камнях.</Desc>
+    </Text>
+    <Text Name="Fish_Ji" sParam="Item">
+      <ThingName>Карп</ThingName>
+      <Desc>Обыкновенная пресноводная рыба, обитающая в различных водоемах.</Desc>
+    </Text>
+    <Text Name="Fish_t6" sParam="Item">
+      <ThingName>Синий Карликовый Окунь</ThingName>
+      <Desc>Рыбка, которая обитает на "горе Кунь-Лунь".</Desc>
+    </Text>
+    <Text Name="Fish_t8" sParam="Item">
+      <ThingName>Красноголовая Пиранья</ThingName>
+      <Desc>Большая рыба-убийца, обитающая в горах и не боящаяся холода.</Desc>
+    </Text>
+    <Text Name="Fish_s3" sParam="Item">
+      <ThingName>Синий Лещ</ThingName>
+      <Desc>Лещ, который обитает только на "Небесном Пике". Любит есть ледяные травы.</Desc>
+    </Text>
+    <Text Name="Fish_s7" sParam="Item">
+      <ThingName>Высокогорная Камбала</ThingName>
+      <Desc>Камбала, которая обитает только в !!!северо-западных горах!!!.</Desc>
+    </Text>
+    <Text Name="Fish_s9" sParam="Item">
+      <ThingName>Камбала Мрачной Горы</ThingName>
+      <Desc>Камбала, которая обитает только на "Мрачной Горе". Закалённая "Формацией Темной Силы", имеет черный цвет и предпочитает пищу с Ци Металла.</Desc>
+    </Text>
+    <Text Name="Fish_ChillyCrab" sParam="Item">
+      <ThingName>Морозный Краб</ThingName>
+      <Item.FabaoSuffix>Сурими, Ракушка, Кость</Item.FabaoSuffix>
+      <Desc>Краб с нежным мясом, которого можно увидеть только в холодных местах.</Desc>
+    </Text>
+    <Text Name="Fish_BaiHuang" sParam="Item">
+      <ThingName>Снежный Карп</ThingName>
+      <Desc>Редкий вид Карпа, который можно выловить в "Озере Нефритового Камня"" только зимой. Его мясо имеет приятный вкус и может быть съедено сырым.</Desc>
+    </Text>
+    <Text Name="Fish_s1" sParam="Item">
+      <ThingName>Белая Пиранья</ThingName>
+      <Desc>Большая рыба-убийца, белая, как снег, лишь изредка попадающаяся в холодных водах.</Desc>
+    </Text>
+    <Text Name="Fish_r6" sParam="Item">
+      <ThingName>Красноперый Вьюнок</ThingName>
+      <Desc>Редкий Вьюнок с острыми красными плавниками, который обитает в холодных районах и, как говорят, появляется только зимой.</Desc>
+    </Text>
+    <Text Name="Fish_QingHei" sParam="Item">
+      <ThingName>Зелёный Бронеглав</ThingName>
+      <Desc>Рыба с крепкой зеленоватой головой, которую трудно пробить.</Desc>
+    </Text>
+    <Text Name="Fish_t2" sParam="Item">
+      <ThingName>Карась</ThingName>
+      <Desc>Обычная рыба, которая в основном встречается в окрестностях "Горы Южная"</Desc>
+    </Text>
+    <Text Name="Fish_s2" sParam="Item">
+      <ThingName>Лещ</ThingName>
+      <Desc>Плоская, обыкновенная рыба, которая в основном встречается в ручьях и реках близ "Горы Южная"</Desc>
+    </Text>
+    <Text Name="Fish_r8" sParam="Item">
+      <ThingName>Синеперый Угорь</ThingName>
+      <Desc>Говорят, что он появляется только полярной ночью, вблизи "Секты Тайи". Насыщенный энергией (????) он также известен как "Водяная Фея"</Desc>
+    </Text>
+    <Text Name="Fish_s5" sParam="Item">
+      <ThingName>Розовый Лещ</ThingName>
+      <Desc>Розовый Лещ, по слухам, является гибридом карпа и леща. Осенью он плывет из моря в реку, для нереста икры, а его тело становится мягким, чтобы приспособиться к камням в пресноводных реках.</Desc>
+    </Text>
+    <Text Name="Fish_t1" sParam="Item">
+      <ThingName>Лунная Рыба</ThingName>
+      <Desc>Редкая рыба, у которой вкусное сладкое мясо. Живет в "Небесном Бассейне" и появляется только поздней осенней ночью.</Desc>
+    </Text>
+    <Text Name="Fish_t5" sParam="Item">
+      <ThingName>Розовый Карликовый Окунь</ThingName>
+      <Desc>Рыбка, которую часто можно увидеть вблизи "Горы Лотоса".</Desc>
+    </Text>
+    <Text Name="Fish_r2" sParam="Item">
+      <ThingName>Вьюнок</ThingName>
+      <Desc>Длинная, тонкая рыба, которая обитает в грязи возле ручьев.</Desc>
+    </Text>
+    <Text Name="Fish_r1" sParam="Item">
+      <ThingName>Красно-Белая Камбала</ThingName>
+      <Desc>Редкая камбала, обитающая на "Горе Шу".</Desc>
+    </Text>
+    <Text Name="Fish_r11" sParam="Item">
+      <ThingName>Нефритовый Долговяз</ThingName>
+      <Desc>Редкая длинная рыба, встречающаяся в окрестностях "Горы Шу", которая любит Нефритовую эссенцию. Похоже, её притягивает Ци Земли.</Desc>
+    </Text>
+    <Text Name="Fish_FenLi" sParam="Item">
+      <ThingName>Розовый Карп</ThingName>
+      <Desc>Карп, полностью розового цвета. Некоторые думают, что он стал таким из-за цветущих поблизости персиковых цветов.</Desc>
+    </Text>
+    <Text Name="Fish_t11" sParam="Item">
+      <ThingName>Демоническая Пиранья</ThingName>
+      <Desc>Пиранья, которая обитает в болотах на "Диком Юге". Говоривают, что она имеет узоры по всему телу, потому что она вдохнула ауру императора демонов. Появляется только весной.</Desc>
+    </Text>
+    <Text Name="Fish_r3" sParam="Item">
+      <ThingName>Черный Вьюнок</ThingName>
+      <Desc>Черный, большой Вьюнок, который появляется только на "Диком Юге".</Desc>
+    </Text>
+    <Text Name="Fish_Black" sParam="Item">
+      <ThingName>Черный Бронеглав</ThingName>
+      <Desc>Обыкновенная пресноводная рыба, обитающая в основном в реках.</Desc>
+    </Text>
+    <Text Name="Fish_BlueFish" sParam="Item">
+      <ThingName>Синий Карп</ThingName>
+      <Desc>Редкий Карп, обитающий в больших реках. Имеет синее тело, благодаря длительному поглощению Ци Воды.</Desc>
+    </Text>
+    <Text Name="Fish_Huang" sParam="Item">
+      <ThingName>Гладкий Карп</ThingName>
+      <Desc>Златотелая рыба, которая в основном обитает в больших реках.</Desc>
+    </Text>
+    <Text Name="Fish_HongHuang" sParam="Item">
+      <ThingName>Красноголовый Карп</ThingName>
+      <Desc>Карп с красной головой, редко появляется в больших реках.</Desc>
+    </Text>
+    <Text Name="Fish_r13" sParam="Item">
+      <ThingName>Белый Угорь</ThingName>
+      <Desc>Угорь с вкусным, плотным мясом, который обитает только в "Великой Реке".</Desc>
+    </Text>
+    <Text Name="Fish_RedFish" sParam="Item">
+      <ThingName>Радужная Форель</ThingName>
+      <Desc>Красная пресноводная рыба, которая обитает глубоко в реке недалеко от "Города Глаза Бури". Из-за потребности в тепле, зимой плавает ближе к поверхности.</Desc>
+    </Text>
+    <Text Name="Fish_t10" sParam="Item">
+      <ThingName>Нефритовая Пиранья</ThingName>
+      <Desc>Пиранья, которая обитает в Духовной Воде.</Desc>
+    </Text>
+    <Text Name="Fish_JadeCrab" sParam="Item">
+      <ThingName>Нефритовый Краб</ThingName>
+      <Item.FabaoSuffix>Сурими, Ракушка, Кость</Item.FabaoSuffix>
+      <Desc>Очень редкий Краб, который появляется только днем. Его тело насытилось Духовной Водой и стало похожим на Нефрит. Некоторые культиваторы разводили их на "Горе Пяти Лотосов".</Desc>
+    </Text>
+    <Text Name="Fish_s6" sParam="Item">
+      <ThingName>Нефритовый Лещ</ThingName>
+      <Desc>Красивый, полупрозрачный зелёный лещ, который обитает в Духовной Воде. Секты разводят их для декоративных целей.</Desc>
+    </Text>
+    <Text Name="Fish_r5" sParam="Item">
+      <ThingName>Персиковый Вьнок</ThingName>
+      <Desc>Вьюнок, который обитает только в Духовной Воде и любит есть Духовные Камни.</Desc>
+    </Text>
+    <Text Name="Fish_r12" sParam="Item">
+      <ThingName>Нефритовый Угорь</ThingName>
+      <Desc>Редкий Угорь, обитающий в Духовной Воде. Появляется только летом и питается Духовными Корнями.</Desc>
+    </Text>
+    <Text Name="Fish_XieLi" sParam="Item">
+      <ThingName>Демонический Карп</ThingName>
+      <Desc>Карп, который обитает только в Кровавой Воде. Имеет демонические узоры на теле.</Desc>
+    </Text>
+    <Text Name="Fish_t3" sParam="Item">
+      <ThingName>Черноглазый Бронеглав</ThingName>
+      <Desc>Рыба с огромными, черными как смоль глазами. Её можно выловить только в Кровавой Воде.</Desc>
+    </Text>
+    <Text Name="Fish_s4" sParam="Item">
+      <ThingName>Красный Лещ</ThingName>
+      <Desc>Лещ, который обитает только в Кровавой Воде и часто нападает на животных, проходящих рядом.</Desc>
+    </Text>
+    <Text Name="Fish_s11" sParam="Item">
+      <ThingName>Демоническая Камбала</ThingName>
+      <Desc>Редкая Камбала, которая обитает в Кровавой Воде. Обладает неприятным запахом, который держит хищников подальше от неё. Поэтому Кровавая Вода в "Пещере Похоронного Звона" особенно ужасно пахнет летом.</Desc>
+    </Text>
+    <Text Name="Fish_FireCrab" sParam="Item">
+      <ThingName>Огненный Краб</ThingName>
+      <Item.FabaoSuffix>Сурими, Ракушка, Кость</Item.FabaoSuffix>
+      <Desc>Краб, который живет в жарком регионе. Его панцирь, имеет хорошее сопротивление холоду.</Desc>
+    </Text>
+    <Text Name="Fish_HongGui" sParam="Item">
+      <ThingName>Лосось</ThingName>
+      <Desc>Красный Лосось с белой головой, который обитает недалеко от пустыни.</Desc>
+    </Text>
+    <Text Name="Fish_t4" sParam="Item">
+      <ThingName>Золотой Карликовый Окунь</ThingName>
+      <Desc>Рыба, обитающая в пустыне. Относительно устойчив к засухе и голоду по своей природе, предположительно потому, что потребляет только пищу с Ци Дерева.</Desc>
+    </Text>
+    <Text Name="Fish_s10" sParam="Item">
+      <ThingName>Коричневая Камбала</ThingName>
+      <Desc>Камбала, которую можно увидеть в Великой Пустыне.</Desc>
+    </Text>
+    <Text Name="Fish_r4" sParam="Item">
+      <ThingName>Огнемедный Вьюнок</ThingName>
+      <Desc>Вьюнок, который обитает рядом с Огнемедными шахтами и питается минералами . Его тело излучает тепло.</Desc>
+    </Text>
+    <Text Name="Fish_r7" sParam="Item">
+      <ThingName>Песчаный Вьюнок</ThingName>
+      <Desc>Вьюнок, обитающий исключительно в пустыне.</Desc>
+    </Text>
+    <Text Name="Fish_t7" sParam="Item">
+      <ThingName>Большеротая Пиранья</ThingName>
+      <Desc>Рыба с большим ртом, которую часто можно увидеть в море.</Desc>
+    </Text>
+    <Text Name="Fish_t9" sParam="Item">
+      <ThingName>Черная Пиранья</ThingName>
+      <Desc>Редкая Пиранья, обитающая в море.</Desc>
+    </Text>
+    <Text Name="Fish_t12" sParam="Item">
+      <ThingName>Огненная Пиранья</ThingName>
+      <Desc>Пиранья, которую можно увидеть только летом. Лишь немногим удалось увидеть её в "Озере Ядовитого Дракона".</Desc>
+    </Text>
+    <Text Name="Fish_s12" sParam="Item">
+      <ThingName>Темноглазая камбала</ThingName>
+      <Desc>Крупная рыба, которая живет в глубоком море и нерестится только на мелководье.</Desc>
+    </Text>
+    <Text Name="Fish_s8" sParam="Item">
+      <ThingName>Синеперая камбала</ThingName>
+      <Desc>Камбала, которая обычно встречается в море.</Desc>
+    </Text>
+    <Text Name="Fish_r9" sParam="Item">
+      <ThingName>Морской Угорь</ThingName>
+      <Desc>Угорь, который обычно встречается в море.</Desc>
+    </Text>
+    <Text Name="Fish_r10" sParam="Item">
+      <ThingName>Пятнистый Моской Угорь</ThingName>
+      <Desc>Редкий Угорь, живущий в море. Имеет пятнистый рисунок на теле, возможно, из-за того что он часто питается вулканическим пеплом на дне моря.</Desc>
+    </Text>
+    <Text Name="Shrimp1" sParam="Item">
+      <ThingName>Речная Креветка</ThingName>
+      <Desc>Обыкновенная Креветка живёт во всех пресных водах.</Desc>
+    </Text>
+    <Text Name="Shrimp2" sParam="Item">
+      <ThingName>Морская Креветка</ThingName>
+      <Desc>Обыкновенная Креветка из моря, большого размера.</Desc>
+    </Text>
+    <Text Name="Shrimp3" sParam="Item">
+      <ThingName>Фиолетовая Креветка</ThingName>
+      <Desc>Креветка, которая обитает только в горах возле Секты "Небесного Дворца".</Desc>
+    </Text>
+    <Text Name="Shrimp4" sParam="Item">
+      <ThingName>Красная Креветка</ThingName>
+      <Desc>Особый, красный покров креветки, может выдерживать высокую температуру.</Desc>
+    </Text>
+    <Text Name="Shrimp5" sParam="Item">
+      <ThingName>Песчаная Креветка</ThingName>
+      <Desc>Креветка, которая обитает в пустыне, имеет небольшие размеры.</Desc>
+    </Text>
+    <Text Name="Shrimp6" sParam="Item">
+      <ThingName>Волосатая Креветка</ThingName>
+      <Desc>Креветка, которая обитает возле "Великой Реки". Имеет небольшой размер.</Desc>
+    </Text>
+    <Text Name="Shrimp7" sParam="Item">
+      <ThingName>Синеполосая Креветка</ThingName>
+      <Desc>Креветка, обитающая вблизи "Центральных Равнин". Поймать её нелегко.</Desc>
+    </Text>
+    <Text Name="Shrimp8" sParam="Item">
+      <ThingName>Жёлтопятнистая Креветка</ThingName>
+      <Desc>Креветка, которая встречается только возле "Дикого Юга". На вкус горькая.</Desc>
+    </Text>
+    <Text Name="Shrimp9" sParam="Item">
+      <ThingName>Кровавая Креветка</ThingName>
+      <Desc>Креветки, которые живут в Кровавой Воде, очень свирепые.</Desc>
+    </Text>
+    <Text Name="Shrimp10" sParam="Item">
+      <ThingName>Горная Кровавая Креветка</ThingName>
+      <Desc>Креветки, которые живут в горной Кровавой Воде . Едят только пищу с Ци Огня. Будучи агрессивными они также иногда вторгаются в другие водоемы.</Desc>
+    </Text>
+    <Text Name="Shrimp11" sParam="Item">
+      <ThingName>Светящаяся Креветка</ThingName>
+      <Desc>Креветка, которая появляется летними ночами в "Пруду Пяти Драконов". Её тело светятся, как говорят, потому что она ест только пищу с Ци Металла.</Desc>
+    </Text>
+    <Text Name="Shrimp12" sParam="Item">
+      <ThingName>Персиковая Креветка</ThingName>
+      <Desc>Креветка, которая обитает только в "Многолетних Миазмах". Предпологается что, её тело стало розовым из-за цветущих поблизости персиковых цветов.</Desc>
+    </Text>
+  </List>
+</Texts>

@@ -1,0 +1,16 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="ATarget">
+			<DisplayName>Познание</DisplayName>
+		</Text>
+		<Text Name="AScene">
+			<DisplayName>Рассудок</DisplayName>
+		</Text>
+		<Text Name="AEmotion">
+			<DisplayName>Чувства</DisplayName>
+		</Text>
+		<Text Name="FNode">
+			<DisplayName>Проблеск Интеллекта</DisplayName>
+		</Text>
+	</List>
+</Texts>

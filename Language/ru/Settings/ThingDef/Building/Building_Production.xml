@@ -1,0 +1,68 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="WorkPlace" sParam="Building">
+      <ThingName>Рабочее Место</ThingName>
+      <Desc>Не требует никаких материалов, просто участок на земле, чтобы сделать простые инструменты.</Desc>
+    </Text>
+    <Text Name="MaterialWorkPlace" sParam="Building">
+      <ThingName>Материальное рабочее место</ThingName>
+      <Desc>Не требует никаких материалов, просто участок на земле для обработки простых материалов.</Desc>
+    </Text>
+    <Text Name="Bonfire" sParam="Building">
+      <ThingName>Костер</ThingName>
+      <Desc>Простой источник огня, построенный из дров, которые могут принести свет и тепло в его окрестности. Его также можно использовать для простого приготовления пищи.</Desc>
+    </Text>
+    <Text Name="Kitchen" sParam="Building">
+      <ThingName>Плита</ThingName>
+      <Desc>Место, где можно приготовить еду.</Desc>
+    </Text>
+    <Text Name="StoneMaker" sParam="Building">
+      <ThingName>Каменные Работы</ThingName>
+      <Desc>Рабочая станция, используемая для полировки каменных блоков в каменные кирпичи.</Desc>
+    </Text>
+    <Text Name="WeaponMaker" sParam="Building">
+      <ThingName>Кузня</ThingName>
+      <Desc>Рабочая станция, используемая для ковки металлических стержней в различные виды оружия.</Desc>
+    </Text>
+    <Text Name="Furnace" sParam="Building">
+      <ThingName>Печь</ThingName>
+      <Desc>Рабочая станция, используемая для выплавки руды в металлические слитки.</Desc>
+    </Text>
+    <Text Name="TextileTable" sParam="Building">
+      <ThingName>Ткацкий станок</ThingName>
+      <Desc>Рабочая станция, используемая для изготовления ткани путем плетения пряжи или ниток.</Desc>
+    </Text>
+    <Text Name="TailorTable" sParam="Building">
+      <ThingName>Швейный Стол</ThingName>
+      <Desc>Рабочая станция, используемая для изготовления одежды.</Desc>
+    </Text>
+    <Text Name="WoodShed" sParam="Building">
+      <ThingName>Деревянные работы</ThingName>
+      <Desc>Рабочая станция, используемая для переработки древесины в древесину. Это может значительно облегчить эффективное использование древесины.</Desc>
+    </Text>
+    <Text Name="MillStone" sParam="Building">
+      <ThingName>Мельница</ThingName>
+      <Desc>Рабочая станция, используемая для измельчения зерна в порошок для хранения. Это может способствовать эффективному использованию зерна.</Desc>
+    </Text>
+    <Text Name="HandWorkTable" sParam="Building">
+      <ThingName>Ремесленная Станция</ThingName>
+      <Desc>Рабочая станция, используемая для изготовления простых предметов вручную.</Desc>
+    </Text>
+    <Text Name="Well" sParam="Building">
+      <ThingName>Колодец</ThingName>
+      <Desc>Источник воды. Колодезная вода более гигиенична, чем вода из дикой природы, и поэтому менее подвержена болезням.</Desc>
+    </Text>
+    <Text Name="MedicineTable" sParam="Building">
+      <ThingName>Медицинский Стол</ThingName>
+      <Desc>Рабочая станция, используемая для изготовления лекарств.</Desc>
+    </Text>
+    <Text Name="Building_YiTui" sParam="Building">
+      <ThingName>Смертное тело Бессмертного</ThingName>
+      <Desc>Смертное тело, оставленное Вознесенными бессмертными.</Desc>
+    </Text>
+    <Text Name="Building_YiTui1" sParam="Building">
+      <ThingName>Тело божества</ThingName>
+      <Desc>Смертное тело, оставленное Вознесенными божествами.</Desc>
+    </Text>
+  </List>
+</Texts>

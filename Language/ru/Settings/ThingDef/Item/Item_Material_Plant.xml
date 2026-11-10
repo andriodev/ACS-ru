@@ -1,0 +1,10 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="Item_Grass" sParam="Item">
+      <ThingName>Сено</ThingName>
+      <Desc>Охапка сена.</Desc>
+      <Item.FabaoSuffix>Веревка, Шнур, Трава</Item.FabaoSuffix>
+      <Item.BeMaterial.NamePrefix>Сено</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>

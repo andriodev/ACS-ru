@@ -1,0 +1,8 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Plant_Bamboo" sParam="Plant">
+			<ThingName>Бамбук</ThingName>
+			<Desc>Обычное быстрорастущее растение, используемое для создания специальных строений и предметов. После его созревания из корней вырастают съедобные побеги.</Desc>
+		</Text>
+	</List>
+</Texts>

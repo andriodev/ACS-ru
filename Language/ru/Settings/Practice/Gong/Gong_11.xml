@@ -1,0 +1,31 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_11_Tu">
+			<DisplayName>Техника Возвышения Подсолнуха</DisplayName>
+			<Desc>Одна из истинных стихийных  техник секты Тайи. Только женщинам разрешается культивировать  в соответствии с этой техникой. Используйте чистейшую силу Инь из земли, чтобы создать чистый дух Инь, оставьте смертное тело и вознеситесь к бессмертию. Если бы технику будет практиковать мужчина, его пол изменится на противоположный.</Desc>
+			<SelectDesc>Эта техника подходит для женщин. Если мужчина, все же, начнет практиковать этой техники, его пол изменится на противоположный. Практик преуспеет в мастерстве артефактов, возвышаясь по этой технике, но ему придется испытать первые Треволнения во время Формирования Ядра.  Вы уверены, что хотите начать культивировать согласно этой технике?</SelectDesc>
+			<Stages.0.DisplayName>Малый Инь</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Невинность</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nПрорыв на эту ступень будет сложнее для персонажей с низким Восприятием.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Симпатия</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>[color=#D06508]\nПрорыв на эту ступень будет сложнее для персонажей с низким Восприятием.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.0.Necks.2.DisplayName>Чувственность</Stages.0.Necks.2.DisplayName>
+			<Stages.1.DisplayName>Средний Инь</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Открытость</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nПрорыв на эту ступень будет сложнее для персонажей с низким Восприятием.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Сближение</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.1.Desc>[color=#D06508]\nПрорыв на эту ступень будет сложнее для персонажей с низким Восприятием.[/color]</Stages.1.Necks.1.Desc>
+			<Stages.1.Necks.2.DisplayName>Сгущение Ядра</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>Великий Инь</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Доброжелательность</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Искренность</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Неопределенность</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Забвение</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Завершенность</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>Объедините Жемчужину Души взрослого Зверя с чистым духом Инь и завершите этап, используя чистую Инь Ци в ядре.</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Трансформация</Stages.3.Necks.1.DisplayName>
+			<Stages.3.Necks.1.Desc>Разделитесь на тысячи форм с единой душой, и пусть каждая познает жизнь и смерть, чтобы увидеть путь небес. [color=#D06508]\nПрорваться крайне сложно, да и бонуса к опыту не будет.[/color]</Stages.3.Necks.1.Desc>
+			<Stages.3.Necks.2.DisplayName>Гармония</Stages.3.Necks.2.DisplayName>
+		</Text>
+	</List>
+</Texts>

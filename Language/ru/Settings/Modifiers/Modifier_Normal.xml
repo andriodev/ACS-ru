@@ -1,0 +1,10 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_WaitLeave">
+			<DisplayName>Обратный Отсчет Выхода</DisplayName>
+		</Text>
+		<Text Name="Modifier_SpringBox">
+			<DisplayName>Сундук С Весенними Сокровищами</DisplayName>
+		</Text>
+	</List>
+</Texts>

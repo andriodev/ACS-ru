@@ -1,0 +1,280 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Lv4_ProtectTime">
+			<DisplayName>Продолжительность охраны</DisplayName>
+			<Desc>В период безопасности не произойдет случайных приключенческих событий.</Desc>
+			<Values.0.Name>Нет</Values.0.Name>
+			<Values.0.Desc>Периода безопасности не будет.</Values.0.Desc>
+			<Values.1.Name>Короткий</Values.1.Name>
+			<Values.1.Desc>Период безопасности: 75 дней.</Values.1.Desc>
+			<Values.2.Name>Средний</Values.2.Name>
+			<Values.2.Desc>Период безопасности: 150 дней.</Values.2.Desc>
+			<Values.3.Name>Длинный</Values.3.Name>
+			<Values.3.Desc>Период безопасности: 300 дней.</Values.3.Desc>
+			<Values.4.Name>Бесконечный</Values.4.Name>
+			<Values.4.Desc>В этой игре не будет событий.</Values.4.Desc>
+		</Text>
+		<Text Name="Lv4_IntervalMin">
+			<DisplayName>Минимальный интервал</DisplayName>
+			<Desc>Минимальный интервал между двумя случайными приключенческими событиями.</Desc>
+			<Values.0.Name>Короткий</Values.0.Name>
+			<Values.0.Desc>Минимальный интервал: 10 дней.</Values.0.Desc>
+			<Values.1.Name>Средний</Values.1.Name>
+			<Values.1.Desc>Минимальный интервал: 20 дней.</Values.1.Desc>
+			<Values.2.Name>Длинный</Values.2.Name>
+			<Values.2.Desc>Минимальный интервал: 30 дней.</Values.2.Desc>
+		</Text>
+		<Text Name="Lv4_IntervalMax">
+			<DisplayName>Максимальный интервал</DisplayName>
+			<Desc>Если по прошествии максимального интервала случайного приключения не произошло, следующее событие будет случайным.</Desc>
+			<Values.0.Name>Короткий</Values.0.Name>
+			<Values.0.Desc>Максимальный интервал: 35 дней.</Values.0.Desc>
+			<Values.1.Name>Средний</Values.1.Name>
+			<Values.1.Desc>Максимальный интервал: 50 дней.</Values.1.Desc>
+			<Values.2.Name>Длинный</Values.2.Name>
+			<Values.2.Desc>Максимальный интервал: 75 дней.</Values.2.Desc>
+		</Text>
+		<Text Name="EnemyLv2_ProtectTime">
+			<DisplayName>Продолжительность охраны</DisplayName>
+			<Desc>Сильные вражеские события не будут происходить в течение периода безопасности.</Desc>
+			<Values.0.Name>Нет</Values.0.Name>
+			<Values.0.Desc>Периода безопасности не будет.</Values.0.Desc>
+			<Values.1.Name>Короткий</Values.1.Name>
+			<Values.1.Desc>Период безопасности: 30 дней.</Values.1.Desc>
+			<Values.2.Name>Средний</Values.2.Name>
+			<Values.2.Desc>Период безопасности: 60 дней.</Values.2.Desc>
+			<Values.3.Name>Длинный</Values.3.Name>
+			<Values.3.Desc>Период безопасности: 120 дней.</Values.3.Desc>
+			<Values.4.Name>Очень Длинный</Values.4.Name>
+			<Values.4.Desc>Период безопасности: 240 дней.</Values.4.Desc>
+			<Values.5.Name>Бесконечный</Values.5.Name>
+			<Values.5.Desc>В этой игре не будет событий.</Values.5.Desc>
+		</Text>
+		<Text Name="EnemyLv2_IntervalMin">
+			<DisplayName>Минимальный интервал</DisplayName>
+			<Desc>Минимальный интервал между двумя мощными вражескими событиями.</Desc>
+			<Values.0.Name>Короткий</Values.0.Name>
+			<Values.0.Desc>Минимальный интервал: 12 дней.</Values.0.Desc>
+			<Values.1.Name>Средний</Values.1.Name>
+			<Values.1.Desc>Минимальный интервал: 20 дней.</Values.1.Desc>
+			<Values.2.Name>Длинный</Values.2.Name>
+			<Values.2.Desc>Минимальный интервал: 28 дней.</Values.2.Desc>
+		</Text>
+		<Text Name="EnemyLv2_IntervalMax">
+			<DisplayName>Максимальный интервал</DisplayName>
+			<Desc>Если в течение максимального интервала не произошло ни одного события мощного врага, следующим событием будет сильный противник.</Desc>
+			<Values.0.Name>Короткий</Values.0.Name>
+			<Values.0.Desc>Максимальный интервал: 30 дней.</Values.0.Desc>
+			<Values.1.Name>Средний</Values.1.Name>
+			<Values.1.Desc>Максимальный интервал: 40 дней.</Values.1.Desc>
+			<Values.2.Name>Длинный</Values.2.Name>
+			<Values.2.Desc>Максимальный интервал: 50 дней.</Values.2.Desc>
+		</Text>
+		<Text Name="Lv3_ProtectTime">
+			<DisplayName>Продолжительность охраны</DisplayName>
+			<Desc>Редких событий не произойдет в течение периода безопасности.</Desc>
+			<Values.0.Name>Нет</Values.0.Name>
+			<Values.0.Desc>Периода безопасности не будет.</Values.0.Desc>
+			<Values.1.Name>Короткий</Values.1.Name>
+			<Values.1.Desc>Период безопасности: 25 дней.</Values.1.Desc>
+			<Values.2.Name>Средний</Values.2.Name>
+			<Values.2.Desc>Период безопасности: 50 дней.</Values.2.Desc>
+			<Values.3.Name>Длинный</Values.3.Name>
+			<Values.3.Desc>Период безопасности: 100 дней.</Values.3.Desc>
+			<Values.4.Name>Очень Длинный</Values.4.Name>
+			<Values.4.Desc>Период безопасности: 200 дней.</Values.4.Desc>
+			<Values.5.Name>Бесконечный</Values.5.Name>
+			<Values.5.Desc>В этой игре не будет событий.</Values.5.Desc>
+		</Text>
+		<Text Name="Lv3_IntervalMin">
+			<DisplayName>Минимальный интервал</DisplayName>
+			<Desc>Минимальный интервал между двумя редкими событиями.</Desc>
+			<Values.0.Name>Короткий</Values.0.Name>
+			<Values.0.Desc>Минимальный интервал: 5 дней.</Values.0.Desc>
+			<Values.1.Name>Средний</Values.1.Name>
+			<Values.1.Desc>Минимальный интервал: 20 дней.</Values.1.Desc>
+			<Values.2.Name>Длинный</Values.2.Name>
+			<Values.2.Desc>Минимальный интервал: 35 дней.</Values.2.Desc>
+		</Text>
+		<Text Name="Lv3_IntervalMax">
+			<DisplayName>Максимальный интервал</DisplayName>
+			<Desc>Если после истечения максимального интервала редких событий не произошло, следующее событие будет редким.</Desc>
+			<Values.0.Name>Короткий</Values.0.Name>
+			<Values.0.Desc>Максимальный интервал: 40 дней.</Values.0.Desc>
+			<Values.1.Name>Средний</Values.1.Name>
+			<Values.1.Desc>Максимальный интервал: 55 дней.</Values.1.Desc>
+			<Values.2.Name>Длинный</Values.2.Name>
+			<Values.2.Desc>Максимальный интервал: 70 дней.</Values.2.Desc>
+		</Text>
+		<Text Name="Secrets_ProtectTime">
+			<DisplayName>Продолжительность охраны</DisplayName>
+			<Desc>Секретных событий не произойдет в течение периода безопасности.</Desc>
+			<Values.0.Name>Нет</Values.0.Name>
+			<Values.0.Desc>Периода безопасности не будет.</Values.0.Desc>
+			<Values.1.Name>Короткий</Values.1.Name>
+			<Values.1.Desc>Период безопасности: 15 дней.</Values.1.Desc>
+			<Values.2.Name>Средний</Values.2.Name>
+			<Values.2.Desc>Период безопасности: 45 дней.</Values.2.Desc>
+			<Values.3.Name>Длинный</Values.3.Name>
+			<Values.3.Desc>Срок безопасности: 75 дней.</Values.3.Desc>
+			<Values.4.Name>Бесконечный</Values.4.Name>
+			<Values.4.Desc>В этой игре не будет событий.</Values.4.Desc>
+		</Text>
+		<Text Name="Secrets_IntervalMin">
+			<DisplayName>Минимальный интервал</DisplayName>
+			<Desc>Минимальный интервал между двумя секретными событиями.</Desc>
+			<Values.0.Name>Короткий</Values.0.Name>
+			<Values.0.Desc>Минимальный интервал: 1 день.</Values.0.Desc>
+			<Values.1.Name>Средний</Values.1.Name>
+			<Values.1.Desc>Минимальный интервал: 3 дня.</Values.1.Desc>
+			<Values.2.Name>Длинный</Values.2.Name>
+			<Values.2.Desc>Минимальный интервал: 5 дней.</Values.2.Desc>
+		</Text>
+		<Text Name="Secrets_IntervalMax">
+			<DisplayName>Максимальный интервал</DisplayName>
+			<Desc>Если после истечения максимального интервала секретное событие не произошло, следующее событие будет секретным.</Desc>
+			<Values.0.Name>Короткий</Values.0.Name>
+			<Values.0.Desc>Максимальный интервал: 7 дней.</Values.0.Desc>
+			<Values.1.Name>Средний</Values.1.Name>
+			<Values.1.Desc>Максимальный интервал: 9 дней.</Values.1.Desc>
+			<Values.2.Name>Длинный</Values.2.Name>
+			<Values.2.Desc>Максимальный интервал: 15 дней.</Values.2.Desc>
+		</Text>
+		<Text Name="Join_ProtectTime">
+			<DisplayName>Продолжительность охраны</DisplayName>
+			<Desc>В период безопасности событий посетителей не будет.</Desc>
+			<Values.0.Name>Нет</Values.0.Name>
+			<Values.0.Desc>Периода безопасности не будет.</Values.0.Desc>
+			<Values.1.Name>Короткий</Values.1.Name>
+			<Values.1.Desc>Период безопасности: 5 дней.</Values.1.Desc>
+			<Values.2.Name>Средний</Values.2.Name>
+			<Values.2.Desc>Период безопасности: 25 дней.</Values.2.Desc>
+			<Values.3.Name>Длинный</Values.3.Name>
+			<Values.3.Desc>Срок безопасности: 75 дней.</Values.3.Desc>
+			<Values.4.Name>Бесконечный</Values.4.Name>
+			<Values.4.Desc>В этой игре не будет событий.</Values.4.Desc>
+		</Text>
+		<Text Name="Join_IntervalMin">
+			<DisplayName>Минимальный интервал</DisplayName>
+			<Desc>Минимальный интервал между двумя событиями посетителя.</Desc>
+			<Values.0.Name>Короткий</Values.0.Name>
+			<Values.0.Desc>Минимальный интервал: 1 день.</Values.0.Desc>
+			<Values.1.Name>Средний</Values.1.Name>
+			<Values.1.Desc>Минимальный интервал: 3 дня.</Values.1.Desc>
+			<Values.2.Name>Длинный</Values.2.Name>
+			<Values.2.Desc>Минимальный интервал: 5 дней.</Values.2.Desc>
+		</Text>
+		<Text Name="Join_IntervalMax">
+			<DisplayName>Максимальный интервал</DisplayName>
+			<Desc>Если после истечения максимального интервала событие посетителя не произошло, следующим событием будет событие посетителя.</Desc>
+			<Values.0.Name>Короткий</Values.0.Name>
+			<Values.0.Desc>Максимальный интервал: 7 дней.</Values.0.Desc>
+			<Values.1.Name>Средний</Values.1.Name>
+			<Values.1.Desc>Максимальный интервал: 9 дней.</Values.1.Desc>
+			<Values.2.Name>Длинный</Values.2.Name>
+			<Values.2.Desc>Максимальный интервал: 15 дней.</Values.2.Desc>
+		</Text>
+		<Text Name="Enemy_ProtectTime">
+			<DisplayName>Продолжительность охраны</DisplayName>
+			<Desc>В течение периода безопасности вражеские события не происходят.</Desc>
+			<Values.0.Name>Нет</Values.0.Name>
+			<Values.0.Desc>Периода безопасности не будет.</Values.0.Desc>
+			<Values.1.Name>Короткий</Values.1.Name>
+			<Values.1.Desc>Период безопасности: 6 дней.</Values.1.Desc>
+			<Values.2.Name>Средний</Values.2.Name>
+			<Values.2.Desc>Период безопасности: 12 дней.</Values.2.Desc>
+			<Values.3.Name>Длинный</Values.3.Name>
+			<Values.3.Desc>Период безопасности: 24 дня.</Values.3.Desc>
+			<Values.4.Name>Бесконечный</Values.4.Name>
+			<Values.4.Desc>В этой игре не будет событий.</Values.4.Desc>
+		</Text>
+		<Text Name="Enemy_IntervalMin">
+			<DisplayName>Минимальный интервал</DisplayName>
+			<Desc>Минимальный интервал между двумя вражескими событиями.</Desc>
+			<Values.0.Name>Короткий</Values.0.Name>
+			<Values.0.Desc>Минимальный интервал: 2 дня.</Values.0.Desc>
+			<Values.1.Name>Средний</Values.1.Name>
+			<Values.1.Desc>Минимальный интервал: 5 дней.</Values.1.Desc>
+			<Values.2.Name>Длинный</Values.2.Name>
+			<Values.2.Desc>Минимальный интервал: 8 дней.</Values.2.Desc>
+		</Text>
+		<Text Name="Enemy_IntervalMax">
+			<DisplayName>Максимальный интервал</DisplayName>
+			<Desc>Если по прошествии максимального интервала вражеское событие не произошло, следующее событие будет вражеским.</Desc>
+			<Values.0.Name>Короткий</Values.0.Name>
+			<Values.0.Desc>Максимальный интервал: 10 дней.</Values.0.Desc>
+			<Values.1.Name>Средний</Values.1.Name>
+			<Values.1.Desc>Максимальный интервал: 17 дней.</Values.1.Desc>
+			<Values.2.Name>Длинный</Values.2.Name>
+			<Values.2.Desc>Максимальный интервал: 24 дня.</Values.2.Desc>
+		</Text>
+		<Text Name="Lv1_ProtectTime">
+			<DisplayName>Продолжительность охраны</DisplayName>
+			<Desc>Обычных событий не произойдет в течение периода безопасности.</Desc>
+			<Values.0.Name>Нет</Values.0.Name>
+			<Values.0.Desc>Периода безопасности не будет.</Values.0.Desc>
+			<Values.1.Name>Короткий</Values.1.Name>
+			<Values.1.Desc>Период безопасности: 5 дней.</Values.1.Desc>
+			<Values.2.Name>Средний</Values.2.Name>
+			<Values.2.Desc>Период безопасности: 15 дней.</Values.2.Desc>
+			<Values.3.Name>Длинный</Values.3.Name>
+			<Values.3.Desc>Период безопасности: 60 дней.</Values.3.Desc>
+			<Values.4.Name>Бесконечный</Values.4.Name>
+			<Values.4.Desc>В этой игре не будет событий.</Values.4.Desc>
+		</Text>
+		<Text Name="Lv1_IntervalMin">
+			<DisplayName>Минимальный интервал</DisplayName>
+			<Desc>Минимальный интервал между двумя обычными событиями.</Desc>
+			<Values.0.Name>Короткий</Values.0.Name>
+			<Values.0.Desc>Минимальный интервал: 1 день.</Values.0.Desc>
+			<Values.1.Name>Средний</Values.1.Name>
+			<Values.1.Desc>Минимальный интервал: 3 дня.</Values.1.Desc>
+			<Values.2.Name>Длинный</Values.2.Name>
+			<Values.2.Desc>Минимальный интервал: 5 дней.</Values.2.Desc>
+		</Text>
+		<Text Name="Lv1_IntervalMax">
+			<DisplayName>Максимальный интервал</DisplayName>
+			<Desc>Если по прошествии максимального интервала общее событие не произошло, следующее событие будет обычным событием.</Desc>
+			<Values.0.Name>Короткий</Values.0.Name>
+			<Values.0.Desc>Максимальный интервал: 6 дней.</Values.0.Desc>
+			<Values.1.Name>Средний</Values.1.Name>
+			<Values.1.Desc>Максимальный интервал: 8 дней.</Values.1.Desc>
+			<Values.2.Name>Длинный</Values.2.Name>
+			<Values.2.Desc>Максимальный интервал: 10 дней.</Values.2.Desc>
+		</Text>
+		<Text Name="Lv2_ProtectTime">
+			<DisplayName>Продолжительность охраны</DisplayName>
+			<Desc>Расширенные события не будут происходить в течение периода безопасности.</Desc>
+			<Values.0.Name>Нет</Values.0.Name>
+			<Values.0.Desc>Периода безопасности не будет.</Values.0.Desc>
+			<Values.1.Name>Короткий</Values.1.Name>
+			<Values.1.Desc>Период безопасности: 5 дней.</Values.1.Desc>
+			<Values.2.Name>Средний</Values.2.Name>
+			<Values.2.Desc>Период безопасности: 15 дней.</Values.2.Desc>
+			<Values.3.Name>Длинный</Values.3.Name>
+			<Values.3.Desc>Период безопасности: 60 дней.</Values.3.Desc>
+			<Values.4.Name>Бесконечный</Values.4.Name>
+			<Values.4.Desc>В этой игре не будет событий.</Values.4.Desc>
+		</Text>
+		<Text Name="Lv2_IntervalMin">
+			<DisplayName>Минимальный интервал</DisplayName>
+			<Desc>Минимальный интервал между двумя расширенными событиями.</Desc>
+			<Values.0.Name>Короткий</Values.0.Name>
+			<Values.0.Desc>Минимальный интервал: 3 дней.</Values.0.Desc>
+			<Values.1.Name>Средний</Values.1.Name>
+			<Values.1.Desc>Минимальный интервал: 7 дней.</Values.1.Desc>
+			<Values.2.Name>Длинный</Values.2.Name>
+			<Values.2.Desc>Минимальный интервал: 11 дней.</Values.2.Desc>
+		</Text>
+		<Text Name="Lv2_IntervalMax">
+			<DisplayName>Максимальный интервал</DisplayName>
+			<Desc>Если после истечения максимального интервала расширенное событие не произошло, следующее событие будет расширенным событием.</Desc>
+			<Values.0.Name>Короткий</Values.0.Name>
+			<Values.0.Desc>Максимальный интервал: 15 дней.</Values.0.Desc>
+			<Values.1.Name>Средний</Values.1.Name>
+			<Values.1.Desc>Максимальный интервал: 20 дней.</Values.1.Desc>
+			<Values.2.Name>Длинный</Values.2.Name>
+			<Values.2.Desc>Максимальный интервал: 25 дней.</Values.2.Desc>
+		</Text>
+	</List>
+</Texts>

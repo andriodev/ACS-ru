@@ -1,0 +1,14 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="FishTimes">
+      <DisplayName>Выловленная Рыба</DisplayName>
+      <DisplayValue>{0}</DisplayValue>
+      <Desc>Количество рыбы, которую поймал этот культиватор.</Desc>
+    </Text>
+    <Text Name="HeaviestFish">
+      <DisplayName>Самая Тяжелая Рыба</DisplayName>
+      <DisplayValue>{0:f1} Цзинь получается</DisplayValue>
+      <Desc>Вес самой тяжелой рыбы, которую поймал этот культиватор.</Desc>
+    </Text>
+  </List>
+</Texts>

@@ -1,0 +1,36 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Grass" sParam="Plant">
+			<ThingName>Трава</ThingName>
+			<Desc>Дикорастущее растение.</Desc>
+		</Text>
+		<Text Name="IceGrass" sParam="Plant">
+			<ThingName>Ледяная трава</ThingName>
+			<Desc>Дикорастущее растение, прорастающее в заснеженных равнинах.</Desc>
+		</Text>
+		<Text Name="Reed" sParam="Plant">
+			<ThingName>Тростник</ThingName>
+			<Desc>Красивое растение - растёт возле водоёмов.</Desc>
+		</Text>
+		<Text Name="LongGrass" sParam="Plant">
+			<ThingName>Высокая трава</ThingName>
+			<Desc>Дикорастущее растение.</Desc>
+		</Text>
+		<Text Name="Raspberry" sParam="Plant">
+			<ThingName>Амбра</ThingName>
+			<Desc>Её плоды смачиваются драконьей слюной, оказывающей особое духовное воздействие, которое предотвращает чувство голода и истощения в течение полудня. После сбора плоды быстро портятся.</Desc>
+		</Text>
+		<Text Name="Lotus" sParam="Plant">
+			<ThingName>Лотос</ThingName>
+			<Desc>Красивое растение со съедобным корнем - растёт в воде.</Desc>
+		</Text>
+		<Text Name="LittleRock" sParam="Plant">
+			<ThingName>Камни</ThingName>
+			<Desc>Разбросаны по земле.</Desc>
+		</Text>
+		<Text Name="IceLittleRock" sParam="Plant">
+			<ThingName>Ледяные камни</ThingName>
+			<Desc>Разбросаны по земле.</Desc>
+		</Text>
+	</List>
+</Texts>

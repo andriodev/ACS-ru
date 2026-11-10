@@ -1,0 +1,20 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="JueSeJiNeng">
+			<DisplayName>Проверка навыков персонажа</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong1_Test">
+			<DisplayName>Стандартные данные персонажа в поздней игре</DisplayName>
+		</Text>
+		<Text Name="Boss_Player_Test">
+			<DisplayName>Данные теста персонажей</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_Test">
+			<DisplayName>Дракон Потопа</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_LongNu_Test">
+			<DisplayName>Гнев Дракона</DisplayName>
+			<Desc>Демонический дракон впадает в состояние ярости, что приводит к увеличению всех характеристик.</Desc>
+		</Text>
+	</List>
+</Texts>

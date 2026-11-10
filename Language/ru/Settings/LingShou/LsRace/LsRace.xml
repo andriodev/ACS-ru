@@ -1,0 +1,54 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="LsDog">
+			<PossibleMagic.0.DisplayName>Поливать растения</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Поливайте растения, заставляя их быстрее созревать. Можно использовать только через поведение питомца, нельзя использовать вручную.</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>Удобрять почву</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Меняет собственный рост и питание, чтобы превратить участок земли в плодородную почву. \n[color=#FF0000]Для этого нужно быть зрелым.[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>Действовать игриво</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>Действуйте игриво по отношению к персонажу, используя энтузиазм и харизму, чтобы сломать защиту вокруг его сердца. \n[color=#FF0000]Requires 100 Intelligence.[/color]</PossibleMagic.2.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Требуется 50 защиты[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Требуется 100 защиты[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Требуется заклинание 50[/color]</PossibleSkill.2.Desc>
+			<PossibleSkill.3.Desc>[color=#FF0000]Требуется 100 заклинаний[/color]</PossibleSkill.3.Desc>
+		</Text>
+		<Text Name="LsFox">
+			<PossibleMagic.0.DisplayName>Панацея</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Лечит внутренние травмы ученика. Можно использовать только через поведение питомца, нельзя использовать вручную.</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>Духовная почва Творца</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Меняет собственный рост и питание, чтобы превратить участок земли в духовную почву. \n[color=#FF0000]Для этого необходимо быть зрелым.[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>Действовать игриво</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>Играет со странствующим торговцем игриво, чтобы выслужиться. \n[color=#FF0000]Требуется 100 интеллекта.[/color]</PossibleMagic.2.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Требуется 50 ядер[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Требуется заклинание 50[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Требуется 50 ци[/color]</PossibleSkill.2.Desc>
+			<PossibleSkill.3.Desc>[color=#FF0000]Требуется 100 ци[/color]</PossibleSkill.3.Desc>
+		</Text>
+		<Text Name="LsDragon">
+			<PossibleMagic.0.DisplayName>Холодный ветер</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Лечит тепловой удар ученика. Можно использовать только через поведение питомца, нельзя использовать вручную.</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>Рассеивание холодной тюрьмы</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Как существо того же типа, что и дракон Потопа, он может развеять Холодную тюрьму, которую оставляют драконы Потопа. \n [color=#FF0000]Для этого нужно быть зрелым.[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>Ледяное дыхание</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>Использует истинную ци дракона Потопа изнутри, чтобы изгнать палящий жар. \n[color=#FF0000]Для этого нужно быть зрелым.[/color]</PossibleMagic.2.Desc>
+			<PossibleMagic.3.DisplayName>Известная мощь</PossibleMagic.3.DisplayName>
+			<PossibleMagic.3.Desc>Продемонстрируйте свою невероятную мощь перед агентством, чтобы повысить стабильность. [color=#FF0000]Для разблокировки требуется 100 интеллекта.[/color]</PossibleMagic.3.Desc>
+			<PossibleSkill.0.Desc>Гром наводнения</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Требуется заклинание 50[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Требуется 100 заклинаний[/color]</PossibleSkill.2.Desc>
+		</Text>
+		<Text Name="LsPhoenix">
+			<PossibleMagic.0.DisplayName>Заклинание печи</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Лечит обморожение ученика. Можно использовать только через поведение питомца, нельзя использовать вручную.</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>Палящее дыхание</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Использует Истинную Ци Феникса изнутри, чтобы избавиться от сильного холода. \n[color=#FF0000]Для этого нужно быть зрелым.[/color]</PossibleMagic.1.Desc>
+			<PossibleMagic.2.DisplayName>Пронзительный взгляд</PossibleMagic.2.DisplayName>
+			<PossibleMagic.2.Desc>Предоставьте проникающее зрение внутреннему ученику, чтобы он мог видеть истинные особенности предмета на аукционе. \n[color=#FF0000]Для разблокировки требуется 50 интеллекта. [/color]</PossibleMagic.2.Desc>
+			<PossibleMagic.3.DisplayName>Благоприятные знаки</PossibleMagic.3.DisplayName>
+			<PossibleMagic.3.Desc>Продемонстрируйте свою невероятную ночь перед агентством, чтобы повысить привлекательность вашей стороны. [color=#FF0000]Для разблокировки требуется 100 интеллекта.[/color]</PossibleMagic.3.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Требуется 50 ядер[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Требуется заклинание 50[/color]</PossibleSkill.1.Desc>
+			<PossibleSkill.2.Desc>[color=#FF0000]Требуется 100 заклинаний[/color]</PossibleSkill.2.Desc>
+		</Text>
+	</List>
+</Texts>

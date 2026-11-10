@@ -1,0 +1,108 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Npc_QiXia_1">
+			<LastName>Ган</LastName>
+			<FristName>Минг</FristName>
+		</Text>
+		<Text Name="Npc_QiXia_2">
+			<LastName>Юэ</LastName>
+			<FristName>Цинчжоу</FristName>
+		</Text>
+		<Text Name="Npc_QiXia_3">
+			<LastName>Линь</LastName>
+			<FristName>Сиюань</FristName>
+		</Text>
+		<Text Name="Npc_QiXia_4">
+			<LastName>Нинг</LastName>
+			<FristName>Сяо</FristName>
+		</Text>
+		<Text Name="Npc_BaiMan_1">
+			<LastName>Ба</LastName>
+			<FristName>Хан</FristName>
+		</Text>
+		<Text Name="Npc_BaiMan_2">
+			<LastName>Сидао</LastName>
+			<FristName>Чжо</FristName>
+		</Text>
+		<Text Name="Npc_BaiMan_3">
+			<LastName>Бай</LastName>
+			<FristName>Чжи</FristName>
+		</Text>
+		<Text Name="Npc_QiSha_1">
+			<LastName>Чи</LastName>
+			<FristName>Данцю</FristName>
+		</Text>
+		<Text Name="Npc_QiSha_2">
+			<LastName>Ю</LastName>
+			<FristName>Моран</FristName>
+		</Text>
+		<Text Name="Npc_HeHuan_1">
+			<LastName>Цинг</LastName>
+			<FristName>Юлан</FristName>
+		</Text>
+		<Text Name="Npc_HeHuan_2">
+			<LastName>Инь</LastName>
+			<FristName>Лиан</FristName>
+		</Text>
+		<Text Name="Npc_QiQian_1">
+			<LastName>Чжунли</LastName>
+			<FristName>Дэ</FristName>
+		</Text>
+		<Text Name="Npc_QiQian_2">
+			<LastName>Чу</LastName>
+			<FristName>Фэй</FristName>
+		</Text>
+		<Text Name="Npc_ZiXiao_1">
+			<LastName>Шенту</LastName>
+			<FristName>Хи</FristName>
+		</Text>
+		<Text Name="Npc_ZiXiao_2">
+			<LastName>Син</LastName>
+			<FristName>Ци</FristName>
+		</Text>
+		<Text Name="Npc_ZiXiao_3">
+			<LastName>Цин</LastName>
+			<FristName>Цие</FristName>
+		</Text>
+		<Text Name="Npc_ZhengYi_1">
+			<LastName>Ли</LastName>
+			<FristName>Сунбо</FristName>
+		</Text>
+		<Text Name="Npc_ZhengYi_2">
+			<LastName>Йе</LastName>
+			<FristName>Байху</FristName>
+		</Text>
+		<Text Name="Npc_KunLun_1">
+			<LastName>Джи</LastName>
+			<FristName>Цие</FristName>
+		</Text>
+		<Text Name="Npc_KunLun_2">
+			<LastName>Ли</LastName>
+			<FristName>Вэйян</FristName>
+		</Text>
+		<Text Name="Npc_KunLun_3">
+			<LastName>Гу</LastName>
+			<FristName>Конг</FristName>
+		</Text>
+		<Text Name="Npc_DanXia_1">
+			<LastName>Су</LastName>
+			<FristName>Бинлуан</FristName>
+		</Text>
+		<Text Name="Npc_DanXia_2">
+			<LastName>Се</LastName>
+			<FristName>Си</FristName>
+		</Text>
+		<Text Name="Npc_DanXia_3">
+			<LastName>Хуо</LastName>
+			<FristName>Ли</FristName>
+		</Text>
+		<Text Name="Npc_JiTian_1">
+			<LastName>Хе</LastName>
+			<FristName>Зудао</FristName>
+		</Text>
+		<Text Name="Npc_Shu_1">
+			<LastName>Инь</LastName>
+			<FristName>Ян</FristName>
+		</Text>
+	</List>
+</Texts>

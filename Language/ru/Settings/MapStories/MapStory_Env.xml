@@ -1,0 +1,23 @@
+﻿<Texts Type="Story">
+	<List>
+		<Text Name="DiMuWish">
+			<DisplayName>Поклонение</DisplayName>
+			<Desc>Предложите камни духа святилищу Матери Земли</Desc>
+			<Selections.0.Display>Желание: Духовные Камни</Selections.0.Display>
+			<Selections.1.Display>Желание: Природа</Selections.1.Display>
+		</Text>
+		<Text Name="YinYangCanWu">
+			<DisplayName>Инь Ян Вдохновение</DisplayName>
+			<Desc>Камень Инь-Ян содержит правило Инь и Ян. Медитируйте на него, чтобы получить понимание практики культивирования.</Desc>
+			<Selections.0.Display>Инь Ян Вдохновение</Selections.0.Display>
+			<Selections.1.Display>Ничего не произошло...</Selections.1.Display>
+		</Text>
+		<Text Name="FeelQi">
+			<DisplayName>Почувствуйте Ци</DisplayName>
+			<Desc>Вокруг Светящегося дерева есть какая-то невероятная Ци, которая может резонировать
+				с культиваторами.</Desc>
+			<Selections.0.Display>Почувствуйте Ци</Selections.0.Display>
+			<Selections.1.Display>Ничего не произошло...</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

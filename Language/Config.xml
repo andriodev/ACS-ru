@@ -1,0 +1,33 @@
+<Languages><List>
+	<Language Name="ru">
+		<DisplayName>Русский</DisplayName>
+		<Icon>RUflag.png</Icon>
+		<!--0:CNMODE 1:ENMODE-->
+		<UIMode>1</UIMode>
+		<Desc>Русский язык мод</Desc>
+		<!--Word Connect with space-->
+		<SpaceConnect>true</SpaceConnect>
+		<!--FamilyName Postposition-->
+		<FamilyPostposition>false</FamilyPostposition>
+		<Labels>
+			<li Label="[ENHIM]" SecondPersonF="her" SecondPersonM="him"/>
+			<li Label="[ENHERS]" SecondPersonF="hers" SecondPersonM="his"/>
+			<li Label="[ENHIM2]" ThirdPersonF="her" ThirdPersonM="him"/>
+			<li Label="[ENHERS2]" ThirdPersonF="hers" ThirdPersonM="his"/>
+
+			<li Label="[he]" SecondPersonF="она" SecondPersonM="он"/>
+			<li Label="[him]" SecondPersonF="ей" SecondPersonM="ему"/>
+			<li Label="[his]" SecondPersonF="её" SecondPersonM="его"/>
+
+			<li Label="[enverb]" SecondPersonF="а" SecondPersonM="​"/>
+			<li Label="[enverb2]" SecondPersonF="на" SecondPersonM="ен"/>
+			<li Label="[enverb3]" SecondPersonF="ась" SecondPersonM="ся"/>
+			<li Label="[enverb4]" SecondPersonF="ла" SecondPersonM="ел"/>
+			<li Label="[enverb5]" SecondPersonF="ла" SecondPersonM="​"/>
+
+			<li Label="[enadj]" SecondPersonF="ая" SecondPersonM="ый"/>
+			<li Label="[enadjabl]" SecondPersonF="ой" SecondPersonM="им"/>
+			<li Label="[enadjabl2]" SecondPersonF="ой" SecondPersonM="ым"/>
+		</Labels>
+	</Language>
+</List></Languages>

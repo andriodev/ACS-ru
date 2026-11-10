@@ -1,0 +1,28 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Reader">
+			<DisplayName>Интеллектуальный</DisplayName>
+			<Desc>Хорошо образованный человек, способный вникнуть в суть сложного содержания.</Desc>
+		</Text>
+		<Text Name="Craftsman">
+			<DisplayName>Ремесленник</DisplayName>
+			<Desc>У этого человека золотые руки. Способен создавать вещи быстро и качественно.</Desc>
+		</Text>
+		<Text Name="CraftsmanEX">
+			<DisplayName>Моделист</DisplayName>
+			<Desc>Человек, одержимый моделями, у которого в результате есть пара умелых и ловких рук. Создаёт отличные вещи быстро и качественно.</Desc>
+		</Text>
+		<Text Name="Artist">
+			<DisplayName>Художник</DisplayName>
+			<Desc>Человек с чутким сердцем и бурными эмоциями. Обладает исключительным воображением.</Desc>
+		</Text>
+		<Text Name="Warrior">
+			<DisplayName>Воин</DisplayName>
+			<Desc>Прирожденный воин, [he] способ[enverb2] терпеть боль, оставаясь спокойным и собранным, в любых обстоятельствах.</Desc>
+		</Text>
+		<Text Name="DeepPotential">
+			<DisplayName>Корень Мудрости</DisplayName>
+			<Desc>Человек, преисполненный мудрости с самого рождения, он может совершенствоваться без особых усилий.</Desc>
+		</Text>
+	</List>
+</Texts>

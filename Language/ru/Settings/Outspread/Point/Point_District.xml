@@ -1,0 +1,85 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Point_FarmBase">
+			<DisplayName>Поле</DisplayName>
+		</Text>
+		<Text Name="Point_MineBase">
+			<DisplayName>Шахта</DisplayName>
+		</Text>
+		<Text Name="Point_LumberBase">
+			<DisplayName>Лесозаготовительный лагерь</DisplayName>
+		</Text>
+		<Text Name="Point_LingBase">
+			<DisplayName>Шахта Камня Духа</DisplayName>
+		</Text>
+		<Text Name="Point_CentralPlains4">
+			<DisplayName>Цветение</DisplayName>
+		</Text>
+		<Text Name="Point_CentralPlains2">
+			<DisplayName>Пик Алхимика</DisplayName>
+		</Text>
+		<Text Name="Point_CentralPlains5">
+			<DisplayName>Тростниковая деревня</DisplayName>
+		</Text>
+		<Text Name="Point_CentralPlains1">
+			<DisplayName>Гора Облачный Предел</DisplayName>
+		</Text>
+		<Text Name="Point_CentralPlains3">
+			<DisplayName>Гора Меса</DisplayName>
+		</Text>
+		<Text Name="Point_BirthPlace12">
+			<DisplayName>Гора Полнолуние</DisplayName>
+		</Text>
+		<Text Name="Point_BirthPlace14">
+			<DisplayName>Гора Медная гробница</DisplayName>
+		</Text>
+		<Text Name="Point_BirthPlace15">
+			<DisplayName>Руины Тайи</DisplayName>
+		</Text>
+		<Text Name="Point_BirthPlace13">
+			<DisplayName>Гора Бесплодный</DisplayName>
+		</Text>
+		<Text Name="Point_BirthPlace11">
+			<DisplayName>Деревня Наньпин</DisplayName>
+		</Text>
+		<Text Name="Point_FertileField3">
+			<DisplayName>Деревня Ратун</DisplayName>
+		</Text>
+		<Text Name="Point_FertileField4">
+			<DisplayName>Гора Кассия</DisplayName>
+		</Text>
+		<Text Name="Point_FertileField5">
+			<DisplayName>Гора Раскаяния</DisplayName>
+		</Text>
+		<Text Name="Point_FertileField1">
+			<DisplayName>Город Пик Гейла</DisplayName>
+		</Text>
+		<Text Name="Point_FertileField2">
+			<DisplayName>Город Солнцестояния</DisplayName>
+		</Text>
+		<Text Name="Point_Desert2">
+			<DisplayName>Миражные пустоши</DisplayName>
+		</Text>
+		<Text Name="Point_Desert4">
+			<DisplayName>Деревня дюн</DisplayName>
+		</Text>
+		<Text Name="Point_Desert3">
+			<DisplayName>Пылающее гнездо</DisplayName>
+		</Text>
+		<Text Name="Point_Snowfield1">
+			<DisplayName>Небесная долина раковин</DisplayName>
+		</Text>
+		<Text Name="Point_Snowfield3">
+			<DisplayName>Равнины метели</DisplayName>
+		</Text>
+		<Text Name="Point_Snowfield2">
+			<DisplayName>Озеро Джейдстоун</DisplayName>
+		</Text>
+		<Text Name="Point_SouthForest1">
+			<DisplayName>Многолетние миазмы</DisplayName>
+		</Text>
+		<Text Name="Point_SouthForest3">
+			<DisplayName>Червивая Долина</DisplayName>
+		</Text>
+	</List>
+</Texts>

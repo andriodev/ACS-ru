@@ -1,0 +1,103 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="Bed" sParam="Building">
+      <ThingName>Кровать</ThingName>
+      <Desc>Односпальная кровать, которая обеспечит вам хороший ночной сон.</Desc>
+    </Text>
+    <Text Name="DoubleBed" sParam="Building">
+      <ThingName>Двуспальная Кровать</ThingName>
+      <Desc>Двуспальная кровать, подходящая для двух человек.</Desc>
+    </Text>
+    <Text Name="SmallTable" sParam="Building">
+      <ThingName>Стол</ThingName>
+      <Desc>Простой стол для людей, чтобы поесть.</Desc>
+    </Text>
+    <Text Name="Table" sParam="Building">
+      <ThingName>Малый Стол</ThingName>
+      <Desc>Традиционный стол для ужина.</Desc>
+    </Text>
+    <Text Name="WaterTank" sParam="Building">
+      <ThingName>Чан Для Воды</ThingName>
+      <Desc>Контейнер для хранения и очистки воды. Может быть очень удобно иметь место, где требуется частое использование воды.</Desc>
+    </Text>
+    <Text Name="SmallPool" sParam="Building">
+      <ThingName>Бассейн Судьбы</ThingName>
+      <Desc>Бассейн, сделанный из огненной меди и ледяного хрусталя с семенем удачи в качестве его ядра. Он может постепенно улучшить качество окружающей земли.</Desc>
+    </Text>
+    <Text Name="StreetLight" sParam="Building">
+      <ThingName>Фонарный Столб</ThingName>
+      <Desc>Декоративный свет, который светит ночью, чтобы осветить его окрестности.</Desc>
+    </Text>
+    <Text Name="StreetLight1" sParam="Building">
+      <ThingName>Фонарный Столб</ThingName>
+      <Desc>Декоративный свет, который светит ночью, чтобы осветить его окрестности.</Desc>
+    </Text>
+    <Text Name="StreetLight2" sParam="Building">
+      <ThingName>Фонарный Столб</ThingName>
+      <Desc>Декоративный свет, который светит ночью, чтобы осветить его окрестности.</Desc>
+    </Text>
+    <Text Name="Lantern" sParam="Building">
+      <ThingName>Фонарь</ThingName>
+      <Desc>Свет, который светит ночью, чтобы осветить его окрестности.</Desc>
+    </Text>
+    <Text Name="Lantern1" sParam="Building">
+      <ThingName>Фонарь</ThingName>
+      <Desc>Свет, который светит ночью, чтобы осветить его окрестности.</Desc>
+    </Text>
+    <Text Name="Lantern2" sParam="Building">
+      <ThingName>Фонарь (Защита)</ThingName>
+    </Text>
+    <Text Name="Lantern3" sParam="Building">
+      <ThingName>Фонарь</ThingName>
+      <Desc>Свет, который светит ночью, чтобы осветить его окрестности.</Desc>
+    </Text>
+    <Text Name="Lantern4" sParam="Building">
+      <ThingName>Фонарь</ThingName>
+      <Desc>Свет, который светит ночью, чтобы осветить его окрестности.</Desc>
+    </Text>
+    <Text Name="Lantern5" sParam="Building">
+      <ThingName>Фонарь Процветания</ThingName>
+      <Desc>Свет, который светит ночью, чтобы осветить его окрестности.</Desc>
+    </Text>
+    <Text Name="Lantern6" sParam="Building">
+      <ThingName>Фонарь Гармонии</ThingName>
+      <Desc>Свет, который светит ночью, чтобы осветить его окрестности.</Desc>
+    </Text>
+    <Text Name="Lantern_S1" sParam="Building">
+      <ThingName>Вытянутый Фонарь</ThingName>
+      <Desc>Свет, который светит ночью, чтобы осветить его окрестности.</Desc>
+    </Text>
+    <Text Name="Candlestick" sParam="Building">
+      <ThingName>Масляная Лампа</ThingName>
+      <Desc>Свет, часто используемый в помещении, который светит ночью, чтобы осветить его окружение.</Desc>
+    </Text>
+    <Text Name="TicTacToe" sParam="Building">
+      <ThingName>Крестики-нолики</ThingName>
+      <Desc>Не требует никаких материалов, просто пустое место на земле, чтобы играть в крестики-нолики.</Desc>
+    </Text>
+    <Text Name="GoTable" sParam="Building">
+      <ThingName>Гобан</ThingName>
+      <Desc>Короткий стол Го с сеткой 19x19 для двух человек, чтобы играть в отличную игру Го.</Desc>
+    </Text>
+    <Text Name="GuzhengTable" sParam="Building">
+      <ThingName>Стол Для Цитры</ThingName>
+      <Desc>Стол с китайской Цитрой, на котором может играть один человек.</Desc>
+    </Text>
+    <Text Name="CalligraphyTable" sParam="Building">
+      <ThingName>Стол Для Талисманов</ThingName>
+      <Desc>Стол с кистями для письма, чернильными палочками, бумагой и чернильными камнями на нем, которые можно использовать для рисования талисманов. Кроме того, он также может быть использован для отдыха.</Desc>
+    </Text>
+    <Text Name="CageShelf" sParam="Building">
+      <ThingName>Птичья Клетка</ThingName>
+      <Desc>Прекрасно сделанная птичья клетка для людей, которые держат птиц и насекомых.</Desc>
+    </Text>
+    <Text Name="Building_Tomb" sParam="Building">
+      <ThingName>Могила</ThingName>
+      <Desc>Простое место погребения мертвых.</Desc>
+    </Text>
+    <Text Name="Building_BigTomb" sParam="Building">
+      <ThingName>Гробница</ThingName>
+      <Desc>Место погребения мертвых.</Desc>
+    </Text>
+  </List>
+</Texts>

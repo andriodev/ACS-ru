@@ -1,0 +1,28 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="LsPanda_Carve" sParam="Building">
+      <ThingName>Божественная Статуя Панды</ThingName>
+      <Desc>Статуя Божественной панды. Может быть использован для оживления или вызова Божественной панды.</Desc>
+    </Text>
+    <Text Name="BambooBed" sParam="Building">
+      <ThingName>Бамбуковая Кровать</ThingName>
+      <Desc>Уютная бамбуковая односпальная кровать, которая обеспечит вам хороший ночной сон.</Desc>
+    </Text>
+    <Text Name="Building_BambooScreen1" sParam="Building">
+      <ThingName>Бамбуковый Складной Экран</ThingName>
+    </Text>
+    <Text Name="Building_WaterWheel" sParam="Building">
+      <ThingName>Водяное колесо</ThingName>
+    </Text>
+    <Text Name="Building_BambooScreen2" sParam="Building">
+      <ThingName>Бамбуковый Складной Экран</ThingName>
+    </Text>
+    <Text Name="BambooLight" sParam="Building">
+      <ThingName>Бамбуковый Фонарный Столб</ThingName>
+      <Desc>Декоративный свет, который светит ночью, чтобы осветить его окрестности.</Desc>
+    </Text>
+    <Text Name="Building_BambooPavilion" sParam="Building">
+      <ThingName>Бамбуковый Павильон</ThingName>
+    </Text>
+  </List>
+</Texts>

@@ -1,0 +1,16 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Point_Discipline">
+			<DisplayName>Пустая область</DisplayName>
+		</Text>
+		<Text Name="Point_Secret">
+			<DisplayName>Пустая область</DisplayName>
+		</Text>
+		<Text Name="Point_Sermon">
+			<DisplayName>Пустая область</DisplayName>
+		</Text>
+		<Text Name="Point_Recuit">
+			<DisplayName>Пустая область</DisplayName>
+		</Text>
+	</List>
+</Texts>

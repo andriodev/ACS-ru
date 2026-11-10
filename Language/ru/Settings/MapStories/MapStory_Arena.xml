@@ -1,0 +1,10 @@
+﻿<Texts Type="Story">
+	<List>
+		<Text Name="RPGOnlineNpc">
+			<DisplayName>Тест</DisplayName>
+			<Selections.0.Display>Загрузите персонажа</Selections.0.Display>
+			<Selections.1.Display>Вызвать врага</Selections.1.Display>
+			<Selections.2.Display>Уйти</Selections.2.Display>
+		</Text>
+	</List>
+</Texts>

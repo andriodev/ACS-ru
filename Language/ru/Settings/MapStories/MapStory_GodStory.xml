@@ -1,0 +1,50 @@
+﻿<Texts Type="Story">
+	<List>
+		<Text Name="GodStory_1">
+			<DisplayName>Распространение учения</DisplayName>
+			<Desc> [NAME] проповедует в пути, оказывая помощь смертным, попавшим в беду.</Desc>
+			<Selections.0.Display>Хорошо</Selections.0.Display>
+		</Text>
+		<Text Name="GodStory_2">
+			<DisplayName>Распространение учения</DisplayName>
+			<Desc>Во время путешествия в [PLACE], [NAME] втречает простых смертных, попавших в беду, и помогает им.</Desc>
+			<Selections.0.Display>Хорошо</Selections.0.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_1">
+			<DisplayName>Войны мирян</DisplayName>
+			<Desc>[NAME] прибывает в [PLACE], и обнаруживает пожар войны, сжигающий здешние места, и народ испивающий горе войны.</Desc>
+			<Selections.0.Display>Уговорить прекратить войну</Selections.0.Display>
+			<Selections.1.Display>Грозное подавление</Selections.1.Display>
+			<Selections.1.Tip>Стадия Золотого Ядра</Selections.1.Tip>
+			<Selections.2.Display>Уйти</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_2">
+			<DisplayName>Эпидемия чумы</DisplayName>
+			<Desc>[NAME] достигнув [PLACE] обнаруживает, что чума сеет хаос становясь все сильнее, и есть несколько деревень, где в живых не осталось даже кур и собак.</Desc>
+			<Selections.0.Display>Вложить все сердце в лечение</Selections.0.Display>
+			<Selections.0.Tip>Стадия Золотого Ядра</Selections.0.Tip>
+			<Selections.1.Display>Изолировать и уничтожить</Selections.1.Display>
+			<Selections.2.Display>Уйти</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_3">
+			<DisplayName>Демонические и смутные времена</DisplayName>
+			<Desc>[NAME] прибыв в [PLACE] обнаруживает, что это место наполнено зловещей Ци, а в окрестностях люди напуганы и полны тревог.</Desc>
+			<Selections.0.Display>Разработать план искоренения нечистой силы</Selections.0.Display>
+			<Selections.1.Display>Гневно сеять смерть</Selections.1.Display>
+			<Selections.1.Tip>Стадия Золотого Ядра</Selections.1.Tip>
+			<Selections.2.Display>Уйти</Selections.2.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_4">
+			<DisplayName>Стихийное бедствие</DisplayName>
+			<Desc>К в тот момент когда [NAME] прибывает в [PLACE], то обнаруживает, что среди местных жителей множество погибших и раненых, и они в панике пытаются скрыться от стихийных бедствий.</Desc>
+			<Selections.0.Display>Оказать помощь пострадавшим</Selections.0.Display>
+			<Selections.1.Display>Уйти</Selections.1.Display>
+		</Text>
+		<Text Name="Secrets_GodStory_Gong_God_1">
+			<DisplayName>Утерянное учение</DisplayName>
+			<Desc> [NAME] прийдя к ущелью с горным ручьем, о котором говорил агент, обнаруживает в этом месте обильные вспышки молний. Однако они отличаются от тех что передавались в учении этого времени, похоже тут кроется что-то необычное.</Desc>
+			<Selections.0.Display>Проверить горный ручей</Selections.0.Display>
+			<Selections.1.Display>Уйти</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

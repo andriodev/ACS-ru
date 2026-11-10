@@ -1,0 +1,16 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="TSheildSkill">
+      <DisplayName>Усиление Защиты</DisplayName>
+    </Text>
+    <Text Name="SheildSkill_Gong5_1">
+      <DisplayName>Коагуляционный Щит</DisplayName>
+    </Text>
+    <Text Name="SheildSkill_Gong4_1">
+      <DisplayName>Духовный Щит</DisplayName>
+    </Text>
+    <Text Name="SheildSkill_Gong11_1">
+      <DisplayName>Эгида пустоты</DisplayName>
+    </Text>
+  </List>
+</Texts>

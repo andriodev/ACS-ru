@@ -1,0 +1,44 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Dandelion" sParam="Plant">
+			<ThingName>Одуванчик</ThingName>
+			<Desc>Маленький красивый цветок.</Desc>
+		</Text>
+		<Text Name="Flower1" sParam="Plant">
+			<ThingName>Весенняя Надежда</ThingName>
+			<Desc>Красивые растения, обладают слабым элементом Дерева.</Desc>
+		</Text>
+		<Text Name="IceFlower1" sParam="Plant">
+			<ThingName>Ледяной цветок</ThingName>
+			<Desc>Красивые растения, обладают слабыми элементом Дерева.</Desc>
+		</Text>
+		<Text Name="Flower2" sParam="Plant">
+			<ThingName>Жимолость</ThingName>
+			<Desc>Красивые растения, обладают слабыми элементом Металла.</Desc>
+		</Text>
+		<Text Name="Flower3" sParam="Plant">
+			<ThingName>Красный ладан</ThingName>
+			<Desc>Красивые растения, обладают слабыми элементом Огня.</Desc>
+		</Text>
+		<Text Name="Flower4" sParam="Plant">
+			<ThingName>Нарцисс</ThingName>
+			<Desc>Красивые растения, обладают слабыми элементом Воды.</Desc>
+		</Text>
+		<Text Name="Flower5" sParam="Plant">
+			<ThingName>Затмение Луны</ThingName>
+			<Desc>Красивые растения, обладают слабыми элементом Земли.</Desc>
+		</Text>
+		<Text Name="ShiChe" sParam="Plant">
+			<ThingName>Васильки</ThingName>
+			<Desc>Красивое растение, растущее в пустыне.</Desc>
+		</Text>
+		<Text Name="CongRong" sParam="Plant">
+			<ThingName>Золотой Корень</ThingName>
+			<Desc>Красивое растение, растущее в пустыне.</Desc>
+		</Text>
+		<Text Name="CamelSting" sParam="Plant">
+			<ThingName>Верблюжья Трава</ThingName>
+			<Desc>Красивое растение, растущее в пустыне.</Desc>
+		</Text>
+	</List>
+</Texts>

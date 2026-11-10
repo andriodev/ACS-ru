@@ -1,0 +1,12 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Darksteel" sParam="Plant">
+			<Desc>Самое редкое сокровище в мире, эссенция всей сияющей ци, протянувшейся вдоль земной жилы.</Desc>
+			<ThingName>Жила из темной стали</ThingName>
+		</Text>
+		<Text Name="LingStone" sParam="Plant">
+			<Desc>Основной источник всей ци, если он поврежден, все погибнет.</Desc>
+			<ThingName>Духовная вена</ThingName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,23 @@
+﻿talk	notarget	int	string	float	thing
+BabySleep1	Сюйсю хочет спать.				
+BabySleep2	Сюйсю устал.				
+BabySleep3	Сюйсю собирается спать.				
+BabyPandaTalk	Сюйсю снова добился прогресса.				
+BabySilly	Сюйсю хочет поиграть с Сяньсянь.				
+BabyFollow1	Следуйте За Сяньсянь.				
+BabyFollow2	Идите к Сяньсянь.				
+Roll	Катись и катись.				
+Chop	Упражнение.				
+Happy	Счастливый.				
+PlayBB	Я потрясающая.				
+NotEat_Item_Bamboo	Я не буду есть бамбук.				Я не буду есть бамбук.
+NotEat_Item_BambooShoot	Я не буду есть побеги бамбука.				Я не буду есть побеги бамбука.
+WannaEat_Item_Bamboo	Я хочу есть бамбук.				Я хочу есть бамбук.
+WannaEat_Item_BambooShoot	Я хочу есть побеги бамбука.				Я хочу есть побеги бамбука.
+DoTalkEat_Item_Bamboo	Я ем бамбук.				Я ем бамбук.
+DoTalkEat_Item_BambooShoot	Я ем побеги бамбука.				Я ем побеги бамбука.
+CantEat_Item_Bamboo	Никакого бамбука.				Никакого бамбука.
+CantEat_Item_BambooShoot	Никаких побегов бамбука.				Никаких побегов бамбука.
+EatTogether	Поешь с Сяньсянь.
+BabyHelpPlay	Играть с ними.				Играйте с {0}.
+

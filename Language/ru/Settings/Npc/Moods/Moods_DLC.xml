@@ -1,0 +1,29 @@
+﻿<Texts Type="Other">
+	<List>
+	<Text Name = "Mood_BigFish">
+		<DisplayName> Поймана большая рыба </DisplayName>
+		<Desc> Недавно удалось выудить большую рыбу, и это было хорошо. </Desc>
+		<StoryDesc> Поймать большую рыбу - это было очень приятно. </StoryDesc>
+	</Text>
+	<Text Name = "Mood_BigBigFish">
+		<DisplayName> Поймана гигантская рыба </DisplayName>
+		<Desc> Недавно удалось выудить гигантскую рыбу, и это было хорошо. </Desc>
+		<StoryDesc> Поймать гигантскую рыбу - это было очень приятно. </StoryDesc>
+	</Text>
+	<Text Name = "Mood_BeFished">
+		<DisplayName> Поймано </DisplayName>
+		<Desc> На крючке с приманкой оказаться... неприятно. </Desc>
+	<StoryDesc> Немного злюсь из-за попадания на крючок. </StoryDesc>
+	</Text>
+		<Text Name = "Mood_FishSmell">
+		<DisplayName> Вонь </DisplayName>
+		<Desc> Съедена вонючая Демоническая Камбала. </Desc>
+		<StoryDesc> Съедена вонючая Демоническая Камбала. </StoryDesc>
+	</Text>
+	<Text Name = "Mood_FishGood">
+		<DisplayName> Вкусно </DisplayName>
+		<Desc> Съев Лунную Рыбу, чувствую себя хорошо. </Desc>
+		<StoryDesc> Съев Лунную Рыбу, чувствую себя хорошо. </StoryDesc>
+	</Text>
+	</List>
+</Texts>

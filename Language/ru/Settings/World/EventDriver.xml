@@ -1,0 +1,32 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Template">
+			<DisplayName>Шаблон</DisplayName>
+			<Types.0.DisplayName>Случайные встречи</Types.0.DisplayName>
+			<Types.0.Desc>К ним относятся следы древних зверей и следы древних культиваторов.</Types.0.Desc>
+			<Types.1.DisplayName>Мощные вражеские события</Types.1.DisplayName>
+			<Types.1.Desc>К ним относятся сложное вторжение культиваторов и вторжение зверей.</Types.1.Desc>
+			<Types.2.DisplayName>Редкие события</Types.2.DisplayName>
+			<Types.2.Desc>К ним относятся трудные погодные встречи, знакомые встречи и расширенные сокровища.</Types.2.Desc>
+			<Types.3.DisplayName>Секретные события</Types.3.DisplayName>
+			<Types.3.Desc>К ним относятся опыт Дунфу, Даос и другие переживания.</Types.3.Desc>
+			<Types.4.DisplayName>Посетители События</Types.4.DisplayName>
+			<Types.4.Desc>К ним относятся Присоединение к беженцам, Прохожие запросы и Бессмертные посетители.</Types.4.Desc>
+			<Types.5.DisplayName>Вражеские события</Types.5.DisplayName>
+			<Types.5.Desc>К ним относятся «Вторжение культиваторов» и «Нашествие монстров».</Types.5.Desc>
+			<Types.6.DisplayName>Общие события</Types.6.DisplayName>
+			<Types.6.Desc>К ним относятся встречи с погодой и изменение атмосферы сект.</Types.6.Desc>
+			<Types.7.DisplayName>Расширенные события</Types.7.DisplayName>
+			<Types.7.Desc>К ним относятся особые погодные условия, найденные сокровища и всплески Ци.</Types.7.Desc>
+		</Text>
+		<Text Name="EasyFate">
+			<DisplayName>Мирный</DisplayName>
+		</Text>
+		<Text Name="NormalFate">
+			<DisplayName>Средний</DisplayName>
+		</Text>
+		<Text Name="HardFate">
+			<DisplayName>Жестокий</DisplayName>
+		</Text>
+	</List>
+</Texts>

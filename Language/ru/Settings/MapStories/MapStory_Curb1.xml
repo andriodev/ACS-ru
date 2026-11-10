@@ -1,0 +1,22 @@
+﻿<Texts Type="Story">
+	<List>
+		<Text Name="BuildCurb1">
+			<DisplayName>Препятствие</DisplayName>
+			<Desc>Во время строительства чуда некоторые люди начали поднимать шум вокруг здешнего Фэн-Шуй.</Desc>
+			<Selections.0.Display>Бейте их дубинкой.</Selections.0.Display>
+			<Selections.1.Display>Обсудите с ними Фэн-Шуй.</Selections.1.Display>
+		</Text>
+		<Text Name="BuildCurb2">
+			<DisplayName>Препятствие</DisplayName>
+			<Desc>Во время создания чуда некоторые люди подошли, чтобы спросить, что происходит.</Desc>
+			<Selections.0.Display>Не обращай на них внимания.</Selections.0.Display>
+			<Selections.1.Display>Объясните ситуацию.</Selections.1.Display>
+		</Text>
+		<Text Name="BuildCurb3">
+			<DisplayName>Препятствие</DisplayName>
+			<Desc>Создавая чудо, некоторые люди хотели дать нам награду.</Desc>
+			<Selections.0.Display>Пусть они вернутся завтра.</Selections.0.Display>
+			<Selections.1.Display>Прими награду.</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

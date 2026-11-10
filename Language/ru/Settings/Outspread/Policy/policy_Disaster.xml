@@ -1,0 +1,20 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Diaster_Drought">
+			<DisplayName>Засуха</DisplayName>
+			<Desc>Засуха погубила урожай. Вы можете раздавать людям пищу, чтобы спасти их от голода.</Desc>
+		</Text>
+		<Text Name="Diaster_Flood">
+			<DisplayName>Наводнение</DisplayName>
+			<Desc>Произошло наводнение. Вам нужен камень, чтобы помочь людям построить дамбу.</Desc>
+		</Text>
+		<Text Name="Diaster_Siberia">
+			<DisplayName>Заморозки</DisplayName>
+			<Desc>Здесь наступили аномальные холода. Вы можете раздавать людям древесину, чтобы им было чем топить дома.</Desc>
+		</Text>
+		<Text Name="Diaster_EarthQuake">
+			<DisplayName>Землетрясение</DisplayName>
+			<Desc>Произошло землетрясение. Вам нужен камень, чтобы помочь людям восстановить свои дома.</Desc>
+		</Text>
+	</List>
+</Texts>

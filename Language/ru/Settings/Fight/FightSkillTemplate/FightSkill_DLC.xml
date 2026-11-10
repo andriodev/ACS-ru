@@ -1,0 +1,11 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="Ls_OC">
+      <DisplayName>Потусторонний Магнето-свет</DisplayName>
+    </Text>
+    <Text Name="Ls_Erosion">
+      <DisplayName>Коррозия Инь Янь</DisplayName>
+      <Desc>Сильно ослабьте защиту врага с помощью силы Инь-Ян.</Desc>
+    </Text>
+  </List>
+</Texts>

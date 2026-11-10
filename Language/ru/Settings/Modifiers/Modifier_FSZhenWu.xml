@@ -1,0 +1,252 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="NI_FSZhenWu">
+			<DisplayName>Негативный - Канал Реликвии</DisplayName>
+			<Desc>Реликвия Фэн-Шуй в этой комнате находится в конфликте со своим окружением; персонажи в комнате будут негативно затронуты и в результате пострадают от ослабленных способностей.</Desc>
+		</Text>
+		<Text Name="SHUN_FSZhenWu">
+			<DisplayName>Позитивный - Канал Реликвии</DisplayName>
+			<Desc>Реликвия Фэн-Шуй в этой комнате действует; персонажи в комнате будут положительно затронуты и в результате получат улучшенные способности.</Desc>
+		</Text>
+		<Text Name="FSZhenWu_1">
+			<DisplayName>Бонус За Общую Эффективность Работы</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_2">
+			<DisplayName>Бонус К Скорости Исцеления</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_3">
+			<DisplayName>Исцеляющий Бонус</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_4">
+			<DisplayName>Бонус К Скорости Приготовления</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_5">
+			<DisplayName>Бонус К Скорости Разделки Мяса</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_6">
+			<DisplayName>Бонус К Добыче Мясника</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_7">
+			<DisplayName>Бонус К Скорости Обработки Камня</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_8">
+			<DisplayName>Бонус К Скорости Строительства</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_9">
+			<DisplayName>Бонус К Скорости Земледелия</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_10">
+			<DisplayName>Бонус К Скорости Уборки Урожая</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_11">
+			<DisplayName>Бонус К Урожайности</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_12">
+			<DisplayName>Бонус К Скорости Добычи</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_13">
+			<DisplayName>Бонус К Доходности Горной Добычи</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_14">
+			<DisplayName>Бонус К Качеству Крафта</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_15">
+			<DisplayName>Бонус К Скорости Ковки</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_16">
+			<DisplayName>Бонус К Скорости Ремесла</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_17">
+			<DisplayName>Бонус К Скорости Шитья</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_18">
+			<DisplayName>Бонус К Скорости Рубки</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_19">
+			<DisplayName>Бонус К Скорости Пожаротушения</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_20">
+			<DisplayName>Бонус К Скорости Очистки</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_21">
+			<DisplayName>Базовый Бонус Значения Настроения</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_22">
+			<DisplayName>Бонус К Скорости Перемещения</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_23">
+			<DisplayName>Бонус К Допустимой Температуре (Холод)</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_24">
+			<DisplayName>Бонус К Допустимой Температуре (Жара)</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_25">
+			<DisplayName>Бонус Естественной Устойчивости</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_26">
+			<DisplayName>Бонус К Терпимости К Боли</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_27">
+			<DisplayName>Бонус К Скорости Обучения</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_28">
+			<DisplayName>Бонус К Шансу Возникновения Кошмара</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_29">
+			<DisplayName>Бонус к шансу на сладкий сон</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_30">
+			<DisplayName>Бонус К Норме Энергопотребления</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_31">
+			<DisplayName>Бонус К Пополнению Энергии</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_32">
+			<DisplayName>Бонус К Потреблению Продуктов Питания</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_33">
+			<DisplayName>Бонус К Потреблению Продуктов Питания</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_34">
+			<DisplayName>Бонус К Пополнению Запасов Продовольствия</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_35">
+			<DisplayName>Бонус К Норме Потребления Воды</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_36">
+			<DisplayName>Бонус К Пополнению Запасов Воды</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_37">
+			<DisplayName>Бонус К Норме Потребления Отдыха</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_38">
+			<DisplayName>Бонус К Пополнению Отдыха</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_39">
+			<DisplayName>Бонус К Скорости Повышения Выносливости</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_40">
+			<Desc>Бонус К Пополнению Запаса Выносливости</Desc>
+		</Text>
+		<Text Name="FSZhenWu_41">
+			<DisplayName>Потенциальный Бонус</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_42">
+			<DisplayName>Бонус к Скорости Культивации</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_43">
+			<DisplayName>Бонус К Психическому Состоянию</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_44">
+			<DisplayName>Бонус К Шансу Понимания</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_45">
+			<DisplayName>Бонус К Скорости Крафта Артефактов</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_46">
+			<DisplayName>Бонус К Успеху Крафта Артефактов</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_47">
+			<DisplayName>Бонус К Классу Крафта Артефактов</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_48">
+			<DisplayName>Бонус Качества Крафта Артефактов</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_49">
+			<DisplayName>Бонус К Шансу На Великие Артефакты</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_50">
+			<DisplayName>Бонус К Скорости Алхимии</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_51">
+			<DisplayName>Бонус К Успеху Алхимии</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_52">
+			<DisplayName>Бонус К Доходности Алхимии</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_53">
+			<DisplayName>Бонус К Шансу Прорыва</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_54">
+			<DisplayName>Бонус К Достижениям</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_55">
+			<DisplayName>Точность в боях</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_56">
+			<DisplayName>Уклонение в Битвах</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_57">
+			<DisplayName>Восприятие</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_58">
+			<DisplayName>Телосложение</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_59">
+			<DisplayName>Харизма</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_60">
+			<DisplayName>Интеллект</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_61">
+			<DisplayName>Удача</DisplayName>
+		</Text>
+		<Text Name="FSZhenWu_62">
+			<DisplayName>Пять Атрибутов</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_1a">
+			<DisplayName>Печать Морали</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_1b">
+			<DisplayName>Первобытная Печать</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_1c">
+			<DisplayName>Мистическая Печать</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_2">
+			<DisplayName>Небесная Пагода</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_3">
+			<DisplayName>Духовная Пагода</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_4">
+			<DisplayName>Сосуд Инь</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_5">
+			<DisplayName>Церемониальный Котел</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_6">
+			<DisplayName>Стела Духа</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_7">
+			<DisplayName>Каменный Лев</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_8">
+			<DisplayName>Камень Горы Бучжоу</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_9">
+			<DisplayName>Доска Инь Ян</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_10">
+			<DisplayName>Летописи Бессмертных блюд</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_11">
+			<DisplayName>Карта Божественных Знаков</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_12">
+			<DisplayName>Талисман Чар</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_13">
+			<DisplayName>Мистический Меч</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_14">
+			<DisplayName>Горлянка Тушита</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_15">
+			<DisplayName>Багровый Жезл</DisplayName>
+		</Text>
+		<Text Name="SP_FSZhenWu_16">
+			<DisplayName>Святая Благодать</DisplayName>
+		</Text>
+	</List>
+</Texts>

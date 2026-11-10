@@ -1,0 +1,100 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Rabbit">
+			<DisplayName>Кролик</DisplayName>
+			<Desc>Обыкновенное Животное: Кролик</Desc>
+			<TalkBefore>Писк писк,</TalkBefore>
+			<TalkAfter>, писк~!</TalkAfter>
+			<MaleName>Самец</MaleName>
+			<FemaleName>Самка</FemaleName>
+		</Text>
+		<Text Name="Chicken">
+			<DisplayName>Петух</DisplayName>
+			<Desc>Обыкновенное Животное: Курица</Desc>
+			<MaleName>Самец</MaleName>
+			<FemaleName>Самка</FemaleName>
+			<TalkBefore>Куд кудах,</TalkBefore>
+			<TalkAfter>, кудах-кудах!</TalkAfter>
+		</Text>
+		<Text Name="Wolf">
+			<DisplayName>Волк</DisplayName>
+			<Desc>Обыкновенное Животное: Волк</Desc>
+			<TalkBefore>Ауу,</TalkBefore>
+			<TalkAfter>, ауу ауу!</TalkAfter>
+			<MaleName>Самец</MaleName>
+			<FemaleName>Самка</FemaleName>
+		</Text>
+		<Text Name="Snake">
+			<DisplayName>Змея</DisplayName>
+			<Desc>Обыкновенное Животное: Змея</Desc>
+			<TalkBefore>Ссссс,</TalkBefore>
+			<TalkAfter>, ссссс!</TalkAfter>
+			<MaleName>Самец</MaleName>
+			<FemaleName>Самка</FemaleName>
+		</Text>
+		<Text Name="Boar">
+			<DisplayName>Кабан</DisplayName>
+			<Desc>Обыкновенное Животное: Кабан</Desc>
+			<MaleName>Самец</MaleName>
+			<FemaleName>Самка</FemaleName>
+			<TalkBefore>Хрю хрю,</TalkBefore>
+			<TalkAfter>, хрю!</TalkAfter>
+		</Text>
+		<Text Name="Bear">
+			<DisplayName>Медведь</DisplayName>
+			<Desc>Обыкновенное Животное: Медведь</Desc>
+			<TalkBefore>Грр грр,</TalkBefore>
+			<TalkAfter>, гррр!</TalkAfter>
+			<MaleName>Самец</MaleName>
+			<FemaleName>Самка</FemaleName>
+		</Text>
+		<Text Name="Turtle">
+			<DisplayName>Черепаха</DisplayName>
+			<Desc>Обыкновенное Животное: Черепаха</Desc>
+			<TalkBefore>Клац,</TalkBefore>
+			<TalkAfter>, клац!</TalkAfter>
+			<MaleName>Самец</MaleName>
+			<FemaleName>Самка</FemaleName>
+		</Text>
+		<Text Name="Frog">
+			<DisplayName>Лягушка</DisplayName>
+			<Desc>Обыкновенное Животное: Лягушка</Desc>
+			<TalkBefore>Ква ква,</TalkBefore>
+			<TalkAfter>, ква!</TalkAfter>
+			<MaleName>Самец</MaleName>
+			<FemaleName>Самка</FemaleName>
+		</Text>
+		<Text Name="Fei">
+			<DisplayName>Фэй</DisplayName>
+			<Desc>Обыкновенный Зверь: Фэй</Desc>
+		</Text>
+		<Text Name="Lushu">
+			<DisplayName>Лушу</DisplayName>
+			<Desc>Обыкновенный Зверь: Лушу</Desc>
+		</Text>
+		<Text Name="Cat">
+			<DisplayName>Кот</DisplayName>
+			<Desc>Обыкновенное Животное: Кот</Desc>
+			<TalkBefore>Мяу,</TalkBefore>
+			<TalkAfter>, мяу!</TalkAfter>
+			<MaleName>Самец</MaleName>
+			<FemaleName>Самка</FemaleName>
+		</Text>
+		<Text Name="Cattle">
+			<DisplayName>Бык</DisplayName>
+			<Desc>Обыкновенное Животное: Бык</Desc>
+			<TalkBefore>Муу муу,</TalkBefore>
+			<TalkAfter>, муу муу!</TalkAfter>
+			<MaleName>Самец</MaleName>
+			<FemaleName>Самка</FemaleName>
+		</Text>
+		<Text Name="Tiger">
+			<DisplayName>Тигр</DisplayName>
+			<Desc>Обыкновенное Животное: Тигр</Desc>
+			<TalkBefore>Ррр ррр,</TalkBefore>
+			<TalkAfter>, гррр!</TalkAfter>
+			<MaleName>Самец</MaleName>
+			<FemaleName>Самка</FemaleName>
+		</Text>
+	</List>
+</Texts>

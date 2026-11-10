@@ -1,0 +1,72 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="r0">
+			<StageInfo.0.0.DisplayName>Закалка Тела</StageInfo.0.0.DisplayName>
+			<StageInfo.0.1.DisplayName>Концентрация</StageInfo.0.1.DisplayName>
+			<StageInfo.0.2.DisplayName>Очистка Ци</StageInfo.0.2.DisplayName>
+			<StageInfo.1.0.DisplayName>Врата Понимания</StageInfo.1.0.DisplayName>
+			<StageInfo.1.1.DisplayName>Котёл</StageInfo.1.1.DisplayName>
+			<StageInfo.1.2.DisplayName>Сгущение Ядра</StageInfo.1.2.DisplayName>
+			<StageInfo.2.0.DisplayName>Золотое Ядро</StageInfo.2.0.DisplayName>
+			<StageInfo.2.1.DisplayName>Девять Оборотов</StageInfo.2.1.DisplayName>
+			<StageInfo.2.2.DisplayName>Зарождение</StageInfo.2.2.DisplayName>
+			<StageInfo.3.0.DisplayName>Зарождённый Дух</StageInfo.3.0.DisplayName>
+			<StageInfo.3.1.DisplayName>Возвышающийся Дух</StageInfo.3.1.DisplayName>
+			<StageInfo.3.2.DisplayName>Изначальный Дух</StageInfo.3.2.DisplayName>
+			<SkillTree.1.RandomNode.0.EsotericaTypeDesc>Мастерство Артефакта</SkillTree.1.RandomNode.0.EsotericaTypeDesc>
+			<SkillTree.1.RandomNode.1.EsotericaTypeDesc>Заклинание</SkillTree.1.RandomNode.1.EsotericaTypeDesc>
+			<SkillTree.1.RandomNode.2.EsotericaTypeDesc>Защита</SkillTree.1.RandomNode.2.EsotericaTypeDesc>
+			<SkillTree.1.RandomNode.NodeInfo.0.ValueDesc>Крошечное </SkillTree.1.RandomNode.NodeInfo.0.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.1.ValueDesc>Малое </SkillTree.1.RandomNode.NodeInfo.1.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.2.ValueDesc>Крошечное </SkillTree.1.RandomNode.NodeInfo.2.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.3.ValueDesc>Умеренное </SkillTree.1.RandomNode.NodeInfo.3.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.4.ValueDesc>Умеренное </SkillTree.1.RandomNode.NodeInfo.4.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.5.ValueDesc>Крошечное </SkillTree.1.RandomNode.NodeInfo.5.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.6.ValueDesc>Умеренное </SkillTree.1.RandomNode.NodeInfo.6.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.7.ValueDesc>Сильное </SkillTree.1.RandomNode.NodeInfo.7.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.8.ValueDesc>Огромное </SkillTree.1.RandomNode.NodeInfo.8.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.9.ValueDesc>Крошечное </SkillTree.1.RandomNode.NodeInfo.9.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.10.ValueDesc>Умеренное </SkillTree.1.RandomNode.NodeInfo.10.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.11.ValueDesc>Сильное </SkillTree.1.RandomNode.NodeInfo.11.ValueDesc>
+			<SkillTree.1.RandomNode.NodeInfo.12.ValueDesc>Огромное </SkillTree.1.RandomNode.NodeInfo.12.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.0.ValueDesc>Крошечное </SkillTree.2.RandomNode.NodeInfo.0.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.1.ValueDesc>Крошечное </SkillTree.2.RandomNode.NodeInfo.1.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.2.ValueDesc>Крошечное </SkillTree.2.RandomNode.NodeInfo.2.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.3.ValueDesc>Умеренное </SkillTree.2.RandomNode.NodeInfo.3.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.4.ValueDesc>Умеренное </SkillTree.2.RandomNode.NodeInfo.4.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.5.ValueDesc>Крошечное </SkillTree.2.RandomNode.NodeInfo.5.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.6.ValueDesc>Умеренное </SkillTree.2.RandomNode.NodeInfo.6.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.7.ValueDesc>Сильное </SkillTree.2.RandomNode.NodeInfo.7.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.8.ValueDesc>Огромное </SkillTree.2.RandomNode.NodeInfo.8.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.9.ValueDesc>Крошечное </SkillTree.2.RandomNode.NodeInfo.9.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.10.ValueDesc>Умеренное </SkillTree.2.RandomNode.NodeInfo.10.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.11.ValueDesc>Сильное </SkillTree.2.RandomNode.NodeInfo.11.ValueDesc>
+			<SkillTree.2.RandomNode.NodeInfo.12.ValueDesc>Огромное </SkillTree.2.RandomNode.NodeInfo.12.ValueDesc>
+			<SkillTree.FixNodes.0.DisplayName>Пилюля Небесного Пути</SkillTree.FixNodes.0.DisplayName>
+			<SkillTree.FixNodes.1.DisplayName>Небесный Артефакт</SkillTree.FixNodes.1.DisplayName>
+			<Desc.Format.0.Format>Закон {0} - грубый и поверхностный. Этот закон основан на стихии {1} и имеет много идей в области {2}. Хотя это довольно поверхностный Закон, в нём всё же могут найтись настоящие жемчужины.</Desc.Format.0.Format>
+			<Desc.Format.1.Format>Закон {0} - весьма посредственный. Этот закон основан на стихии {1} и имеет много идей в области {2}. Хотя с помощью этого Закона можно достичь лишь Ступени Сгущения Ядра, некоторые из его идей могут оказаться полезными.</Desc.Format.1.Format>
+			<Desc.Format.2.Format>Закон {0} - классический труд с весьма глубокими знаниями. Этот закон основан на стихии {1} и имеет много идей в области {2}. Хотя с помощью этого Закона невозможно достичь Бессмертия, в нём собрано множество исключительных техник, бесценных и редких.</Desc.Format.2.Format>
+			<Desc.Format.3.Format>Закон {0} - классический труд с исключительно глубокими знаниями. Этот закон основан на стихии {1} и имеет много идей в области {2}. Этот Закон напрямую связан с Бессмертием, поэтому в нём должны быть глубокие и загадочные идеи, достойные изучения.</Desc.Format.3.Format>
+			<Desc.ElementKind.0.Desc>Металл</Desc.ElementKind.0.Desc>
+			<Desc.ElementKind.1.Desc>Дерево</Desc.ElementKind.1.Desc>
+			<Desc.ElementKind.2.Desc>Вода</Desc.ElementKind.2.Desc>
+			<Desc.ElementKind.3.Desc>Огонь</Desc.ElementKind.3.Desc>
+			<Desc.ElementKind.4.Desc>Земля</Desc.ElementKind.4.Desc>
+			<Desc.ElementKind.5.Desc>Беспредельный</Desc.ElementKind.5.Desc>
+			<Desc.School.0.Name>наследие множества разрозненных идей, популярных среди практиков</Desc.School.0.Name>
+			<Desc.School.1.Name>Наследие Обители Красных Облаков</Desc.School.1.Name>
+			<Desc.School.2.Name>Наследие Дворца Кунь-Лунь</Desc.School.2.Name>
+			<Desc.School.3.Name>Наследие Дворца Небосвода</Desc.School.3.Name>
+			<Desc.School.4.Name>Наследие Храма Пурпурного Облака</Desc.School.4.Name>
+			<Desc.School.5.Name>Наследие Культа Тайного Единства</Desc.School.5.Name>
+			<Desc.School.6.Name>Наследие Храма Голубого Лотоса</Desc.School.6.Name>
+			<Desc.School.7.Name>Наследие Вечерней Обители</Desc.School.7.Name>
+			<Desc.School.8.Name>Наследие Горы Сотни Гадов</Desc.School.8.Name>
+			<Desc.School.9.Name>Наследие Ямы Пропащих</Desc.School.9.Name>
+			<Desc.School.10.Name>Наследие Дворца Неотвратимой Резни</Desc.School.10.Name>
+			<Desc.School.11.Name>Наследие Культа Ликующих</Desc.School.11.Name>
+			<Desc.School.12.Name>Наследие Храма Демонов</Desc.School.12.Name>
+		</Text>
+	</List>
+</Texts>

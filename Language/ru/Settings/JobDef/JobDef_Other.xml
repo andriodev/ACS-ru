@@ -1,0 +1,122 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="JobCloseTo">
+      <DisplayName>Подходит</DisplayName>
+    </Text>
+    <Text Name="JobMoveToBed">
+      <DisplayName>Отдыхает</DisplayName>
+    </Text>
+    <Text Name="JobDemonLoseSoul">
+      <DisplayName>Печать Пяти Чувств</DisplayName>
+    </Text>
+    <Text Name="JobDemonClaustrophobia">
+      <DisplayName>Ограничен</DisplayName>
+    </Text>
+    <Text Name="JobDemonWail">
+      <DisplayName>Воет</DisplayName>
+    </Text>
+    <Text Name="JobDemonBlank">
+      <DisplayName>В трансе</DisplayName>
+    </Text>
+    <Text Name="JobObtainThing">
+      <DisplayName>Забирает</DisplayName>
+    </Text>
+    <Text Name="JobEatItem">
+      <DisplayName>Ест</DisplayName>
+    </Text>
+    <Text Name="JobEquipItem">
+      <DisplayName>Надевает</DisplayName>
+    </Text>
+    <Text Name="JobFaceIdle">
+      <DisplayName>Использует</DisplayName>
+    </Text>
+    <Text Name="JobFighting">
+      <DisplayName>В Бою</DisplayName>
+    </Text>
+    <Text Name="JobFight">
+      <DisplayName>Битва</DisplayName>
+    </Text>
+    <Text Name="JobFightDriver">
+      <DisplayName>В Бою</DisplayName>
+    </Text>
+    <Text Name="JobZhenFighting">
+      <DisplayName>В Бою</DisplayName>
+    </Text>
+    <Text Name="JobBodyFighting">
+      <DisplayName>В Бою</DisplayName>
+    </Text>
+    <Text Name="JobLeaveMap">
+      <DisplayName>Уходит</DisplayName>
+    </Text>
+    <Text Name="JobWaitHelp">
+      <DisplayName>Проходит</DisplayName>
+    </Text>
+    <Text Name="JobTalk">
+      <DisplayName>Общается</DisplayName>
+    </Text>
+    <Text Name="JobSimpleAction">
+      <DisplayName>Действует</DisplayName>
+    </Text>
+    <Text Name="JobWalkerHelp">
+      <DisplayName>Помогает</DisplayName>
+    </Text>
+    <Text Name="JobAlarmbell">
+      <DisplayName>Предупреждает</DisplayName>
+    </Text>
+    <Text Name="JobMoveTo">
+      <DisplayName>Идёт к</DisplayName>
+    </Text>
+    <Text Name="JobMoveThingTo">
+      <DisplayName>Тащит</DisplayName>
+    </Text>
+    <Text Name="JobYSSleep">
+      <DisplayName>Спит</DisplayName>
+    </Text>
+    <Text Name="JobWaitCMD">
+      <DisplayName>Ждёт Приказов</DisplayName>
+    </Text>
+    <Text Name="JobRobItem">
+      <DisplayName>Грабит</DisplayName>
+    </Text>
+    <Text Name="JobZhenStart">
+      <DisplayName>Призывает Формацию</DisplayName>
+    </Text>
+    <Text Name="JobStayInZhen">
+      <DisplayName>Управляет Формацией</DisplayName>
+    </Text>
+    <Text Name="JobRebuildZhen">
+      <DisplayName>Меняет Формацию</DisplayName>
+    </Text>
+    <Text Name="JobPerformWithBuilding">
+      <DisplayName>Работает</DisplayName>
+    </Text>
+    <Text Name="JobPerformFree">
+      <DisplayName>Блуждает</DisplayName>
+    </Text>
+    <Text Name="JobTryTalk">
+      <DisplayName>Говорит</DisplayName>
+    </Text>
+    <Text Name="JobGotoAndStay">
+      <DisplayName>Идти к</DisplayName>
+      <Desc>Идти к</Desc>
+    </Text>
+    <Text Name="JobJGTunShi">
+      <DisplayName>Пожирает</DisplayName>
+    </Text>
+    <Text Name="JobJGRevival">
+      <DisplayName>Оживляет</DisplayName>
+    </Text>
+    <Text Name="JobYsThink">
+      <DisplayName>Думает</DisplayName>
+    </Text>
+    <Text Name="JobStudyThing">
+      <DisplayName>Наблюдает</DisplayName>
+    </Text>
+    <Text Name="JobYsToHuman">
+      <DisplayName>Пробуждается Разум</DisplayName>
+    </Text>
+    <Text Name="JobGoFishing">
+      <DisplayName>Рыбачит</DisplayName>
+    </Text>
+  </List>
+</Texts>

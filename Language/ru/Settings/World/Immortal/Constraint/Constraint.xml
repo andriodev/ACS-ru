@@ -1,0 +1,348 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="TwoRandom">
+      <DisplayName>Одна Лодка</DisplayName>
+      <Desc>Когда вы бежали от резни, двое других учеников Тайи, которые вам только знакомы, попросили присоединиться к вам.</Desc>
+    </Text>
+    <Text Name="Coma50">
+      <DisplayName>Рука Помощи</DisplayName>
+      <Desc>Спасаясь от резни, тяжело раненные ученики Тайи умоляли вас взять их с собой.</Desc>
+    </Text>
+    <Text Name="Thunder100">
+      <DisplayName>Всеохватность</DisplayName>
+      <Desc>Спасаясь от резни, Яогуай, завершивший превращение, попросил присоединиться к вам. Через 100 дней они столкнутся с Бедствием Оборотней.</Desc>
+    </Text>
+    <Text Name="HardLeave">
+      <DisplayName>Небольшой Побег</DisplayName>
+      <Desc>Когда вы бежали от резни, несколько товарищей-учеников Тайи, о которых вы мало что знаете, попросили присоединиться к вам, и у вас нет другого выбора, кроме как взять их с собой.</Desc>
+    </Text>
+    <Text Name="HotSummer">
+      <DisplayName>Жаркое лето</DisplayName>
+      <Desc>Из-за аномального климата лето здесь еще жарче.</Desc>
+    </Text>
+    <Text Name="ColdWinter">
+      <DisplayName>Холодная зима</DisplayName>
+      <Desc>Из-за аномального климата зима здесь еще холоднее.</Desc>
+    </Text>
+    <Text Name="OffensiveThunder">
+      <DisplayName>Гроза</DisplayName>
+      <Desc>Из-за аномальной географической среды молнии здесь более свирепы и чаще поражают людей.</Desc>
+    </Text>
+    <Text Name="HardNature">
+      <DisplayName>Суровые погодные условия</DisplayName>
+      <Desc>Климат здесь еще более суровый.</Desc>
+    </Text>
+    <Text Name="MoreYaoShou2">
+      <DisplayName>Дополнительные Монстры 1</DisplayName>
+      <Desc>Вызов 1 дополнительного монстра при старте карты.</Desc>
+    </Text>
+    <Text Name="MoreYaoShou3">
+      <DisplayName>Дополнительные Монстры 2</DisplayName>
+      <Desc>Вызов 2 дополнительных монстров при старте карты.</Desc>
+    </Text>
+    <Text Name="MoreYaoShou4">
+      <DisplayName>Дополнительные Монстры 3</DisplayName>
+      <Desc>Вызов 3 дополнительных монстров при старте карты.</Desc>
+    </Text>
+    <Text Name="YaoGuaiMore">
+      <DisplayName>Неистовство Чудовищ</DisplayName>
+      <Desc>Порождайте больше монстров на стартовой карте.</Desc>
+    </Text>
+    <Text Name="BuildMoreCost">
+      <DisplayName>Грубое Ремесло</DisplayName>
+      <Desc>Материалы, необходимые для строительства зданий, удваиваются.</Desc>
+    </Text>
+    <Text Name="BuildSlow">
+      <DisplayName>Труд и мучение</DisplayName>
+      <Desc>Строительство идет в три раза медленнее.</Desc>
+    </Text>
+    <Text Name="BuildLessHp">
+      <DisplayName>Выветрившийся</DisplayName>
+      <Desc>Долговечность зданий значительно снижается.</Desc>
+    </Text>
+    <Text Name="HardBuild">
+      <DisplayName>Замысловатые Здания</DisplayName>
+      <Desc>Возникают общие трудности, связанные со зданиями.</Desc>
+    </Text>
+    <Text Name="InferiorFengShui">
+      <DisplayName>Забытый Фэн Шуй</DisplayName>
+      <Desc>Обсерватория показывает только рейтинги Фэн-Шуй без подробностей.</Desc>
+    </Text>
+    <Text Name="InferiorDan">
+      <DisplayName>Забытая Алхимия</DisplayName>
+      <Desc>Шансы потерпеть неудачу при приготовлении пилюль и эликсиров увеличиваются; материалы, необходимые при приготовлении, удваиваются.</Desc>
+    </Text>
+    <Text Name="LostPractice">
+      <DisplayName>Забытое Искусство</DisplayName>
+      <Desc>Некоторые из глубоких культурных искусств потеряны для мира.</Desc>
+    </Text>
+    <Text Name="FastRot">
+      <DisplayName>Воздух Разложения</DisplayName>
+      <Desc>Темпы разложения предметов удваиваются.</Desc>
+    </Text>
+    <Text Name="HighPrice">
+      <DisplayName>Рост Цен</DisplayName>
+      <Desc>Цены покупки товаров удваиваются.</Desc>
+    </Text>
+    <Text Name="LessGain">
+      <DisplayName>Скудные Предметы</DisplayName>
+      <Desc>Пустынные карты содержат меньше предметов.</Desc>
+    </Text>
+    <Text Name="SourceLimit">
+      <DisplayName>Ограниченные ресурсы</DisplayName>
+      <Desc>Ресурсы еще труднее найти.</Desc>
+    </Text>
+    <Text Name="LessWalker">
+      <DisplayName>Пустынная Секта</DisplayName>
+      <Desc>Меньше смертных пройдет мимо.</Desc>
+    </Text>
+    <Text Name="LessMember">
+      <DisplayName>Простая Секта</DisplayName>
+      <Desc>Максимальное количество учеников снижено.</Desc>
+    </Text>
+    <Text Name="LessZhaolan">
+      <DisplayName>Беспокойный Век</DisplayName>
+      <Desc>Смертные слишком заняты мирскими делами, чтобы заниматься самосовершенствованием; число набранных учеников сокращается вдвое.</Desc>
+    </Text>
+    <Text Name="LessFiveBase">
+      <DisplayName>Нехватка Талантов</DisplayName>
+      <Desc>У смертных обычно меньше талантов.</Desc>
+    </Text>
+    <Text Name="DaoShuai">
+      <DisplayName>Трудные Дни</DisplayName>
+      <Desc>Обычно труднее набирать талантливых учеников.</Desc>
+    </Text>
+    <Text Name="LessWalkTrader">
+      <DisplayName>Запутанный Путь</DisplayName>
+      <Desc>Странствующие купцы приезжают реже.</Desc>
+    </Text>
+    <Text Name="LessWalkLStone">
+      <DisplayName>Валютный Кризис</DisplayName>
+      <Desc>Странствующий торговец носит с собой меньше камней духа.</Desc>
+    </Text>
+    <Text Name="StrictWalker">
+      <DisplayName>Ограниченная Сделка</DisplayName>
+      <Desc>Для каждого посещения странствующие торговцы будут покупать у вас только один тип предметов.</Desc>
+    </Text>
+    <Text Name="StrictWTrader">
+      <DisplayName>Подлые Торговцы</DisplayName>
+      <Desc>С бродячими торговцами вообще труднее торговать.</Desc>
+    </Text>
+    <Text Name="MoreElementWeather">
+      <DisplayName>Элемент Хаоса</DisplayName>
+      <Desc>Катастрофы пяти стихий происходят чаще.</Desc>
+    </Text>
+    <Text Name="LessLingWeather">
+      <DisplayName>Отлив Ци</DisplayName>
+      <Desc>Засухи Ци происходят чаще, и их продолжительность увеличивается.</Desc>
+    </Text>
+    <Text Name="ForeverNight20">
+      <DisplayName>Инь Ян Хаос</DisplayName>
+      <Desc>Полярная ночь наступает каждый год в определенное время.</Desc>
+    </Text>
+    <Text Name="TianDaoWenLuan">
+      <DisplayName>Беспорядок Дао</DisplayName>
+      <Desc>С особыми погодными условиями, как правило, труднее иметь дело.</Desc>
+    </Text>
+    <Text Name="PetReviveInterval">
+      <DisplayName>Долгое Воскрешение</DisplayName>
+      <Desc>Духовному питомцу требуется больше времени, чтобы воскреснуть.</Desc>
+    </Text>
+    <Text Name="PetLingMax">
+      <DisplayName>Нарушенная Ци</DisplayName>
+      <Desc>Предел Ци духовного питомца уменьшается.</Desc>
+    </Text>
+    <Text Name="PetFabao">
+      <DisplayName>Неплотное Ядро</DisplayName>
+      <Desc>Сила внутреннего ядра и заклинаний духовного питомца уменьшается.</Desc>
+    </Text>
+    <Text Name="PetWeak">
+      <DisplayName>Хрупкие Питомцы</DisplayName>
+      <Desc>Духи Питомцев, как правило, слабее.</Desc>
+    </Text>
+    <Text Name="FavorDown">
+      <DisplayName>Конфликт Агентов</DisplayName>
+      <Desc>Назначение агентств снижает репутацию секты.</Desc>
+    </Text>
+    <Text Name="ColdMan">
+      <DisplayName>Холодное Сердце</DisplayName>
+      <Desc>Все больше персонажей в мире смертных имеют замкнутую личность.</Desc>
+    </Text>
+    <Text Name="NoTeacher">
+      <DisplayName>Все сам</DisplayName>
+      <Desc>Таинственный культиватор больше не появляется.</Desc>
+    </Text>
+    <Text Name="ColdMortal">
+      <DisplayName>Холодный Мир</DisplayName>
+      <Desc>Мир вообще становится холоднее.</Desc>
+    </Text>
+    <Text Name="YaoComing1">
+      <DisplayName>Атака Яогуай: 160-й день.</DisplayName>
+      <Desc>Орда Яогуай атакует вашу секту на 160-й день.</Desc>
+    </Text>
+    <Text Name="YaoComing2">
+      <DisplayName>Атака Яогуай: 120-й день.</DisplayName>
+      <Desc>Орда Яогуай атакует вашу секту на 120-й день.</Desc>
+    </Text>
+    <Text Name="YaoComing3">
+      <DisplayName>Атака Яогуай: 80-й день.</DisplayName>
+      <Desc>Орда Яогуай атакует вашу секту на 80-й день.</Desc>
+    </Text>
+    <Text Name="YaoGuaiComing">
+      <DisplayName>Рейды Яогуай</DisplayName>
+      <Desc>Неистовые монстры будут охотиться на вашу секту.</Desc>
+    </Text>
+    <Text Name="KillerComing1">
+      <DisplayName>Охота на Тайи: День 250</DisplayName>
+      <Desc>Даже после уничтожения секты Тайи все еще существует куча таинственных фигур, охотящихся за ее остатками. Одна из них прибудет на 250-й день.</Desc>
+    </Text>
+    <Text Name="KillerComing2">
+      <DisplayName>Охота на Тайи: День 200</DisplayName>
+      <Desc>Даже после уничтожения секты Тайи все еще существует куча таинственных фигур, охотящихся за ее остатками. Одна из них прибудет на 200-й день.</Desc>
+    </Text>
+    <Text Name="KillerComing3">
+      <DisplayName>Охота на Тайи: День 150</DisplayName>
+      <Desc>Даже после уничтожения секты Тайи все еще существует куча таинственных фигур, охотящихся за ее остатками. Одна из них прибудет на 150-й день.</Desc>
+    </Text>
+    <Text Name="KillerComing">
+      <DisplayName>Охотники на Тайи</DisplayName>
+      <Desc>Даже после уничтожения секты Тайи все еще существует куча таинственных фигур, охотящихся за ее остатками.</Desc>
+    </Text>
+    <Text Name="SoonDragon1">
+      <DisplayName>Пещера Тайн: День 160</DisplayName>
+      <Desc>Таинственная пещера появляется на 160-й день.</Desc>
+    </Text>
+    <Text Name="SoonDragon2">
+      <DisplayName>Пещера Тайн: День 80</DisplayName>
+      <Desc>Таинственная пещера появляется на 80-й день.</Desc>
+    </Text>
+    <Text Name="SoonDragon3">
+      <DisplayName>Пещера Тайн: День 30</DisplayName>
+      <Desc>Таинственная пещера появляется на 30-й день.</Desc>
+    </Text>
+    <Text Name="SoonDragon">
+      <DisplayName>Пещера Бедствия</DisplayName>
+      <Desc>Таинственная пещера появляется раньше.</Desc>
+    </Text>
+    <Text Name="RequiredSacrifice">
+      <DisplayName>Мощь дракона</DisplayName>
+      <Desc>Таинственные пещеры больше не могут быть подавлены.</Desc>
+    </Text>
+    <Text Name="Basfff">
+      <DisplayName>Хороший Аппетит</DisplayName>
+      <Desc>Таинственная пещера требует большего.</Desc>
+    </Text>
+    <Text Name="ThunderBeast">
+      <DisplayName>Могучие Грозы</DisplayName>
+      <Desc>Грозы случаются чаще.</Desc>
+    </Text>
+    <Text Name="StrictDragon">
+      <DisplayName>Древний Благоговейный Трепет</DisplayName>
+      <Desc>С таинственной пещерой вообще труднее иметь дело.</Desc>
+    </Text>
+    <Text Name="LowerPointEvent">
+      <DisplayName>Жесткая Политика</DisplayName>
+      <Desc>Политические события происходят реже.</Desc>
+    </Text>
+    <Text Name="MoreBuilding">
+      <DisplayName>Роскошная Жизнь</DisplayName>
+      <Desc>Стоимость агентских зданий удваивается.</Desc>
+    </Text>
+    <Text Name="MorePolicy">
+      <DisplayName>Бюрократия</DisplayName>
+      <Desc>Затраты на политики удваиваются.</Desc>
+    </Text>
+    <Text Name="MoreMortal">
+      <DisplayName>Мирские Хлопоты</DisplayName>
+      <Desc>С вопросами, касающимися агентств, вообще сложнее иметь дело.</Desc>
+    </Text>
+    <Text Name="LowFavor">
+      <DisplayName>Вне Лиги</DisplayName>
+      <Desc>Стартовые благосклонности сект NPC уменьшаются.</Desc>
+    </Text>
+    <Text Name="HardFavor">
+      <DisplayName>Настороженные Глаза</DisplayName>
+      <Desc>Благосклонность сект NPC растет медленнее.</Desc>
+    </Text>
+    <Text Name="MorePoint">
+      <DisplayName>Безликий</DisplayName>
+      <Desc>Для торговли с сектами NPC требуется больше связей.</Desc>
+    </Text>
+    <Text Name="ColdRealm">
+      <DisplayName>Безэмоциональные Бессмертные</DisplayName>
+      <Desc>Еще труднее торговать с другими сектами.</Desc>
+    </Text>
+    <Text Name="NoLimit1">
+      <DisplayName>Это становится все труднее</DisplayName>
+      <Desc>Атакующие враги становятся все сильнее.</Desc>
+    </Text>
+    <Text Name="NoLimit">
+      <DisplayName>Это становится все труднее</DisplayName>
+      <Desc>Атакующие враги становятся все сильнее.</Desc>
+    </Text>
+    <Text Name="SchoolPower1">
+      <DisplayName>3х Силы Секты</DisplayName>
+      <Desc>Все секты NPC увеличили свою силу на 200%.</Desc>
+    </Text>
+    <Text Name="SchoolPower2">
+      <DisplayName>6х Силы Секты</DisplayName>
+      <Desc>Все секты NPC имеют свою силу, увеличенную на 500%.</Desc>
+    </Text>
+    <Text Name="SchoolPower3">
+      <DisplayName>9Х Силы Секты</DisplayName>
+      <Desc>Все секты NPC увеличили свою силу на 800%.</Desc>
+    </Text>
+    <Text Name="SchoolPower">
+      <DisplayName>Бессмертная мощь</DisplayName>
+      <Desc>Все NPC секты сильнее.</Desc>
+    </Text>
+    <Text Name="DragonPower1">
+      <DisplayName>2x сила Водяного дракона</DisplayName>
+      <Desc>2x сила Водяного дракона</Desc>
+    </Text>
+    <Text Name="DragonPower2">
+      <DisplayName>3x сила Водяного дракона</DisplayName>
+      <Desc>3x сила Водяного дракона</Desc>
+    </Text>
+    <Text Name="DragonPower3">
+      <DisplayName>4x сила Водяного дракона</DisplayName>
+      <Desc>4x сила Водяного дракона</Desc>
+    </Text>
+    <Text Name="DragonPower">
+      <DisplayName>Мощь Воды</DisplayName>
+      <Desc>Водяной дракон сильнее.</Desc>
+    </Text>
+    <Text Name="FengPower1">
+      <DisplayName>2x Сила Феникса</DisplayName>
+      <Desc>2x Сила Феникса</Desc>
+    </Text>
+    <Text Name="FengPower2">
+      <DisplayName>3х Сила Феникса</DisplayName>
+      <Desc>3х Сила Феникса</Desc>
+    </Text>
+    <Text Name="FengPower3">
+      <DisplayName>4х Сила Феникса</DisplayName>
+      <Desc>4х Сила Феникса</Desc>
+    </Text>
+    <Text Name="FengPower">
+      <DisplayName>Мощь Огня</DisplayName>
+      <Desc>Феникс сильнее.</Desc>
+    </Text>
+    <Text Name="ZhulongPower1">
+      <DisplayName>2х мощности Дракона с Факелом</DisplayName>
+      <Desc>2х мощности Дракона с Факелом</Desc>
+    </Text>
+    <Text Name="ZhulongPower2">
+      <DisplayName>3х мощности Дракона с Факелом</DisplayName>
+      <Desc>3х мощности Дракона с Факелом</Desc>
+    </Text>
+    <Text Name="ZhulongPower3">
+      <DisplayName>4х мощности Дракона с Факелом</DisplayName>
+      <Desc>4х мощности Дракона с Факелом</Desc>
+    </Text>
+    <Text Name="ZhulongPower">
+      <DisplayName>Мощь Инь Ян</DisplayName>
+      <Desc>Дракон с Факелом сильнее.</Desc>
+    </Text>
+  </List>
+</Texts>

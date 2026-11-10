@@ -1,0 +1,74 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="TerrainBase">
+      <DisplayName>Утрамбованная Земля</DisplayName>
+      <StoryDesc>Можно встретить на дороге.</StoryDesc>
+    </Text>
+    <Text Name="Null">
+      <DisplayName>Пустота</DisplayName>
+    </Text>
+    <Text Name="Soil">
+      <DisplayName>Почва</DisplayName>
+      <StoryDesc>Он находится на территории, на которой могут выращиваться растения</StoryDesc>
+    </Text>
+    <Text Name="Soil_Sand">
+      <DisplayName>Песок</DisplayName>
+      <StoryDesc>Он находится на песчаном участке</StoryDesc>
+    </Text>
+    <Text Name="Mud">
+      <DisplayName>Грязь</DisplayName>
+      <StoryDesc>Он находится на грязной территории</StoryDesc>
+    </Text>
+    <Text Name="BlackB">
+      <DisplayName>Пустота</DisplayName>
+      <StoryDesc>Он находится в пустоте</StoryDesc>
+    </Text>
+    <Text Name="WetLand">
+      <DisplayName>Мокрая земля</DisplayName>
+      <StoryDesc>Он находится на участке с влажной землей</StoryDesc>
+    </Text>
+    <Text Name="FertileSoil">
+      <DisplayName>Плодородная Почва</DisplayName>
+      <StoryDesc>Он находится на территории, на которой могут выращиваться растения</StoryDesc>
+    </Text>
+    <Text Name="StoneLand">
+      <DisplayName>Скалистая Местность</DisplayName>
+      <StoryDesc>Он находится на пересеченной, каменистой местности</StoryDesc>
+    </Text>
+    <Text Name="SandLand">
+      <DisplayName>Песок</DisplayName>
+      <StoryDesc>Он находится на пересеченной, каменистой местности</StoryDesc>
+    </Text>
+    <Text Name="LingSoil">
+      <DisplayName>Духовная Почва</DisplayName>
+      <StoryDesc>Он находится на духовной области, окруженной Ци</StoryDesc>
+    </Text>
+    <Text Name="DepthDepthWater">
+      <DisplayName>Очень Глубокая Вода</DisplayName>
+    </Text>
+    <Text Name="DepthWater">
+      <DisplayName>Глубокая Вода</DisplayName>
+    </Text>
+    <Text Name="YunHai">
+      <DisplayName>Море облаков</DisplayName>
+    </Text>
+    <Text Name="ShallowWater">
+      <DisplayName>Мелководье</DisplayName>
+      <StoryDesc>Он находится на заболоченной, но неглубокой территории</StoryDesc>
+    </Text>
+    <Text Name="BloodWater">
+      <DisplayName>Жидкая Кровь</DisplayName>
+      <StoryDesc>Это обычно происходит от разделки существ</StoryDesc>
+    </Text>
+    <Text Name="DepthBloodWater">
+      <DisplayName>Глубокая Кровь</DisplayName>
+    </Text>
+    <Text Name="LingWater">
+      <DisplayName>Дух Воды</DisplayName>
+      <StoryDesc>Он находится на заболоченной, но неглубокой территории</StoryDesc>
+    </Text>
+    <Text Name="Sand">
+      <DisplayName>Песок</DisplayName>
+    </Text>
+  </List>
+</Texts>

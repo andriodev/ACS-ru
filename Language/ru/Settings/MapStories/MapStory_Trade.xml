@@ -1,0 +1,19 @@
+﻿<Texts Type="Story">
+	<List>
+		<Text Name="Trade_NoItem">
+			<DisplayName>Распродано</DisplayName>
+			<Desc>Мне больше нечего продавать.</Desc>
+			<Selections.0.Display>Я хотел бы задать несколько вопросов.</Selections.0.Display>
+			<Selections.1.Display>Неважно</Selections.1.Display>
+		</Text>
+		<Text Name="Trade_WalkTrader">
+			<DisplayName>Информация от торговца</DisplayName>
+			<Desc>Хотите узнать о предметах, выставленных на аукцион?</Desc>
+			<Selections.0.Display>Кто примет участие?</Selections.0.Display>
+		</Text>
+		<Text Name="Trade_WalkTrader_2">
+			<DisplayName>Информация от торговца</DisplayName>
+			<Desc>Боюсь, у вас нет квалификации, необходимой для участия в аукционе.</Desc>
+		</Text>
+	</List>
+</Texts>

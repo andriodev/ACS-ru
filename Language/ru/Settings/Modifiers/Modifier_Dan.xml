@@ -1,0 +1,279 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="Dan_BasePracticeDrug">
+      <DisplayName>Пилюля Закалки</DisplayName>
+      <Desc>Раскрывает потенциал тела и временно увеличивает Восприятие, Телосложение и Интеллект на 30%.</Desc>
+    </Text>
+    <Text Name="Modifier_Dan_JingYuan">
+      <DisplayName>Пилюля Выносливости</DisplayName>
+      <Desc>Делает тело выносливее на 7 дней, увеличивая скорость голодания и скорость преобразования выносливости.</Desc>
+    </Text>
+    <Text Name="Modifier_Dan_JingYuan2">
+      <DisplayName>Пилюля Девяти</DisplayName>
+      <Desc>Делает тело выносливее на 14 дней, увеличивая скорость голодания и скорость преобразования выносливости.</Desc>
+    </Text>
+    <Text Name="Modifier_Dan_JingYuan3">
+      <DisplayName>Бурый Порошок</DisplayName>
+      <Desc>Делает тело выносливее на 28 дней, увеличивая скорость голодания и скорость преобразования выносливости.</Desc>
+    </Text>
+    <Text Name="Dan_Ling1">
+      <DisplayName>Пилюля Накопления</DisplayName>
+      <Desc>Увеличивает скорость восстановления Ци на 2000%.</Desc>
+    </Text>
+    <Text Name="Dan_Ling2">
+      <DisplayName>Пилюля Пурпурного Солнца</DisplayName>
+    </Text>
+    <Text Name="Dan_Ling3">
+      <DisplayName>Порошок Сущего</DisplayName>
+      <Desc>Увеличивает максимальный запас Ци на 100 000.</Desc>
+    </Text>
+    <Text Name="Dan_Defense">
+      <DisplayName>Пилюля Щита</DisplayName>
+      <Desc>Увеличивает базовую защиту на 30%.</Desc>
+    </Text>
+    <Text Name="Dan_FiveBaseFromLife">
+      <DisplayName>Пилюля Пяти</DisplayName>
+    </Text>
+    <Text Name="Dan_FiveBase1">
+      <DisplayName>Пилюля Вознесения</DisplayName>
+      <Desc>Увеличивает Восприятие на 30% в течение 48 часов.</Desc>
+    </Text>
+    <Text Name="Dan_FiveBase2">
+      <DisplayName>Пилюля Возделки</DisplayName>
+      <Desc>Увеличивает Телосложение на 30% в течение 48 часов.</Desc>
+    </Text>
+    <Text Name="Dan_FiveBase3">
+      <DisplayName>Пилюля Благодати</DisplayName>
+      <Desc>Увеличивает Харизму на 30% в течение 48 часов.</Desc>
+    </Text>
+    <Text Name="Dan_FiveBase4">
+      <DisplayName>Пилюля Ума</DisplayName>
+      <Desc>Увеличивает Интеллект на 30% в течение 48 часов.</Desc>
+    </Text>
+    <Text Name="Dan_FiveBase5">
+      <DisplayName>Пилюля Покровительства</DisplayName>
+      <Desc>Увеличивает Удачу на 30% в течение 48 часов.</Desc>
+    </Text>
+    <Text Name="Dan_PracticeRate">
+      <DisplayName>Увеличивает шансы на успешный Прорыв.</DisplayName>
+    </Text>
+    <Text Name="Dan_PracticeSpeed">
+      <DisplayName>Увеличивает скорость закалки тела (Зелёные Почки).</DisplayName>
+    </Text>
+    <Text Name="Dan_HundredRefine">
+      <DisplayName>Увеличивает скорость закалки тела (Сансара).</DisplayName>
+    </Text>
+    <Text Name="Dan_CalmDown">
+      <DisplayName>Пилюля Чистоты</DisplayName>
+      <Desc>Пилюля Чистых Помыслов.\nУспокаивает рассудок и уменьшает колебание настроения в течении одного дня.</Desc>
+    </Text>
+    <Text Name="Dan_Happiness">
+      <DisplayName>Пилюля Блаженства</DisplayName>
+      <Desc>Сделает человека счастливым, но это повлияет на его эффективность работы.</Desc>
+    </Text>
+    <Text Name="Dan_NoHunger">
+      <DisplayName>Пилюля Поедания Ци</DisplayName>
+      <Desc>Позволяет поглощать Ци вместо пищи в течении двух дней.</Desc>
+    </Text>
+    <Text Name="Dan_NoHunger1">
+      <DisplayName>Пилюля Пайка</DisplayName>
+      <Desc>Снижает уровень голода и усталости на два дня.</Desc>
+    </Text>
+    <Text Name="Dan_NoHunger2">
+      <DisplayName>Постная Пилюля</DisplayName>
+      <Desc>Значительно снизит потребление человеком еды и воды.</Desc>
+		</Text>
+		<Text Name="Dan_NoHunger3">
+			<DisplayName>Пилюля голодания Ци</DisplayName>
+			<Desc>Употребление пилюли Ци голодания значительно снижает скорость потребления пищи и воды.</Desc>
+    </Text>
+    <Text Name="Dan_LostSoul">
+      <DisplayName>Пилюля Захвата Души</DisplayName>
+      <Desc>Очень простая таблетка на основе минералов. Применяется для подавления активности мозга, в результате чего принявший впадает в беспамятство на три дня и три ночи.</Desc>
+    </Text>
+    <Text Name="Dan_IncreaseLife1">
+      <DisplayName>Пилюля Долголетия</DisplayName>
+    </Text>
+    <Text Name="Dan_IncreaseLife2">
+      <DisplayName>Пилюля Зарождения</DisplayName>
+    </Text>
+    <Text Name="Dan_IncreaseLife3">
+      <DisplayName>Пилюля Пятого Предела</DisplayName>
+    </Text>
+    <Text Name="Dan_IncreaseLife4">
+      <DisplayName>Пилюля Возрождения</DisplayName>
+    </Text>
+    <Text Name="Dan_IncreaseLife5">
+      <DisplayName>Пилюля Грядущего</DisplayName>
+    </Text>
+    <Text Name="Dan_IncreaseLife6">
+      <DisplayName>Исток Долголетия</DisplayName>
+    </Text>
+    <Text Name="Dan_IncreaseLife7">
+      <DisplayName>Трутовик</DisplayName>
+    </Text>
+    <Text Name="Dan_IncreaseLife8">
+      <DisplayName>Линджи</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_Anodyne">
+      <DisplayName>Болеутоляющее</DisplayName>
+      <Desc>Облегчает боль. Его действие продлится около 5 дней.</Desc>
+    </Text>
+    <Text Name="Modifier_Item_Mint">
+      <DisplayName>Трава Чистоты</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_EarthEssence">
+      <DisplayName>Поток Земли</DisplayName>
+		</Text>
+		<Text Name="Modifier_Item_SanHuaHuangJing">
+			<DisplayName>Тримерная эссенция</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_EarthEssence1">
+      <DisplayName>Пагубный Поток</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_EarthEssence_1">
+      <DisplayName>Паста Сущности</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_EarthEssence1_1">
+      <DisplayName>Паста Дурной Крови</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_Ginseng">
+      <DisplayName>Женьшень</DisplayName>
+      <Desc>Повышает выносливость на короткий период времени.</Desc>
+    </Text>
+    <Text Name="Modifier_Item_RedGinseng">
+      <DisplayName>Бурый Женьшень</DisplayName>
+      <Desc>Значительно повышает выносливость на короткий период времени.</Desc>
+    </Text>
+    <Text Name="Modifier_Item_RedGinseng1">
+      <DisplayName>Бурый Женьшень (Семя)</DisplayName>
+      <Desc>Увеличивает максимальный запас Ци.</Desc>
+    </Text>
+    <Text Name="Modifier_Item_Laxative">
+      <DisplayName>Слабительное</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_Laxative1">
+      <DisplayName>Слабость</DisplayName>
+      <Desc>После приёма Слабительного человек будет чувствовать слабость и плохо работать.</Desc>
+    </Text>
+    <Text Name="Modifier_Item_LongXianGuo">
+      <DisplayName>Янтарный Фрукт</DisplayName>
+      <Desc>Дарует невосприимчивость к голоду и усталости на пол дня.</Desc>
+    </Text>
+    <Text Name="Modifier_Item_LingWater">
+      <DisplayName>Роса Духа</DisplayName>
+      <Desc>Значительно ускоряет исцеление ран в течении короткого периода времени.</Desc>
+    </Text>
+    <Text Name="Dan_LingStone">
+      <DisplayName>Резонанс Одухотворённой Ци</DisplayName>
+      <Desc>Используйте Камень Духа, резонирующий с энергией Ци, чтобы значительно увеличить скорость восстановления Ци и скорость совершенствования.</Desc>
+    </Text>
+    <Text Name="Dan_LingCrystal">
+      <DisplayName>Резонанс Одухотворённой Ци</DisplayName>
+      <Desc>Используйте Кристалл Духа, резонирующий с энергией Ци, чтобы значительно увеличить скорость восстановления Ци и скорость совершенствования.</Desc>
+    </Text>
+    <Text Name="Dan_IncreaseNeckCountdown1">
+      <DisplayName>Пилюля Сокрытия</DisplayName>
+    </Text>
+    <Text Name="Dan_IncreaseNeckCountdown2">
+      <DisplayName>Пилюля Преданности</DisplayName>
+    </Text>
+    <Text Name="Dan_Fail1">
+      <DisplayName>Мёртвая Пилюля</DisplayName>
+      <Desc>Моё тело внезапно скукожилось после приёма этой пилюли.</Desc>
+    </Text>
+    <Text Name="Dan_Fail2">
+      <DisplayName>Мёртвая Пилюля</DisplayName>
+      <Desc>После приёма этой странной пилюли моё тело внезапно раздулось.</Desc>
+    </Text>
+    <Text Name="Dan_Fail3">
+      <DisplayName>Мёртвая Пилюля</DisplayName>
+    </Text>
+    <Text Name="Dan_Fail4">
+      <DisplayName>Мёртвая Пилюля</DisplayName>
+    </Text>
+    <Text Name="Dan_Fail5">
+      <DisplayName>Мёртвая Пилюля</DisplayName>
+    </Text>
+    <Text Name="Dan_Soul1">
+      <DisplayName>Пилюля Скорби</DisplayName>
+    </Text>
+    <Text Name="Dan_Soul2">
+      <DisplayName>Пилюля Тревожного Разума</DisplayName>
+    </Text>
+    <Text Name="Dan_Soul3">
+      <DisplayName>Пилюля Застывшего Янтаря</DisplayName>
+    </Text>
+    <Text Name="Dan_Soul4">
+      <DisplayName>Пилюля Горящей Души</DisplayName>
+      <Desc>При употреблении сжигает часть жизни, чтобы значительно повысить Интеллект в течении 2 часов, но в конечном итоге это нанесёт необратимый ущерб Интеллекту.</Desc>
+    </Text>
+    <Text Name="Dan_Soul4_D">
+      <DisplayName>Пилюля Горящей Души - Обратная Сторона</DisplayName>
+    </Text>
+    <Text Name="Dan_LunHui1">
+      <DisplayName>Касание Страданий</DisplayName>
+      <Desc>Под влиянием воспоминаний о Ином Мире.</Desc>
+    </Text>
+    <Text Name="Dan_XianBone">
+      <DisplayName>Кости Бессмертного</DisplayName>
+    </Text>
+    <Text Name="Dan_XianBoneBall">
+      <DisplayName>Кости Святого</DisplayName>
+    </Text>
+    <Text Name="Dan_LingYuanZhong">
+      <DisplayName>Семя Духа (Поглощено)</DisplayName>
+    </Text>
+    <Text Name="Dan_LingYuanZhong_Equip">
+      <DisplayName>Семя Духа (Надето)</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_YuanHunLu">
+      <DisplayName>Нектар Духа</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_XieHunLu">
+      <DisplayName>Пагубный Нектар</DisplayName>
+      <Desc>Пагубный Нектар увеличивает Интеллект и способность к обучению.</Desc>
+    </Text>
+    <Text Name="Modifier_Item_XieHunLu1">
+      <DisplayName>Пагубный Нектар (Урон)</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_YanDaoGuo">
+      <DisplayName>Фрукт Озарения</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_QieDaoGuo">
+      <DisplayName>Фрукт Чужих Идей</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_ZaoHuaYuLu">
+      <DisplayName>Нектар Сотворения</DisplayName>
+      <Desc>При поглощении Изначальный Дух придаётся забвению.</Desc>
+    </Text>
+    <Text Name="Modifier_Item_ZaoHuaYuLu1">
+      <DisplayName>Эффекты Нектара Сотворения</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_XianShiChongSheng">
+      <DisplayName>Перерождение Духовного Сознания</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_XieShiChongSheng">
+      <DisplayName>Перерождение Пагубного Сознания</DisplayName>
+    </Text>
+    <Text Name="Modifier_Item_Boss_Meat">
+      <DisplayName>Плоть Волшебного Зверя</DisplayName>
+      <Desc>Значительно увеличивает максимальный запас Ци и продолжительность жизни.</Desc>
+    </Text>
+    <Text Name="Modifier_Item_BossZhuLong_Meat">
+      <DisplayName>Изначальная Плоть</DisplayName>
+      <Desc>Уменьшает Достижения и увеличивает продолжительность жизни.</Desc>
+    </Text>
+    <Text Name="Modifier_Item_Dan_FabaoNumAdd">
+      <DisplayName>Увеличение количества Артефактов на 1.</DisplayName>
+      <Desc>Увеличивает максимальное количество артефактов на 1.</Desc>
+    </Text>
+    <Text Name="Modifier_Dan_LieShenDan">
+      <DisplayName>Пилюля Раскола</DisplayName>
+    </Text>
+    <Text Name="Modifier_Dan_TiShen">
+      <DisplayName>Пилюля Клона</DisplayName>
+      <Desc>Позволяет сбежать с аукциона.</Desc>
+    </Text>
+  </List>
+</Texts>

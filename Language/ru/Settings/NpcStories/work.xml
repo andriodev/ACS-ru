@@ -1,0 +1,172 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="OutFire">
+			<Events.0.Story>Во время тушения пожара, [name] вдруг начал тосковать по дому.</Events.0.Story>
+			<Events.1.Story>Во время тушения пожара, [name] начал думать о [obj_friend].</Events.1.Story>
+			<Events.2.Story>Во время тушения пожара, [name] внезапно заинтересовался близлежащим [obj_nearthing]...</Events.2.Story>
+			<Events.3.Story>Во время тушения пожара, [name] внезапно захотел съесть [obj_food].</Events.3.Story>
+			<Events.4.Story>Во время тушения пожара, [name] вдруг вспомнил о своем [obj_relation].</Events.4.Story>
+			<Events.5.Story>Во время тушения пожара, в голове [name] зародилось множество мыслей и чувств.</Events.5.Story>
+			<Events.6.Story>Во время тушения пожара, [name] внезапно разрыдался.</Events.6.Story>
+			<Events.7.Story>Во время тушения пожара, [name] вдруг почувствовал необъяснимое раздражение.</Events.7.Story>
+			<Events.8.Story>Во время тушения пожара, [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.8.Story>
+			<Events.9.Story>Во время тушения пожара, [name] внезапно подумал о закате.</Events.9.Story>
+		</Text>
+		<Text Name="Treat">
+			<Events.1.Story>Во время лечения [obj], [name] вдруг начал тосковать по дому.</Events.1.Story>
+			<Events.2.Story>Во время лечения [obj], [name] начал думать о [obj_friend].</Events.2.Story>
+			<Events.3.Story>Во время лечения [obj], [name] внезапно заинтересовался близлежащим [obj_nearthing]...</Events.3.Story>
+			<Events.4.Story>Во время лечения [obj], [name] внезапно захотел съесть [obj_food].</Events.4.Story>
+			<Events.5.Story>Во время лечения [obj], [name] вдруг вспомнил о своем [obj_relation].</Events.5.Story>
+			<Events.6.Story>Во время лечения [obj], в голове [name] зародилось множество мыслей и чувств.</Events.6.Story>
+			<Events.7.Story>Во время лечения [obj], [name] внезапно разрыдался.</Events.7.Story>
+			<Events.8.Story>Во время лечения [obj], [name] вдруг почувствовал необъяснимое раздражение.</Events.8.Story>
+			<Events.9.Story>Во время лечения [obj], [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Несмотря на то что [obj_badmood] повлиял на настроение, [name] сохранил бодрость духа и сделал все возможное, чтобы вылечить [obj].</Events.10.Story>
+			<Events.11.Story>На настроение повлияло [obj_badmood], [name] не смог сосредоточиться во время исцелении [obj], из-за чего [hename] внезапно вскрикнул.</Events.11.Story>
+			<Events.12.Story>На настроение повлияло [obj_badmood], [name] намеренно применил силу при исцелении [obj], из-за чего [HENAME] начал кричать.</Events.12.Story>
+			<Events.13.Story>[name] было хорошее настроение из-за [obj_goodmood], и он не мог не напевать себе под нос, пока лечил [obj], оставив  [hename] без слов.</Events.13.Story>
+			<Events.14.Story>[name] было хорошее настроение из-за [obj_goodmood], и он не мог не напевать себе под нос, пока лечил [obj], поднимая настроение [hename].</Events.14.Story>
+			<Events.15.Story>[name] было хорошее настроение из-за [obj_goodmood],и он не мог не напевать себе под нос, пока лечил [obj], отчего выражение лица [hename] помрачнело.</Events.15.Story>
+			<Events.16.Story>Во время лечения [obj], [name] внезапно применил слишком большую силу. [hename]  издал крик.</Events.16.Story>
+			<Events.17.Story>Во время лечения [obj], [name] пожалел [hename] и чувствовал себя опечаленным.</Events.17.Story>
+			<Events.18.Story>Во время лечения [obj], [name] заговорил с [hename] о [rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool].</Events.18.Story>
+		</Text>
+		<Text Name="Feed">
+			<Events.1.Story>Во время кормления [hename] [obj], [name] вдруг начал тосковать по дому.</Events.1.Story>
+			<Events.2.Story>Во время кормления [hename] [obj], [name] начал думать о [obj_friend].</Events.2.Story>
+			<Events.3.Story>Во время кормления [hename] [obj], [name] внезапно заинтересовался близлежащим [obj_nearthing]...</Events.3.Story>
+			<Events.4.Story>Во время кормления [hename] [obj], [name] внезапно захотел съесть [obj_food].</Events.4.Story>
+			<Events.5.Story>Во время кормления [hename] [obj], [name] вдруг вспомнил о своем [obj_relation].</Events.5.Story>
+			<Events.6.Story>Во время кормления [hename] [obj],в голове [name] зародилось множество мыслей и чувств.</Events.6.Story>
+			<Events.7.Story>Во время кормления [hename] [obj], [name] внезапно разрыдался.</Events.7.Story>
+			<Events.8.Story>Во время кормления [hename] [obj], [name] вдруг почувствовал необъяснимое раздражение.</Events.8.Story>
+			<Events.9.Story>Во время кормления [hename] [obj], [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Несмотря на то что [obj_badmood] повлиял на настроение, [name] сохранял бодрость духа и делал все возможное, чтобы накормить [hename].</Events.10.Story>
+			<Events.11.Story>Находясь под влиянием [obj_badmood], [name] не мог отвлечься от дела, пока кормил [hename] [obj], обжигая [hename] и заставляя его внезапно вскрикнуть.</Events.11.Story>
+			<Events.12.Story>[name] было хорошее настроение из-за [obj_goodmood],и он не мог не напевать себе под нос, пока кормил [hename] [obj], оставив  [hename] без слов.</Events.12.Story>
+			<Events.13.Story>[name] было хорошее настроение из-за [obj_goodmood], и он не мог не напевать себе под нос, пока кормил [hename] [obj], поднимая настроение [hename].</Events.13.Story>
+			<Events.14.Story>[name] было хорошее настроение из-за [obj_goodmood], и он не мог не напевать себе под нос, пока кормил [hename] [obj], отчего выражение лица [hename] помрачнело.</Events.14.Story>
+			<Events.15.Story>[name] было хорошее настроение из-за [obj_goodmood], и он не мог не напевать себе под нос, пока кормил [hename] [obj], что очень раздражало [hename].</Events.15.Story>
+			<Events.16.Story>Во время кормления [hename] [obj], разум [name] начал блуждать. Они умудрились размазать [obj] по всему лицу [hename].</Events.16.Story>
+			<Events.17.Story>Во время кормления [hename] [obj], [name] тоже захотел попробовать [obj].</Events.17.Story>
+			<Events.18.Story>Во время кормления [hename] [obj], [name] завел разговор с [hename] о [rand_lable=obj_weather,obj_action,obj_goodmood,obj_badmood,obj_fabao,obj_relation,obj_dan,obj_food,obj_friend,obj_npc,obj_place,obj_nearthing,obj_equip,obj_gong,obj_esoterica,obj_damage,obj_secret,obj_unlockmapplace,obj_lockmapplace,obj_goodschool,obj_badschool].</Events.18.Story>
+		</Text>
+		<Text Name="Hunting">
+			<Events.1.Story>Во время охоты [obj], [name] вдруг начал тосковать по дому.</Events.1.Story>
+			<Events.2.Story>Во время охоты [obj], [name] начал думать о [obj_friend].</Events.2.Story>
+			<Events.3.Story>Во время охоты [obj], [name] внезапно заинтересовался близлежащим [obj_nearthing]...</Events.3.Story>
+			<Events.4.Story>Во время охоты [obj], [name] внезапно захотел съесть [obj_food].</Events.4.Story>
+			<Events.5.Story>Во время охоты [obj], [name] вдруг вспомнил о своем [obj_relation].</Events.5.Story>
+			<Events.6.Story>Во время охоты [obj], в голове [name] зародилось множество мыслей и чувств.</Events.6.Story>
+			<Events.7.Story>Во время охоты [obj], [name] внезапно разрыдался.</Events.7.Story>
+			<Events.8.Story>Во время охоты [obj], [name] вдруг почувствовал необъяснимое раздражение.</Events.8.Story>
+			<Events.9.Story>Во время охоты [obj], [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Несмотря на то что [obj_badmood] повлиял на настроение, [name] не терял силу духа и делал все возможное, чтобы охотиться на [obj].</Events.10.Story>
+			<Events.11.Story>[name] было хорошее настроение из-за [obj_goodmood], и не мог не напевать себе под нос во время охоты на [obj].</Events.11.Story>
+			<Events.12.Story>Во время охоты на [obj], [name] по какой-то причине почувствовал жалость к [оbj].</Events.12.Story>
+		</Text>
+		<Text Name="Build">
+			<Events.1.Story>Во время строительства [obj], [name] вдруг начал тосковать по дому.</Events.1.Story>
+			<Events.2.Story>Во время строительства [obj], [name] начал думать о [obj_friend].</Events.2.Story>
+			<Events.3.Story>Во время строительства [obj], [name] внезапно заинтересовался близлежащим [obj_nearthing]...</Events.3.Story>
+			<Events.4.Story>Во время строительства [obj], [name] внезапно захотел съесть [obj_food].</Events.4.Story>
+			<Events.5.Story>Во время строительства [obj], [name] вдруг вспомнил о своем [obj_relation].</Events.5.Story>
+			<Events.6.Story>Во время строительства [obj], в голове [name] зародилось множество мыслей и чувств.</Events.6.Story>
+			<Events.7.Story>Во время строительства [obj], [name] внезапно разрыдался.</Events.7.Story>
+			<Events.8.Story>Во время строительства [obj], [name] вдруг почувствовал необъяснимое раздражение.</Events.8.Story>
+			<Events.9.Story>Во время строительства [obj], [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Несмотря на то что [obj_badmood] повлиял на настроение, [name] сохранил бодрость духа и сделал все возможное, чтобы построить [obj].</Events.10.Story>
+			<Events.11.Story>[name] было хорошее настроение из-за [obj_goodmood], и не мог не напевать себе под нос, пока строил [obj].</Events.11.Story>
+			<Events.12.Story>Во время создания [obj], [name] чувствовал себя особенно преданным своему делу, и в результате [it] произвел на него большое впечатление.</Events.12.Story>
+		</Text>
+		<Text Name="Plant">
+			<Events.1.Story>Во время посадки [obj], [name] вдруг начал тосковать по дому.</Events.1.Story>
+			<Events.2.Story>Во время посадки [obj], [name] начал думать о [obj_friend].</Events.2.Story>
+			<Events.3.Story>Во время посадки [obj], [name] внезапно заинтересовался близлежащим [obj_nearthing]...</Events.3.Story>
+			<Events.4.Story>Во время посадки [obj], [name] внезапно захотел съесть [obj_food].</Events.4.Story>
+			<Events.5.Story>Во время посадки [obj], [name] вдруг вспомнил о своем [obj_relation].</Events.5.Story>
+			<Events.6.Story>Во время посадки [obj], в голове [name] зародилось множество мыслей и чувств.</Events.6.Story>
+			<Events.7.Story>Во время посадки [obj], [name] внезапно разрыдался.</Events.7.Story>
+			<Events.8.Story>Во время посадки [obj], [name] вдруг почувствовал необъяснимое раздражение.</Events.8.Story>
+			<Events.9.Story>Во время посадки [obj], [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Несмотря на то что [obj_badmood] повлиял на настроение, [name] сохранил бодрость духа и сделал все возможное, чтобы посадить [obj].</Events.10.Story>
+			<Events.11.Story>[name] было хорошее настроение из-за [obj_goodmood], и он не мог не напевать себе под нос, сажая [obj].</Events.11.Story>
+			<Events.12.Story>Когда [name] сажал [obj], он был полон надежд: "Хотелось бы, чтобы урожай в этом сезоне был хорошим", - думал он.</Events.12.Story>
+		</Text>
+		<Text Name="Mine">
+			<Events.1.Story>Во время добычи [obj], [name] вдруг начал тосковать по дому.</Events.1.Story>
+			<Events.2.Story>Во время добычи [obj], [name] начал думать о [obj_friend].</Events.2.Story>
+			<Events.3.Story>Во время добычи [obj], [name] внезапно заинтересовался близлежащим [obj_nearthing]...</Events.3.Story>
+			<Events.4.Story>Во время добычи [obj], [name] внезапно захотел съесть [obj_food].</Events.4.Story>
+			<Events.5.Story>Во время добычи [obj], [name] вдруг вспомнил о своем [obj_relation].</Events.5.Story>
+			<Events.6.Story>Во время добычи [obj], в голове [name] зародилось множество мыслей и чувств.</Events.6.Story>
+			<Events.7.Story>Во время добычи [obj], [name] внезапно разрыдался.</Events.7.Story>
+			<Events.8.Story>Во время добычи [obj], [name] вдруг почувствовал необъяснимое раздражение.</Events.8.Story>
+			<Events.9.Story>Во время добычи [obj], [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Несмотря на то что [obj_badmood] повлиял на настроение, [name] сохранил бодрость духа и сделал все возможное, чтобы добыть [obj].</Events.10.Story>
+			<Events.11.Story>У [NAME] было хорошее настроение из-за [obj_goodmood], и он не мог не напевать себе под нос, добывая [obj].</Events.11.Story>
+			<Events.12.Story>Во время добычи [obj], [NAME] был полон надежд. "Если бы только мне удалось прокопать путь в какое-нибудь мистическое место, населенное феями и бессмертными..."</Events.12.Story>
+			<Events.13.Story>Во время добычи [obj], [NAME] внезапно накрыла волна усталости. "Когда же меня наконец повысят до внутреннего ученика?" - размышлял он.</Events.13.Story>
+			<Events.14.Story>[NAME] стал чувствовать себя очень мотивированным, во время добычи [obj]. [it] подумало, что это тоже важная часть культивации.</Events.14.Story>
+		</Text>
+		<Text Name="CutOff">
+			<Events.1.Story>Во время резки [obj], [name] вдруг начал тосковать по дому.</Events.1.Story>
+			<Events.2.Story>Во время резки [obj], [name] начал думать о [obj_friend].</Events.2.Story>
+			<Events.3.Story>Во время резки [obj], [name] внезапно заинтересовался близлежащим [obj_nearthing]...</Events.3.Story>
+			<Events.4.Story>Во время резки [obj], [name] внезапно захотел съесть [obj_food].</Events.4.Story>
+			<Events.5.Story>Во время резки [obj], [name] вдруг вспомнил о своем [obj_relation].</Events.5.Story>
+			<Events.6.Story>Во время резки [obj], в голове [name] зародилось множество мыслей и чувств.</Events.6.Story>
+			<Events.7.Story>Во время резки [obj], [name] внезапно разрыдался.</Events.7.Story>
+			<Events.8.Story>Во время резки [obj], [name] вдруг почувствовал необъяснимое раздражение.</Events.8.Story>
+			<Events.9.Story>Во время резки [obj], [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Несмотря на то что [obj_badmood] повлиял на настроение, [name] сохранил бодрость духа и сделал все возможное, чтобы обработать [obj].</Events.10.Story>
+			<Events.11.Story>[name] было хорошее настроение из-за [obj_goodmood], и он не мог не напевать себе под нос, пока резал [obj].</Events.11.Story>
+			<Events.12.Story>[NAME] стал чувствовать себя очень мотивированным, собирая добычу [obj]. [IT] подумало, что это тоже важная часть культивации.</Events.12.Story>
+		</Text>
+		<Text Name="Eat">
+			<Events.1.Story>Во время еды [obj], [name] вдруг начал тосковать по дому.</Events.1.Story>
+			<Events.2.Story>Во время еды [obj], [name] начал думать о [obj_friend].</Events.2.Story>
+			<Events.3.Story>Во время еды [obj], [name] внезапно заинтересовался близлежащим [obj_nearthing]...</Events.3.Story>
+			<Events.4.Story>Во время еды [obj], [name] внезапно захотел съесть [obj_food].</Events.4.Story>
+			<Events.5.Story>Во время еды [obj], [name] вдруг вспомнил о своем [obj_relation].</Events.5.Story>
+			<Events.6.Story>Во время еды [obj], в голове [name] зародилось множество мыслей и чувств.</Events.6.Story>
+			<Events.7.Story>Во время еды [obj], [name] внезапно разрыдался.</Events.7.Story>
+			<Events.8.Story>Во время еды [obj], [name] вдруг почувствовал необъяснимое раздражение.</Events.8.Story>
+			<Events.9.Story>Во время еды [obj], [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Под влиянием [obj_badmood], [name] почувствовал, что [obj] был таким же вкусным, как кусок воска, совершенно лишенный вкуса.</Events.10.Story>
+			<Events.11.Story>У [NAME] было хорошее настроение из-за [obj_goodmood], поэтому он почувствовал, что [obj] показался ему гораздо вкуснее, чем обычно.</Events.11.Story>
+		</Text>
+		<Text Name="Drink">
+			<Events.1.Story>Во время питья [obj], [name] вдруг начал тосковать по дому.</Events.1.Story>
+			<Events.2.Story>Во время питья [obj], [name] начал думать о [obj_friend].</Events.2.Story>
+			<Events.3.Story>Во время питья [obj], [name] внезапно заинтересовался близлежащим [obj_nearthing]...</Events.3.Story>
+			<Events.4.Story>Во время питья [obj], [name] вдруг захотел выпить [obj_food].</Events.4.Story>
+			<Events.5.Story>Во время питья [obj], [name] вдруг вспомнил о своем [obj_relation].</Events.5.Story>
+			<Events.6.Story>Во время питья [obj], в голове [name] зародилось множество мыслей и чувств.</Events.6.Story>
+			<Events.7.Story>Во время питья [obj], [name] внезапно разрыдался.</Events.7.Story>
+			<Events.8.Story>Во время питья [obj], [name] вдруг почувствовал необъяснимое раздражение.</Events.8.Story>
+			<Events.9.Story>Во время питья [obj], [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+		</Text>
+		<Text Name="Fighting">
+			<Events.1.Story>Во время боя, [name] вдруг начал тосковать по дому.</Events.1.Story>
+			<Events.2.Story>Во время боя, [name] начал думать о [obj_friend].</Events.2.Story>
+			<Events.3.Story>Во время боя, [name] внезапно заинтересовался близлежащим [obj_nearthing]...</Events.3.Story>
+			<Events.4.Story>Во время боя, [name] внезапно захотел съесть [obj_food].</Events.4.Story>
+			<Events.5.Story>Во время боя, [name] вдруг вспомнил о своем [obj_relation].</Events.5.Story>
+			<Events.6.Story>Во время боя, в голове [name] зародилось множество мыслей и чувств.</Events.6.Story>
+			<Events.7.Story>Во время боя, [name] внезапно разрыдался.</Events.7.Story>
+			<Events.8.Story>Во время боя, [name] вдруг почувствовал необъяснимое раздражение.</Events.8.Story>
+			<Events.9.Story>Во время боя, [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Во время боя, [name] решил, что, как только битва закончится, он хотел бы вернуться домой и навестить свою семью.</Events.10.Story>
+			<Events.11.Story>Во время боя, [name] решил, что, как только битва закончится, он начнет искать любовь.</Events.11.Story>
+			<Events.12.Story>Во время боя, [name] решил, что, как только битва закончится, он хотел бы собраться с друзьями и немного выпить.</Events.12.Story>
+		</Text>
+		<Text Name="Fishing">
+			<Events.1.Story>На рыбалке [name] тоскует по дому.</Events.1.Story>
+			<Events.2.Story>Во время рыбалки [name] стал думать о [obj_friend].</Events.2.Story>
+			<Events.3.Story>Во время рыбалки, [name] внезапно заинтересовался близлежащим [obj_nearthing].</Events.3.Story>
+			<Events.4.Story>[NAME] внезапно захотел съесть [obj_food] во время рыбалки.</Events.4.Story>
+		</Text>
+	</List>
+</Texts>

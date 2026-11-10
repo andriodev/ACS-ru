@@ -1,0 +1,15 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Normal">
+			<Events.0.Story>[name] почему-то впал в транс.</Events.0.Story>
+			<Events.1.Story>[name] [rand_string=чихнул, отрыгнул, попал песок в глаза, зевнул, начал разговаривать сам с собой, потер живот, почесался, внезапно почувствовал скуку, расчесал волосы пальцами, наступил на что-то, поправил одежду, вздохнул, надул рот, облизал губы, высунул язык, вытер пыль, напевал мелодию, хотел с кем-то поговорить, хотел попробовать написать стихи, почувствовал что у него чешется горло, фыркнул].</Events.1.Story>
+			<Events.2.Story>[name] [rand_string=циркулировали ци, произносили мантру несколько раз, мысленно повторяли даосские песнопения].</Events.2.Story>
+			<Events.3.Story>[name] вдруг почувствовал, что [rand_string=Правый Глаз, Левый Глаз] слегка подергиваются.</Events.3.Story>
+			<Events.4.Story>[name] казалось, что они слышали, как кто-то их зовет.</Events.4.Story>
+			<Events.5.Story>[name] хотел поговорить с кем-нибудь о [rand_lable=obj_friend,obj_nearthing,other=obj,obj_action].</Events.5.Story>
+			<Events.6.Story>[name] очень нравится [rand_lable=obj_weather,obj_action].</Events.6.Story>
+			<Events.7.Story>[name] уставился на стоящий неподалеку [rand_lable=obj_friend,obj_nearthing], [rand_string=отвлекаясь, хихикая, размышляя о чем-то].</Events.7.Story>
+			<Events.8.Story>[name] хотел, чтобы [obj_equip] [rand_string=поменяли, почистили, переставили].</Events.8.Story>
+		</Text>
+	</List>
+</Texts>

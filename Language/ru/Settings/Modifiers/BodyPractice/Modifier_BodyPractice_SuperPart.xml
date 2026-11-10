@@ -1,0 +1,88 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_SuperPart_BaseOn_1_LV1">
+			<DisplayName>Воспитанник Кровавого Нефрита 1</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_1_LV2">
+			<DisplayName>Воспитанник Кровавого Нефрита 2</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_1_LV3">
+			<DisplayName>Воспитанник Кровавого Нефрита 3</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_2_LV1">
+			<DisplayName>Сияние сердца Ян 1</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_2_LV2">
+			<DisplayName>Сияние сердца Ян 2</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_2_1_LV1">
+			<DisplayName>Покрытие сердца Инь 1</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_2_1_LV2">
+			<DisplayName>Покрытие сердца Инь 2</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_3_LV1">
+			<DisplayName>Позвоночник Небесного Дракона</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_4_LV1">
+			<DisplayName>Мировая Печь 1</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_4_LV2">
+			<DisplayName>Мировая Печь 2</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_4_LV3">
+			<DisplayName>Мировая Печь 3</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_BaseOn_4_LV4">
+			<DisplayName>Мировая Печь 4</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_2_10">
+			<DisplayName>Северные Глаза</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_3_16">
+			<DisplayName>Астральный Хвост</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_5">
+			<DisplayName>Ноги ловца солнца</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_6">
+			<DisplayName>Иллюзионное Тело</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_7">
+			<DisplayName>Зернистые Руки</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_8_LV1">
+			<DisplayName>Тело Восприятия</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Gong_5_8_LV2">
+			<DisplayName>Тело Восприятия</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Boar_1">
+			<DisplayName>Кровавая Щетина</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Cat_1">
+			<DisplayName>Высшее Воплощение</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Cat_2">
+			<DisplayName>Завораживающий Кристалл</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Cattle_1">
+			<DisplayName>Грудь четырех статуй</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Chicken_2">
+			<DisplayName>Корона Небесного Огня</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Rabbit_2">
+			<DisplayName>Иллюзионное Тело</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Tiger_2">
+			<DisplayName>Тело укротителя ветра</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Wolf_1">
+			<DisplayName>Поглощающая Пасть</DisplayName>
+		</Text>
+		<Text Name="Modifier_SuperPart_Wolf_2">
+			<DisplayName>Тело Дикой Души</DisplayName>
+		</Text>
+	</List>
+</Texts>

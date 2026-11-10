@@ -1,0 +1,48 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Story_PracticeSpeed1">
+			<DisplayName>Увеличивает скорость культивирования на 5%.</DisplayName>
+			<Desc>Увеличивает скорость культивирования на 5%.</Desc>
+		</Text>
+		<Text Name="Story_LingMax1">
+			<DisplayName>Увеличивает Максимальную Ци на 2%.</DisplayName>
+			<Desc>Увеличивает Максимальную Ци на 2%.</Desc>
+		</Text>
+		<Text Name="Story_FabaoPower1">
+			<DisplayName>Увеличивает силу артефакта на 5%.</DisplayName>
+			<Desc>Увеличивает силу артефакта на 5%.</Desc>
+		</Text>
+		<Text Name="Story_LingAbsorbSpeed1">
+			<DisplayName>Увеличивает скорость поглощения Ци на 10%.</DisplayName>
+			<Desc>Увеличивает скорость поглощения Ци на 10%.</Desc>
+		</Text>
+		<Text Name="Story_WorldMapFlySpeedAddP1">
+			<DisplayName>Скорость полета меча увеличилась на 50%.</DisplayName>
+			<Desc>Скорость полета меча увеличилась на 50%.</Desc>
+		</Text>
+		<Text Name="Story_ShieldConversionRate1">
+			<DisplayName>Эффективность щита Ци увеличилась на 10%.</DisplayName>
+			<Desc>Эффективность щита Ци увеличилась на 10%.</Desc>
+		</Text>
+		<Text Name="Story_DragonBlood">
+			<DisplayName>Родословная дракона</DisplayName>
+			<Desc>Родословная Дракона Пробуждение: Телосложение увеличилось на 20%; восприятие увеличилось на 20%; фундаментально увеличивает максимальную Ци на 25%.</Desc>
+		</Text>
+		<Text Name="Modifier_Story_BossLong_Wish1">
+			<DisplayName>Дары</DisplayName>
+		</Text>
+		<Text Name="Modifier_Story_BossLong_Wish2">
+			<DisplayName>Дары</DisplayName>
+		</Text>
+		<Text Name="Modifier_Story_BossLong_Wish3">
+			<DisplayName>Дары</DisplayName>
+		</Text>
+		<Text Name="Modifier_Story_BossLong_Wish4">
+			<DisplayName>Дары</DisplayName>
+		</Text>
+		<Text Name="Modifier_GreenBrothel">
+			<DisplayName>Чувствую Себя Хорошо</DisplayName>
+			<Desc>Повеселившись в зеленой усадьбе, хорошее настроение продлится еще 5 дней.</Desc>
+		</Text>
+	</List>
+</Texts>

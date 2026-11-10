@@ -1,0 +1,40 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="Box_Cargo" sParam="Plant">
+			<ThingName>Старая Коробка</ThingName>
+			<Desc>Относительно хорошо сохранившийся грузовой ящик. Кажется, кто-то в панике бежит с войны.</Desc>
+			<StoryBnts.0.Name>Поиск</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Искать в этой коробке.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse" sParam="Plant">
+			<ThingName>Разложившееся тело</ThingName>
+			<Desc>Уже разложившееся тело. По какой-то причине он умер здесь.</Desc>
+			<StoryBnts.0.Name>Поиск</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Обыскать это тело.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse_OldMan1" sParam="Plant">
+			<ThingName>Разложившееся тело</ThingName>
+			<Desc>Уже разложившееся тело. По какой-то причине он умер здесь.</Desc>
+			<StoryBnts.0.Name>Поиск</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Обыскать это тело.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse_OldMan2" sParam="Plant">
+			<ThingName>Разложившееся тело</ThingName>
+			<Desc>Уже разложившееся тело. По какой-то причине он умер здесь.</Desc>
+			<StoryBnts.0.Name>Поиск</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Обыскать это тело.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse_BeastMan" sParam="Plant">
+			<ThingName>Полуразложившееся тело</ThingName>
+			<Desc>Полуразложившееся тело, дикие звери почему-то не едят.</Desc>
+			<StoryBnts.0.Name>Взаимодействовать</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Попробуйте взаимодействовать с его призраком своим восприятием.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="Box_Corpse_ShiXiong" sParam="Plant">
+			<ThingName>Свежий труп</ThingName>
+			<Desc>Тело, умершее здесь не так давно по какой-то причине.</Desc>
+			<StoryBnts.0.Name>Поиск</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Обыскать это тело.</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,44 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="PracticeMaster">
+			<DisplayNameF>Мастер</DisplayNameF>
+			<DisplayNameM>Мастер</DisplayNameM>
+		</Text>
+		<Text Name="PracticeChild">
+			<DisplayNameF>Ученица</DisplayNameF>
+			<DisplayNameM>Ученик</DisplayNameM>
+		</Text>
+		<Text Name="PracticeMasterMaster">
+			<DisplayNameF>Великий Мастер</DisplayNameF>
+			<DisplayNameM>Великий Мастер</DisplayNameM>
+		</Text>
+		<Text Name="PracticeChildChild">
+			<DisplayNameF>Младшая Ученица</DisplayNameF>
+			<DisplayNameM>Младший Ученик</DisplayNameM>
+		</Text>
+		<Text Name="PracticeBrother">
+			<DisplayNameF>Сестра, Сестрёнка</DisplayNameF>
+			<DisplayNameM>Брат, Братец</DisplayNameM>
+		</Text>
+		<Text Name="PracticeOtherBrother">
+			<DisplayNameF>Сестра, Сестрёнка</DisplayNameF>
+			<DisplayNameM>Брат, Братец</DisplayNameM>
+		</Text>
+		<Text Name="PracticeOtherMaster">
+			<DisplayNameF>Старшая, Младшая</DisplayNameF>
+			<DisplayNameM>Старший, Младший</DisplayNameM>
+		</Text>
+		<Text Name="PracticeOtherChild">
+			<DisplayNameF>Младшая Ученица</DisplayNameF>
+			<DisplayNameM>Младший Ученик</DisplayNameM>
+		</Text>
+		<Text Name="PracticeOtherMasterMaster">
+			<DisplayNameF>Великий Мастер</DisplayNameF>
+			<DisplayNameM>Великий Мастер</DisplayNameM>
+		</Text>
+		<Text Name="PracticeOtherChildChild">
+			<DisplayNameF>Младшая Ученица</DisplayNameF>
+			<DisplayNameM>Младший Ученик</DisplayNameM>
+		</Text>
+	</List>
+</Texts>

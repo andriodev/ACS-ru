@@ -1,0 +1,16 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Drought">
+			<DisplayName>Засуха</DisplayName>
+		</Text>
+		<Text Name="Flood">
+			<DisplayName>Наводнение</DisplayName>
+		</Text>
+		<Text Name="Siberia">
+			<DisplayName>Заморозки</DisplayName>
+		</Text>
+		<Text Name="EarthQuake">
+			<DisplayName>Землетрясение</DisplayName>
+		</Text>
+	</List>
+</Texts>

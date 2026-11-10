@@ -1,0 +1,29 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="Panda_NormalAttack" sParam="Item">
+      <ThingName>Панды Атакуют</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Коготь</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Коготь</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Коготь</Item.Equip.AtkDamage.2.DescTags>
+      <Item.Equip.AtkDamage.3.DescTags>Ударять</Item.Equip.AtkDamage.3.DescTags>
+    </Text>
+    <Text Name="JYPanda_NormalAttack" sParam="Item">
+      <ThingName>Панда Удар</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Земля-демон бесплатно</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Земля-демон бесплатно</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Земля-демон бесплатно</Item.Equip.AtkDamage.2.DescTags>
+    </Text>
+    <Text Name="LsPanda1_NormalAttack" sParam="Item">
+      <ThingName>Бамбуковая Булава</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Гром Ян</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Гром Ян</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Гром Ян</Item.Equip.AtkDamage.2.DescTags>
+    </Text>
+    <Text Name="LsPanda2_NormalAttack" sParam="Item">
+      <ThingName>Стрелы Инь</ThingName>
+      <Item.Equip.AtkDamage.0.DescTags>Гром Инь</Item.Equip.AtkDamage.0.DescTags>
+      <Item.Equip.AtkDamage.1.DescTags>Гром Инь</Item.Equip.AtkDamage.1.DescTags>
+      <Item.Equip.AtkDamage.2.DescTags>Гром Инь</Item.Equip.AtkDamage.2.DescTags>
+    </Text>
+  </List>
+</Texts>

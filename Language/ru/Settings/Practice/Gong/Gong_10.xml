@@ -1,0 +1,26 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_10_Huo">
+			<DisplayName>Очищение Трех Огней</DisplayName>
+			<Desc>Одна из истинных стихийных (Огонь) техник секты Тайи. С помощью Малого Янь, Среднего Янь и Большого Янь сконденсируте огонь из трех сил: Неба, Земли и Человека. Такой огонь будет чрезвычайно мощным и разрушительным. Однако процесс культивации может быть очень опасным. Истинный огонь может даже уничтожить всю вашу сущность, если возвышение пойдет не так.</Desc>
+			<SelectDesc>При культивации с помощью этой техники практик может преуспеть в заклинаниях, но прорыв будет относительно рискованным. Вы уверены, что хотите начать культивировать согласно этой технике?</SelectDesc>
+			<Stages.0.DisplayName>Рукотворный огонь</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Искра</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>Почувствуйте свою естественную искру и зажгите ее. Это знаменует начало возвышения. [color=#D06508]\nЕсли искра не загорится, это может привести к травме меридиан.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Рукотворный огонь</Stages.0.Necks.1.DisplayName>
+			<Stages.0.Necks.1.Desc>Соберите истинный огонь у врат разума, чтобы зажечь огонь в своем уме и соединиться с небом и землей. [color=#D06508]\nЕсли что-то пойдет не так, истинный огонь переполнит и сожжет тело, причиняя огромную боль.[/color]</Stages.0.Necks.1.Desc>
+			<Stages.1.DisplayName>Земной Огонь</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Кузнечные Меха</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>Используйте свое тело как меха, чтобы разжечь истинный огонь и перековать кости, готовясь к формированию Огненного Ядра. [color=#D06508]\nЕсли что-то пойдет не так, истинный огонь проникнет в кости и вызовет истощение костного мозга. Подумайте дважды, прежде чем совершать прорыв.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Земной Огонь</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>Небесный Огонь</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Держатель Лампады</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>Собери весь свой дух в сердце и зажги Сердечный огонь.[color=#D06508]\nЕсли что-то пойдет не так, Ци взорвется и сожжет сердце. Подготовьтесь заранее перед прорывом.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.2.Necks.1.DisplayName>Небесный огонь</Stages.2.Necks.1.DisplayName>
+			<Stages.3.DisplayName>Божественный огонь</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Дух Озаренный</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.0.Desc>Проявите божественность своей души. Преодолев этот барьер, человек столкнется с Треволнением Небес. [color=#D06508]\nПрорваться крайне сложно, да и бонуса к опыту не будет.[/color]</Stages.3.Necks.0.Desc>
+			<Stages.3.Necks.1.DisplayName>Вознесение</Stages.3.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>

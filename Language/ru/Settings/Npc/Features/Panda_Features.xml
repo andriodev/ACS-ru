@@ -1,0 +1,12 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Panda1">
+			<DisplayName>Ленивый и озорной</DisplayName>
+			<Desc>И ленивый, и озорной. Медленный и беспечный в делах, но исключительно милый.</Desc>
+		</Text>
+		<Text Name="Panda2">
+			<DisplayName>Тело Инь и Ян</DisplayName>
+			<Desc>Его тело сочитает в себе Инь и Ян, что увеличивает скорость закалки и практики.</Desc>
+		</Text>
+	</List>
+</Texts>

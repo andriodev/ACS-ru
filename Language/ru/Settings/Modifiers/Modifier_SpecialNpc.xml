@@ -1,0 +1,62 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_SpNpc_BasePropertie">
+			<DisplayName>Начальная статистика</DisplayName>
+		</Text>
+		<Text Name="Modifier_SpNpc_BaseFightPropertie">
+			<DisplayName>Базовая Боевая статистика</DisplayName>
+		</Text>
+		<Text Name="Modifier_SpNpc_Ling">
+			<DisplayName>Духовный</DisplayName>
+			<Desc>Этот человек имеет глубоко заложенный фундамент, с бездонной энергией Ци.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_Shield">
+			<DisplayName>Устойчивый</DisplayName>
+			<Desc>У этого человека железное тело, и он исключительно хорошо владеет навыками защиты.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoAtk">
+			<DisplayName>Пронзительный</DisplayName>
+			<Desc>Этот человек использует Артефакт, подобный грому, с ошеломляющей силой.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoLing">
+			<DisplayName>Крепкий</DisplayName>
+			<Desc>Этот человек использует Артефакт, подобный горе, с несокрушимой силой твердости.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoSpeed">
+			<DisplayName>Проворный</DisplayName>
+			<Desc>Этот человек использует Артефакт, подобный молнии, с его скоростью, столь же быстрой, как удар грома.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoDisp">
+			<DisplayName>Искусный</DisplayName>
+			<Desc>Этот человек использует Артефакты с непревзойденной грацией и элегантностью.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FabaoNum">
+			<DisplayName>Разносторонний</DisplayName>
+			<Desc>Этот человек может овладеть несколькими артефактами.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FightSkillAtk">
+			<DisplayName>Мистический</DisplayName>
+			<Desc>Этот человек обладает несравненной Магической Силой.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_FightSkillCD">
+			<DisplayName>Быстрый</DisplayName>
+			<Desc>У этого человека очень быстрое восстановление Задержки Заклинания.</Desc>
+		</Text>
+		<Text Name="Modifier_SpNpc_Comeback">
+			<DisplayName>Возмездие</DisplayName>
+			<Desc>Когда сталкиваешься лицом к лицу с заклятым врагом, твоя сила становится сильнее, чем когда-либо из-за ненависти.</Desc>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_Qi">
+			<DisplayName>Минимум формирования Ци</DisplayName>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_Dan1">
+			<DisplayName>Минимум формирования Ядра</DisplayName>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_Dan2">
+			<DisplayName>Минимум Золотого Ядра</DisplayName>
+		</Text>
+		<Text Name="Modifier_NomalNpc_BasePropertie_God">
+			<DisplayName>Минимум Изначального Духа</DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,91 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="JobMine">
+      <DisplayName>Добывает</DisplayName>
+    </Text>
+    <Text Name="JobCarry">
+      <DisplayName>Тащит</DisplayName>
+    </Text>
+    <Text Name="JobBuild">
+      <DisplayName>Строит</DisplayName>
+    </Text>
+    <Text Name="JobFixBuilding">
+      <DisplayName>Чинит</DisplayName>
+    </Text>
+    <Text Name="JobMoveBuilding">
+      <DisplayName>Двигает Строение</DisplayName>
+    </Text>
+    <Text Name="JobSetupBuilding">
+      <DisplayName>Возводит Здание</DisplayName>
+    </Text>
+    <Text Name="JobPlant">
+      <DisplayName>Сажает</DisplayName>
+    </Text>
+    <Text Name="JobOutFire">
+      <DisplayName>Тушит Пожар</DisplayName>
+    </Text>
+    <Text Name="JobHarvest">
+      <DisplayName>Собирает Урожай</DisplayName>
+    </Text>
+    <Text Name="JobCutoff">
+      <DisplayName>Удаляет</DisplayName>
+    </Text>
+    <Text Name="JobCutoffTree">
+      <DisplayName>Рубит</DisplayName>
+    </Text>
+    <Text Name="JobSeachItem">
+      <DisplayName>Ищет</DisplayName>
+    </Text>
+    <Text Name="JobSeachNpc">
+      <DisplayName>Ищет</DisplayName>
+    </Text>
+    <Text Name="JobCarryOut">
+      <DisplayName>Отходит</DisplayName>
+    </Text>
+    <Text Name="JobDismantle">
+      <DisplayName>Сносит</DisplayName>
+    </Text>
+    <Text Name="JobMakeItem">
+      <DisplayName>Создаёт</DisplayName>
+    </Text>
+    <Text Name="JobRemoveFloor">
+      <DisplayName>Убирает Пол</DisplayName>
+    </Text>
+    <Text Name="JobTreatHim">
+      <DisplayName>Лечит</DisplayName>
+    </Text>
+    <Text Name="JobCarryToBed">
+      <DisplayName>Несёт в Кровать</DisplayName>
+    </Text>
+    <Text Name="JobFeedHim">
+      <DisplayName>Кормит</DisplayName>
+    </Text>
+    <Text Name="JobCarryWater">
+      <DisplayName>Поит</DisplayName>
+    </Text>
+    <Text Name="JobExplore">
+      <DisplayName>Исследует</DisplayName>
+    </Text>
+    <Text Name="JobBuryHim">
+      <DisplayName>Хоронит</DisplayName>
+    </Text>
+    <Text Name="JobHunting">
+      <DisplayName>Охотится</DisplayName>
+    </Text>
+    <Text Name="JobSlaughter">
+      <DisplayName>Потрошит</DisplayName>
+    </Text>
+    <Text Name="JobKill">
+      <DisplayName>Убивает</DisplayName>
+    </Text>
+    <Text Name="JobMoveNpc">
+      <DisplayName>Тащит</DisplayName>
+    </Text>
+    <Text Name="JobCleanFloor">
+      <DisplayName>Чистит</DisplayName>
+    </Text>
+    <Text Name="JobSacrifice">
+      <DisplayName>Приносит Жертву</DisplayName>
+    </Text>
+  </List>
+</Texts>

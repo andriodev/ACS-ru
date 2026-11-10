@@ -1,0 +1,20 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="IronOre" sParam="Plant">
+			<ThingName>Жила Железа</ThingName>
+			<Desc>Горная порода, богатая Железом, из которой можно добыть железную руду.</Desc>
+		</Text>
+		<Text Name="CopperOre" sParam="Plant">
+			<ThingName>Жила Огнемеди</ThingName>
+			<Desc>Горная порода, богатая Огнемедью, из которой можно добыть огнемедную руду.</Desc>
+		</Text>
+		<Text Name="SilverOre" sParam="Plant">
+			<ThingName>Жила Инея</ThingName>
+			<Desc>Горная порода, богатая Инеем, из которой можно добыть руду Инея.</Desc>
+		</Text>
+		<Text Name="RockLing" sParam="Plant">
+			<ThingName>Жила Камня Духа</ThingName>
+			<Desc>Горная порода, богатая Ци, из которой можно добыть Камни Духа.</Desc>
+		</Text>
+	</List>
+</Texts>

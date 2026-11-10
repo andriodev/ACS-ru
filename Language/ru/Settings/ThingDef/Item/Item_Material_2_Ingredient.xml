@@ -1,0 +1,29 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="Item_Flour" sParam="Item">
+      <ThingName>Мука</ThingName>
+      <Desc>Мешок муки. Кулинарный ингредиент.</Desc>
+      <Item.FabaoSuffix>Частица, Порошок, Мешок</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Pear" sParam="Item">
+      <ThingName>Груша</ThingName>
+      <Desc>Ящик груш.</Desc>
+      <Item.FabaoSuffix>Фрукт, Шарик, Комок, Мяч, Колпак</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Wheat" sParam="Item">
+      <ThingName>Пшеница</ThingName>
+      <Desc>Сноп пшеницы.</Desc>
+      <Item.FabaoSuffix>Шнур, Нить</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Mushroom" sParam="Item">
+      <ThingName>Гриб</ThingName>
+      <Desc>Корзинка с грибами.</Desc>
+      <Item.FabaoSuffix>Корзина, Гриб</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Lotusroot" sParam="Item">
+      <ThingName>Корень Лотоса</ThingName>
+      <Desc>Часть корня лотоса.</Desc>
+      <Item.FabaoSuffix>Корень Лотоса</Item.FabaoSuffix>
+    </Text>
+  </List>
+</Texts>

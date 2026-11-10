@@ -1,0 +1,30 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="Item_SpellPaper" sParam="Item">
+      <ThingName>Бумажный Талисман</ThingName>
+      <Desc>Специально изготовленная бумага, которую можно превратить в талисман, нарисовав на ее поверхности определенный символ киноварью с помощью силы разума.</Desc>
+      <Item.FabaoSuffix>Талисман, Заклинание, Запретное</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SpellPaperLv2" sParam="Item">
+      <ThingName>Талисман Крови</ThingName>
+      <Desc>Бумага, сделанная из звериной крови,которую можно превратить в талисман, нарисовав на ее поверхности особый символ киноварью с помощью силы разума.</Desc>
+    </Text>
+    <Text Name="Item_SpellPaperLv3" sParam="Item">
+      <ThingName>Священный Талисман</ThingName>
+      <Desc>Талисман, созданный с драгоценным Камнем Души безмятежности. Он был превращен в талисман, нарисовав определенный символ с киноварью на его поверхности с помощью силы разума.</Desc>
+    </Text>
+    <Text Name="Item_Spell" sParam="Item">
+      <ThingName>Талисман</ThingName>
+      <Desc>Удачно сделанный талисман, ношение его дает определенные бонусы способностей.</Desc>
+      <Item.FabaoSuffix>Талисман, Заклинание, Запретное</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SpellLv2" sParam="Item">
+      <ThingName>Талисман</ThingName>
+      <Desc>Удачно сделанный талисман, ношение его дает определенные бонусы способностей.</Desc>
+    </Text>
+    <Text Name="Item_SpellLv3" sParam="Item">
+      <ThingName>Талисман</ThingName>
+      <Desc>Удачно сделанный талисман, ношение его дает определенные бонусы способностей.</Desc>
+    </Text>
+  </List>
+</Texts>

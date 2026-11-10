@@ -1,0 +1,94 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong7_a1">
+			<DisplayName>Заклинание Чистого Разума</DisplayName>
+		</Text>
+		<Text Name="Gong7_a3">
+			<DisplayName>Пост Души</DisplayName>
+		</Text>
+		<Text Name="Gong7_a3_1">
+			<DisplayName>Пост Души</DisplayName>
+		</Text>
+		<Text Name="Gong7_a3_2">
+			<DisplayName>Пост Души</DisplayName>
+		</Text>
+		<Text Name="Gong7_a7">
+			<DisplayName>Содержание Эго</DisplayName>
+		</Text>
+		<Text Name="Gong7_b0">
+			<DisplayName>Ладонь Поглощения</DisplayName>
+		</Text>
+		<Text Name="Gong7_b1">
+			<DisplayName>Небесный Танец Демонов</DisplayName>
+		</Text>
+		<Text Name="Gong7_b2">
+			<DisplayName>Песнопение Резонанса</DisplayName>
+		</Text>
+		<Text Name="Gong7_b3">
+			<DisplayName>Искусство Страсти</DisplayName>
+		</Text>
+		<Text Name="Gong7_b7">
+			<DisplayName>Трактат о Сидении в Забытьи</DisplayName>
+		</Text>
+		<Text Name="Gong7_b11">
+			<DisplayName>Меч Семи Чувств</DisplayName>
+		</Text>
+		<Text Name="Gong7_c0">
+			<DisplayName>Заражение Души</DisplayName>
+		</Text>
+		<Text Name="Gong7_c1">
+			<DisplayName>Соблазнительная Иллюзия</DisplayName>
+		</Text>
+		<Text Name="Gong7_c1_1">
+			<DisplayName>Иллюзорное Царство</DisplayName>
+		</Text>
+		<Text Name="Gong7_c3">
+			<DisplayName>Суть Единства</DisplayName>
+		</Text>
+		<Text Name="Gong7_c5">
+			<DisplayName>Смена Костей</DisplayName>
+		</Text>
+		<Text Name="Gong7_c7">
+			<DisplayName>Тело Бессмертного</DisplayName>
+		</Text>
+		<Text Name="Gong7_c7_1">
+			<DisplayName>Тело Бессмертного</DisplayName>
+		</Text>
+		<Text Name="Gong7_c10">
+			<DisplayName>Меч в Сердце</DisplayName>
+		</Text>
+		<Text Name="Gong7_d0">
+			<DisplayName>Закалка Харизмы</DisplayName>
+		</Text>
+		<Text Name="Gong7_d3">
+			<DisplayName>Стоицизм Просветлённого</DisplayName>
+		</Text>
+		<Text Name="Gong7_d3_1">
+			<DisplayName>Стоицизм Просветлённого</DisplayName>
+		</Text>
+		<Text Name="Gong7_d3_2">
+			<DisplayName>Артефакт Наследия: Перо Ловкости</DisplayName>
+		</Text>
+		<Text Name="Gong7_d4">
+			<DisplayName>Мудрая Отстраненность</DisplayName>
+		</Text>
+		<Text Name="Gong7_d7">
+			<DisplayName>Дух Шторма</DisplayName>
+		</Text>
+		<Text Name="Gong7_d9">
+			<DisplayName>Отсечение Дао</DisplayName>
+		</Text>
+		<Text Name="Gong7_d9_1">
+			<DisplayName>Лезвие Силы Ауры</DisplayName>
+		</Text>
+		<Text Name="Gong7_d11">
+			<DisplayName>Меч Великих Страстей</DisplayName>
+		</Text>
+		<Text Name="Gong7_e4">
+			<DisplayName>Пилюля Небесного Пути</DisplayName>
+		</Text>
+		<Text Name="Gong7_e8">
+			<DisplayName>Небесный Артефакт</DisplayName>
+		</Text>
+	</List>
+</Texts>

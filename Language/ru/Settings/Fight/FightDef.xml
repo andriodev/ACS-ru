@@ -1,0 +1,96 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="FaBao">
+			<Packs.0.DescTags>Разрушение артефакта</Packs.0.DescTags>
+			<Packs.1.DescTags>Разрушение артефакта</Packs.1.DescTags>
+			<Packs.2.DescTags>Разрушение артефакта</Packs.2.DescTags>
+			<Packs.3.DescTags>Разрушение артефакта</Packs.3.DescTags>
+		</Text>
+		<Text Name="GongBroken">
+			<Packs.0.DescTags>Разрушение артефакта</Packs.0.DescTags>
+			<Packs.1.DescTags>Разрушение артефакта</Packs.1.DescTags>
+			<Packs.2.DescTags>Разрушение артефакта</Packs.2.DescTags>
+			<Packs.3.DescTags>Разрушение артефакта</Packs.3.DescTags>
+		</Text>
+		<Text Name="Skill">
+			<Packs.0.DescTags>Магическая бомбардировка</Packs.0.DescTags>
+			<Packs.1.DescTags>Магическая бомбардировка</Packs.1.DescTags>
+			<Packs.2.DescTags>Магическая бомбардировка</Packs.2.DescTags>
+			<Packs.3.DescTags>Магическая бомбардировка</Packs.3.DescTags>
+		</Text>
+		<Text Name="Jin">
+			<Packs.1.DescTags>Повреждение металла</Packs.1.DescTags>
+			<Packs.2.DescTags>Повреждение металла</Packs.2.DescTags>
+			<Packs.3.DescTags>Повреждение металла</Packs.3.DescTags>
+			<Packs.4.DescTags>Повреждение металла</Packs.4.DescTags>
+			<Packs.5.DescTags>Повреждение металла</Packs.5.DescTags>
+		</Text>
+		<Text Name="Mu">
+			<Packs.1.DescTags>Повреждение дерева</Packs.1.DescTags>
+			<Packs.2.DescTags>Повреждение дерева</Packs.2.DescTags>
+			<Packs.3.DescTags>Повреждение дерева</Packs.3.DescTags>
+			<Packs.4.DescTags>Повреждение дерева</Packs.4.DescTags>
+			<Packs.5.DescTags>Повреждение дерева</Packs.5.DescTags>
+			<Packs.6.DescTags>Повреждение дерева</Packs.6.DescTags>
+		</Text>
+		<Text Name="Shui">
+			<Packs.1.DescTags>Повреждение водой</Packs.1.DescTags>
+			<Packs.2.DescTags>Повреждение водой</Packs.2.DescTags>
+			<Packs.3.DescTags>Повреждение водой</Packs.3.DescTags>
+			<Packs.4.DescTags>Повреждение водой</Packs.4.DescTags>
+			<Packs.5.DescTags>Повреждение водой</Packs.5.DescTags>
+		</Text>
+		<Text Name="Huo">
+			<Packs.1.DescTags>Урон от огня</Packs.1.DescTags>
+			<Packs.2.DescTags>Урон от огня</Packs.2.DescTags>
+			<Packs.3.DescTags>Урон от огня</Packs.3.DescTags>
+			<Packs.4.DescTags>Урон от огня</Packs.4.DescTags>
+			<Packs.5.DescTags>Урон от огня</Packs.5.DescTags>
+		</Text>
+		<Text Name="Tu">
+			<Packs.1.DescTags>Повреждение Земли</Packs.1.DescTags>
+			<Packs.2.DescTags>Повреждение Земли</Packs.2.DescTags>
+			<Packs.3.DescTags>Повреждение Земли</Packs.3.DescTags>
+			<Packs.4.DescTags>Повреждение Земли</Packs.4.DescTags>
+			<Packs.5.DescTags>Повреждение Земли</Packs.5.DescTags>
+			<Packs.6.DescTags>Повреждение Земли</Packs.6.DescTags>
+		</Text>
+		<Text Name="BodyAttackNormal">
+			<Packs.0.DescTags>Тяжелый удар</Packs.0.DescTags>
+			<Packs.1.DescTags>Тяжелый удар</Packs.1.DescTags>
+			<Packs.2.DescTags>Тяжелый удар</Packs.2.DescTags>
+			<Packs.3.DescTags>Тяжелый удар</Packs.3.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Normal">
+			<Packs.0.DescTags>Царапина</Packs.0.DescTags>
+			<Packs.1.DescTags>Царапина</Packs.1.DescTags>
+			<Packs.2.DescTags>Царапина</Packs.2.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Skill">
+			<Packs.0.DescTags>Магический Тяжелый удар</Packs.0.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Fabao">
+			<Packs.0.DescTags>Разрушение артефакта</Packs.0.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Jin">
+			<Packs.0.DescTags>Повреждение металла</Packs.0.DescTags>
+			<Packs.1.DescTags>Повреждение металла</Packs.1.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Mu">
+			<Packs.0.DescTags>Повреждение дерева</Packs.0.DescTags>
+			<Packs.1.DescTags>Повреждение дерева</Packs.1.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Shui">
+			<Packs.0.DescTags>Повреждение водой</Packs.0.DescTags>
+			<Packs.1.DescTags>Повреждение водой</Packs.1.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Huo">
+			<Packs.0.DescTags>Урон от огня</Packs.0.DescTags>
+			<Packs.1.DescTags>Урон от огня</Packs.1.DescTags>
+		</Text>
+		<Text Name="BodyDefense_Tu">
+			<Packs.0.DescTags>Повреждение Земли</Packs.0.DescTags>
+			<Packs.1.DescTags>Повреждение Земли</Packs.1.DescTags>
+		</Text>
+	</List>
+</Texts>

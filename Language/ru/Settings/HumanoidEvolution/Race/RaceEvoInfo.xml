@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Texts Type="Other">
+  <List>
+    <Text Name="All">
+      <PeferEnvironment.Desc>Like</PeferEnvironment.Desc>
+    </Text>
+    <Text Name="Snake">
+      <NaiveTalk>Hiss, hissss!</NaiveTalk>
+      <PeferEnvironment.LightDesc>Предпочитает темные комнаты.</PeferEnvironment.LightDesc>
+      <PeferEnvironment.LiveDesc>Предпочитает мелких животных.</PeferEnvironment.LiveDesc>
+      <PeferEnvironment.Desc>Предпочитает мелких животных.\nПредпочитает темные комнаты. \n</PeferEnvironment.Desc>
+    </Text>
+    <Text Name="Bear">
+      <NaiveTalk>Grrrrr, grrrrrrr!</NaiveTalk>
+      <PeferEnvironment.LightDesc>Любит быть на открытом воздухе</PeferEnvironment.LightDesc>
+      <PeferEnvironment.LiveDesc>Предпочитает травоядных поблизости</PeferEnvironment.LiveDesc>
+      <PeferEnvironment.Desc>Предпочитает травоядных поблизости.\nЛюбит быть на улице. \n</PeferEnvironment.Desc>
+    </Text>
+    <Text Name="Rabbit">
+      <NaiveTalk>Cluck, cluck, chirp!</NaiveTalk>
+      <PeferEnvironment.PlantDesc>Предпочитает дикую траву поблизости</PeferEnvironment.PlantDesc>
+      <PeferEnvironment.LightDesc>Любит быть на открытом воздухе</PeferEnvironment.LightDesc>
+      <PeferEnvironment.LiveDesc>Предпочитает один и тот же вид</PeferEnvironment.LiveDesc>
+      <PeferEnvironment.Desc>Предпочитает дикую траву поблизости. Любит быть на улице.\nПредпочитает тот же вид.</PeferEnvironment.Desc>
+    </Text>
+    <Text Name="Chicken">
+      <NaiveTalk>Cluck, cluck!</NaiveTalk>
+      <PeferEnvironment.PlantDesc>Предпочитает пшеницу поблизости</PeferEnvironment.PlantDesc>
+      <PeferEnvironment.LightDesc>Любит быть на открытом воздухе</PeferEnvironment.LightDesc>
+      <PeferEnvironment.LiveDesc>Не любит хищников</PeferEnvironment.LiveDesc>
+      <PeferEnvironment.Desc>Предпочитает пшеницу поблизости. Любит быть на улице.\nНе любит хищников.</PeferEnvironment.Desc>
+    </Text>
+    <Text Name="Wolf">
+      <NaiveTalk>Rawr, rawr!</NaiveTalk>
+      <PeferEnvironment.LightDesc>Любит быть на открытом воздухе</PeferEnvironment.LightDesc>
+      <PeferEnvironment.LiveDesc>Предпочитает один и тот же вид</PeferEnvironment.LiveDesc>
+      <PeferEnvironment.Desc>Предпочитает тот же вид.\nЛюбит быть на улице.</PeferEnvironment.Desc>
+    </Text>
+    <Text Name="Boar">
+      <NaiveTalk>Oink, oink!</NaiveTalk>
+      <PeferEnvironment.PlantDesc>Предпочитает грибы поблизости</PeferEnvironment.PlantDesc>
+      <PeferEnvironment.LightDesc>Любит быть на открытом воздухе</PeferEnvironment.LightDesc>
+      <PeferEnvironment.Desc>Предпочитает грибы поблизости. Любит быть на улице. \n</PeferEnvironment.Desc>
+    </Text>
+    <Text Name="Frog">
+      <NaiveTalk>Ribbit, ribbit!</NaiveTalk>
+      <PeferEnvironment.PlantDesc>Предпочитает цветы лотоса поблизости.</PeferEnvironment.PlantDesc>
+      <PeferEnvironment.LightDesc>Любит быть на открытом воздухе</PeferEnvironment.LightDesc>
+      <PeferEnvironment.LiveDesc>Не любит хищников</PeferEnvironment.LiveDesc>
+      <PeferEnvironment.Desc>Предпочитает цветы лотоса поблизости. Любит быть на улице.\nНе любит хищников. \n</PeferEnvironment.Desc>
+    </Text>
+    <Text Name="Turtle">
+      <NaiveTalk>Caw, caw!</NaiveTalk>
+      <PeferEnvironment.PlantDesc>Предпочитает тростника поблизости</PeferEnvironment.PlantDesc>
+      <PeferEnvironment.LightDesc>Любит быть в помещении</PeferEnvironment.LightDesc>
+      <PeferEnvironment.Desc>Предпочитает Ридс поблизости. Любит быть в помещении.</PeferEnvironment.Desc>
+    </Text>
+    <Text Name="Cat">
+      <NaiveTalk>Meow, meow!</NaiveTalk>
+      <PeferEnvironment.LightDesc>Любит быть в помещении</PeferEnvironment.LightDesc>
+      <PeferEnvironment.LiveDesc>Не любит других животных</PeferEnvironment.LiveDesc>
+      <PeferEnvironment.Desc>Любит сидеть дома. Не любит других животных.</PeferEnvironment.Desc>
+    </Text>
+    <Text Name="Tiger">
+      <NaiveTalk>Roar, roar!</NaiveTalk>
+      <PeferEnvironment.LightDesc>Любит быть на открытом воздухе</PeferEnvironment.LightDesc>
+      <PeferEnvironment.LiveDesc>Не любит других животных</PeferEnvironment.LiveDesc>
+      <PeferEnvironment.Desc>Любит быть на улице. Не любит других животных.</PeferEnvironment.Desc>
+    </Text>
+    <Text Name="Cattle">
+      <NaiveTalk>Moo, moo!</NaiveTalk>
+      <PeferEnvironment.PlantDesc>Любит высокую траву поблизости</PeferEnvironment.PlantDesc>
+      <PeferEnvironment.LightDesc>Любит быть на открытом воздухе</PeferEnvironment.LightDesc>
+      <PeferEnvironment.LiveDesc>Не любит хищников</PeferEnvironment.LiveDesc>
+      <PeferEnvironment.Desc>Любит высокую траву поблизости. Любит быть на улице.\nНе любит хищников. \n</PeferEnvironment.Desc>
+    </Text>
+  </List>
+</Texts>

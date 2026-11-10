@@ -1,0 +1,20 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="DanXiaA">
+      <IVNUMBER.0.Animal.DisplayName>Тигриная Клетка</IVNUMBER.0.Animal.DisplayName>
+      <IVNUMBER.0.Animal.Tip>Внутри него тигр в состоянии пробуждения. Обучение, которое он получил от секты, дало ему Артефактное мастерство, связанное с мыслью.</IVNUMBER.0.Animal.Tip>
+    </Text>
+    <Text Name="DanXiaAL">
+      <IVNUMBER.0.Animal.DisplayName>Простая Тигриная Клетка</IVNUMBER.0.Animal.DisplayName>
+      <IVNUMBER.0.Animal.Tip>Внутри него тигр в состоянии пробуждения, он обладает разумом страха.</IVNUMBER.0.Animal.Tip>
+      <IVNUMBER.1.Animal.DisplayName>Простая Тигриная Клетка</IVNUMBER.1.Animal.DisplayName>
+      <IVNUMBER.1.Animal.Tip>Внутри него тигр в состоянии пробуждения, он обладает разумом мыслей.</IVNUMBER.1.Animal.Tip>
+      <IVNUMBER.2.Animal.DisplayName>Простая Тигриная Клетка</IVNUMBER.2.Animal.DisplayName>
+      <IVNUMBER.2.Animal.Tip>Внутри него тигр в состоянии пробуждения, он обладает разумом восторга.</IVNUMBER.2.Animal.Tip>
+      <IVNUMBER.3.Animal.DisplayName>Простая Тигриная Клетка</IVNUMBER.3.Animal.DisplayName>
+      <IVNUMBER.3.Animal.Tip>Внутри он-тигр в состоянии пробуждения, он обладает разумом ярости.</IVNUMBER.3.Animal.Tip>
+      <IVNUMBER.4.Animal.DisplayName>Простая Тигриная Клетка</IVNUMBER.4.Animal.DisplayName>
+      <IVNUMBER.4.Animal.Tip>Внутри него тигр в состоянии пробуждения, он обладает разумом тревоги.</IVNUMBER.4.Animal.Tip>
+    </Text>
+  </List>
+</Texts>

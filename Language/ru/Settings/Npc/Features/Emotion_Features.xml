@@ -1,0 +1,92 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Pessimism">
+			<DisplayName>Пессимист</DisplayName>
+			<Desc>Этот человек очень пессимистичен, всегда предполагает худшее.</Desc>
+		</Text>
+		<Text Name="Optimistic">
+			<DisplayName>Оптимист</DisplayName>
+			<Desc>Этот человек очень оптимистичен, всегда смотрит на светлую сторону.</Desc>
+		</Text>
+		<Text Name="Numbness">
+			<DisplayName>Нечувствительный</DisplayName>
+			<Desc>Стрессы повседневной жизни заставили этого человека оцепенеть. Однако это означает, что этот человек вообще устал думать, привык к этому онемению и не будет расслабляться в работе из-за плохого настроения.</Desc>
+		</Text>
+		<Text Name="Sensitive">
+			<DisplayName>Чувствительный</DisplayName>
+			<Desc>Этот человек очень любопытен к потустороннему миру и не может жить скучной жизнью.</Desc>
+		</Text>
+		<Text Name="Enthusiasm">
+			<DisplayName>Любезный</DisplayName>
+			<Desc>Этот человек очень дружелюбно относится ко всем.</Desc>
+		</Text>
+		<Text Name="Distrust">
+			<DisplayName>Замкнутый</DisplayName>
+			<Desc>Этот человек не верит в настоящую любовь и никому не доверяет.</Desc>
+		</Text>
+		<Text Name="Strong">
+			<DisplayName>Волевой</DisplayName>
+			<Desc>Этот человек обладает сильной волей и может терпеть большие страдания, чем другие.</Desc>
+		</Text>
+		<Text Name="Weak">
+			<DisplayName>Слабовольный</DisplayName>
+			<Desc>Этот человек всегда был защищен и не мог вынести ни малейшей боли.</Desc>
+		</Text>
+		<Text Name="BadMentality">
+			<DisplayName>Раздражительный</DisplayName>
+			<Desc>Этот человек всегда слишком раздражен, чтобы выполнить какую-либо работу.</Desc>
+		</Text>
+		<Text Name="GoodMentality">
+			<DisplayName>Уравновешенный</DisplayName>
+			<Desc>Этот человек обладает хорошим характером, его нелегко расстроить или опечалить.</Desc>
+		</Text>
+		<Text Name="Rugged">
+			<DisplayName>Небрежный</DisplayName>
+			<Desc>Этот человек небрежен в своей работе, всегда заканчивает быстро и мало внимания уделяет деталям.</Desc>
+		</Text>
+		<Text Name="Careful">
+			<DisplayName>Дотошный</DisplayName>
+			<Desc>Этот человек очень скрупулезно выполняет свою работу, всегда уделяя время уточнению деталей.</Desc>
+		</Text>
+		<Text Name="Lazy">
+			<DisplayName>Ленивый</DisplayName>
+			<Desc>Этот человек не хочет работать.</Desc>
+		</Text>
+		<Text Name="Industrious">
+			<DisplayName>Трудолюбивый</DisplayName>
+			<Desc>Этот человек трудолюбив и эффективен.</Desc>
+		</Text>
+		<Text Name="Feminization">
+			<DisplayName>Женоподобный</DisplayName>
+			<Desc>Несмотря на то, что он мужчина, у него есть несколько женственных манер и черт характера.</Desc>
+		</Text>
+		<Text Name="Masculinity">
+			<DisplayName>Мужественная</DisplayName>
+			<Desc>Несмотря на то, что она женщина, у нее несколько мужественный характер и манеры.</Desc>
+		</Text>
+		<Text Name="Affinity">
+			<DisplayName>Обаятельный</DisplayName>
+			<Desc>Этот человек очень приятный и обаятельный в общении.</Desc>
+		</Text>
+		<Text Name="Cruel">
+			<DisplayName>Грубый</DisplayName>
+			<Desc>Этот человек очень резок, часто расстраивает других.</Desc>
+		</Text>
+		<Text Name="HeartKnot">
+			<DisplayName>Беспокойный</DisplayName>
+			<Desc>У этого человека беспокойная душа, он всегда находится в депрессии и недосыпает из-за кошмаров.</Desc>
+		</Text>
+		<Text Name="Depressed">
+			<DisplayName>Несчастный</DisplayName>
+			<Desc>Этот человек пережил очень тяжелый разрыв и всегда недоволен.</Desc>
+		</Text>
+		<Text Name="Anatman">
+			<DisplayName>Свободный</DisplayName>
+			<Desc>Этот человек достиг ментального состояния освобождения, свободного от мирских проблем.</Desc>
+		</Text>
+		<Text Name="FearFlame">
+			<DisplayName>Пирофобия</DisplayName>
+			<Desc>Этот человек очень боится огня и не может выполнять никаких работ, связанных с пожаром.</Desc>
+		</Text>
+	</List>
+</Texts>

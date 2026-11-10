@@ -1,0 +1,16 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Human">
+			<DisplayName>Человек</DisplayName>
+			<Desc>Обыкновенное Животное: Человек</Desc>
+			<MaleName>М</MaleName>
+			<FemaleName>Ж</FemaleName>
+		</Text>
+		<Text Name="Human_JGZT">
+			<DisplayName>Разумный Дух</DisplayName>
+			<Desc>Общее название для объектов/зданий/растений, которые случайно становятся освещенными и превращаются в человеческую форму.</Desc>
+			<MaleName>М</MaleName>
+			<FemaleName>Ж</FemaleName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,9 @@
+﻿<Texts Type="Story">
+	<List>
+		<Text Name="TestABC">
+			<DisplayName>Аукцион</DisplayName>
+			<Selections.0.Display>Руководства</Selections.0.Display>
+			<Selections.1.Display>Эликсир</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

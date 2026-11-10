@@ -1,0 +1,25 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="LookAtSky">
+			<Desc>бездельничает/смотрит на небо/солнце/луну</Desc>
+		</Text>
+		<Text Name="Dance">
+			<Desc>танцует</Desc>
+		</Text>
+		<Text Name="Music">
+			<Desc>играет музыку</Desc>
+		</Text>
+		<Text Name="PlayBird">
+			<Desc>играет с птицами и насекомыми</Desc>
+		</Text>
+		<Text Name="Calligraphy">
+			<Desc>занимается каллиграфией</Desc>
+		</Text>
+		<Text Name="PlayChess">
+			<Desc>играет в Го</Desc>
+		</Text>
+		<Text Name="PlayTicTacToe">
+			<Desc>играет в крестики-нолики</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,19 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="0">
+			<DisplayName>Ур.0 Вспомогательный</DisplayName>
+		</Text>
+		<Text Name="1">
+			<DisplayName>Ур.1 Вспомогательный</DisplayName>
+		</Text>
+		<Text Name="2">
+			<DisplayName>Ур.2 Вспомогательный</DisplayName>
+		</Text>
+		<Text Name="3">
+			<DisplayName>Ур.3 Вспомогательный</DisplayName>
+		</Text>
+		<Text Name="4">
+			<DisplayName>Ур.4 Вспомогательный</DisplayName>
+		</Text>
+	</List>
+</Texts>

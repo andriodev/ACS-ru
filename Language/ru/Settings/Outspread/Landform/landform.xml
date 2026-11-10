@@ -1,0 +1,16 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Forest">
+			<DisplayName>Лес</DisplayName>
+		</Text>
+		<Text Name="Plain">
+			<DisplayName>Равнина</DisplayName>
+		</Text>
+		<Text Name="Mountain">
+			<DisplayName>Горы</DisplayName>
+		</Text>
+		<Text Name="Aqua">
+			<DisplayName>Вода</DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,26 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Other_BuryObject">
+			<TargetDesc>Выберите пустую область на земле.</TargetDesc>
+		</Text>
+		<Text Name="Other_CreateLingPlant">
+			<TargetDesc>Выберите пустую область на земле.</TargetDesc>
+		</Text>
+		<Text Name="Other_BuildMine">
+			<DisplayName>System Mountain Shaping</DisplayName>
+			<TargetDesc>Выберите пустую область на земле.</TargetDesc>
+		</Text>
+		<Text Name="Item_TrackNpc">
+			<DisplayName>Отслеживание</DisplayName>
+			<TargetDesc>Выберите персонажа, которого нужно выследить.</TargetDesc>
+		</Text>
+		<Text Name="Other_Item_Firecracker">
+			<DisplayName>Фейерверк</DisplayName>
+			<TargetDesc>Выберите место, чтобы зажечь его.</TargetDesc>
+		</Text>
+		<Text Name="Other_Item_FirecrackerShit">
+			<DisplayName>Poopy(?) Фейерверк</DisplayName>
+			<TargetDesc>Выберите место, чтобы зажечь его.</TargetDesc>
+		</Text>
+	</List>
+</Texts>

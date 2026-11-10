@@ -1,0 +1,154 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name = "BottleNeck1">
+			<DisplayName> Прорыв </DisplayName>
+			<Desc> Наконец-то я совершил прорыв. </Desc>
+			<StoryDesc> Ощущение, что прорыв оставляет после себя восторг </StoryDesc>
+		</Text>
+		<Text Name = "BottleNeck2">
+			<DisplayName> Неудачный прорыв </DisplayName>
+			<Desc> Практиковать труднее, чем я думал ... </Desc>
+			<StoryDesc> Чувство, что неспособность совершить прорыв действительно оставляет разочарование </StoryDesc>
+		</Text>
+		<Text Name = "BottleNeck3">
+			<DisplayName> Скрытый закон бессмертия ... </DisplayName>
+			<Desc> Это состояние длилось слишком долго без прорыва ... </Desc>
+			<StoryDesc> Ощущение, что из-за того, что вы застряли на тренировке, действительно становится беспокойным и вспыльчивым </StoryDesc>
+		</Text>
+		<Text Name = "BottleNeck4">
+			<DisplayName> Наконец-то прорыв! </DisplayName>
+			<Desc> Моя тяжелая работа, наконец, окупается! </Desc>
+			<StoryDesc> Ощущение, что долгожданный прорыв действительно наполняет радостью </StoryDesc>
+		</Text>
+		<Text Name = "BottleNeck5">
+			<DisplayName> Колебание по дороге к бессмертию </DisplayName>
+			<Desc> Это состояние длилось слишком долго, без прорыва ... </Desc>
+			<StoryDesc> Ощущение, что из-за того, что вы застряли на тренировке, действительно становится беспокойным и вспыльчивым </StoryDesc>
+		</Text>
+		<Text Name = "ThunderDisaster1">
+			<DisplayName> Надвигающаяся скорбь </DisplayName>
+			<Desc> Я чувствую приближающееся бедствие. </Desc>
+			<StoryDesc> не может успокоиться в такой ситуации </StoryDesc>
+		</Text>
+		<Text Name = "ThunderDisaster2">
+			<DisplayName> Выжили скорби! </DisplayName>
+			<Desc> Было близко, но все кончено. </Desc>
+			<StoryDesc> Ощущение, что выживание в невзгодах действительно вызывает улыбку! </StoryDesc>
+		</Text>
+		<Text Name = "ThunderDisaster3">
+			<DisplayName> Фонд разрушен </DisplayName>
+			<Desc> Небесные бедствия порочны ... похоже, сейчас нет надежды на вознесение. </Desc>
+			<StoryDesc> Чувство, что бедствие было неудачным, и что, похоже, Закон подошел к концу, потому что это наносит вред </StoryDesc>
+		</Text>
+		<Text Name = "Dan1">
+			<DisplayName> Бессмертный в поле зрения </DisplayName>
+			<Desc> Бессмертие не за горами! </Desc>
+			<StoryDesc> Ощущение, что их приближающееся бессмертие воодушевляет </StoryDesc>
+		</Text>
+		<Text Name = "Dan2">
+			<DisplayName> Стать бессмертным </DisplayName>
+			<Desc> Формирование Золотого Ядра, становление земным Бессмертным - это первый шаг к истинному бессмертию. </Desc>
+			<StoryDesc> Ощущение, что Золотое ядро ​​сформировано, помогает вздохнуть с облегчением </StoryDesc>
+		</Text>
+		<Text Name = "Dan3">
+			<DisplayName> Золотое ядро ​​высокого качества </DisplayName>
+			<Desc> Я сформировал полноценное Золотое Ядро, это фантастическая новость! </Desc>
+			<StoryDesc> Ощущение гордости за такое великое достижение </StoryDesc>
+		</Text>
+		<Text Name = "Dan4">
+			<DisplayName> Золотое ядро ​​среднего уровня </DisplayName>
+			<Desc> Золотое ядро ​​среднего уровня встречается редко. </Desc>
+			<StoryDesc> Ощущение, что такое достижение действительно вселяет чувство выполненного долга </StoryDesc>
+		</Text>
+		<Text Name = "StageUp">
+			<DisplayName> Повышенное состояние </DisplayName>
+			<Desc> Длительные периоды обучения в конечном итоге имеют свои преимущества. </Desc>
+			<StoryDesc> Ощущение, что такой прорыв оставляет очень приятное впечатление </StoryDesc>
+		</Text>
+		<Text Name = "FrameOfMind1">
+			<DisplayName> Психическое расстройство </DisplayName>
+			<Desc> Слишком много дел, я не могу сделать все! </Desc>
+			<StoryDesc> Ощущение, что рассеянное психическое состояние привело к срыву </StoryDesc>
+		</Text>
+		<Text Name = "FrameOfMind2">
+			<DisplayName> Нестабильное психическое состояние </DisplayName>
+			<Desc> Я отвлекся и не могу успокоиться ... </Desc>
+			<StoryDesc> Чувство, что нестабильное психическое состояние действительно действует на нервы </StoryDesc>
+		</Text>
+		<Text Name = "FrameOfMind3">
+			<DisplayName> Хорошее настроение </DisplayName>
+			<Desc> Все нормально, неплохо или хорошо. </Desc>
+			<StoryDesc> неплохо себя чувствует, когда все так нормально </StoryDesc>
+		</Text>
+		<Text Name = "FrameOfMind4">
+			<DisplayName> Выполнено </DisplayName>
+			<Desc> Я чувствую себя полным, как луна, и энергичным, как море. </Desc>
+			<StoryDesc> Ощущение, что такое чувство удовлетворения приносит удовлетворение </StoryDesc>
+		</Text>
+		<Text Name = "FrameOfMind5">
+			<DisplayName> Очистить заголовок </DisplayName>
+			<Desc> Ваш разум подобен стеклу. </Desc>
+			<StoryDesc> Ощущение, что такое ощущение ясности отрадно </StoryDesc>
+		</Text>
+		<Text Name = "FrameOfMind6">
+			<DisplayName> Безупречный </DisplayName>
+			<Desc> Мой разум кажется безупречным, как будто его ничто не портит. </Desc>
+			<StoryDesc> Ощущение, что такое ощущение безупречности весьма необычно, мягко говоря </StoryDesc>
+		</Text>
+		<Text Name = "TravelExperience">
+			<DisplayName> Беспокойный </DisplayName>
+			<Desc> Я так давно не был в приключениях, я довольно нервничаю. </Desc>
+			<StoryDesc> Ощущение, что пребывание в одном месте слишком долго может вызвать тоску по приключениям </StoryDesc>
+		</Text>
+		<Text Name = "SitCrosslegged1">
+			<DisplayName> Медитация сидя </DisplayName>
+			<Desc> Если бы было более удобное место для тренировок ... </Desc>
+			<StoryDesc> Ощущение, что медитация на земле отвлекает </StoryDesc>
+		</Text>
+		<Text Name = "SitCrosslegged2">
+			<DisplayName> Приятная практика </DisplayName>
+			<Desc> Мне кажется, я делаю вдвое больше работы, затрачивая половину усилий! </Desc>
+			<StoryDesc> Ощущение, что приятная практика действительно полезна </StoryDesc>
+		</Text>
+		<Text Name = "PracticeLing1">
+			<DisplayName> Интенсивная ци </DisplayName>
+			<Desc> Это место обладает такой интенсивной ци, что это место действительно отлично подходит для практики. </Desc>
+			<StoryDesc> Ощущение, что практика проходит гладко в таком месте с интенсивной ци </StoryDesc>
+		</Text>
+		<Text Name = "PracticeLing2">
+			<DisplayName> Достаточное количество ци </DisplayName>
+			<Desc> В этом месте достаточно ци, чтобы делать его довольно хорошим местом для практики. </Desc>
+			<StoryDesc> Ощущение, что практика в таком месте подходит </StoryDesc>
+		</Text>
+		<Text Name = "PracticeLing3">
+			<DisplayName> Недостаточно Ци </DisplayName>
+			<Desc> Здесь недостаточно ци, но иногда вам просто нужно обойтись. </Desc>
+			<StoryDesc> Ощущение, что места с таким недостаточным количеством ци не идеальны </StoryDesc>
+		</Text>
+		<Text Name = "PracticeLing4">
+			<DisplayName> Плохая Ци </DisplayName>
+			<Desc> Это место не подходит для практики, там нет достаточно ци. </Desc>
+			<StoryDesc> Ощущение, что попытка практиковать в месте с плохой ци оставляет одно недовольство </StoryDesc>
+		</Text>
+		<Text Name = "PracticeElement1">
+			<DisplayName> Идеальное сочетание пяти элементов </DisplayName>
+			<Desc> Пять элементов здесь идеально настроены на мои собственные, это отлично подходит для практики. </Desc>
+			<StoryDesc> Ощущение, что пять элементов находятся в идеальном соответствии, действительно заставляет чувствовать себя рыбой в воде </StoryDesc>
+		</Text>
+		<Text Name = "PracticeElement2">
+			<DisplayName> Пять элементов в гармонии </DisplayName>
+			<Desc> Это место неплохо для моей практики. </Desc>
+			<StoryDesc> Ощущение, что все идет гладко, когда Пять Элементов гармонируют с вашим собственным </StoryDesc>
+		</Text>
+		<Text Name = "PracticeElement3">
+			<DisplayName> Пять элементов в беспорядке </DisplayName>
+			<Desc> Это не лучшее место для моей практики. </Desc>
+			<StoryDesc> Ощущение, что попытки практиковаться там, где Пять Элементов находятся в беспорядке, действует на нервы </StoryDesc>
+		</Text>
+		<Text Name = "PracticeElement4">
+			<DisplayName> Пять элементов сдерживают друг друга </DisplayName>
+			<Desc> Я не могу оставаться здесь надолго, Пять Элементов противоположны моему. </Desc>
+			<StoryDesc> Чувство несогласованности пяти элементов давит на душу </StoryDesc>
+		</Text>
+	</List>
+</Texts>

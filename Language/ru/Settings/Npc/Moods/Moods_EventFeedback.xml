@@ -1,0 +1,569 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name = "Drink1">
+			<DisplayName> Пить грязную воду </DisplayName>
+			<Desc> Похоже, в этой воде что-то плавало. </Desc>
+			<StoryDesc> Вырвало после питья грязной воды... дважды </StoryDesc>
+		</Text>
+		<Text Name = "Dan_Happiness">
+			<DisplayName> Порхать от счастья </DisplayName>
+			<Desc> Я чувствую себя счастливо, расслабленно и вообще ничего не хочу делать. </Desc>
+			<StoryDesc> Лицо сияет от небывалого счастья, похоже, невозможно быть ещё счастливее </StoryDesc>
+		</Text>
+		<Text Name = "Eat1">
+			<DisplayName> Отвратительная еда </DisplayName>
+			<Desc> Это можно есть? Зачем мне это есть, это мерзко ... </Desc>
+			<StoryDesc> Меня сильно тошнит от съденого </StoryDesc>
+		</Text>
+		<Text Name = "Eat3">
+			<DisplayName> На вкус как воск </DisplayName>
+			<Desc> Что вообще это за вкус? </Desc>
+			<StoryDesc> Лицо выглядит недовольным из-за съеденного </StoryDesc>
+		</Text>
+		<Text Name = "Eat4">
+			<DisplayName> Поедание сырой пищи </DisplayName>
+			<Desc> Трудно проглотить неприготовленную пищу. </Desc>
+			<StoryDesc> Приём сырой пищи вызывает беспокойство </StoryDesc>
+		</Text>
+		<Text Name = "Eat5">
+			<DisplayName> Поедание грязи </DisplayName>
+			<Desc> Пришлось есть грязь... сильное чувство голода... Как долго я смогу выжить поедая грязь? </Desc>
+			<StoryDesc> Чувство истощения после употребления грязи </StoryDesc>
+		</Text>
+		<Text Name = "Eat6">
+			<DisplayName> Полный желудок </DisplayName>
+			<Desc> Хорошо, очень-очень сытно. </Desc>
+			<StoryDesc> Рыгнув, чувствую себя комфортно </StoryDesc>
+		</Text>
+		<Text Name = "Eat7">
+			<DisplayName> Домашнее блюдо </DisplayName>
+			<Desc> Еда очень сытная, и вкус отличный! </Desc>
+			<StoryDesc> Эта еда является наслаждением </StoryDesc>
+		</Text>
+		<Text Name = "Eat8">
+			<DisplayName> Вкусная еда </DisplayName>
+			<Desc> [TXT] имеет божественный вкус. Сомневаюсь, что смогу быть более довольным. </Desc>
+			<StoryDesc> Ощущение счастья после еды </StoryDesc>
+		</Text>
+		<Text Name = "Eat9">
+			<DisplayName> Изысканная еда </DisplayName>
+			<Desc> [TXT] это действительно еда, сделанная людьми или богами ?! Я даже не хочу больше искать бессмертия! </Desc>
+			<StoryDesc> Чувство ошеломления от того, насколько изысканной была еда </StoryDesc>
+		</Text>
+		<Text Name = "Eat10">
+			<DisplayName> Грубая еда </DisplayName>
+			<Desc> Какой же грубой была [TXT]. Я не хочу есть это снова, если смогу. </Desc>
+			<StoryDesc> Я не чувствую удовлетворения после еды </StoryDesc>
+		</Text>
+		<Text Name = "Eat11">
+			<DisplayName> Примитивное блюдо </DisplayName>
+			<Desc> Это [TXT] сегодня ... Бывало и лучше. Прямо сейчас мне хотелось бы съесть что-нибудь получше. </Desc>
+			<StoryDesc> То, что было съедено сейчас, было слишком примитивным... я чувствую недовольство </StoryDesc>
+		</Text>
+		<Text Name = "Eat12">
+			<DisplayName> Съедено "G0\/N0" </DisplayName>
+			<Desc> Стоило ли мне есть это... </Desc>
+			<StoryDesc> Находится в оцепенении из-за того, что съедено "G0\/N0" </StoryDesc>
+		</Text>
+		<Text Name = "Sleep1">
+			<DisplayName> Удалось выспаться </DisplayName>
+			<Desc> Чувствую, что у меня полно сил после сна. </Desc>
+			<StoryDesc> Чувство бодрости после отличного ночного отдыха </StoryDesc>
+		</Text>
+		<Text Name = "Sleep2">
+			<DisplayName> Снились кошмары </DisplayName>
+			<Desc> Плохо спалось из-за того кошмара. </Desc>
+			<StoryDesc> Чувство усталости и утомления после сна, наполненного кошмарами. </StoryDesc>
+		</Text>
+		<Text Name = "Sleep8">
+			<DisplayName> Великолепный сон </DisplayName>
+			<Desc> Какой прекрасный сон... </Desc>
+			<StoryDesc> Приятные воспоминания от чудесного сна </StoryDesc>
+		</Text>
+		<Text Name = "Sleep3">
+			<DisplayName> Сон прерван </DisplayName>
+			<Desc> Сложно спать, когда тебя беспокоят. </Desc>
+			<StoryDesc> Трудно не зевнуть после такого плохого ночного сна </StoryDesc>
+		</Text>
+		<Text Name = "Sleep4">
+			<DisplayName> Сон в холоде </DisplayName>
+			<Desc> Плохо сплю из-за холода. </Desc>
+			<StoryDesc> Из-за холода, и я плохо сплю, и у меня плохое настроение </StoryDesc>
+		</Text>
+		<Text Name = "Sleep5">
+			<DisplayName> Сон в жаре </DisplayName>
+			<Desc> Так жарко, что трудно заснуть. </Desc>
+			<StoryDesc> Из-за жары, и я плохо сплю, и у меня плохое настроение </StoryDesc>
+		</Text>
+		<Text Name = "Sleep6">
+			<DisplayName> Сон на земле </DisplayName>
+			<Desc> Если спать всю ночь на холодной и твердой земле... Теперь все тело болит. </Desc>
+			<StoryDesc> Всё тело болит, из-за некомфортного сна на земле </StoryDesc>
+		</Text>
+		<Text Name = "Sleep7">
+			<DisplayName> Сон на улице </DisplayName>
+			<Desc> Не удалось поспать спокойно. Мне постоянно казалось, что что-то следит за мной и поджидает... </Desc>
+			<StoryDesc> Чувствую себя хорошо... не считая того, мне не очень понравилось спать на улице </StoryDesc>
+		</Text>
+		<Text Name = "Work">
+			<DisplayName> Интересная работа </DisplayName>
+			<Desc> Могу [TXT] весь день! </Desc>
+			<StoryDesc> Нравится эта работа </StoryDesc>
+		</Text>
+		<Text Name = "FavoriteWork">
+			<DisplayName> Одержимость работой </DisplayName>
+			<Desc> [TXT] действительно интересно, погружаюсь в это совершенно не осознавая течения времени. </Desc>
+			<StoryDesc> Ощущение, что этой приятной работой можно заниматься весь день! Пожалуй потом еще можно заняться этим и ночью </StoryDesc>
+		</Text>
+		<Text Name = "SocialContact9">
+			<DisplayName> Исцеление </DisplayName>
+			<Desc> Меня исцелили с помощью [TXT]. Это фантастика! </Desc>
+			<StoryDesc> Ощущение великого исцеления </StoryDesc>
+		</Text>
+		<Text Name = "SocialContact14">
+			<DisplayName> Признание провалено </DisplayName>
+			<Desc> После моего признания в любви [TXT], был получен отказ. </Desc>
+			<StoryDesc> Тяжело не чувствовать подавленность от недавней душевной раны </StoryDesc>
+		</Text>
+		<Text Name = "SocialContact15">
+			<DisplayName> Успешное признание </DisplayName>
+			<Desc> [TXT] и я теперь пара! Вау, какая прекрасная жизнь! </Desc>
+			<StoryDesc> Чувствую себя на миллион долларов, став партнером того, кто меня любит </StoryDesc>
+		</Text>
+		<Text Name = "Death1">
+			<DisplayName> Кто-то умер. </DisplayName>
+			<Desc> Смерть, это всегда такая трагедия. </Desc>
+			<StoryDesc> Испытываю беспокойство из-за ухода знакомого из жизни </StoryDesc>
+		</Text>
+		<Text Name = "Death2">
+			<DisplayName> Умер Ученик </DisplayName>
+			<Desc> Товарищ умер, очень грустно... </Desc>
+			<StoryDesc> Чувствую печаль из-за смерти одного из учеников. </StoryDesc>
+		</Text>
+		<Text Name = "Death3">
+			<DisplayName> Умер Друг </DisplayName>
+			<Desc> [TXT]... ты покидаешь меня? Я уже скучаю по нашему времени проведённому вместе ... </Desc>
+			<StoryDesc> Насколько же легко могут течь слезы, когда друзья покидают этот мир </StoryDesc>
+		</Text>
+		<Text Name = "Death4">
+			<DisplayName> Умер Возлюбленный </DisplayName>
+			<Desc> Почему!? Почему?! Зачем отбирать у меня [TXT] !? </Desc>
+			<StoryDesc> Смерть партнера заставляет задуматься о том, стоит ли вообще теперь жить... </StoryDesc>
+		</Text>
+		<Text Name = "Death5">
+			<DisplayName> Умер Питомец </DisplayName>
+			<Desc> Мой дорогой [TXT], ты столько времени был рядом со мной, но теперь покинул меня. </Desc>
+			<StoryDesc> Много ностальгических воспоминаний из-за смерти любимого питомца </StoryDesc>
+		</Text>
+		<Text Name = "Death6">
+			<DisplayName> Умер Близкий </DisplayName>
+			<Desc> [TXT] ухудит из этой жизни... Одиноко без близких... </Desc>
+			<StoryDesc> Чувтвую, что потеря любимого человека велика </StoryDesc>
+		</Text>
+		<Text Name = "Death7">
+			<DisplayName> Умер Враг </DisplayName>
+			<Desc> [TXT] наконец-то в могиле. </Desc>
+			<StoryDesc> Ощущение, что на одного врага стало меньше </StoryDesc>
+		</Text>
+		<Text Name = "Death8">
+			<DisplayName> Умер Ученик(2?) </DisplayName>
+			<Desc> Мой [TXT] наконец покинул этот мир ... </Desc>
+			<StoryDesc> Ощущение, что когда умирает кто-то, столь влиятельный в моей жизни... боль велика </StoryDesc>
+		</Text>
+		<Text Name = "TaoismPractice1">
+			<DisplayName> Прорыв ждёт </DisplayName>
+			<Desc> Я чувствую, что нахожусь на грани прорыва! </Desc>
+			<StoryDesc> Меня заряжает энергией тот факт, что я нахожусь на пороге прорыва своей культивировации </StoryDesc>
+		</Text>
+		<Text Name = "TaoismPractice2">
+			<DisplayName> Прорыв удался </DisplayName>
+			<Desc> Я совершил прорыв в тренировках, как же здорово! </Desc>
+			<StoryDesc> Чувствую, что успех порождает самоуверенность. </StoryDesc>
+		</Text>
+		<Text Name = "TaoismPractice3">
+			<DisplayName> Прорыв провален </DisplayName>
+			<Desc> К сожалению, мне не удалось совершить прорыв... </Desc>
+			<StoryDesc> Чувство, что ты не можешь выигрывать все время... </StoryDesc>
+		</Text>
+		<Text Name = "TaoismPractice4">
+			<DisplayName> Бедствие близится </DisplayName>
+			<Desc> Я чувствую как Небесная Скорбь приближается, и это меня беспокоит. </Desc>
+			<StoryDesc> Не могу успокоиться в такой ситуации </StoryDesc>
+		</Text>
+		<Text Name = "TaoismPractice5">
+			<DisplayName> Бедствие пережито </DisplayName>
+			<Desc> Мне удалось выжить! </Desc>
+			<StoryDesc> Выживание в невзгодах действительно вызывает улыбку! </StoryDesc>
+		</Text>
+		<Text Name = "TaoismPractice6">
+			<DisplayName> Бедствие провалено </DisplayName>
+			<Desc> Провал... Серьёзный провал... </Desc>
+			<StoryDesc> Я нахожусь в состоянии смерти из-за неудачной попытки </StoryDesc>
+		</Text>
+		<Text Name = "MakeArt">
+			<DisplayName> Произведение искусства </DisplayName>
+			<Desc> Я вкладываю в эту работу всю душу! </Desc>
+			<StoryDesc> Киваю с удовлетворением из-за того, что удалось создать прекрасное произведение искусства </StoryDesc>
+		</Text>
+		<Text Name = "Health1">
+			<DisplayName> Рана </DisplayName>
+			<Desc> Уменя есть рана и мне очень больно... </Desc>
+			<StoryDesc> Я корчусь, потому что мне больно </StoryDesc>
+		</Text>
+		<Text Name = "Health2">
+			<DisplayName> Болезнь </DisplayName>
+			<Desc> Мне не очень хорошо ... </Desc>
+			<StoryDesc> Ощущение, что никому не нравится болеть, и это становится ясно по одному взгляду на больного </StoryDesc>
+		</Text>
+		<Text Name = "Health3">
+			<DisplayName> Инвалидность </DisplayName>
+			<Desc> Я никогда не смогу вернуть то, что потеряно... </Desc>
+			<StoryDesc> Становление инвалидом полностью меняет жизнь... </StoryDesc>
+		</Text>
+		<Text Name = "SeeSomething1">
+			<DisplayName> Увиден труп </DisplayName>
+			<Desc> Там лежит труп! Жуть, прямо... </Desc>
+			<StoryDesc> Испытываю дискомфорт из-за недавно увиденного трупа </StoryDesc>
+		</Text>
+		<Text Name = "SeeSomething2">
+			<DisplayName> Увидена кровь </DisplayName>
+			<Desc> Вид крови вызывает у меня... дискомфорт. </Desc>
+			<StoryDesc> Чувствую как вид крови вызвает тошноту </StoryDesc>
+		</Text>
+		<Text Name = "NotBury">
+			<DisplayName> Без погребения </DisplayName>
+			<Desc> Мы не смогли достойно похоронить [TXT]. </Desc>
+			<StoryDesc> Понимание, что кого-то близкого не похоронили должным образом, заставляет чувствовать себя неприятно </StoryDesc>
+		</Text>
+		<Text Name = "SayHi">
+			<DisplayName> Приветствие </DisplayName>
+			<Desc> Я и [TXT] поздаровались. </Desc>
+			<StoryDesc> Приветствовать кого-то всегда лучше, чем игнорировать, это точно </StoryDesc>
+		</Text>
+		<Text Name = "AfterTalk">
+			<DisplayName> Общение </DisplayName>
+			<Desc> Я и [TXT] приятно поболтали. </Desc>
+			<StoryDesc> Приятная беседа поднимает настроение </StoryDesc>
+		</Text>
+		<Text Name = "DeepTalk">
+			<DisplayName> Душевный разговор </DisplayName>
+			<Desc> Я и [TXT] поговорили по душам. </Desc>
+			<StoryDesc> Всегда здорово вести задушевные разгворы </StoryDesc>
+		</Text>
+		<Text Name = "Neglect">
+			<DisplayName> Пренебрежение </DisplayName>
+			<Desc> Заведя расговор с [TXT], оказалось что [IT], похоже, не очень-то и хочет беседовать со мной... [IT] огорчает меня. </Desc>
+			<StoryDesc> Холодное плечо может оставить... раздражение </StoryDesc>
+		</Text>
+		<Text Name = "Quarrel">
+			<DisplayName> Ссора </DisplayName>
+			<Desc> У меня был спор с [TXT], который перерос в ссору. </Desc>
+			<StoryDesc> Неприятный спор, перетекающий в ссору оставил горячие головы у обеих сторон </StoryDesc>
+		</Text>
+		<Text Name = "Insult">
+			<DisplayName> Оскорбление </DisplayName>
+			<Desc> Зачем-то, [TXT] - оскорбляет меня. </Desc>
+			<StoryDesc> Унижение порождает негодование </StoryDesc>
+		</Text>
+		<Text Name = "SayHiFight">
+			<DisplayName> Схватка </DisplayName>
+			<Desc> Во время приветствия [HENAME], что-то пошло не так... и мы начали драться. Какой беспорядок. </Desc>
+			<StoryDesc> Иногда мы ссоримся без причины ... </StoryDesc>
+		</Text>
+		<Text Name = "AfterTalkFight">
+			<DisplayName> Схватка </DisplayName>
+			<Desc> Общение с [TXT] незаладилось, и в итоге мы поссорились без всякой реальной причины. </Desc>
+			<StoryDesc> Не объяснить, из-за чего же возникла ссора... </StoryDesc>
+		</Text>
+		<Text Name = "DeepTalkFight">
+			<DisplayName> Схватка </DisplayName>
+			<Desc> Начав задушевную беседу с [TXT], мы вступили в жаркий спор, и даже в итоге дошли до драки. Какая жалость. </Desc>
+			<StoryDesc> Драка может легко привести к сожалению </StoryDesc>
+		</Text>
+		<Text Name = "NeglectFight">
+			<DisplayName> Схватка </DisplayName>
+			<Desc> Во время беседы с [HENAME], чьё-то пренебрежение стало причиной драки. </Desc>
+			<StoryDesc> Борьба порождает негодование </StoryDesc>
+		</Text>
+		<Text Name = "QuarrelFight">
+			<DisplayName> Схватка </DisplayName>
+			<Desc> У меня была ссора с [TXT], которую можно было разрешить только кулаками. </Desc>
+			<StoryDesc> Борьба порождает негодование </StoryDesc>
+		</Text>
+		<Text Name = "InsultFight">
+			<DisplayName> Схватка </DisplayName>
+			<Desc> После обмена оскорблениями с [HENAME], стало ясно... Лучше преподать урок своими кулаками. </Desc>
+			<StoryDesc> Кажется ничего хорошего из драки действительно не выйдет </StoryDesc>
+		</Text>
+		<Text Name = "Fighting">
+			<DisplayName> Схватка </DisplayName>
+			<Desc> Я и [TXT] повздорили. Видимо [IT] действительно является олицетворением тупости. </Desc>
+			<StoryDesc> Чувство, что ничего хорошего из боевых действий не приходит </StoryDesc>
+		</Text>
+		<Text Name = "BuildBody">
+			<DisplayName> Восстановлено </DisplayName>
+			<Desc> Телу вернули недостающую часть... </Desc>
+			<StoryDesc> Восстановление тела оставляет чувство радости </StoryDesc>
+		</Text>
+		<Text Name = "FailInLove">
+			<DisplayName> Влюбленность </DisplayName>
+			<Desc> Мне необычайно сильно нравиться [TXT]. </Desc>
+			<StoryDesc> Мы делаем глупые вещи, когда влюблены </StoryDesc>
+		</Text>
+		<Text Name = "SleepWithWhat">
+			<DisplayName> Общая кровать </DisplayName>
+			<Desc> Пришлось спать рядом с кем-то посторонним. </Desc>
+			<StoryDesc> Плохой сон вызывает гнев </StoryDesc>
+		</Text>
+		<Text Name = "StayWithGood">
+			<DisplayName> Счастье </DisplayName>
+			<Desc> Мне нравится проводить время с [TXT]. </Desc>
+			<StoryDesc> Так здорово наслаждаться счастьем и проводить время с Возлюбленным </StoryDesc>
+		</Text>
+		<Text Name = "SleepWithSpouse">
+			<DisplayName> Нежность </DisplayName>
+			<Desc> Я живу вместе с [TXT]. </Desc>
+			<StoryDesc> Легко быть счастливым, думая о своей второй половинке </StoryDesc>
+		</Text>
+		<Text Name = "SleepWithLover">
+			<DisplayName> Застенчивость </DisplayName>
+			<Desc> Я живу вместе с [TXT]. </Desc>
+			<StoryDesc> Некоторые стесняются своих близких, на на самом деле любят их </StoryDesc>
+		</Text>
+		<Text Name = "FoundOrganization1">
+			<DisplayName> Секта создана </DisplayName>
+			<Desc> Мы жили здесь, в уединении, тренировались и теперь мы создали маленькую секту. Это хорошее начало. </Desc>
+			<StoryDesc> Создание секты - захватывающее дело. </StoryDesc>
+		</Text>
+		<Text Name = "FoundOrganization2">
+			<DisplayName> Секта растет </DisplayName>
+			<Desc> Наша секта постепенно заработала себе славу. было не легко. Давайте продолжим переростать в большую секту. </Desc>
+			<StoryDesc> Мы думаем о расширении нашей секты и делаем это </StoryDesc>
+		</Text>
+		<Text Name = "FoundOrganization3">
+			<DisplayName> Секта стала Небесной Обителью </DisplayName>
+			<Desc> Эта Небесная Обитель - наш Рай. </Desc>
+			<StoryDesc> Просто гордимся тем, что секта стала земным раем </StoryDesc>
+		</Text>
+		<Text Name = "BeSchoolMaster">
+			<DisplayName> Становление лидером </DisplayName>
+			<Desc> Я обязательно приведу всех к бессмертию. </Desc>
+			<StoryDesc> Становление лидером секты наполняет человека энергией </StoryDesc>
+		</Text>
+		<Text Name = "INeedTrousersM">
+			<DisplayName> Нужны штаны </DisplayName>
+			<Desc> У секты нет даже штанов? </Desc>
+			<StoryDesc> Гнев переполняет меня, когда я без штанов </StoryDesc>
+		</Text>
+		<Text Name = "INeedClothesF">
+			<DisplayName> Нужна одежда </DisplayName>
+			<Desc> Ах! Почему на мне нет одежды!?(Прикрывая грудь) </Desc>
+			<StoryDesc> Мне так стыдно, потому что на мне нет никакой одежды </StoryDesc>
+		</Text>
+		<Text Name = "INeedTrousersF">
+			<DisplayName> Нужны брюки </DisplayName>
+			<Desc> Ах! Почему на мне нет...?!(Закрывая лицо) </Desc>
+			<StoryDesc> Мне так стыдно, потому что на мне нет брюк. </StoryDesc>
+		</Text>
+		<Text Name = "Kick1">
+			<DisplayName> Изгнание </DisplayName>
+			<Desc> Кто-то был изгнан. </Desc>
+			<StoryDesc> Когда кого-то изгоняют, все чувствуют себя подавленными </StoryDesc>
+		</Text>
+		<Text Name = "Kick2">
+			<DisplayName> Изгнан Ученик </DisplayName>
+			<Desc> К сожалению, один из участников был исключен из секты. </Desc>
+			<StoryDesc> Исключение другого ученика, заставляет всех чувствовать себя не очень довольными </StoryDesc>
+		</Text>
+		<Text Name = "Kick3">
+			<DisplayName> Изгнан Друг </DisplayName>
+			<Desc> Что вы все делаете!? Почему мой друг [TXT] уходит?! </Desc>
+			<StoryDesc> Изгнание хорошего друга, как правило, оставляет серьезное недоумение </StoryDesc>
+		</Text>
+		<Text Name = "Kick4">
+			<DisplayName> Изгнан Возлюбленнный </DisplayName>
+			<Desc> Что вы все делаете!? Почему моя любовь [TXT] уходит?! </Desc>
+			<StoryDesc> Гнев становится взрывоопасным, когда изгоняют значимого человека </StoryDesc>
+		</Text>
+		<Text Name = "Kick5">
+			<DisplayName> Изгнан Близкий </DisplayName>
+			<Desc> Что вы все делаете !? Почему мой близкий [TXT] уходит?! </Desc>
+			<StoryDesc> Когда близкого человека изгоняют... это крайне бесит </StoryDesc>
+		</Text>
+		<Text Name = "Kick6">
+			<DisplayName> Изгнан Мастер </DisplayName>
+			<Desc> Мой мастер, [TXT], был вынужден уйти... что пошло не так? </Desc>
+			<StoryDesc> Когда мастера изгоняют, это раздражает </StoryDesc>
+		</Text>
+		<Text Name = "Kick7">
+			<DisplayName> Изгнан Враг </DisplayName>
+			<Desc> [TXT] выгнали? ХАХАХАХА! </Desc>
+			<StoryDesc> Изгнанный враг, несомненно, скрашивает неделю </StoryDesc>
+		</Text>
+		<Text Name = "Defection1">
+			<DisplayName> Перебежчик </DisplayName>
+			<Desc> Кто-то дезертировал из секты... </Desc>
+			<StoryDesc> Зачем кому-то дезертировать? </StoryDesc>
+		</Text>
+		<Text Name = "Defection2">
+			<DisplayName> Перебежчик Возлюбленный </DisplayName>
+			<Desc> [TXT] дезертирует из секты, почему...? </Desc>
+			<StoryDesc> Гнев и удивление из-за дезертирства возлюбленного человека </StoryDesc>
+		</Text>
+		<Text Name = "Defection3">
+			<DisplayName> Перебежчик Друг </DisplayName>
+			<Desc> [TXT] дезертирует из секты, почему ...? </Desc>
+			<StoryDesc> Друг дезертировал из секты, испытваю шок и гнев </StoryDesc>
+		</Text>
+		<Text Name = "Defection4">
+			<DisplayName> Перебежчик Близкий </DisplayName>
+			<Desc> [TXT] дезертирует из секты, почему ...? </Desc>
+			<StoryDesc> Причина дезертирства близкого человека из секты непостижима </StoryDesc>
+		</Text>
+		<Text Name = "Defection5">
+			<DisplayName> Перебежчик Враг </DisplayName>
+			<Desc> [TXT] предаёт нас? В этом есть смысл. </Desc>
+			<StoryDesc> Отступничество врага... это отличная неделя </StoryDesc>
+		</Text>
+		<Text Name = "DiscontentMood">
+			<DisplayName> Недовольство </DisplayName>
+			<Desc> Мне не очень нравится то, как обстоят дела ... </Desc>
+			<StoryDesc> Человек легко расстраивается, если не удовлетворен жизнью </StoryDesc>
+		</Text>
+		<Text Name = "Mood_BasePracticeAchievements1">
+			<DisplayName> Начальная Закалка Тела </DisplayName>
+			<Desc> Похоже, упражнения начинают приносить плоды! Я чувствую себя здоровее, чем раньше! </Desc>
+			<StoryDesc> Легко возбудиться, когда успехи становятся заметны </StoryDesc>
+		</Text>
+		<Text Name = "Mood_BasePracticeAchievements2">
+			<DisplayName> Продвинутая Закалка Тела </DisplayName>
+			<Desc> Ежедневные упражнения дают результат, я чувствую себя намного здоровее, чем в прошлом, и мне всё даётся легче! </Desc>
+			<StoryDesc> Эйфория изобилует, когда явно можно увидеть ощутимый прогресс </StoryDesc>
+		</Text>
+		<Text Name = "BecomeDisciple">
+			<DisplayName> Новый мир </DisplayName>
+			<Desc> Дорога к бессмертию началась. </Desc>
+			<StoryDesc> Открыта дверь к культивации и бессмертию, амбиции высоки. </StoryDesc>
+		</Text>
+		<Text Name = "SeeGod">
+			<DisplayName> Очевидец Вознесения </DisplayName>
+			<Desc> Наблюдать за Вознесением другого человека - отличная мотивация. </Desc>
+			<StoryDesc> Свидетельство вознесения действительно может помочь поставить голову прямо </StoryDesc>
+		</Text>
+		<Text Name = "TerribleThing1">
+			<DisplayName> Ужасающий опыт </DisplayName>
+			<Desc> Со мной случилось что-то ужасное, зачем кому-то так поступать со мной? </Desc>
+			<StoryDesc> Ужасающий опыт вызывает панику </StoryDesc>
+		</Text>
+		<Text Name = "TerribleThing2">
+			<DisplayName> Очевидец ужасающего опыта </DisplayName>
+			<Desc> Пришлось стать свидетелем чего-то ужасающего, что случилось с [TXT]. </Desc>
+			<StoryDesc> Наблюдение за ужасающим переживанием оставляет человека в состоянии опасения </StoryDesc>
+		</Text>
+		<Text Name = "TerribleThing3">
+			<DisplayName> Беспокойюсь за Друга </DisplayName>
+			<Desc> Я очень волнуюсь, увидев что, нечто ужасающее произошло с моим другом [TXT]. </Desc>
+			<StoryDesc> Чувство страха и гнева изобилует после созерцания чего-то столь ужасающего, случившегося с Другом </StoryDesc>
+		</Text>
+		<Text Name = "TerribleThing4">
+			<DisplayName> Беспокойюсь за Возлюбленного </DisplayName>
+			<Desc> Быть свидетелем того, как что-то ужасное происходит с [TXT], очень тревожно. </Desc>
+			<StoryDesc> Меня переполняют злость и страх из-за того, мне пришлось наблюдать, как что-то ужасное произошло с Возлюбленным мной человеком </StoryDesc>
+		</Text>
+		<Text Name = "TerribleThing5">
+			<DisplayName> Беспокойюсь за Близкого </DisplayName>
+			<Desc> Что-то ужасное, случилось с [TXT] ... Как такое могло случиться? </Desc>
+			<StoryDesc> Меня переполняют злость и страх из-за того, мне пришлось наблюдать, как что-то ужасное произошло с Близким мне человеком </StoryDesc>
+		</Text>
+		<Text Name = "TerribleThing6">
+			<DisplayName> Очевидец ужасающего опыта(2?) </DisplayName>
+			<Desc> Мне пришлось стать свидетелем чего-то ужасающего. </Desc>
+			<StoryDesc> Увидев нечто столь ужасающее, я ощущаю как нарастает беспокойство </StoryDesc>
+		</Text>
+		<Text Name = "NiceThing1">
+			<DisplayName> Чудо </DisplayName>
+			<Desc> Кто-то сотворил со мной чудо! Невероятно! </Desc>
+			<StoryDesc> Чудесный опыт, надолго оставляет восхищение </StoryDesc>
+		</Text>
+		<Text Name = "NiceThing1_1">
+			<DisplayName> Замечательный опыт </DisplayName>
+			<Desc> Мне удалось испытать незабываемые впечатления, это было действительно фантастично. </Desc>
+			<StoryDesc> Замечательное впечатление оставляет в восторге </StoryDesc>
+		</Text>
+		<Text Name = "NiceThing2">
+			<DisplayName> Очевидец чуда </DisplayName>
+			<Desc> Чудо сотворили с [TXT]. Увидев это, немного завидую... </Desc>
+			<StoryDesc> Увидев как с кем-то другим сотворили чудо, ощущаю легкую зависть </StoryDesc>
+		</Text>
+		<Text Name = "NiceThing2_1">
+			<DisplayName> Очевидец чего-то волшебного </DisplayName>
+			<Desc>  Кто-то совершил чудо, это было невероятно. </Desc>
+			<StoryDesc> Созерцание чуда пробудило во мне тоску </StoryDesc>
+		</Text>
+		<Text Name = "NiceThing3">
+			<DisplayName> Радуюсь за друга </DisplayName>
+			<Desc> Увидев, как кто-то сотворил чудо с моим другом, [TXT]... Я теперь так радуюсь из-за случившегося. </Desc>
+			<StoryDesc> Засвидетельствовав сотворение чуда на друге, во мне осталось глубокое чувство признательности </StoryDesc>
+		</Text>
+		<Text Name = "NiceThing4">
+			<DisplayName> Радуюсь за Возлюбленного </DisplayName>
+			<Desc> Мне посчастливилось увидеть, как кто-то сотворил чудо с моей второй половинкой, [TXT]. Это потрясающе. </Desc>
+			<StoryDesc> Когда я становлюсь свидетелем чуда на близком человеке, остаётся чувство глубокой признательности </StoryDesc>
+		</Text>
+		<Text Name = "NiceThing5">
+			<DisplayName> Радуюсь за Близкого </DisplayName>
+			<Desc> Мне посчастливилось увидеть, как кто-то сотворил чудо с [TXT]. Какое же счастье, что это произошло. </Desc>
+			<StoryDesc> засвидетельствовав сотворение чуда на члене семьи, испытываю искреннюю благодарность </StoryDesc>
+		</Text>
+		<Text Name = "Mood_LingStone">
+			<DisplayName> Резонанс Ци </DisplayName>
+			<Desc> Так хорошо ладить с Ци - это прекрасное чувство. </Desc>
+			<StoryDesc> Ощущение комфорта у человека, окутанного такой сильной ци </StoryDesc>
+		</Text>
+		<Text Name = "Mood_LingStone1">
+			<DisplayName> Глубокий резонанс </DisplayName>
+			<Desc> Так легко ладить с Ци - это отличное чувство. </Desc>
+			<StoryDesc> Ощущение комфорта у человека, окутанного такой сильной ци </StoryDesc>
+		</Text>
+		<Text Name = "Mood_Equipment_Fun">
+			<DisplayName> Интересная игрушка </DisplayName>
+			<Desc> Неплохо иметь под рукой что-нибудь, с чем можно поиграть. </Desc>
+			<StoryDesc> Приятно иметь возможность отвлечься, когда это необходимо </StoryDesc>
+		</Text>
+		<Text Name = "Mood_PracticeFoodScanty">
+			<DisplayName> Недостаточная выносливость </DisplayName>
+			<Desc> Выносливости не хватает, тренироваться невозможно. </Desc>
+			<StoryDesc> Невозможность тренироваться из-за недостаточной выносливости. Это, мягко говоря, досадно </StoryDesc>
+		</Text>
+		<Text Name = "SeeBodyPuppet">
+			<DisplayName> В лёгком ужасе </DisplayName>
+			<Desc> Увидев нечто жуткое... и как оно двигалось! </Desc>
+			<StoryDesc> Легко пугаюсь, увидев что-то ... сверхъестественное </StoryDesc>
+		</Text>
+		<Text Name = "Illusion1">
+			<DisplayName> Счастливая галлюцинация </DisplayName>
+			<Desc> Ах, какой чудесный мир! </Desc>
+			<StoryDesc> Видеть прекрасные вещи неводомые другим </StoryDesc>
+		</Text>
+		<Text Name = "Illusion2">
+			<DisplayName> Ужасные галлюцинации </DisplayName>
+			<Desc> Фу, мерзко! </Desc>
+			<StoryDesc> Видеть странные вещи неведомые другим </StoryDesc>
+		</Text>
+		<Text Name = "BeResurrection">
+			<DisplayName> Воскрешенный </DisplayName>
+			<Desc> Воскреснуть было крайне здорово! ХАХАХА! </Desc>
+			<StoryDesc> Все еще радуюсь воскрешению </StoryDesc>
+		</Text>
+		<Text Name = "PaoZhang1">
+			<DisplayName> Интересный фейерверк </DisplayName>
+			<Desc> Как интересно. Это выглядят очень красиво. </Desc>
+			<StoryDesc> Все еще думаю об интересных фейерверках </StoryDesc>
+		</Text>
+		<Text Name = "PaoZhang2">
+			<DisplayName> Странный феерверк </DisplayName>
+			<Desc> Ах! Это отвратительно! </Desc>
+			<StoryDesc> По-прежнему чувствую себя плохо и скверно </StoryDesc>
+		</Text>
+	</List>
+</Texts>

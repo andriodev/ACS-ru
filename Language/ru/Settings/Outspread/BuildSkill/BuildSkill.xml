@@ -1,0 +1,8 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="zhaolan">
+			<DisplayName>Нанять</DisplayName>
+			<Desc>Вы можете нанять здесь новых учеников, из прихожан агенства. Каждый набор будет стоить 100 очков влияния.</Desc>
+		</Text>
+	</List>
+</Texts>

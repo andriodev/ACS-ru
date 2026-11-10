@@ -1,0 +1,20 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="YinYangErosion">
+			<DisplayName>Коррозия Инь Ян</DisplayName>
+			<Desc>Ослабьте оборону противника силой Инь-Ян.</Desc>
+		</Text>
+		<Text Name="BambooBedFeel">
+			<DisplayName>Прохладный</DisplayName>
+			<Desc>На бамбуковой кровати немного прохладно.</Desc>
+		</Text>
+		<Text Name="Modifier_YG_YinYangForce">
+			<DisplayName>Изначальная Сила (Смешанная)</DisplayName>
+			<Desc>Мгновенно сжигает источник жизни, для стимуляции изначальной силы Яогуай, чтобы резко увеличить мастерство артефакта, барьер Ци, а также Секретную силу тела и выносливость.</Desc>
+		</Text>
+		<Text Name="Fish_EndureHunger">
+			<DisplayName>Устойчивость к голоду</DisplayName>
+			<Desc>Сожрал золотую карликовую цихлиду, может вытерпеть голод.</Desc>
+		</Text>
+	</List>
+</Texts>

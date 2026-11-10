@@ -1,0 +1,133 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="LeadExperienceAddtion">
+      <DisplayName>Фоновый Бонус</DisplayName>
+    </Text>
+    <Text Name="BaseWorkSpeed">
+      <DisplayName>Основные Направления Повышения Эффективности Работы</DisplayName>
+      <DisplayValue>{0}/сек</DisplayValue>
+      <Desc>Основная рабочая скорость персонажа. Указывает объем работы, которую они могут выполнить в секунду.</Desc>
+      <FunctionKind>Статистика Производства</FunctionKind>
+    </Text>
+    <Text Name="BaseEmotionAddV">
+      <DisplayName>Базовое Значение Настроения</DisplayName>
+      <DisplayValue>{0}</DisplayValue>
+      <Desc>Основное значение настроения персонажа.</Desc>
+      <FunctionKind>Базовые Характеристики</FunctionKind>
+    </Text>
+    <Text Name="MaxAge">
+      <DisplayName>Продолжительность жизни</DisplayName>
+      <DisplayValue>{0}</DisplayValue>
+      <Desc>Самый высокий возраст, до которого может дожить персонаж.</Desc>
+    </Text>
+    <Text Name="AgeCostSpeed">
+      <DisplayName>Скорость Уменьшения Продолжительности Жизни</DisplayName>
+      <Desc>Скорость, с которой проходит жизнь персонажа.</Desc>
+    </Text>
+    <Text Name="VisionRadius">
+      <DisplayName>Радиус Восприятия</DisplayName>
+      <DisplayValue>{0:N2}м</DisplayValue>
+      <Desc>Максимальное расстояние, на котором персонаж способен воспринимать окружающее.</Desc>
+      <FunctionKind>Базовые Характеристики</FunctionKind>
+    </Text>
+    <Text Name="MoveSpeed">
+      <DisplayName>Скорость Перемещения</DisplayName>
+      <DisplayValue>{0:N2}м/с</DisplayValue>
+      <Desc>Скорость передвижения персонажа.</Desc>
+      <FunctionKind>Базовые Характеристики</FunctionKind>
+    </Text>
+    <Text Name="ComfyTMin">
+      <DisplayName>Самая Низкая Температура</DisplayName>
+      <Desc>Самая низкая температура, при которой персонаж чувствует себя комфортно.</Desc>
+      <FunctionKind>Базовые Характеристики</FunctionKind>
+    </Text>
+    <Text Name="ComfyTMax">
+      <DisplayName>Высокая Температура</DisplayName>
+      <Desc>Самая высокая температура, при которой персонаж чувствует себя комфортно.</Desc>
+      <FunctionKind>Базовые Характеристики</FunctionKind>
+    </Text>
+    <Text Name="ToleranceTMin">
+      <DisplayName>Самый Низкий Температурный Допуск</DisplayName>
+      <Desc>Самая низкая температура, которая не влияет на здоровье персонажа.</Desc>
+      <FunctionKind>Базовые Характеристики</FunctionKind>
+    </Text>
+    <Text Name="ToleranceTMax">
+      <DisplayName>Самый Высокий Температурный Допуск</DisplayName>
+      <Desc>Самая высокая температура, которая не влияет на здоровье персонажа.</Desc>
+      <FunctionKind>Базовые Характеристики</FunctionKind>
+    </Text>
+    <Text Name="RecoveryPower">
+      <DisplayName>Естественная Устойчивость</DisplayName>
+      <DisplayValue>{0}%/сек</DisplayValue>
+      <Desc>Естественная скорость восстановления персонажа после болезней и травм.</Desc>
+      <FunctionKind>Базовые Характеристики</FunctionKind>
+    </Text>
+    <Text Name="PainTolerance">
+      <DisplayName>Терпимость К Боли</DisplayName>
+      <Desc>Максимальный уровень боли персонаж способен терпеть.</Desc>
+      <FunctionKind>Базовые Характеристики</FunctionKind>
+    </Text>
+    <Text Name="IntelligenceSkillEXPConstant">
+      <DisplayName>Скорость Обучения</DisplayName>
+      <Desc>Количество опыта, которое персонаж получает от практики. Также влияет на скорость, с которой культиваторы Золотого ядра получают вдохновение.</Desc>
+      <FunctionKind>Статистика Культивирования</FunctionKind>
+    </Text>
+    <Text Name="EmotionAmplificationFactor">
+      <DisplayName>Множитель Настроения</DisplayName>
+    </Text>
+    <Text Name="FavourChangeSpeedRate">
+      <DisplayName>Благоприятная Скорость Изменения Курса</DisplayName>
+    </Text>
+    <Text Name="NightmareHappenPercent">
+      <DisplayName>Шанс Увидеть Кошмар</DisplayName>
+      <Desc>У персонажа есть шанс увидеть кошмар.</Desc>
+    </Text>
+    <Text Name="NiceDreamHappenPercent">
+      <DisplayName>Шанс Сладкого Сна</DisplayName>
+      <Desc>У персонажа есть шанс увидеть сладкий сон.</Desc>
+    </Text>
+    <Text Name="FatigueConsumeConstant">
+      <DisplayName>Бонус Потребления Энергии</DisplayName>
+      <Desc>Бонус к энергопотреблению персонажа.</Desc>
+    </Text>
+    <Text Name="FatigueRecoveryConstant">
+      <DisplayName>Бонус Пополнения Энергии</DisplayName>
+      <Desc>Бонус к пополнению энергии персонажа.</Desc>
+    </Text>
+    <Text Name="NutritionConsumeConstant">
+      <DisplayName>Бонус Потребления Пищи</DisplayName>
+      <Desc>Бонус к скорости потребления пищи персонажем.</Desc>
+    </Text>
+    <Text Name="NutritionRecoveryConstant">
+      <DisplayName>Бонус Пополнения Запасов Продовольствия</DisplayName>
+      <Desc>Бонус пополнения питания персонажа.</Desc>
+    </Text>
+    <Text Name="WaterConsumeConstant">
+      <DisplayName>Бонус Потребления Воды</DisplayName>
+      <Desc>Бонус к потреблению воды персонажем.</Desc>
+    </Text>
+    <Text Name="WaterRecoveryConstant">
+      <DisplayName>Бонус Пополнения Запасов Воды</DisplayName>
+      <Desc>Бонус пополнения воды персонажа.</Desc>
+    </Text>
+    <Text Name="HappyConsumeConstant">
+      <DisplayName>Бонус Потребления Отдыха</DisplayName>
+      <Desc>Бонус к рекреационному потреблению персонажа.</Desc>
+    </Text>
+    <Text Name="HappyRecoveryConstant">
+      <DisplayName>Бонус Пополнения Базы Отдыха</DisplayName>
+      <Desc>Бонус пополнения базы отдыха персонажа.</Desc>
+    </Text>
+    <Text Name="PracticeFoodConsumeConstant">
+      <DisplayName>Бонус Потребления Эссенции</DisplayName>
+      <Desc>Бонус к потреблению сущности персонажа.</Desc>
+    </Text>
+    <Text Name="PracticeFoodRecoveryConstant">
+      <DisplayName>Бонус Пополнения Выносливости</DisplayName>
+      <Desc>Бонус пополнения сущности персонажа.</Desc>
+    </Text>
+    <Text Name="MagicDamageRecoveryPowerAddV">
+      <DisplayName>Естественная устойчивость к внутренним травмам</DisplayName>
+    </Text>
+  </List>
+</Texts>

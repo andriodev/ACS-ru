@@ -1,0 +1,64 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="BornComa">
+			<DisplayName>Без сознания</DisplayName>
+			<Desc>Потерял сознание.</Desc>
+		</Text>
+		<Text Name="FightPowerUp">
+			<DisplayName>Повышенная Сила</DisplayName>
+			<Desc>Нападение и защита существенно увеличиваются.</Desc>
+		</Text>
+		<Text Name="FightPowerUp_DiMu">
+			<DisplayName>Проклятие Матери-Земли</DisplayName>
+			<Desc>Сильно увеличивает способности под влиянием проклятия Матери-Земли.</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp">
+			<DisplayName>Давление воды</DisplayName>
+			<Desc>Ци Цзяо-дракона и его атака возросли.</Desc>
+		</Text>
+		<Text Name="XiongFengFightPowerUp">
+			<DisplayName>Сила огня</DisplayName>
+			<Desc>Ци и атака Феникса возросли.</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp">
+			<DisplayName>Мощь Инь-Ян</DisplayName>
+			<Desc>Ци и атака дракона Факела увеличились.</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp2">
+			<DisplayName>Давление воды</DisplayName>
+			<Desc>Ци Цзяо-дракона и его атака возросли.</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp3">
+			<DisplayName>Давление воды</DisplayName>
+			<Desc>Ци Цзяо-дракона и его атака возросли.</Desc>
+		</Text>
+		<Text Name="JiaoLongFightPowerUp4">
+			<DisplayName>Давление воды</DisplayName>
+			<Desc>Ци Цзяо-дракона и его атака возросли.</Desc>
+		</Text>
+		<Text Name="XiongFengFightPowerUp2">
+			<DisplayName>Сила огня</DisplayName>
+			<Desc>Ци и атака Феникса возросли.</Desc>
+		</Text>
+		<Text Name="XiongFengFightPowerUp3">
+			<DisplayName>Сила огня</DisplayName>
+			<Desc>Ци и атака Феникса возросли.</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp2">
+			<DisplayName>Мощь Инь-Ян</DisplayName>
+			<Desc>Ци и атака дракона Факела увеличились.</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp3">
+			<DisplayName>Мощь Инь-Ян</DisplayName>
+			<Desc>Ци и атака дракона Факела увеличились.</Desc>
+		</Text>
+		<Text Name="ZhulongFightPowerUp4">
+			<DisplayName>Мощь Инь-Ян</DisplayName>
+			<Desc>Ци и атака дракона Факела увеличились.</Desc>
+		</Text>
+		<Text Name="Dan_LingTree">
+			<DisplayName>Расширенный Резонанс Ци</DisplayName>
+			<Desc>Резонируйте с ци вокруг Свектящегося дерева, может увеличить скорость восстановления Ци.</Desc>
+		</Text>
+	</List>
+</Texts>

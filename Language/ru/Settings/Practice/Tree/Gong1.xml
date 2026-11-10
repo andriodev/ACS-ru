@@ -1,0 +1,109 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong1_a0">
+			<DisplayName>Печать контракта</DisplayName>
+		</Text>
+		<Text Name="Gong1_a1">
+			<DisplayName>Одушевление</DisplayName>
+		</Text>
+		<Text Name="Gong1_a4">
+			<DisplayName>Пять Источников</DisplayName>
+		</Text>
+		<Text Name="Gong1_a6">
+			<DisplayName>Врожденная ци</DisplayName>
+		</Text>
+		<Text Name="Gong1_a8">
+			<DisplayName>Панацея</DisplayName>
+		</Text>
+		<Text Name="Gong1_b0">
+			<DisplayName>Создание дождя</DisplayName>
+		</Text>
+		<Text Name="Gong1_b1">
+			<DisplayName>Своевременный дождь</DisplayName>
+		</Text>
+		<Text Name="Gong1_b2">
+			<DisplayName>Определение Фэн-Шуй</DisplayName>
+		</Text>
+		<Text Name="Gong1_b4">
+			<DisplayName>Техника магии Тайхэ</DisplayName>
+		</Text>
+		<Text Name="Gong1_b5">
+			<DisplayName>Заклинание чистого разума</DisplayName>
+		</Text>
+		<Text Name="Gong1_b7">
+			<DisplayName>Песнопение о мастерстве дерева</DisplayName>
+		</Text>
+		<Text Name="Gong1_b7_1">
+			<DisplayName>Напев дождя</DisplayName>
+		</Text>
+		<Text Name="Gong1_b8">
+			<DisplayName>Небесная Панацея</DisplayName>
+		</Text>
+		<Text Name="Gong1_b8_1">
+			<DisplayName>Чародейское Внушение</DisplayName>
+		</Text>
+		<Text Name="Gong1_b10">
+			<DisplayName>Наставления по Сбору Воды</DisplayName>
+		</Text>
+		<Text Name="Gong1_c0">
+			<DisplayName>Медитация</DisplayName>
+		</Text>
+		<Text Name="Gong1_c0_1">
+			<DisplayName>Дзен Отражение</DisplayName>
+		</Text>
+		<Text Name="Gong1_c1">
+			<DisplayName>Духовное Дыхание</DisplayName>
+		</Text>
+		<Text Name="Gong1_c2">
+			<DisplayName>Возрождение мечты</DisplayName>
+		</Text>
+		<Text Name="Gong1_c3">
+			<DisplayName>Полётная техника Наездника Ветра</DisplayName>
+		</Text>
+		<Text Name="Gong1_c3_1">
+			<DisplayName>По Направлению Ветра</DisplayName>
+		</Text>
+		<Text Name="Gong1_c4">
+			<DisplayName>Техника Бурного Потока</DisplayName>
+		</Text>
+		<Text Name="Gong1_c4_1">
+			<DisplayName>Зов Океана</DisplayName>
+		</Text>
+		<Text Name="Gong1_c9">
+			<DisplayName>Истинная Форма Эссенции Воды</DisplayName>
+		</Text>
+		<Text Name="Gong1_c10">
+			<DisplayName>Истинная Форма Ци Воды</DisplayName>
+		</Text>
+		<Text Name="Gong1_c11">
+			<DisplayName>Истинная Форма Бога Воды</DisplayName>
+		</Text>
+		<Text Name="Gong1_d0">
+			<DisplayName>Ливень</DisplayName>
+		</Text>
+		<Text Name="Gong1_d0_1">
+			<DisplayName>Ци Аквасфера</DisplayName>
+		</Text>
+		<Text Name="Gong1_d1">
+			<DisplayName>Генезис Темного Духа</DisplayName>
+		</Text>
+		<Text Name="Gong1_d5">
+			<DisplayName>Амальгама</DisplayName>
+		</Text>
+		<Text Name="Gong1_d5_1">
+			<DisplayName>Амальгама</DisplayName>
+		</Text>
+		<Text Name="Gong1_d5_2">
+			<DisplayName>Амальгама</DisplayName>
+		</Text>
+		<Text Name="Gong1_d8">
+			<DisplayName>Закалка разума</DisplayName>
+		</Text>
+		<Text Name="Gong1_1_e4">
+			<DisplayName>Пилюля Небесного Пути</DisplayName>
+		</Text>
+		<Text Name="Gong1_1_e8">
+			<DisplayName>Небесный Артефакт</DisplayName>
+		</Text>
+	</List>
+</Texts>

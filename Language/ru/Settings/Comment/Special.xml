@@ -1,0 +1,19 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="SpecialZhen">
+			<Notes>Панель комментариев формаций</Notes>
+			<Title>Формации</Title>
+			<Desc>Объедините силы людей в одно целое. Такова истина в последней инстанции о способе построения.</Desc>
+			</Text>
+		<Text Name="SpecialElixirGas">
+			<Notes>Комментарий о Алхимии Ци</Notes>
+			<Title>Алхимия Ци</Title>
+			<Desc>Алхимическая Ци в секте</Desc>
+		</Text>
+		<Text Name="SpecialSacrific">
+			<Notes>Комментарий о Жертвоприношение демона</Notes>
+			<Title>Жертвоприношение демона</Title>
+			<Desc>Панель Жертвоприношения демона</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,87 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="SlightlyFear">
+			<DisplayName>Немного боюсь</DisplayName>
+			<SingleFormat.0>Чувствовал {0} других животных..</SingleFormat.0>
+			<SingleFormat.1>Почувствовал {0} новой среды..</SingleFormat.1>
+		</Text>
+		<Text Name="Fear">
+			<DisplayName>Испуганный</DisplayName>
+			<SingleFormat.0>Почувствовал {0} людей рядом..</SingleFormat.0>
+		</Text>
+		<Text Name="GreatlyFear">
+			<DisplayName>Напуганный</DisplayName>
+			<SingleFormat.0>Вспомнил своего естественного врага и почувствовал {0}..</SingleFormat.0>
+			<SingleFormat.1>Чувствовал {0} о товарищах убитых..</SingleFormat.1>
+		</Text>
+		<Text Name="SlightlyHappy">
+			<DisplayName>Немного счастлив</DisplayName>
+			<SingleFormat.0>Чувствовалось {0} о ясном, солнечном дне.</SingleFormat.0>
+			<SingleFormat.1>Почувствовал {0} что-то вкусное.</SingleFormat.1>
+		</Text>
+		<Text Name="Happy">
+			<DisplayName>Восхищенный</DisplayName>
+			<SingleFormat.0>Почувствовал {0} на окружающем.</SingleFormat.0>
+		</Text>
+		<Text Name="GreatlyHappy">
+			<DisplayName>Восторженный</DisplayName>
+			<SingleFormat.0>Чувствовал {0} о встрече с родней.</SingleFormat.0>
+		</Text>
+		<Text Name="SlightlyAnger">
+			<DisplayName>Немного разозлился</DisplayName>
+			<SingleFormat.0>Чувствовал {0} у проходящих мимо людей.</SingleFormat.0>
+		</Text>
+		<Text Name="Anger">
+			<DisplayName>Сердитый</DisplayName>
+			<SingleFormat.0>Чувствовал {0}, что другие идут на риск.</SingleFormat.0>
+		</Text>
+		<Text Name="GreatlyAnger">
+			<DisplayName>Яростный</DisplayName>
+			<SingleFormat.0>Чувствовал {0}, что другие животные дерутся.</SingleFormat.0>
+			<SingleFormat.1>Чувствовал {0}, что над ним издеваются.</SingleFormat.1>
+		</Text>
+		<Text Name="SlightlyWorry">
+			<DisplayName>Немного тревожно</DisplayName>
+			<SingleFormat.0>Почувствовал {0} на проходящих незнакомцев.</SingleFormat.0>
+		</Text>
+		<Text Name="Worry">
+			<DisplayName>Озабоченный</DisplayName>
+			<SingleFormat.0>Чувствовал себя {0} около глубокой реки.</SingleFormat.0>
+			<SingleFormat.1>Почувствовал {0} на краю оврага.</SingleFormat.1>
+		</Text>
+		<Text Name="GreatlyWorry">
+			<DisplayName>Обезумевший</DisplayName>
+			<SingleFormat.0>Чувствовал {0} о смерти.</SingleFormat.0>
+			<SingleFormat.1>Чувствовал себя {0} пойманным людьми.</SingleFormat.1>
+		</Text>
+		<Text Name="SlightlyMiss">
+			<DisplayName>Смутное томление</DisplayName>
+			<SingleFormat.0>Ощутил {0} для нескольких нечетких фигур.</SingleFormat.0>
+			<SingleFormat.1>Чувствовал {0} для живописной местности.</SingleFormat.1>
+		</Text>
+		<Text Name="Miss">
+			<DisplayName>Тоскующий</DisplayName>
+			<SingleFormat.0>Чувствовал себя {0} по жизни на открытом воздухе.</SingleFormat.0>
+			<SingleFormat.1>Чувствовал себя {0} по товарищам.</SingleFormat.1>
+		</Text>
+		<Text Name="GreatlyMiss">
+			<DisplayName>Желание</DisplayName>
+			<SingleFormat.0>Чувствовал {0} о детстве родственников.</SingleFormat.0>
+			<SingleFormat.1>Чувствовал {0} о ручье в воспоминаниях.</SingleFormat.1>
+		</Text>
+		<Text Name="Peace">
+			<DisplayName>Спокойный</DisplayName>
+			<SingleFormat.0>Почувствовал {0}, ступив на твердую почву.</SingleFormat.0>
+			<SingleFormat.1>Чувствовал {0}, глядя на проходящих мимо существ.</SingleFormat.1>
+		</Text>
+		<Text Name="Eruption">
+			<DisplayName>Беспокойство</DisplayName>
+			<SingleFormat.0>Инстинктивно ощутил чувство {0}.</SingleFormat.0>
+		</Text>
+		<Text Name="Regret">
+			<DisplayName>Сожаления</DisplayName>
+			<SingleFormat.0>Почувствовал {0}, как упали цветы сливы.</SingleFormat.0>
+			<SingleFormat.1>Почувствовал {0}, как упали цветы сливы.</SingleFormat.1>
+		</Text>
+	</List>
+</Texts>

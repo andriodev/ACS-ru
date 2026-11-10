@@ -1,0 +1,42 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="MetalBlockBase" sParam="Item">
+      <Item.FabaoSuffix>Металл, Печать, Стела, Парный Нефрит, Табличка, Врата, Столп</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_IronBlock" sParam="Item">
+      <ThingName>Слиток Железа</ThingName>
+      <Desc>Железная руда переплавленная в железные слитки, которые могут быть использованы для дальнейшего производства.</Desc>
+      <Item.BeMaterial.NamePrefix>『Железо』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_CopperBlock" sParam="Item">
+      <ThingName>Огненная Медь</ThingName>
+      <Desc>Огнемедная руда переплавленная в слитки, которые могут быть использованы для дальнейшего производства.</Desc>
+      <Item.BeMaterial.NamePrefix>『Огненная Медь』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_SilverBlock" sParam="Item">
+      <ThingName>Слиток Инея</ThingName>
+      <Desc>Ледяная руда переплавленная в слитки, которые могут быть использованы для дальнейшего производства.</Desc>
+      <Item.BeMaterial.NamePrefix>『Иней』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_CopperBlock1" sParam="Item">
+      <ThingName>Слиток Чистого Огня</ThingName>
+      <Desc>Большое количество огнемедной руды переплавляется в слитки с кровью демонического зверя. Каждый кусок требует много времени на выплавку и изготовление.</Desc>
+      <Item.BeMaterial.NamePrefix>『Чистый Огонь』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_SilverBlock1" sParam="Item">
+      <ThingName>Слиток Чистого Льда</ThingName>
+      <Desc>Большое количество ледяной руды переплавляется в слитки с кровью демонического зверя. Каждый кусок требует много времени на выплавку и изготовление.</Desc>
+      <Item.BeMaterial.NamePrefix>『Чистый Лёд』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_DarksteelBlock" sParam="Item">
+      <ThingName>Тёмная Сталь</ThingName>
+      <Desc>Тёмная руда переплавленная в слитки, которые могут быть использованы для дальнейшего производства.</Desc>
+      <Item.BeMaterial.NamePrefix>『Тёмная Сталь』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_StarEssenceBlock" sParam="Item">
+      <ThingName>Небесный Слиток</ThingName>
+      <Desc>Ядро Метеорита переплавляется в слитки, которые могут быть использованы для дальнейшего производства.</Desc>
+      <Item.BeMaterial.NamePrefix>『Ядро Метеорита』</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>

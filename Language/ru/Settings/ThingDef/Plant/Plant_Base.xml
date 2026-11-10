@@ -1,0 +1,8 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="SYS_LOSTPLANT" sParam="Plant">
+			<ThingName>Потерянное растение</ThingName>
+			<Desc>Потерянное растение о котором никто не узнает. \n(Empty)</Desc>
+		</Text>
+	</List>
+</Texts>

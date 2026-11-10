@@ -1,0 +1,17 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="FloorBase">
+      <DisplayName>Напольное покрытие</DisplayName>
+      <StoryDesc>Это внутри секты</StoryDesc>
+    </Text>
+    <Text Name="WoodFloor1">
+      <DisplayName>Деревянный Настил</DisplayName>
+    </Text>
+    <Text Name="WoodFloor2">
+      <DisplayName>Деревянный Настил</DisplayName>
+    </Text>
+    <Text Name="Carpet1">
+      <StoryDesc>Он лежит на великолепном, мягком красном ковре</StoryDesc>
+    </Text>
+  </List>
+</Texts>

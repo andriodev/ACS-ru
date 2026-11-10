@@ -1,0 +1,234 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Practice">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] затосковал по дому пока тренировался.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] начал отходить к образу [obj_friend] пока тренировался.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно заинтересовался [obj_nearthing] пока тренировался.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] захотел съесть [obj_food] пока тренировался.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг начал думать о своём [obj_relation] пока тренировался.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] наполнило множество мыслей и чувств, пока он тренировался.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно начал плакать пока тренировался.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал удушье пока тренировался.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] пока тренировался.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. пока [name] тренировался, он думал, что такой стиль жизни действительно хорош.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] думал не только о том, как круто быть культиватором, но и о том, как им тяжело тренироваться.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] хотел спустится с горы и отправится в путешествие, пока тренировался.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] находился под влиянием [rand_lable=obj_badmood,obj_goodmood] пока тренировался.</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не могу не беспокоиться о прорыве [obj_neck] пока тренировался.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] глубоко вздохнул, понимая, что действительно [obj_gong] пока тренировался.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] тренировался, не мог не задаться вопросом [obj_gong] действительно ли было что-то подходящее для него пока тренировался</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] тренировался он усомнился в [obj_esoterica], не содержит ли это руководство ошибку?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не мог не дышать [obj_esoterica] пока тренировался , поскольку это руководство действительно фантастическое.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] очень хотел попробовать поуправлять [obj_fabao] пока тренировался.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] неизвестно почему, захотел съесть [obj_dan] пока тренировался.</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] неизвестно почему, захотел ударить [obj_friend] пока тренировался.</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вспомнил Комнату Практики в [obj_goodschool] пока тренировался.</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно захотел сыграть с [obj_badschool] пока тренировался.</Events.23.Story>
+		</Text>
+		<Text Name="Brokening">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. Имея трудности с [obj_neck], [name] затосковал по дому.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] начал отходить к [obj_friend] встретив трудности с [obj_neck].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно заинтересовался [obj_nearthing] встретив трудности с [obj_neck].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно захотел съесть [obj_food] встретив трудности с [obj_neck].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг начал думать о своём [obj_relation] встретив трудности с [obj_neck].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] наполнило множество мыслей и чувств, пока он встретив трудности с [obj_neck].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно начал кричать встретив трудности с [obj_neck].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал удушье встретив трудности с [obj_neck].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] захотел посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] встретив трудности с [obj_neck].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] думал, что этот образ жизни действительно прекрасный [obj_neck].</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] думал не только о том, как круто быть культиватором, но и о том, как им тяжело, встретив трудности с [obj_neck].</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] хотел спустится с горы и отправится в путешествие, когда встретил трудности с [obj_neck].</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] находился под влиянием  [rand_lable=obj_badmood,obj_goodmood] встретив трудности с [obj_neck].</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не могу не беспокоиться о прорыве [obj_neck] встретив трудности с [obj_neck].</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] глубоко вздохнул, понимая, что [obj_gong] действительно низок встретив трудности с [obj_neck].</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. Встретив трудности с [obj_neck], [name] задумался, [obj_gong] действительно ли это то, что подходит ему .</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно засомневался в [obj_esoterica] встретив трудности с [obj_neck], не содержит ли это руководство ошибку?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не мог не вздохнуть [obj_esoterica] встретив трудности с [obj_neck] поскольку это руководство действительно фантастическое.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] очень хотел попробовать поуправлять [obj_fabao] встретив трудности с [obj_neck].</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] неизвестно почему, захотел съесть a [obj_dan] встретив трудности с [obj_neck].</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] неизвестно почему, захотел ударить [obj_friend] встретив трудности с [obj_neck].</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вспомнил Комнату Практи в [obj_goodschool] встретив трудности с [obj_neck].</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно захотел сыграть с [obj_badschool] встретив трудности с [obj_neck].</Events.23.Story>
+		</Text>
+		<Text Name="BrokenFailed">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather] [name], встретив трудности с [obj_neck], потерял самообладание из-за [rand_lable=obj_badmood,obj_goodmood], ошибся, а потом сожалел об этом.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather] [name], встретив трудности с [obj_neck], скучал по дому, чувствовал себя неуютно, совершил ошибку, о которой сожалел.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather] [name], встретив трудности с [obj_neck], отвлёкся на [obj_nearthing] рядом и оступился.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] [name], встретив трудности с [obj_neck], захотел съесть [obj_food], потерял контроль и совершил ошибку, о которой сожалел.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather] [name], встретив трудности с [obj_neck], вспомнил о своём [obj_relation], дрогнул, совершил ошибку, о которой сожалел.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather] [name], встретив трудности с [obj_neck], потерял контроль, совершил ошибку, о которой сожалел.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не мог не беспокоиться о совершении прорыва встретив трудности с [obj_neck].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] сомневался в своих способностях встретив трудности с [obj_neck]</Events.8.Story>
+		</Text>
+		<Text Name="Golding">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] затосковал по дому во время формировании золотого ядра.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] начал отходить к [obj_friend] во время формировании золотого ядра.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно заинтересовался [obj_nearthing] во время формировании золотого ядра.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] захотел съесть [obj_food] во время формировании золотого ядра.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг начал думать о своём [obj_relation] во время формировании золотого ядра.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] наполнило множество мыслей и чувств, пока он формировал золотое ядро.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно начал плакать пока формировал золотое ядро.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал удушье пока формировал золотое ядро.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] захотел посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] во время формировании золотого ядра.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. Во время формировании золотого ядра [name] думал, что такой образ жизни действительно прекрасен.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] думал не только о том, как хорошо быть культиватором, но и как им тяжело во время формировании золотого ядра.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] хотел спустится с горы и отправится в путешествие, пока формировал золотое ядро.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] находился под влиянием  [rand_lable=obj_badmood,obj_goodmood] во время формировании золотого ядра.</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не мог не беспокоиться об успешном прорыве [obj_neck] во время формировании золотого ядра.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] глубоко вздохнул, понимая, что [obj_gong] был основополагающим во время формировании золотого ядра.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не мог не задаться вопросом, а если [obj_gong] действительно полезно для тренировки формировании золотого ядра.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно засомневался [obj_esoterica] во время формировании золотого ядра. Не содержит ли это руководство ошибку?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не мог не вздохнуть с [obj_esoterica] во время формировании золотого ядра поскольку это руководство действительно фантастическое.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] очень хотел попробовать поуправлять [obj_fabao] во время формировании золотого ядра.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] неизвестно почему, захотел съесть a [obj_dan] во время формировании золотого ядра.</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] неизвестно почему, захотел ударить[obj_friend] во время формировании золотого ядра.</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вспомнил Комнату Практи в [obj_goodschool] во время формировании золотого ядра.</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно захотел сыграть с [obj_badschool] во время формировании золотого ядра.</Events.23.Story>
+		</Text>
+		<Text Name="Thundering">
+			<Events.0.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] затосковал по дому когда переживал Бедствие.</Events.0.Story>
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name]'s начал отходить к [obj_friend] когда переживал Бедствие.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно заинтересовался [obj_nearthing] когда переживал Бедствие.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] захотел съесть [obj_food] когда переживал Бедствие.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг начал думать о своём [obj_relation] когда переживал Бедствие.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] наполнило множество мыслей и чувств, пока он переживал Бедствие.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно начал плакать пока переживал Бедствие.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал удушье пока переживал Бедствие.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] хотел пойти к [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] посмотреть, когда переживал Бедствие.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] думал, что такой образ жизни действительно прекрасен когда переживал Бедствие.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] думал не только о том, как хорошо быть культиватором, но и как им тяжело, когда переживал Бедствие.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] хотел спустится с горы и отправится в путешествие, пока переживал Бедствие.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] находился под влиянием  [rand_lable=obj_badmood,obj_goodmood] когда переживал Бедствие.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не мог не беспокоиться об успешном Прорыве [obj_neck], когда переживал Бедствие.</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] глубоко вздохнул, понимая, что [obj_gong] был основополагающим когда переживал Бедствие.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не мог не задаться вопросом, а если [obj_gong] действительно был полезен для него, когда переживал Бедствие.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно засомневался в [obj_esoterica] когда переживал Бедствие, не содержит ли это руководство ошибку?</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не мог не вздохнуть с [obj_esoterica] когда переживал Бедствие, поскольку это руководство действительно фантастическое.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] очень хотел попробовать поуправлять [obj_fabao] когда переживал Бедствие.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] неизвестно почему, захотел съесть a [obj_dan] когда переживал Бедствие.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] неизвестно почему, захотел ударить [obj_friend] когда переживал Бедствие.</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вспомнил Комнату Практи в [obj_goodschool] когда переживал Бедствие.</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно захотел сыграть с [obj_badschool] когда переживал Бедствие.</Events.22.Story>
+		</Text>
+		<Text Name="RefiningDan">
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] затосковал по дому пока создавал [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] начал отходить к [obj_friend] пока создавал [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно заинтересовался [obj_nearthing] пока создавал [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно захотел съесть [obj_food] пока создавал [obj].</Events.5.Story>
+			<Events.6.Story>[obj], [rand_lable=desc_time,desc_place,desc_weather] вдруг начал думать о своём [obj_relation], пока создавал [obj].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] наполнило множество мыслей и чувств пока создавал [obj].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно начал плакать пока создавал [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал удушье пока создавал [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] пока создавал [obj].</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] думал, что такой образ жизни действительно прекрасен, пока создавал [obj].</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] думал не только о том, как хорошо быть культиватором, но и как им тяжело, пока создавал [obj].</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] хотел спустится с горы и отправится в путешествие, пока создавал [obj].</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] находился под влиянием  [rand_lable=obj_badmood,obj_goodmood] пока создавал [obj].</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не мог не беспокоиться об успешном прорыве [obj] пока создавал [obj].</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] глубоко вздохнул, понимая, что [obj_gong] основополагающим пока создавал [obj].</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не мог не удивится, что [obj_gong] действительно был полезен для него, пока создавал [obj].</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно засомневался в [obj_esoterica] пока создавал [obj], не содержит ли это руководство ошибку?</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не мог не удивляться[obj_esoterica] пока создавал [obj], поскольку это руководство действительно фантастическое.</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] очень хотел попробовать поуправлять [obj_fabao] пока создавал [obj].</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] неизвестно почему, захотел съесть a [obj_dan] пока создавал [obj].</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] неизвестно почему, захотел ударить [obj_friend] пока создавал [obj].</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вспомнил Комнату Практи в [obj_goodschool] пока создавал [obj].</Events.23.Story>
+			<Events.24.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно захотел сыграть с [obj_badschool] пока создавал [obj].</Events.24.Story>
+		</Text>
+		<Text Name="RefiningDanFailed">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока создавал [obj], [name] потерял самообладание из-за [rand_lable=obj_badmood,obj_goodmood], совершил ошибку, о которой сожалел.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока создавал [obj], [name] скучая по дому и чувствуя себя напряжённо, совершил ошибку, о которой сожалел.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока создавал [obj], [name] отвлёкся на [obj_nearthing] поблизости, и оступился.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather] [name],пока создавал [obj], [name] захотел съесть [obj_food], потерял контроль, совершил ошибку, о которой сожалел.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока создавал [obj], [name] вспомнил о своём [obj_relation], дрогнул, совершил ошибку, о которой сожалел.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока создавал [obj], [name] потерял контроль, совершил ошибку, о которой сожалел.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не мог не беспокоиться об успешном прорыве [obj], не смог его достичь и сожалел об этом.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] засомневались в своих способностях пока создавал [obj], не удалось его отчистить и сожалел об этом</Events.8.Story>
+		</Text>
+		<Text Name="Refining">
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] затосковал по дому пока переплавлял [obj] в артефакт.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] начал отходить к [obj_friend] пока переплавлял [obj] в артефакт.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно заинтересовался [obj_nearthing] пока переплавлял [obj] в артефакт.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] захотел съесть [obj_food] пока переплавлял [obj] в артефакт.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг начал думать о своём [obj_relation] пока переплавлял [obj] в артефакт.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] наполнило множество мыслей и чувств пока переплавлял [obj] в артефакт.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] начал плакать пока переплавлял [obj] в артефакт.</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал удушье пока перековывал [obj] в артефакт.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] пока переплавлял [obj] в артефакт.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] думал, что такой образ жизни действительно прекрасен пока переплавлял [obj] в артефакт.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] думал не только о том, как хорошо быть культиватором, но и как им тяжело, пока переплавлял [obj] в артефакт.</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] хотел спуститься с горы и отправится в  приключение, пока переплавлял [obj] в артефакт.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] находился под влиянием  [rand_lable=obj_badmood,obj_goodmood] пока переплавлял [obj] в артефакт.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не мог не беспокоиться об успешном прорыве [obj] пока переплавлял [obj] в артефакт.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] глубоко вздохнул, понимая, что [obj_gong] был основополагающим, пока переплавлял [obj] в артефакт.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не мог не удивится, что [obj_gong] действительно был полезен для него, пока переплавлял [obj] в артефакт.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно засомневался в [obj_esoterica] пока переплавлял [obj] в артефакт, не содержит ли это руководство ошибку?</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не мог не удивляться от [obj_esoterica] пока переплавлял [obj] в артефакт, поскольку это руководство действительно фантастическое.</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] очень хотел попробовать поуправлять [obj_fabao] пока переплавлял [obj] в артефакт.</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] неизвестно почему, захотел съесть a [obj_dan] пока переплавлял [obj] в артефакт.</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] неизвестно почему, захотел ударить [obj_friend] пока переплавлял [obj] в артефакт.</Events.23.Story>
+			<Events.24.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вспомнил Комнату Практи в [obj_goodschool] пока переплавлял [obj] в артефакт.</Events.24.Story>
+			<Events.25.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно захотел сыграть с [obj_badschool], пока переплавлял [obj] в артефакт.</Events.25.Story>
+		</Text>
+		<Text Name="RefiningFailed">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока переплавлял [obj] в артефакт, [name] потерял самообладание из-за [rand_lable=obj_badmood,obj_goodmood], совершил ошибку, о которой сожалел.</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока переплавлял [obj] в артефакт, [name] скучая по дому и чувствуя себя напряжённо, совершил ошибку, о которой сожалел.</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока переплавлял [obj] в артефакт, [name] отвлёкся на [obj_nearthing] поблизости, и оступился.</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока переплавлял [obj] в артефакт, [name] захотел съесть [obj_food], потерял контроль, совершил ошибку, о которой сожалел.</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока переплавлял [obj] в артефакт, [name] вспомнил о своём [obj_relation], дрогнул, совершил ошибку, о которой сожалел.</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока переплавлял [obj] в артефакт, [name] потерял контроль, совершил ошибку, о которой сожалел.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не мог не беспокоиться о совершении прорыва, пока переплавлял [obj] в артефакт, провалился и сожалел об этом.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] засомневался в своих способностях пока переплавлял [obj] в артефакт, провалился и сожалел об этом.</Events.8.Story>
+		</Text>
+		<Text Name="PaintCharm">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] затосковал по дому пока рисовал [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] начал отходить к [obj_friend] пока рисовал [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно заинтересовался [obj_nearthing] пока рисовал [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно захотел съесть [obj_food], пока рисовал [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно начал думать о [ITS] своём [obj_relation], пока рисовал [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Много мыслей и чувств начало заполнять разум, пока рисовал [obj].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно начал плакать, пока рисовал [obj].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал удушье, пока рисовал [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно внезапно почувствовал желание посетить, пока рисовал [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] был увлечён рисованием, он думал, что такой образ жизни действительно прекрасен.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] был увлечён рисованием, он думал не только о том, как хорошо быть культиватором, но и как им тяжело.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] был увлечён рисованием, он хотел спуститься с горы и отправится в  приключение.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] был увлечён рисованием, он находился под влиянием [rand_lable=obj_badmood,obj_goodmood].</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] был увлечён рисованием, он не мог не беспокоиться об успешном прорыве [obj].</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] был увлечён рисованием, он глубоко вздохнул, понимая, что [obj_gong] был основополагающим.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] был увлечён рисованием, он не мог не удивится, что [obj_gong] действительно был полезен для него.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] был увлечён рисованием, он внезапно засомневался [obj_esoterica], не содержит ли это руководство ошибку?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] был увлечён рисованием, он не мог не вздохнуть с [obj_esoterica] поскольку это руководство действительно фантастическое.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] был увлечён рисованием, он очень хотел попробовать поуправлять [obj_fabao].</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] был увлечён рисованием, он неизвестно почему, захотел съесть a [obj_dan].</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] был увлечён рисованием, он неизвестно почему, захотел ударить [obj_friend].</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] был увлечён рисованием, он вспомнил Комнату Практи в [obj_goodschool].</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] был увлечён рисованием, он внезапно захотел посоревноваться с [obj_badschool].</Events.23.Story>
+		</Text>
+		<Text Name="CastMagic">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] затосковал по дому во время применения [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] начал отходить к [obj_friend], во время применения [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно заинтересовался [obj_nearthing]  во время применения [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно захотел съесть [obj_food] во время применения [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. Внезапно начал думать о своём [obj_relation] во время применения [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] наполнило множество мыслей и чувств, пока он применял [obj].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно начал плакать пока применял [obj].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал удушье пока применял [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] во время применения [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. Во время применения [obj], [name] думал, что такой образ жизни действительно прекрасен.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. Во время применения [obj], [name] думал не только о том, как хорошо быть культиватором, но и как им тяжело.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. Во время применения [obj], [name] хотел спуститься с горы и отправится в  приключение.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] был занят использованием [obj], он находился под влиянием [rand_lable=obj_badmood,obj_goodmood].</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] был занят использованием [obj], он не мог не беспокоиться об успешном прорыве [obj_neck].</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. Во время применения [obj], [name] глубоко вздохнул, понимая, что [obj_gong] был основополагающим.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] был занят использованием [obj], он не мог не удивится, что [obj_gong] действительно был полезен для него.</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] был занят использованием [obj], он внезапно засомневался [obj_esoterica], не содержит ли это руководство ошибку?</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] был занят использованием [obj], он не мог не вздохнуть с [obj_esoterica] поскольку это руководство действительно фантастическое.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. Во время применения [obj], [name] очень хотел попробовать поуправлять [obj_fabao].</Events.19.Story>
+			<Events.20.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] был занят использованием [obj], он неизвестно почему, захотел съесть a [obj_dan].</Events.20.Story>
+			<Events.21.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] был занят использованием [obj], он неизвестно почему, захотел ударить [obj_friend].</Events.21.Story>
+			<Events.22.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вспомнил Комнату Практи в [obj_goodschool] Во время применения [obj].</Events.22.Story>
+			<Events.23.Story>[rand_lable=desc_time,desc_place,desc_weather]. Пока [name] был занят использованием [obj], он внезапно захотел устроить матч с [obj_badschool].</Events.23.Story>
+		</Text>
+	</List>
+</Texts>

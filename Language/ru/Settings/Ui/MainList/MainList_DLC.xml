@@ -1,0 +1,30 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="BambooBed">
+			<Type>Жизнь</Type>
+		</Text>
+		<Text Name="BambooLight">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="Building_BambooScreen1">
+			<Type>Декорации</Type>
+			<Label>Мебель</Label>
+		</Text>
+		<Text Name="Building_BambooScreen2">
+			<Type>Декорации</Type>
+			<Label>Мебель</Label>
+		</Text>
+		<Text Name="Building_WaterWheel">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="Building_BambooPavilion">
+			<Type>Декорации</Type>
+			<Label>Ландшафт</Label>
+		</Text>
+		<Text Name="LsPanda_Carve">
+			<Type>Питомец</Type>
+		</Text>
+	</List>
+</Texts>

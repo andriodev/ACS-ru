@@ -1,0 +1,155 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="LsXuanWu_Carve">
+			<Type>Питомец</Type>
+		</Text>
+		<Text Name="RedWallDownLeft">
+			<Type>Структуры</Type>
+			<Label>Модульные</Label>
+		</Text>
+		<Text Name="RedWallUpLeft">
+			<Type>Структуры</Type>
+			<Label>Модульные</Label>
+		</Text>
+		<Text Name="RedWallMidUp">
+			<Type>Структуры</Type>
+			<Label>Модульные</Label>
+		</Text>
+		<Text Name="RedWallMidRight">
+			<Type>Структуры</Type>
+			<Label>Модульные</Label>
+		</Text>
+		<Text Name="RedWallVertical">
+			<Type>Структуры</Type>
+			<Label>Модульные</Label>
+		</Text>
+		<Text Name="RedWallVerticalHalf">
+			<Type>Структуры</Type>
+			<Label>Модульные</Label>
+		</Text>
+		<Text Name="RedWallHorizontal">
+			<Type>Структуры</Type>
+			<Label>Модульные</Label>
+		</Text>
+		<Text Name="RedWallDownLeftTiny">
+			<Type>Структуры</Type>
+			<Label>Модульные</Label>
+		</Text>
+		<Text Name="RedWallUpLeftTiny">
+			<Type>Структуры</Type>
+			<Label>Модульные</Label>
+		</Text>
+		<Text Name="RedWallDownLeftS">
+			<Type>Структуры</Type>
+			<Label>Модульные</Label>
+		</Text>
+		<Text Name="RedWallUpLeftS">
+			<Type>Структуры</Type>
+			<Label>Модульные</Label>
+		</Text>
+		<Text Name="RedWallMidUpS">
+			<Type>Структуры</Type>
+			<Label>Модульные</Label>
+		</Text>
+		<Text Name="RedWallMidRightS">
+			<Type>Структуры</Type>
+			<Label>Модульные</Label>
+		</Text>
+		<Text Name="RedWallVerticalS">
+			<Type>Структуры</Type>
+			<Label>Модульные</Label>
+		</Text>
+		<Text Name="RedWallVerticalHalfS">
+			<Type>Структуры</Type>
+			<Label>Модульные</Label>
+		</Text>
+		<Text Name="RedWallHorizontalS">
+			<Type>Структуры</Type>
+			<Label>Модульные</Label>
+		</Text>
+		<Text Name="RedWallDownLeftTinyS">
+			<Type>Структуры</Type>
+			<Label>Модульные</Label>
+		</Text>
+		<Text Name="RedWallUpLeftTinyS">
+			<Type>Структуры</Type>
+			<Label>Модульные</Label>
+		</Text>
+		<Text Name="ZhenWuCarve">
+			<Type>Декорации</Type>
+			<Label>Статуя</Label>
+		</Text>
+		<Text Name="TurTleMonu">
+			<Type>Декорации</Type>
+			<Label>Статуя</Label>
+		</Text>
+		<Text Name="IncenseTripod">
+			<Type>Декорации</Type>
+			<Label>Мебель</Label>
+		</Text>
+		<Text Name="RedWallGate">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="RedWallDrum">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="WuDangBigGate">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="WuDangScreen">
+			<Type>Декорации</Type>
+			<Label>Мебель</Label>
+		</Text>
+		<Text Name="WuDangFlag">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="WuDangXiangLu">
+			<Type>Декорации</Type>
+			<Label>Мебель</Label>
+		</Text>
+		<Text Name="WuDangPuTuan">
+			<Type>Секта</Type>
+		</Text>
+		<Text Name="WuDangXianHeDeng">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="WuDangDivine">
+			<Type>Декорации</Type>
+			<Label>Пейзаж</Label>
+		</Text>
+		<Text Name="WuDangXuanWuDeng">
+			<Type>Декорации</Type>
+			<Label>Свет</Label>
+		</Text>
+		<Text Name="WuDangJinDian">
+			<Type>Чудеса</Type>
+		</Text>
+		<Text Name="Building_ChaShu1">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_ChaShu2">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_WuDangSong1">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_WuDangSong2">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_WuDangSong3">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+		<Text Name="Building_WuDangSong4">
+			<Type>Декорации</Type>
+			<Label>Необычное</Label>
+		</Text>
+	</List>
+</Texts>

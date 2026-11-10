@@ -1,0 +1,32 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="GodPractice_GodPowerEffect">
+			<DisplayName>Божественность</DisplayName>
+			<Desc>По мере увеличения Божественности, персонаж усилит и  контроль над божественной силой. Персонаж станет могущественнее, но множитель Настроения так же увеличится.</Desc>
+		</Text>
+		<Text Name="GodPractice_GodPowerEffect_A">
+			<DisplayName>Божественность</DisplayName>
+			<Desc>Фактические эффекты для значения Божественности от 0 до 30.</Desc>
+		</Text>
+		<Text Name="GodPractice_GodPowerEffect_B">
+			<DisplayName>Божественность</DisplayName>
+			<Desc>Фактические эффекты для значения Божественности 30-100.</Desc>
+		</Text>
+		<Text Name="GodPractice_Xinzhai">
+			<DisplayName>Пост Души</DisplayName>
+			<Desc>Голодание Души снизит влияние эмоций на настроение. Чем дольше продлится Пост Души, тем дольше продлится эффект от него. Настроение не изменится в процессе Поста.</Desc>
+		</Text>
+		<Text Name="GodPractice_GodLike">
+			<DisplayName>Обожествление</DisplayName>
+			<Desc>Поднимите Божественность до 99,99% на 300 секунд и навсегда получите 1% Божественности после окончания.</Desc>
+		</Text>
+		<Text Name="Modifier_Sys_XinYang_KeJi">
+			<DisplayName>Сдержанность</DisplayName>
+			<DisplayName>Практика Веры - Сдержанность</DisplayName>
+		</Text>
+		<Text Name="Modifier_Sys_XinYang_ZongYu">
+			<DisplayName>Потворство</DisplayName>
+			<DisplayName>Практика Веры - Потворство</DisplayName>
+		</Text>
+	</List>
+</Texts>

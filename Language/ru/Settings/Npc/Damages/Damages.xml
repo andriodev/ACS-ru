@@ -1,0 +1,214 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Shit">
+			<DisplayName>Зловоние</DisplayName>
+		</Text>
+		<Text Name="BurnScar">
+			<DisplayName>Шрам от ожога</DisplayName>
+		</Text>
+		<Text Name="Scar">
+			<DisplayName>Шрам</DisplayName>
+		</Text>
+		<Text Name="Osteodynia">
+			<DisplayName>Боль в костях</DisplayName>
+		</Text>
+		<Text Name="DeformedSkeleton">
+			<DisplayName>Изуродованные Кости</DisplayName>
+		</Text>
+		<Text Name="ViscusInjury">
+			<DisplayName>Внутреннее повреждение</DisplayName>
+		</Text>
+		<Text Name="Deaf">
+			<DisplayName>Глухота</DisplayName>
+		</Text>
+		<Text Name="MeridianBlocking">
+			<DisplayName>Заблокированные меридианы</DisplayName>
+		</Text>
+		<Text Name="Palpitation">
+			<DisplayName>Сердце Трепещет</DisplayName>
+		</Text>
+		<Text Name="Poisoning1">
+			<DisplayName>Отравленние - лёгкое</DisplayName>
+		</Text>
+		<Text Name="Poisoning2">
+			<DisplayName>Отравленние - среднее</DisplayName>
+		</Text>
+		<Text Name="Poisoning3">
+			<DisplayName>Отравленние - серьёзное</DisplayName>
+		</Text>
+		<Text Name="BloodFreezing1">
+			<DisplayName>Недуг Густой Крови - лёгкий</DisplayName>
+		</Text>
+		<Text Name="BloodFreezing2">
+			<DisplayName>Недуг Густой Крови - серьёзный</DisplayName>
+		</Text>
+		<Text Name="Cold1">
+			<DisplayName>Простуда - лёгкая</DisplayName>
+		</Text>
+		<Text Name="Cold2">
+			<DisplayName>Простуда - серьёзная</DisplayName>
+		</Text>
+		<Text Name="Fracture1">
+			<DisplayName>Трещина</DisplayName>
+		</Text>
+		<Text Name="Fracture2">
+			<DisplayName>Перелом</DisplayName>
+		</Text>
+		<Text Name="Fracture3">
+			<DisplayName>Множественный перелом</DisplayName>
+		</Text>
+		<Text Name="Fracture4">
+			<DisplayName>Раздроблено</DisplayName>
+		</Text>
+		<Text Name="Fabao_CutOff">
+			<DisplayName>Отрезано</DisplayName>
+		</Text>
+		<Text Name="FightSkill_Disintegrate">
+			<DisplayName>Развеяно</DisplayName>
+		</Text>
+		<Text Name="Corrosion">
+			<DisplayName>Разъето</DisplayName>
+		</Text>
+		<Text Name="ForgLick">
+			<DisplayName>Облизано</DisplayName>
+		</Text>
+		<Text Name="Boil">
+			<DisplayName>Нарыв</DisplayName>
+		</Text>
+		<Text Name="Toothache">
+			<DisplayName>Зубная боль</DisplayName>
+		</Text>
+		<Text Name="Faint">
+			<DisplayName>Обморок</DisplayName>
+		</Text>
+		<Text Name="Hemorrhoids">
+			<DisplayName>Геморрой</DisplayName>
+		</Text>
+		<Text Name="HemorrhoidsEX">
+			<DisplayName>Хронический геморрой</DisplayName>
+		</Text>
+		<Text Name="Frostbite1">
+			<DisplayName>Обморожение - лёгкое</DisplayName>
+		</Text>
+		<Text Name="Frostbite2">
+			<DisplayName>Обморожение - среднее</DisplayName>
+		</Text>
+		<Text Name="Frostbite3">
+			<DisplayName>Обморожение - серьёзное</DisplayName>
+		</Text>
+		<Text Name="Scald1">
+			<DisplayName>Ожог - лёгкий</DisplayName>
+		</Text>
+		<Text Name="Scald2">
+			<DisplayName>Ожог - средний</DisplayName>
+		</Text>
+		<Text Name="Scald3">
+			<DisplayName>Ожог - серьёзный</DisplayName>
+		</Text>
+		<Text Name="Bruise1">
+			<DisplayName>Синяк - лёгкий</DisplayName>
+		</Text>
+		<Text Name="Bruise2">
+			<DisplayName>Синяк - средний</DisplayName>
+		</Text>
+		<Text Name="Bruise3">
+			<DisplayName>Синяк - серьёзный</DisplayName>
+		</Text>
+		<Text Name="Infection">
+			<DisplayName>Инфекция</DisplayName>
+		</Text>
+		<Text Name="Cut1">
+			<DisplayName>Порез - лёгкий</DisplayName>
+		</Text>
+		<Text Name="Cut2">
+			<DisplayName>Порез - средний</DisplayName>
+		</Text>
+		<Text Name="Cut3">
+			<DisplayName>Порез - серьёзный</DisplayName>
+		</Text>
+		<Text Name="Puncture">
+			<DisplayName>Проколото</DisplayName>
+		</Text>
+		<Text Name="Fabao_Tear">
+			<DisplayName>Разорвано</DisplayName>
+		</Text>
+		<Text Name="FightSkill_Evaporate">
+			<DisplayName>Испарено</DisplayName>
+		</Text>
+		<Text Name="Deterioration">
+			<DisplayName>Ухудшается</DisplayName>
+		</Text>
+		<Text Name="VisceralRupture">
+			<DisplayName>Внутренний разрыв</DisplayName>
+		</Text>
+		<Text Name="VisceralCut">
+			<DisplayName>Внутренний разрез</DisplayName>
+		</Text>
+		<Text Name="Destroy">
+			<DisplayName>Уничтожено</DisplayName>
+		</Text>
+		<Text Name="Wound">
+			<DisplayName>Рана</DisplayName>
+		</Text>
+		<Text Name="FrostbiteInside">
+			<DisplayName>Переохлаждение</DisplayName>
+		</Text>
+		<Text Name="SnakeVenom">
+			<DisplayName>Змеиный Яд</DisplayName>
+		</Text>
+		<Text Name="DiseaseBreath">
+			<DisplayName>Дыхание Поветрия</DisplayName>
+		</Text>
+		<Text Name="HolyJudgement">
+			<DisplayName>Вторжение Духовной Силы</DisplayName>
+		</Text>
+		<Text Name="FirebiteInside">
+			<DisplayName>Тепловой удар</DisplayName>
+		</Text>
+		<Text Name="FoodDamage">
+			<DisplayName>Голодание</DisplayName>
+		</Text>
+		<Text Name="WaterDamage">
+			<DisplayName>Обезвоживание</DisplayName>
+		</Text>
+		<Text Name="GuanyinDamage">
+			<DisplayName>Поедание земли</DisplayName>
+		</Text>
+		<Text Name="AbdominalDistention">
+			<DisplayName>Вздутие живота</DisplayName>
+		</Text>
+		<Text Name="AbdominalPain">
+			<DisplayName>Боль в животе</DisplayName>
+		</Text>
+		<Text Name="SysTooTired">
+			<DisplayName>Изнурённый</DisplayName>
+		</Text>
+		<Text Name="DevilBlood_LianHun">
+			<DisplayName>Агония Души</DisplayName>
+		</Text>
+		<Text Name="Anaesthesia">
+			<DisplayName>Анестезия</DisplayName>
+		</Text>
+		<Text Name="TEST_FULL">
+			<DisplayName>Тестовое повреждение</DisplayName>
+		</Text>
+		<Text Name="Puppet_Abrasion">
+			<DisplayName>Износ</DisplayName>
+		</Text>
+		<Text Name="SYS_LOST">
+			<DisplayName>Неизвестное повреждение</DisplayName>
+		</Text>
+		<Text Name="BloodFeed">
+			<DisplayName>Сущность Крови</DisplayName>
+		</Text>
+		<Text Name="LsBiteLighty">
+			<DisplayName>Лёгкий укус</DisplayName>
+		</Text>
+		<Text Name="LsBite">
+			<DisplayName>Сильный укус</DisplayName>
+		</Text>
+		<Text Name="Pollinosis">
+			<DisplayName>Аллергия на пыльцу</DisplayName>
+		</Text>
+	</List>
+</Texts>

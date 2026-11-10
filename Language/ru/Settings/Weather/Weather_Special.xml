@@ -1,0 +1,115 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="LingUpWave_Sp">
+			<DisplayName>Прилив Ци</DisplayName>
+			<StoryDesc>Силы ци поднимаются и распространяются по всей земле.</StoryDesc>
+		</Text>
+		<Text Name="FireRain">
+			<DisplayName>Умеренный дождь</DisplayName>
+		</Text>
+		<Text Name="Rainstorm_Teach">
+			<DisplayName>Ливень</DisplayName>
+			<StoryDesc>Ливень сеет хаос.</StoryDesc>
+		</Text>
+		<Text Name="Rainstorm_Teach2">
+			<DisplayName>Ливень</DisplayName>
+			<StoryDesc>Ливень сеет хаос.</StoryDesc>
+		</Text>
+		<Text Name="LightningStorm_Hack">
+			<DisplayName>Гроза</DisplayName>
+			<StoryDesc>Из-за вмешательства какой-то неизвестной силы из ниоткуда возникла гроза.</StoryDesc>
+		</Text>
+		<Text Name="Rainstorm_AllSeason">
+			<DisplayName>Ливень</DisplayName>
+			<StoryDesc>Ливень сеет хаос.</StoryDesc>
+		</Text>
+		<Text Name="Fohn_AllSeason">
+			<DisplayName>Потоки ветра</DisplayName>
+			<StoryDesc>Дует теплый сухой ветер.</StoryDesc>
+		</Text>
+		<Text Name="DustStorm_AllSeason">
+			<DisplayName>Песчаная буря</DisplayName>
+			<StoryDesc>Небо тускнеет, пыль и песок наполняют воздух.</StoryDesc>
+		</Text>
+		<Text Name="Miasma_AllSeason">
+			<DisplayName>Ядовитый воздух</DisplayName>
+			<StoryDesc>Распространяется зловонная атмосфера.</StoryDesc>
+		</Text>
+		<Text Name="LightningStorm_AllSeason">
+			<DisplayName>Гроза</DisplayName>
+			<StoryDesc>Грохочущий гром катится по земле, как молния танцует между облаками.</StoryDesc>
+		</Text>
+		<Text Name="JinLingMiMan">
+			<DisplayName>Волнение Ци металла</DisplayName>
+			<StoryDesc>Металлический элемент Ци пронизывает воздух.</StoryDesc>
+		</Text>
+		<Text Name="MuLingMiMan">
+			<DisplayName>Волнение Ци дерева</DisplayName>
+			<StoryDesc>Элемент Дерева Ци пронизывает воздух.</StoryDesc>
+		</Text>
+		<Text Name="ShuiLingMiMan">
+			<DisplayName>Волнение Ци воды</DisplayName>
+			<StoryDesc>Ци элемента воды пронизывает воздух.</StoryDesc>
+		</Text>
+		<Text Name="HuoLingMiMan">
+			<DisplayName>Волнение Ци огня</DisplayName>
+			<StoryDesc>Элемент Огня Ци пронизывает воздух.</StoryDesc>
+		</Text>
+		<Text Name="TuLingMiMan">
+			<DisplayName>Волнение Ци земли</DisplayName>
+			<StoryDesc>Ци элемента земли наполняет воздух.</StoryDesc>
+		</Text>
+		<Text Name="LingUpWave_Big">
+			<DisplayName>Ци прилив</DisplayName>
+			<StoryDesc>Ци наполняет воздух вокруг.</StoryDesc>
+		</Text>
+		<Text Name="LingRarefiedWave_Big">
+			<DisplayName>Дефицит ци</DisplayName>
+			<StoryDesc>Острая нехватка ци.</StoryDesc>
+		</Text>
+		<Text Name="Weather_Boss_Drought">
+			<DisplayName>Экстремальная жара</DisplayName>
+			<StoryDesc>Необычно высокие температуры.</StoryDesc>
+		</Text>
+		<Text Name="Weather_Boss_HighTemp">
+			<DisplayName>Продолжительная засуха</DisplayName>
+			<StoryDesc>Эта засуха только усугубляется.</StoryDesc>
+		</Text>
+		<Text Name="DimCave">
+			<DisplayName>Пещера</DisplayName>
+			<StoryDesc>Это темная пещера.</StoryDesc>
+		</Text>
+		<Text Name="ForestRain">
+			<DisplayName>Дождь</DisplayName>
+			<StoryDesc>В тропическом лесу идет дождь.</StoryDesc>
+		</Text>
+		<Text Name="LightSnow_Fov">
+			<DisplayName>Легкий снег</DisplayName>
+			<StoryDesc>Легкий снег висит в воздухе и осыпает землю мерцающим блеском</StoryDesc>
+		</Text>
+		<Text Name="SunSet">
+			<DisplayName>Закатное сияние</DisplayName>
+			<StoryDesc>Закатное сияние</StoryDesc>
+		</Text>
+		<Text Name="DustPlace">
+			<DisplayName>Песчаная буря</DisplayName>
+			<StoryDesc>Небо тускнеет, пыль и песок наполняют воздух.</StoryDesc>
+		</Text>
+		<Text Name="EverSnow">
+			<DisplayName>Слабый снег</DisplayName>
+			<StoryDesc>Легкий снег висит в воздухе и осыпает землю мерцающим светом.</StoryDesc>
+		</Text>
+		<Text Name="Weather_Magic_ZhenShuiJieJie">
+			<DisplayName>Ци Аквасфера</DisplayName>
+			<StoryDesc>Внутри аквасферы ци есть область.</StoryDesc>
+		</Text>
+		<Text Name="Weather_Magic_BeiDouJianJie">
+			<DisplayName>Зона клинков Великой колесницы</DisplayName>
+			<StoryDesc>Есть область в зоне великих колесниц.</StoryDesc>
+		</Text>
+		<Text Name="Weather_Magic_ZhenHuoJieJie">
+			<DisplayName>Ци Игносфера</DisplayName>
+			<StoryDesc>Внутри игносферы ци есть область.</StoryDesc>
+		</Text>
+	</List>
+</Texts>

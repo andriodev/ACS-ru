@@ -1,0 +1,94 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="FengShuiItem_YinZhang1" sParam="Item">
+      <ThingName>Печать Морали</ThingName>
+      <Desc>Одна из трех печатей ясности, это высшее сокровище, переданное с тридцати трех небесных уровней. Может быть использован для усиления Фэн-Шуй.</Desc>
+      <Item.FabaoSuffix>Печать</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_YinZhang2" sParam="Item">
+      <ThingName>Первобытная Печать</ThingName>
+      <Desc>Одна из трех печатей ясности, это высшее сокровище, переданное с тридцати трех небесных уровней. Может быть использован для усиления Фэн-Шуй.</Desc>
+      <Item.FabaoSuffix>Печать</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_YinZhang3" sParam="Item">
+      <ThingName>Мистическая Печать</ThingName>
+      <Desc>Одна из трех печатей ясности, это высшее сокровище, переданное с тридцати трех небесных уровней. Может быть использован для усиления Фэн-Шуй.</Desc>
+      <Item.FabaoSuffix>Печать</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_Ta1" sParam="Item">
+      <ThingName>Небесная Пагода</ThingName>
+      <Desc>Драгоценная реликвия, переданная из древнего ордена постижения, ее божественный свет яркий и ясный. Может быть использован для усиления Фэн-Шуй.</Desc>
+      <Item.FabaoSuffix>Пагода</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_Ta2" sParam="Item">
+      <ThingName>Пагода Духов</ThingName>
+      <Desc>Золотая пагода, вырезанная из десятитысячелетнего Кристалла Духа, обладает интенсивной силой Ци. Может быть использован для усиления Фэн-Шуй.</Desc>
+      <Item.FabaoSuffix>Пагода</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_Ping1" sParam="Item">
+      <ThingName>Сосуд Инь</ThingName>
+      <Desc>Злой предмет неизвестного происхождения, откопанный откуда-то, может концентрировать негативную Ци Фэн-Шуй и обращать ее вспять. Очень зловеще.</Desc>
+      <Item.FabaoSuffix>Ваза</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_Ding1" sParam="Item">
+      <ThingName>Церемониальный Котел</ThingName>
+      <Desc>Драгоценный котел, используемый древними бессмертными в жертвенных церемониях неба и земли, как говорят, способен общаться с путями небес.</Desc>
+      <Item.FabaoSuffix>Котел</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_Bei1" sParam="Item">
+      <ThingName>Стела Духа</ThingName>
+      <Desc>Стела, сделанная Фу Пикуном, императором демонов. Лишенный какой-либо надписи, он может омолодить истинный дух человека и вызвать вдохновение.</Desc>
+      <Item.FabaoSuffix>Стела</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_ShiZi1" sParam="Item">
+      <ThingName>Нефритовый Лев</ThingName>
+      <Desc>Нефритовый Лев, вырезанный из драгоценного нефрита, закаленного громом, он способен рассеивать зло, очищать хаос и успокаивать ум.</Desc>
+      <Item.FabaoSuffix>Лев</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_ShiTou1" sParam="Item">
+      <ThingName>Гора Бучжоу Камень</ThingName>
+      <Desc>Камни с божественной силой из сердца горы Бучжоу. Богатое жизненной энергией, оно питает все живое.</Desc>
+      <Item.FabaoSuffix>Рок</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_TuHua1" sParam="Item">
+      <ThingName>Доска Инь Ян</ThingName>
+      <Desc>Написанный свиток, охватывающий путь превращений Инь-Ян между небом, землей и человеком, учит истине преобразования сущности.</Desc>
+      <Item.FabaoSuffix>Изображение</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_ShuJi1" sParam="Item">
+      <ThingName>Записи о бессмертных блюдах</ThingName>
+      <Desc>На нем нарисовано много неузнаваемых картин, которые, как говорят, являются рецептами небесного двора. Может быть использован для усиления Фэн-Шуй.</Desc>
+      <Item.FabaoSuffix>Книга, Том</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_QiJu1" sParam="Item">
+      <ThingName>Карта Божественных Знаков</ThingName>
+      <Desc>Шахматная схема, передаваемая с древних времен, как говорят, тайно охватывает эволюционные принципы пути развития. Изучение его заставляет людей благоговеть перед трудностями пути совершенствования и становиться все более преданными.</Desc>
+      <Item.FabaoSuffix>Диаграмма</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_FuZhou1" sParam="Item">
+      <ThingName>Талисман Чар</ThingName>
+      <Desc>Талисман из древнего ордена погонщика трупов. Его больше нельзя носить из-за густой Ци мертвых, которая накапливается на нем. Однако при правильном расположении его можно использовать для усиления Фэн-Шуй..</Desc>
+      <Item.FabaoSuffix>Талисман</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_Jian1" sParam="Item">
+      <ThingName>Мистический Меч</ThingName>
+      <Desc>Меч, который охватывает путь творения. Его нельзя использовать для убийства, а скорее для служения целям Фэн-Шуй.</Desc>
+      <Item.FabaoSuffix>Меч</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_HuLu1" sParam="Item">
+      <ThingName>Тыква Тушита</ThingName>
+      <Desc>Тыква, по слухам, использовалась для хранения лекарств во Дворце Тушита. Он каким-то образом появился в мире смертных по неизвестным причинам. Может быть использован для усиления Фэн-Шуй.</Desc>
+      <Item.FabaoSuffix>Тыква</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_BaoBei1" sParam="Item">
+      <ThingName>Драконий Жезл</ThingName>
+      <Desc>Фаллос древнего Красного Дракона, который, как говорят, был зачат силой истинного Ян между небом и землей. Хотя природа этого объекта довольно импульсивна, Ци истинного Ян, которая обитает в нем, может быть полезна при его культивировании.</Desc>
+      <Item.FabaoSuffix>Корень</Item.FabaoSuffix>
+    </Text>
+    <Text Name="FengShuiItem_SheLi1" sParam="Item">
+      <ThingName>Святая Благодать</ThingName>
+      <Desc>Величайшее сокровище древней традиции культивирования Шендао. Может быть использован для усиления Фэн-Шуй. Культивирование шендао восходит к древним временам. Но в более поздние века его преемники и сокровища почти вымерли. Возможно, раскопки этой реликвии что-то значат.</Desc>
+      <Item.FabaoSuffix>Шарира</Item.FabaoSuffix>
+    </Text>
+  </List>
+</Texts>

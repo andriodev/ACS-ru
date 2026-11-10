@@ -1,0 +1,28 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="BodyAnimal">
+      <IVNUMBER.0.Animal.DisplayName>Клетка Для Кролика</IVNUMBER.0.Animal.DisplayName>
+      <IVNUMBER.0.Animal.Tip>Внутри него кролик в состоянии пробуждения, у него есть некоторое понимание Закона физического развития.</IVNUMBER.0.Animal.Tip>
+      <IVNUMBER.1.Animal.DisplayName>Куриная Клетка</IVNUMBER.1.Animal.DisplayName>
+      <IVNUMBER.1.Animal.Tip>Внутри него находится цыпленок в состоянии пробуждения, у него есть некоторое понимание Закона физического развития.</IVNUMBER.1.Animal.Tip>
+      <IVNUMBER.2.Animal.DisplayName>Волчья Клетка</IVNUMBER.2.Animal.DisplayName>
+      <IVNUMBER.2.Animal.Tip>Внутри это волк в состоянии пробуждения, у него есть некоторые понимания в законе физического развития.</IVNUMBER.2.Animal.Tip>
+      <IVNUMBER.3.Animal.DisplayName>Змеиная Клетка</IVNUMBER.3.Animal.DisplayName>
+      <IVNUMBER.3.Animal.Tip>Внутри него находится змея в состоянии пробуждения, она имеет некоторое понимание Закона физического развития.</IVNUMBER.3.Animal.Tip>
+      <IVNUMBER.4.Animal.DisplayName>Клетка Для Кабана</IVNUMBER.4.Animal.DisplayName>
+      <IVNUMBER.4.Animal.Tip>Внутри это кабан в состоянии пробуждения, у него есть некоторые понимания в законе физического развития.</IVNUMBER.4.Animal.Tip>
+      <IVNUMBER.5.Animal.DisplayName>Медвежья Клетка</IVNUMBER.5.Animal.DisplayName>
+      <IVNUMBER.5.Animal.Tip>Внутри это медведь в состоянии пробуждения, у него есть некоторые понимания в законе физического развития.</IVNUMBER.5.Animal.Tip>
+      <IVNUMBER.6.Animal.DisplayName>Клетка Для Черепахи</IVNUMBER.6.Animal.DisplayName>
+      <IVNUMBER.6.Animal.Tip>Внутри него находится черепаха в состоянии пробуждения, у нее есть некоторое понимание Закона физического развития.</IVNUMBER.6.Animal.Tip>
+      <IVNUMBER.7.Animal.DisplayName>Клетка Лягушки</IVNUMBER.7.Animal.DisplayName>
+      <IVNUMBER.7.Animal.Tip>Внутри него находится лягушка в состоянии пробуждения, у нее есть некоторое понимание Закона физического развития.</IVNUMBER.7.Animal.Tip>
+      <IVNUMBER.8.Animal.DisplayName>Кошачья Клетка</IVNUMBER.8.Animal.DisplayName>
+      <IVNUMBER.8.Animal.Tip>Внутри это кошка в состоянии пробуждения, у нее есть некоторые понимания в законе физического развития.</IVNUMBER.8.Animal.Tip>
+      <IVNUMBER.9.Animal.DisplayName>Бычья Клетка</IVNUMBER.9.Animal.DisplayName>
+      <IVNUMBER.9.Animal.Tip>Внутри него находится бык в состоянии пробуждения, он имеет некоторое понимание Закона физического развития.</IVNUMBER.9.Animal.Tip>
+      <IVNUMBER.10.Animal.DisplayName>Тигриная Клетка</IVNUMBER.10.Animal.DisplayName>
+      <IVNUMBER.10.Animal.Tip>Внутри он-тигр в состоянии пробуждения, у него есть некоторое понимание Закона физического развития.</IVNUMBER.10.Animal.Tip>
+    </Text>
+  </List>
+</Texts>

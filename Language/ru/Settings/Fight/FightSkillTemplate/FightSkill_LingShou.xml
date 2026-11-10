@@ -1,0 +1,47 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="Ls_SheildSkill">
+      <DisplayName>Духовный Щит</DisplayName>
+    </Text>
+    <Text Name="Ls_TransferQi">
+      <DisplayName>Песнопение Преданности</DisplayName>
+    </Text>
+    <Text Name="Ls_FabaoSkill">
+      <DisplayName>Божественный Меч</DisplayName>
+    </Text>
+    <Text Name="Ls_FoxSkillAmp">
+      <DisplayName>Пылающий</DisplayName>
+    </Text>
+    <Text Name="Ls_SkillWater">
+      <DisplayName>Поток Грома</DisplayName>
+    </Text>
+    <Text Name="Ls_SkillWater5">
+      <DisplayName>Большой Поток Грома</DisplayName>
+    </Text>
+    <Text Name="Ls_Fanshi">
+      <DisplayName>Встречный Заряд</DisplayName>
+      <Desc>Нанести урон, соответствующий максимальной ци вражеского артефакта, а также на время отключить его способность использовать артефакт.</Desc>
+    </Text>
+    <Text Name="Ls_Penhuo">
+      <DisplayName>Извержение Пламени</DisplayName>
+    </Text>
+    <Text Name="Ls_Ci">
+      <DisplayName>Метамагнитный Луч</DisplayName>
+    </Text>
+    <Text Name="Ls_JinThunder">
+      <DisplayName>Божественная Стрела</DisplayName>
+    </Text>
+    <Text Name="Ls_AddModifier">
+      <DisplayName>Эгида</DisplayName>
+      <Desc>Значительно увеличивает силу дружественного барьера ци и стойкость его тайного тела.</Desc>
+    </Text>
+    <Text Name="Ls_Confuse">
+      <DisplayName>Смущать</DisplayName>
+      <Desc>Запутайте врага, чтобы он не мог атаковать или двигаться, но просыпался, если на него напали.</Desc>
+    </Text>
+    <Text Name="Ls_Rongduan">
+      <DisplayName>Плавка</DisplayName>
+      <Desc>Используйте силу Инферно, чтобы нанести распределяемый урон противнику, а также отключить его способность читать заклинания на некоторое время.</Desc>
+    </Text>
+  </List>
+</Texts>

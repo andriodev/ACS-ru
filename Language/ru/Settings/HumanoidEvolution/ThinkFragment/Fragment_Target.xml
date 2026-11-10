@@ -1,0 +1,174 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Star">
+			<DisplayName>Звезды</DisplayName>
+			<SingleFormat.0>Вспомнил яркие {0} в ночи.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил ясное {0} видение под каньоном.</SingleFormat.1>
+		</Text>
+		<Text Name="Cloud">
+			<DisplayName>Сокровища</DisplayName>
+			<SingleFormat.0>Вспомнил некоторые легко ломающиеся {0}.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил какой-то светящийся {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Sun">
+			<DisplayName>Солнце</DisplayName>
+			<SingleFormat.0>Вспомнил, как однажды {0} пылал.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил, что {0} слишком яркий, чтобы его видеть.</SingleFormat.1>
+		</Text>
+		<Text Name="Moon">
+			<DisplayName>Луна</DisplayName>
+			<SingleFormat.0>Вспомнил исключительно яркий {0}.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил одинокого {0}, наблюдающего за мной.</SingleFormat.1>
+		</Text>
+		<Text Name="Meteriod">
+			<DisplayName>Падающие Звезды</DisplayName>
+			<SingleFormat.0>Вспомнил, что видел не так уж много {0}.</SingleFormat.0>
+		</Text>
+		<Text Name="Jade">
+			<DisplayName>Драгоценные камни</DisplayName>
+			<SingleFormat.0>Вспомнил, что видел не так уж много {0}.</SingleFormat.0>
+		</Text>
+		<Text Name="Sculpture">
+			<DisplayName>Скульптуры</DisplayName>
+			<SingleFormat.0>Вспомнил, что некоторые {0} похожи на меня.</SingleFormat.0>
+		</Text>
+		<Text Name="Spring">
+			<DisplayName>Весна</DisplayName>
+			<SingleFormat.0>Ах, аромат {0}.</SingleFormat.0>
+			<SingleFormat.1>Дожди во время {0} навевали воспоминания.</SingleFormat.1>
+		</Text>
+		<Text Name="Summer">
+			<DisplayName>Лето</DisplayName>
+			<SingleFormat.0>Вспомнил палящий жар {0}.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил жужжание насекомых в {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Autumn">
+			<DisplayName>Осень</DisplayName>
+			<SingleFormat.0>Вспомнил падающие листья в {0}.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил кленовые листья в {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Winter">
+			<DisplayName>Зима</DisplayName>
+			<SingleFormat.0>Вспомнил леденящий холод {0}.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил ледяной ветер земли в {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Earth">
+			<DisplayName>Земля</DisplayName>
+			<SingleFormat.0>Вспомнил травы и цветы на {0}.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил, что {0} иногда трескается.</SingleFormat.1>
+		</Text>
+		<Text Name="Rain">
+			<DisplayName>Дождь</DisplayName>
+			<SingleFormat.0>Вспомнил, как смотрел {0} в дыру.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил темно-зеленые листья в {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Snow">
+			<DisplayName>Снег</DisplayName>
+			<SingleFormat.0>Вспомнил, каким мирным был {0}.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил {0} на соснах зимой.</SingleFormat.1>
+		</Text>
+		<Text Name="Lake">
+			<DisplayName>Озеро</DisplayName>
+			<SingleFormat.0>Вспомнил вкусную воду в большом {0}.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил рыбок в большом {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Wind">
+			<DisplayName>Ветер</DisplayName>
+			<SingleFormat.0>Вспомнил уютные ощущения от {0}.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил, каким сильным иногда может быть {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Thunder">
+			<DisplayName>Гром</DisplayName>
+			<SingleFormat.0>Вспомнил, как темно было, когда появился {0}.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил, как {0} может заставить людей бежать.</SingleFormat.1>
+		</Text>
+		<Text Name="Tree">
+			<DisplayName>Деревья</DisplayName>
+			<SingleFormat.0>Вспомнил {0}, полный птиц.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил, как собирал фрукты из {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Flower">
+			<DisplayName>Цветы</DisplayName>
+			<SingleFormat.0>Вспомнил все цвета, которые мог иметь {0}.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил, каким ароматным может быть {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Human">
+			<DisplayName>Мужчины</DisplayName>
+			<SingleFormat.0>Отозванный {0} мог сделать все, что угодно, если бы захотел.</SingleFormat.0>
+			<SingleFormat.1>Вспомнили, как {0} кормили бы друг друга.</SingleFormat.1>
+		</Text>
+		<Text Name="Self">
+			<DisplayName>Себя</DisplayName>
+			<SingleFormat.0>Вспомнил, что видел {0} в воде.</SingleFormat.0>
+		</Text>
+		<Text Name="Food">
+			<DisplayName>Еда</DisplayName>
+			<SingleFormat.0>Вспомнил мой любимый {0}.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил, как люди могли даже служить {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Barrier">
+			<DisplayName>Забор</DisplayName>
+			<SingleFormat.0>Вспомнил, как {0} действительно может встать на пути.</SingleFormat.0>
+		</Text>
+		<Text Name="Weed">
+			<DisplayName>Сорняки</DisplayName>
+			<SingleFormat.0>Вспомнил, как делал салат из всех видов {0}.</SingleFormat.0>
+		</Text>
+		<Text Name="Wall">
+			<DisplayName>Стена</DisplayName>
+			<SingleFormat.0>Вспомнил, как трудно может быть {0}.</SingleFormat.0>
+		</Text>
+		<Text Name="Coat">
+			<DisplayName>Одежда</DisplayName>
+			<SingleFormat.0>Вспомнил некоторые {0} сделанные с использованием шкур животных.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил, какими безвкусными могут быть некоторые {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Pants">
+			<DisplayName>Штаны</DisplayName>
+			<SingleFormat.0>Вспомнил некоторые {0} сделанные с использованием шкур животных.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил, какими безвкусными могут быть некоторые {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Fellows">
+			<DisplayName>Товарищи</DisplayName>
+			<SingleFormat.0>Вспомнил так много моих мертвых {0}.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил все времена с {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Mines">
+			<DisplayName>Руда</DisplayName>
+			<SingleFormat.0>Вспомнил, как некоторые {0} будут светиться.</SingleFormat.0>
+			<SingleFormat.1>Вспомнились странные запахи каких-то {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Weapon">
+			<DisplayName>Оружие</DisplayName>
+			<SingleFormat.0>Вспомнил {0} моих товарищей убитых.</SingleFormat.0>
+		</Text>
+		<Text Name="Nature">
+			<DisplayName>Ци бытия</DisplayName>
+			<SingleFormat.0>Вспомнил {0} среди Вселенной.</SingleFormat.0>
+		</Text>
+		<Text Name="Fog">
+			<DisplayName>Туман</DisplayName>
+			<SingleFormat.0>Вспомнил, каким тусклым он может быть в {0}.</SingleFormat.0>
+		</Text>
+		<Text Name="House">
+			<DisplayName>Двери</DisplayName>
+			<SingleFormat.0>Вспомнил, как видел людей через {0}.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил, что никакого ветерка через {0} Нет.</SingleFormat.1>
+		</Text>
+		<Text Name="Farm">
+			<DisplayName>Поле</DisplayName>
+			<SingleFormat.0>Вспомнились ужасные запахи {0}.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил, как облегчался в {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Sharp">
+			<DisplayName>Иглы</DisplayName>
+			<SingleFormat.0>Вспомнил, каким острым может быть {0}.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил, что больно при прикосновении {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="Ring">
+			<DisplayName>Чакрам</DisplayName>
+			<SingleFormat.0>Вспомнил, как запутался в {0}.</SingleFormat.0>
+			<SingleFormat.1>Вспомнил {0}ы на человеческих шеях.</SingleFormat.1>
+		</Text>
+	</List>
+</Texts>

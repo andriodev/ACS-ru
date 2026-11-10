@@ -1,0 +1,20 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="LcForbidFabao">
+			<DisplayName>Запрет Артефактов</DisplayName>
+			<Desc>Встречный заряд Дракона Потопа и никакие артефакты не могут быть использованы.</Desc>
+		</Text>
+		<Text Name="LcForbidSkill">
+			<DisplayName>Запрет Заклинаний</DisplayName>
+			<Desc>На него действует пламя Темного Феникса, и никакие заклинания не могут быть использованы.</Desc>
+		</Text>
+		<Text Name="LcConfuse">
+			<DisplayName>Путаница</DisplayName>
+			<Desc>Путаница</Desc>
+		</Text>
+		<Text Name="LcTrainEffect">
+			<DisplayName>Обычный Тренировочный Спецэффект</DisplayName>
+			<Desc>Обычный Тренировочный Спецэффект</Desc>
+		</Text>
+	</List>
+</Texts>

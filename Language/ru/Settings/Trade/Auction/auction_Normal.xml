@@ -1,0 +1,55 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="Classic">
+      <DisplayName>Аукцион</DisplayName>
+      <Npc.0.Talk.Bid.0>Поднять!</Npc.0.Talk.Bid.0>
+      <Npc.0.Talk.Bid.1>Звоните!</Npc.0.Talk.Bid.1>
+      <Npc.0.Talk.Bid.2>Настолько дешевый. Опять!</Npc.0.Talk.Bid.2>
+      <Npc.0.Talk.Exceed.0>Достойный противник.</Npc.0.Talk.Exceed.0>
+      <Npc.0.Talk.Exceed.1>Богаче меня?</Npc.0.Talk.Exceed.1>
+      <Npc.0.Talk.Buy.0>Ха-ха! Получил свое сокровище!</Npc.0.Talk.Buy.0>
+      <Npc.0.Talk.Buy.1>Ха-ха, бедняги вроде тебя, хочешь посмотреть, кто богаче меня?</Npc.0.Talk.Buy.1>
+      <Npc.0.Talk.Like.0>Я возьму это!</Npc.0.Talk.Like.0>
+      <Npc.0.Talk.Like.1>Я решил, что это все!</Npc.0.Talk.Like.1>
+      <Npc.0.Talk.Like.2>Видишь? Это будет мое завтра.</Npc.0.Talk.Like.2>
+      <Npc.0.Talk.Last.0>Вот оно. Абсолютная жемчужина!</Npc.0.Talk.Last.0>
+      <Npc.0.Talk.Last.1>Самое редкое сокровище в мире!</Npc.0.Talk.Last.1>
+      <Npc.0.Talk.DontKnow.0>Это выглядит так странно. Очень интригующе, правда?</Npc.0.Talk.DontKnow.0>
+      <Npc.0.Talk.Chat.0>Однажды я отправился в Небесный бассейн и увидел богиню купания. ХА-ХА-ХА!</Npc.0.Talk.Chat.0>
+      <Npc.0.Talk.Chat.1>В этом году я заработал только 800 тысяч от аренды. Моя карманная мелочь скоро закончится!</Npc.0.Talk.Chat.1>
+      <Npc.0.Talk.Chat.2>Надо было прислать сюда мою горничную, чтобы она все это купила.</Npc.0.Talk.Chat.2>
+      <Npc.1.Talk.Bid.0>Это немного чересчур, но я подниму!</Npc.1.Talk.Bid.0>
+      <Npc.1.Talk.Bid.1>В этом месяце я могу два дня ничего не есть и немного сэкономить...</Npc.1.Talk.Bid.1>
+      <Npc.1.Talk.Bid.2>(Топает ногой) звони!</Npc.1.Talk.Bid.2>
+      <Npc.1.Talk.Exceed.0>Не достаточно, чтобы купить его?</Npc.1.Talk.Exceed.0>
+      <Npc.1.Talk.Exceed.1>Так что это такое сокровище, что все хотят его.</Npc.1.Talk.Exceed.1>
+      <Npc.1.Talk.Exceed.2>Немного заманчиво. Должен ли я поднять...</Npc.1.Talk.Exceed.2>
+      <Npc.1.Talk.Buy.0>Хорошо, хорошо. Мое развитие выиграет от этого!</Npc.1.Talk.Buy.0>
+      <Npc.1.Talk.Buy.1>В мои руки попало сокровище. Приятно!</Npc.1.Talk.Buy.1>
+      <Npc.1.Talk.Like.0>Мой учитель сказал, что все эликсиры стоят того. Я покупаю его!</Npc.1.Talk.Like.0>
+      <Npc.1.Talk.Like.1>Оружие для борьбы и эликсиры для культивации! Это выглядит действительно хорошо!</Npc.1.Talk.Like.1>
+      <Npc.1.Talk.Last.0>Вот оно, редчайшее сокровище!</Npc.1.Talk.Last.0>
+      <Npc.1.Talk.Last.1>Ах, что же это за сокровище? Мои глаза!</Npc.1.Talk.Last.1>
+      <Npc.1.Talk.DontKnow.0>Что это за чертовщина...</Npc.1.Talk.DontKnow.0>
+      <Npc.1.Talk.Chat.0>Здесь собралось так много странных людей. Они действительно могут себе это позволить?</Npc.1.Talk.Chat.0>
+      <Npc.2.Talk.Bid.0>Как можно измерить культивацию деньгами? Звоните!</Npc.2.Talk.Bid.0>
+      <Npc.2.Talk.Bid.1>Мое развитие будет прогрессировать намного быстрее, как только я получу это!</Npc.2.Talk.Bid.1>
+      <Npc.2.Talk.Bid.2>Моему хозяину это точно понравится!</Npc.2.Talk.Bid.2>
+      <Npc.2.Talk.Exceed.0>Как...</Npc.2.Talk.Exceed.0>
+      <Npc.2.Talk.Buy.0>Интересно. Прогресс будет не за горами!</Npc.2.Talk.Buy.0>
+      <Npc.2.Talk.Like.0>Это сокровище-одно на миллион. Я единственный, кто достоин владеть им!</Npc.2.Talk.Like.0>
+      <Npc.2.Talk.Last.0>Тайное сокровище какой секты на этот раз?</Npc.2.Talk.Last.0>
+      <Npc.2.Talk.DontKnow.0>Никто не может разгадать тайну внутри...</Npc.2.Talk.DontKnow.0>
+      <Npc.2.Talk.Chat.0>Я здесь по приказу моего господина.</Npc.2.Talk.Chat.0>
+      <Npc.2.Talk.Chat.1>Я собираюсь подняться!</Npc.2.Talk.Chat.1>
+      <Npc.3.Talk.Bid.0>Должен иметь это.</Npc.3.Talk.Bid.0>
+      <Npc.3.Talk.Exceed.0>Черт возьми!</Npc.3.Talk.Exceed.0>
+      <Npc.3.Talk.Like.0>Нет, я должен купить это, несмотря ни на что!</Npc.3.Talk.Like.0>
+      <Npc.3.Talk.Like.1>Это слишком заманчиво! Извините за это!</Npc.3.Talk.Like.1>
+      <Npc.3.Talk.Buy.0>ХАХА. Они не могут получить его сейчас!</Npc.3.Talk.Buy.0>
+      <Npc.3.Talk.Last.0>Это тот самый!</Npc.3.Talk.Last.0>
+      <Npc.3.Talk.DontKnow.0>Что... Что это такое?</Npc.3.Talk.DontKnow.0>
+      <Npc.3.Talk.Chat.0>Давайте сокрушим их дух на этот раз.</Npc.3.Talk.Chat.0>
+    </Text>
+  </List>
+</Texts>

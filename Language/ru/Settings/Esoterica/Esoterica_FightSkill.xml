@@ -1,0 +1,54 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="FightSkillEsoterica_1">
+			<DisplayName>Врожденная ци</DisplayName>
+			<Desc>Основная техника, которую усвоили практикующие. Включает в себя концентрацию ци в ладони и выпуск ее в сторону цели.</Desc>
+			<EffectDesc>[size=10][color=#D06508]Приобрести навык: Врожденная ци[/Color][/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_2">
+			<DisplayName>Огненная Буря</DisplayName>
+			<Desc>Используйте стихийные огненные энергии, которыми изобилует весь мир, и манипулируйте ими, чтобы опалить цель.</Desc>
+			<EffectDesc>[size=10][color=#D06508]приобретите навык: Огненная Буря [/color] [/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_3">
+			<DisplayName>Божественный Болт</DisplayName>
+			<Desc>Используйте элементарные металлические энергии, которые изобилуют по всему миру, и сосредоточьте их в болтах Ци, чтобы нанести удар по врагу.</Desc>
+			<EffectDesc>[size=10][color=#D06508]приобретите навык: Божественный Болт [/color] [/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_4">
+			<DisplayName>Поражение Души</DisplayName>
+			<Desc>Испускайте невероятно быстрый луч света в цель, разрушая их дух.</Desc>
+			<EffectDesc>[size=10][color=#D06508]приобретите навык: Поражение Души [/color] [/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong1_1">
+			<DisplayName>Небесная Панацея</DisplayName>
+			<Desc>Призовите силу древнего исцеления водой, чтобы восстановить Ци для всех дружественных персонажей.</Desc>
+			<EffectDesc>[size=10][color=#D06508]приобретите навык: Небесная панацея [/color] [/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong3_1">
+			<DisplayName>Резонансное Лезвие</DisplayName>
+			<Desc>Резонируйте своим духом с духом артефакта, значительно увеличивая его силу.</Desc>
+			<EffectDesc>[size=10][color=#D06508]приобретите навык: резонансный клинок [/color] [/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong4_1">
+			<DisplayName>Хаос Пустоты</DisplayName>
+			<Desc>Вызовите силу нефрита Хаоса, чтобы открыть портал в пустоту, нанося большой урон всем вражеским целям.</Desc>
+			<EffectDesc>[size=10][color=#D06508]приобретите навык: хаос пустоты [/color] [/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong4_2">
+			<DisplayName>Духовный Щит</DisplayName>
+			<Desc>Улучшите эффекты щита Ци для всех дружественных персонажей.</Desc>
+			<EffectDesc>[size=10][color=#D06508]приобретите навык: духовный щит [/color] [/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong4_3">
+			<DisplayName>Жизненная Песнь</DisplayName>
+			<Desc>Используйте восстановительные энергии лесов, чтобы восстановить свою Ци.</Desc>
+			<EffectDesc>[size=10][color=#D06508]приобретите навык: воспевание жизненной силы [/color] [/size]</EffectDesc>
+		</Text>
+		<Text Name="FightSkillEsoterica_Gong9_1">
+			<DisplayName>Цикл Реверса</DisplayName>
+			<Desc>Используйте циклы перевоплощения, чтобы значительно восстановить свою Ци.</Desc>
+			<EffectDesc>[size=10][color=#D06508]приобретите навык: цикл реверса [/color] [/size]</EffectDesc>
+		</Text>
+	</List>
+</Texts>

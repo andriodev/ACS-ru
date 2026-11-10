@@ -1,0 +1,187 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="GodCity_Housing">
+			<DisplayName>Божественная Резиденция</DisplayName>
+			<Desc>Резиденция предназначенная для жителей Божественного Царства. Увеличивает максимальное число Небожителей.</Desc>
+		</Text>
+		<Text Name="GodCity_Guard">
+			<DisplayName>Храм Стража</DisplayName>
+			<Desc>Постройка для поклонения Стражу, в которой культиваторы, совершенствующиеся по Закону Шендао, могут получить благословение Стаража для улучшения своих способностей.</Desc>
+		</Text>
+		<Text Name="GodCity_FaithWay">
+			<DisplayName>Храм Чудес</DisplayName>
+			<Desc>Каждый Храм Чудес связан со статуей, которой поклоняются в Агенстве города из Мира Смертных. Благодаря этой системе культиваторы, совершенствующиеся по Закону Шендао, могут получать Веру от смертных последователей и использовать её для разных трюков.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoRateUp">
+			<DisplayName>Священный Павильон</DisplayName>
+			<Desc>Храм, построенный силой Веры. Это воплощение Священного Артефакта собственной веры в Царстве Божеств. Повышение уровня Священного Павильона может улучшить Священный Артефакт.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd1">
+			<DisplayName>СП: Зал Бури</DisplayName>
+			<Desc>Часть Священного Паильона. Наделяет Священную Реликвию Ци Ветра и Облаков, делая её подвижнее и элегантнее.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd2">
+			<DisplayName>СП: Зал Весов</DisplayName>
+			<Desc>Часть Священного Паильона. Наделяет Священную Реликвию силой тысячи цзиней, делая её более мощной.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd3">
+			<DisplayName>СП: Зал Равновесия</DisplayName>
+			<Desc>Часть Священного Паильона. Наделяеи Священную Реликвию истинной целостностью, делая её прочной и жесткой.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd4">
+			<DisplayName>СП: Зал Гибкости</DisplayName>
+			<Desc>Часть Священного Паильона. Наделяет Священную Реликвию гибкостью, делая её гибкой и прочной.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd5">
+			<DisplayName>СП: Зал Клинков</DisplayName>
+			<Desc>Наделяет Священную Реликвию силой лезвия, что неизмеримо остро.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd6">
+			<DisplayName>СП: Зал Величия</DisplayName>
+			<Desc>Наделяет Священную Реликвию силой величия, что исключительно разрушительна.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd7">
+			<DisplayName>СП: Зал Семян</DisplayName>
+			<Desc>Наделяет Священную Реликвию силой горчичного зерна, делая её крошечной и незаметной.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd8">
+			<DisplayName>СП: Зал Грома</DisplayName>
+			<Desc>Наделяет Священную Реликвию силой небесного грома, чья сила безгранична.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd9">
+			<DisplayName>СП: Зал Всех Духов</DisplayName>
+			<Desc>Наделяет Священную Реликвию силой всех духов с глубокой и дикой энергией.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd10">
+			<DisplayName>СП: Зал Зефира</DisplayName>
+			<Desc>Наделяет Священную Реликвию силой воющего шторма, что быстра как молния.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoLabelAdd11">
+			<DisplayName>СП: Зал Расплаты</DisplayName>
+			<Desc>Наделяет Священную Реликвию силой тёмной расплаты, делая её непобедимой.</Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd1">
+			<DisplayName>СП: Зал Ядов</DisplayName>
+			<Desc>Наделяет Священную Реликвию силой пяти ядов. Каждый 36ой удар пробивая щит и нанося допонительный урон, когда атакует тело противника.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Каждый 36ой удар пробивая щит и нанося допонительный урон, когда атакует тело противника.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd2">
+			<DisplayName>СП: Зал Духов</DisplayName>
+			<Desc>Наделяет Священную Реликвию силой ярости духов. Каждый 18ый удар накладывает заклинание на противника, выбранного целью.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Каждый 18ый удар накладывает заклинание на противника, выбранного целью.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd3">
+			<DisplayName>СП: Зал Стража</DisplayName>
+			<Desc>Наделяет Священную Реликвию силой святой защиты. Уровень навыка Защиты увеличен на 5.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Уровень навыка Защиты увеличен на 5.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd4">
+			<DisplayName>СП: Зал Магии</DisplayName>
+			<Desc>Наделяет Священную Реликвию силой святой магии. Уровень навыка Заклинания увеличен на 5.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Уровень навыка Заклинания увеличен на 5.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd5">
+			<DisplayName>СП: Зал Мастерства</DisplayName>
+			<Desc>Наделяет Священную Реликвию силой святого мастерства. Уровень навыка Мастерства Артефактов на 5.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Уровень навыка Мастерства Артефактов на 5.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd6">
+			<DisplayName>СП: Зал Призыва</DisplayName>
+			<Desc>Наделяет Священную Реликвию силой призыва духов. Ци Артефакта будет восполнено на 3% от нанесённого урона.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Ци Артефакта будет восполнено на 3% от нанесённого урона.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd7">
+			<DisplayName>СП: Зал Призрака</DisplayName>
+			<Desc>Наделяет Священную Реликвию призрачной силой. Каждую 15ую атаку появляется Призрачный Меч, который существует в течении 15и секунд.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Каждую 15ую атаку появляется Призрачный Меч, который существует в течении 15и секунд.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd8">
+			<DisplayName>СП: Зал Дыхания</DisplayName>
+			<Desc>Наделяет Священную Реликвию силоё лёгкого дыхания. Каждую 7ую атаку сокращает время восстановления умения на 1 секунду.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Каждую 7ую атаку сокращает время восстановления умения на 1 секунду.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd9">
+			<DisplayName>СП: Зал Девяти</DisplayName>
+			<Desc>Наделяет Священную Реликвию силой Девяти Конечностей. При нанесении урона есть 4% шанс нанести в 9 раз больший урон.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>При нанесении урона есть 4% шанс нанести в 9 раз больший урон.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd10">
+			<DisplayName>СП: Зал Бесконечности</DisplayName>
+			<Desc>Наделяет Священную Реликвию силой бесконечности. Сила первого удара мечом увеличина в 3 раза. Эффект сбрасывается при пополнении Ци Артефакта.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Сила первого удара мечом увеличина в 3 раза. Эффект сбрасывается при пополнении Ци Артефакта.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_GodFabaoAbilityAdd11">
+			<DisplayName>СП: Зал Ветра</DisplayName>
+			<Desc>Наделяет Священную Реликвию сила разрыва позитивного потока. Наносит х1.25 урон, когда атакует тело противника.</Desc>
+			<Levels.0.Effects.0.Ability.Desc>Наносит х1.25 урон, когда атакует тело противника.</Levels.0.Effects.0.Ability.Desc>
+		</Text>
+		<Text Name="GodCity_WishTree">
+			<DisplayName>Древо Молитв</DisplayName>
+			<Desc>Желания и молитвы обычных людей сконцентрировались и проросли деревом. Вы можете использовать его Ци смертных, чтобы немного уменьшить Божественность.</Desc>
+		</Text>
+		<Text Name="GodCity_XinyangShendian">
+			<DisplayName>Храм Веры</DisplayName>
+			<Desc>Храм, концентрирующий силу Веры. Это может увеличить эффективность производства Веры Божественным Царством.</Desc>
+		</Text>
+		<Text Name="GodCity_LiuLiShenDian">
+			<DisplayName>Храм Зефира</DisplayName>
+			<Desc>Храм, возвеличивающий мощь Стражей. Он может усиливать способности, дарованные Стражами.</Desc>
+		</Text>
+		<Text Name="GodCity_ThunderDefend">
+			<DisplayName>Небесный Дворец</DisplayName>
+			<Desc>Концентрирует силу Веры, чтобы защитить от силы Небес. Это может снизить силу Небесного Бедствия.</Desc>
+		</Text>
+		<Text Name="GodCity_FengShenTai">
+			<DisplayName>Алтарь Стражей</DisplayName>
+			<Desc>Место, где Боги посвящают суб-богов, обращая Основных Последователей со 100% Веры в Стражей.</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_A">
+			<DisplayName>Резиденция Металла</DisplayName>
+			<Desc>Увеличивает максимальное число Основных Последователей.</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_B">
+			<DisplayName>Резиденция Дерева</DisplayName>
+			<Desc>Увеличивает максимальное число Основных Последователей.</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_C">
+			<DisplayName>Резиденция Воды</DisplayName>
+			<Desc>Увеличивает максимальное число Основных Последователей.</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_D">
+			<DisplayName>Резиденция Огня</DisplayName>
+			<Desc>Увеличивает максимальное число Основных Последователей.</Desc>
+		</Text>
+		<Text Name="GodCity_CoreHousing_E">
+			<DisplayName>Резиденция Земли</DisplayName>
+			<Desc>Увеличивает максимальное число Основных Последователей.</Desc>
+		</Text>
+		<Text Name="GodCity_Housing_Lv2">
+			<DisplayName>Общая Резиденция</DisplayName>
+			<Desc>Продвинутая Божестввенная Резеденция. Может вместить большое количество Небожителей.</Desc>
+		</Text>
+		<Text Name="GodCity_Housing_Lv2_2">
+			<DisplayName>Соеденённая Резиденция</DisplayName>
+			<Desc>Продвинутая Божестввенная Резеденция. Может вместить большое количество Небожителей.</Desc>
+		</Text>
+		<Text Name="GodCity_HongChenKuHai">
+			<DisplayName>Меланхолия Смертных</DisplayName>
+			<Desc>Приносит страдания смертных в Святое Царство, значительно уменьшая Божественность.</Desc>
+		</Text>
+		<Text Name="GodCity_Magic_1">
+			<DisplayName>Зал Сплочения</DisplayName>
+			<Desc>Даёт следующие Чудеса на уровне 1, 2 и 3 соответственно: заклинание Божественного Сплочения, заклинание Исполнения Желаний, заклинание Благоговения. Увеличивает производство базового материала в области в теченнии определённого периода времени.</Desc>
+		</Text>
+		<Text Name="GodCity_Magic_2">
+			<DisplayName>Павильон Сердца</DisplayName>
+			<Desc>Уровень 1 даёт Чудо - Умиротворение: применяется на культивируемого не-Шендао персонажа, уменьшая его множитель Настроения на 25% на 7 дней.\nУровень 2 даёт Чудо - Чистый разум: избавляет персонажа от Одержимости превращая её в Камень Одержимости.</Desc>
+		</Text>
+		<Text Name="GodCity_Magic_3">
+			<DisplayName>Павильон Мощи</DisplayName>
+			<Desc>Уровень 1 даёт Чудо - Обожествление: временно поднимает Божественность до максимума, значительно улучшая боевое мастерство.\nУровень 2 даёт Чудо - Божественное Милосердие: поглощает человечность, чтобы освятить растение. Потребуется время, чтобы проявился результат. Растение нельзя осветить повторно психической силой, пока проходит сеанс освящения.</Desc>
+		</Text>
+		<Text Name="GodCity_Magic_4">
+			<DisplayName>Зал Преданности</DisplayName>
+			<Desc>Уровень 1 даёт Чудо - Убеждение: убедить союзников или нейтральных Внутренних Учеников стать Основными Последователями.\nУровень 2 даёт Чудо - Божественная Слежка: выберите персонажа, чтобы попытаться узнать его местонахождение. Чем больше у вас Небожителей, тем выше вероятность успеха.</Desc>
+		</Text>
+	</List>
+</Texts>

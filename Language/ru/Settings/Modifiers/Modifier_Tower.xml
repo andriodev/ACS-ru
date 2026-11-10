@@ -1,0 +1,70 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_Tower_Enemy_achai">
+			<DisplayName>Изменение Формы Шиба</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Cat">
+			<DisplayName>Найди кота</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Enemy_Xian">
+			<DisplayName>Сила Конденсации</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Enemy_Ti">
+			<DisplayName>Сила Конденсации</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Enemy_Yao">
+			<DisplayName>Сила Конденсации</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Enemy_Boss_Root">
+			<DisplayName>Сила Конденсации</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Enemy_Boss_Part">
+			<DisplayName>Сила Конденсации</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_ChaoXiQi">
+			<DisplayName>Прилив</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_ChaoXi0">
+			<DisplayName>Ровный Прилив</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_ChaoXiLuo">
+			<DisplayName>Спадающий Прилив</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_KuRongOur">
+			<DisplayName>Ветхость</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_KuRongEnm">
+			<DisplayName>Процветание</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_WuZhi">
+			<DisplayName>Клетка истины</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_XinNian0">
+			<DisplayName>Убеждение в вере</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_XinNian1">
+			<DisplayName>Вера Усиливается</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown1">
+			<DisplayName>Могучее Кредо</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown2">
+			<DisplayName>Могучая Угроза</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown3">
+			<DisplayName>Нежная Земля</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown4">
+			<DisplayName>Королевский запрет</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown5">
+			<DisplayName>Против Террора</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown6">
+			<DisplayName>Дыхание Жадности</DisplayName>
+		</Text>
+		<Text Name="Modifier_Tower_Powerdown7">
+			<DisplayName>Запрещенный Флакон</DisplayName>
+		</Text>
+	</List>
+</Texts>

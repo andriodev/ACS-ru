@@ -1,0 +1,90 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="ChangeZhen">
+      <DisplayName>Изменить Формацию</DisplayName>
+      <Tip>Измените формацию, чтобы прикрыть незащищенные вспомогательные устройства.</Tip>
+    </Text>
+    <Text Name="CancelZhen">
+      <DisplayName>Расформировать</DisplayName>
+      <Tip>Распускает формацию. После роспуска формации должно пройти некоторое время, прежде чем она сможет быть сформирована.</Tip>
+    </Text>
+    <Text Name="JointJian">
+      <DisplayName>Совместный Артефакт</DisplayName>
+      <Tip>Каждый комбинирует свою ци, чтобы контролировать артефакт столба формации и пополнять его ци, резко увеличивая силу артефакта в соответствии с бонусом силы владения мечом формации. Каждый в строю разделяет стоимость ци.</Tip>
+    </Text>
+    <Text Name="JointSkill">
+      <DisplayName>Совместное Заклинание</DisplayName>
+      <Tip>Каждый комбинирует свою ци, чтобы помочь столбу формации сотворить следующее заклинание, увеличивая его силу. Увеличение мощности связано с бонусом к силе заклинаний формации. Каждый в строю разделяет стоимость ци.</Tip>
+    </Text>
+    <Text Name="ZhenTempAura">
+      <DisplayName>Разогреть</DisplayName>
+    </Text>
+    <Text Name="ZhenModifyArea">
+      <DisplayName>Увеличить</DisplayName>
+    </Text>
+    <Text Name="ZhenShield">
+      <DisplayName>Поднять Щит</DisplayName>
+    </Text>
+    <Text Name="TransLing">
+      <DisplayName>Передача Ци</DisplayName>
+    </Text>
+    <Text Name="Reducetability">
+      <DisplayName>Низкая стабильность</DisplayName>
+    </Text>
+    <Text Name="RevealZhen">
+      <DisplayName>Выставлены Помощники</DisplayName>
+    </Text>
+    <Text Name="FightSkill_Zhen_RevealZhen1">
+      <DisplayName>Небесное Происхождение</DisplayName>
+      <HeadMsg>Выберите вражеского помощника.</HeadMsg>
+      <Tip>Следует образцу лабиринта каменного стража, чтобы атаковать слабые места целевого формирования. Снижает его стабильность и имеет шанс обнажить его вспомогательные органы.</Tip>
+    </Text>
+    <Text Name="FightSkill_Zhen_RevealZhen2">
+      <DisplayName>Боевая Отчужденность</DisplayName>
+      <Tip>Наносит огромное количество урона Ци цели.</Tip>
+    </Text>
+    <Text Name="FightSkill_Zhen_ZhenShield1">
+      <DisplayName>Область Пяти Вершин</DisplayName>
+      <Tip>Создайте область, охватывающую 5-метровый радиус вокруг целевой точки, и используйте Ци формации для защиты.</Tip>
+    </Text>
+    <Text Name="FightSkill_Zhen_ZhenShield2">
+      <DisplayName>Область Необъятности</DisplayName>
+      <Tip>Создайте область, охватывающую 12-метровый радиус вокруг целевой точки, и используйте Ци формации для защиты.</Tip>
+    </Text>
+    <Text Name="FightSkill_Zhen_ZhenArea1">
+      <DisplayName>Область Эссенции Дерева</DisplayName>
+      <Tip>Создайте область, охватывающую радиус 8 метров вокруг целевой точки. Удобряет почву внутри и повышает естественную устойчивость союзных персонажей.</Tip>
+    </Text>
+    <Text Name="FightSkill_Zhen_ZhenArea2">
+      <DisplayName>Царство Небесной Безмятежности</DisplayName>
+      <Tip>Создайте область, охватывающую радиус 8 метров вокруг целевой точки. Увеличивает психическое состояние, настроение, скорость культивации союзных персонажей внутри области.</Tip>
+    </Text>
+    <Text Name="FightSkill_Zhen_JointJian1">
+      <DisplayName>Божественный Меч Феникса</DisplayName>
+      <Tip>Каждый комбинирует свою ци, чтобы контролировать артефакт столба формации и пополнять его ци, резко увеличивая силу артефакта в соответствии с бонусом силы владения мечом формации. Каждый в строю разделяет стоимость ци.</Tip>
+    </Text>
+    <Text Name="FightSkill_Zhen_JointSkill1">
+      <DisplayName>Божественный Драконий Рев</DisplayName>
+      <Tip>Каждый комбинирует свою ци, чтобы помочь столбу формации сотворить следующее заклинание, увеличивая его силу. Увеличение мощности связано с бонусом к силе заклинаний формации. Каждый в строю разделяет стоимость ци.</Tip>
+    </Text>
+    <Text Name="FightSkill_Zhen_Stability1">
+      <DisplayName>Божественное Уничтожение</DisplayName>
+      <HeadMsg>Выберите вражеского помощника.</HeadMsg>
+      <Tip>Наносит огромный урон стабильности формации противника.</Tip>
+    </Text>
+    <Text Name="FightSkill_Zhen_Stability2">
+      <DisplayName>Нирвана</DisplayName>
+      <Tip>Восстанавливает стабильность формации.</Tip>
+    </Text>
+    <Text Name="FightSkill_Zhen_ZhuXian">
+      <DisplayName>Яростное Нападение</DisplayName>
+      <Tip>После небольшой задержки наносит огромное количество урона Ци врагам в радиусе 12 метров от целевой точки.</Tip>
+    </Text>
+    <Text Name="FightSkill_Zhen_BDPW_MissileBase">
+      <DisplayName>Пули Боевой Отчужденности</DisplayName>
+    </Text>
+    <Text Name="FightSkill_Zhen_ZhuXian_MissileBase">
+      <DisplayName>Суб-навык Яростного Нападения</DisplayName>
+    </Text>
+  </List>
+</Texts>

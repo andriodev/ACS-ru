@@ -1,0 +1,11 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Rpg_Arena_YingTian">
+			<Nodes.0.Text>Входит</Nodes.0.Text>
+			<Nodes.1.Text>Небесный Алтарь Эха светится синим светом.</Nodes.1.Text>
+			<Nodes.2.Text>Небесная связь(Загрузка данных о персонаже)</Nodes.2.Text>
+			<Nodes.3.Text>Приглашение(Введите код приглашения, что бы призвать нужного персонажа)</Nodes.3.Text>
+			<Nodes.4.Text>Выходит</Nodes.4.Text>
+		</Text>
+	</List>
+</Texts>

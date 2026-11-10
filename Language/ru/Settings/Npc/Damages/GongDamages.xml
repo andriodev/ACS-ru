@@ -1,0 +1,172 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Tower_FuBai">
+			<DisplayName>Разрушительное падение</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Bhit1">
+			<DisplayName>Синяк</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Bhit2">
+			<DisplayName>Небольшая травма</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Bhit3">
+			<DisplayName>Маленькая рана</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Jin_ThunderDamage">
+			<DisplayName>Оглушенный</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Jin_SwordLight2">
+			<DisplayName>Заражение аурой меча (серьезное)</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Mu_Failure">
+			<DisplayName>Неудачный</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Mu_Corrosion">
+			<DisplayName>Гноение</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Shui_Frostbite">
+			<DisplayName>Обморожение</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Shui_ColdPoison">
+			<DisplayName>Холодный яд</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Huo_VisceralBurn">
+			<DisplayName>Висцеральный ожог</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Huo_BurnOfPain">
+			<DisplayName>Ожог</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Tu_Weathering">
+			<DisplayName>Выдержанный</DisplayName>
+		</Text>
+		<Text Name="BodyPractice_Tu_Petrifaction2">
+			<DisplayName>Окаменение (серьезное)</DisplayName>
+		</Text>
+		<Text Name="FivePoison">
+			<DisplayName>Отравляющие дыхание</DisplayName>
+		</Text>
+		<Text Name="SwordBallDamage">
+			<DisplayName>Разделение тела</DisplayName>
+		</Text>
+		<Text Name="XueGuLianXing">
+			<DisplayName>Плавка</DisplayName>
+		</Text>
+		<Text Name="Dan_Soul3_Damage">
+			<DisplayName>Нарушенный разум</DisplayName>
+		</Text>
+		<Text Name="ZaoHuaYuLu_YuanShenJiMie">
+			<DisplayName>Уничтоженный дух</DisplayName>
+		</Text>
+		<Text Name="SoulOutOfBrain">
+			<DisplayName>Душа в раздоре</DisplayName>
+		</Text>
+		<Text Name="LostSoul">
+			<DisplayName>Закупоривание</DisplayName>
+		</Text>
+		<Text Name="Damage_GongXinYin_Damage">
+			<DisplayName>Расколотая душа</DisplayName>
+		</Text>
+		<Text Name="Damage_TianDaoBenYuan1">
+			<DisplayName>Поврежденная душа</DisplayName>
+		</Text>
+		<Text Name="Damage_Kidnap_MiHun">
+			<DisplayName>Заклинание чар</DisplayName>
+		</Text>
+		<Text Name="Damage_TianDaoBenYuan2">
+			<DisplayName>Перевернутое восприятие</DisplayName>
+		</Text>
+		<Text Name="Damage_ZhenFaZhenDang">
+			<DisplayName>Формирование дрожи</DisplayName>
+		</Text>
+		<Text Name="DiffEnergyInvade">
+			<DisplayName>Чужая Ци</DisplayName>
+		</Text>
+		<Text Name="MeridianRupture">
+			<DisplayName>Разрыв</DisplayName>
+		</Text>
+		<Text Name="MeridianIncomplete">
+			<DisplayName>Сломанный</DisplayName>
+		</Text>
+		<Text Name="ElixirFieldShock">
+			<DisplayName>Пальпация живота</DisplayName>
+		</Text>
+		<Text Name="Damage_Boss_LingBoom">
+			<DisplayName>Бурная Ци</DisplayName>
+		</Text>
+		<Text Name="Damage_Sys_SuppressGodCall">
+			<DisplayName>Подавление скорби</DisplayName>
+		</Text>
+		<Text Name="JieNanHuangu">
+			<DisplayName>Боль изменения скелета</DisplayName>
+		</Text>
+		<Text Name="LingSpillsInjury_Sp">
+			<DisplayName>Поврежденные меридианы</DisplayName>
+		</Text>
+		<Text Name="LingSpillsInjury">
+			<DisplayName>Перелив Ци</DisplayName>
+		</Text>
+		<Text Name="SevereInjury">
+			<DisplayName>Утрата первобытной Ци</DisplayName>
+		</Text>
+		<Text Name="Jin_ThunderDamage">
+			<DisplayName>Оглушенный</DisplayName>
+		</Text>
+		<Text Name="Jin_BoneNail">
+			<DisplayName>Проколотая кость</DisplayName>
+		</Text>
+		<Text Name="Jin_SwordLight1">
+			<DisplayName>Заражение аурой меча (легкое)</DisplayName>
+		</Text>
+		<Text Name="Jin_SwordLight2">
+			<DisplayName>Заражение аурой меча (серьезное)</DisplayName>
+		</Text>
+		<Text Name="Mu_VitalityDevour1">
+			<DisplayName>Дыхание эрозии (легкое)</DisplayName>
+		</Text>
+		<Text Name="Mu_VitalityDevour2">
+			<DisplayName>Дыхание эрозии (серьезное)</DisplayName>
+		</Text>
+		<Text Name="Mu_Failure">
+			<DisplayName>Неудачный</DisplayName>
+		</Text>
+		<Text Name="Mu_Corrosion">
+			<DisplayName>Гноение</DisplayName>
+		</Text>
+		<Text Name="Mu_Parasitic">
+			<DisplayName>Паразитарная инфекция</DisplayName>
+		</Text>
+		<Text Name="Shui_Frostbite">
+			<DisplayName>Обморожение</DisplayName>
+		</Text>
+		<Text Name="Shui_ColdBlood">
+			<DisplayName>Холодные меридианы</DisplayName>
+		</Text>
+		<Text Name="Shui_ColdPoison">
+			<DisplayName>Холодный яд</DisplayName>
+		</Text>
+		<Text Name="Huo_VisceralBurn">
+			<DisplayName>Висцеральный ожог</DisplayName>
+		</Text>
+		<Text Name="Huo_BurnOfPain">
+			<DisplayName>Опаляющая боль</DisplayName>
+		</Text>
+		<Text Name="Huo_MarrowDry">
+			<DisplayName>Истощенное сознание</DisplayName>
+		</Text>
+		<Text Name="Huo_HeartBurn">
+			<DisplayName>Изжога</DisplayName>
+		</Text>
+		<Text Name="Tu_Weathering">
+			<DisplayName>Выдержанный</DisplayName>
+		</Text>
+		<Text Name="Tu_Petrifaction1">
+			<DisplayName>Окаменение (легкое)</DisplayName>
+		</Text>
+		<Text Name="Tu_Petrifaction2">
+			<DisplayName>Окаменение (серьезное)</DisplayName>
+		</Text>
+		<Text Name="Tu_BrainClose">
+			<DisplayName>Закрытый разум</DisplayName>
+		</Text>
+	</List>
+</Texts>

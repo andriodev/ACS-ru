@@ -1,0 +1,189 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="FanRenEvent">
+			<DisplayName>Смертельные встречи</DisplayName>
+			<Desc>Позиция, которую вы занимаете, общаясь со смертными, во время путешествия по миру.</Desc>
+			<Selection.0.DisplayName>Добрый</Selection.0.DisplayName>
+			<Selection.0.Desc>Помогайте им, когда они в беде, и старайтесь не оказывать на них негативного влияния, когда делаете что-то.</Selection.0.Desc>
+			<Selection.1.DisplayName>Небрежный</Selection.1.DisplayName>
+			<Selection.1.Desc>Делайте все, что хотите, не заботясь о том, какое влияние это окажет на смертных.</Selection.1.Desc>
+			<Selection.2.DisplayName>Игнорирование</Selection.2.DisplayName>
+			<Selection.2.Desc>Эти тривиальные вопросы смертных не стоят моего времени.</Selection.2.Desc>
+		</Text>
+		<Text Name="JiangHuFenZheng">
+			<DisplayName>Земные Разногласия</DisplayName>
+			<Desc>Отношение, которое вы принимаете, когда имеете дело с культиваторами, путешествуя по всему миру.</Desc>
+			<Selection.0.DisplayName>Справедливый Культиватор</Selection.0.DisplayName>
+			<Selection.0.Desc>При столкновении с такого рода событиями, сначала попытайтесь справиться с этим как член Справедливой секты</Selection.0.Desc>
+			<Selection.1.DisplayName>Злой Культиватор</Selection.1.DisplayName>
+			<Selection.1.Desc>Столкнувшись с такого рода событиями, сначала попытайтесь справиться с ними как с человеком злой секты.</Selection.1.Desc>
+			<Selection.2.DisplayName>Избегая Неприятности</Selection.2.DisplayName>
+			<Selection.2.Desc>Уходите и не вмешивайтесь, когда сталкиваетесь с подобными ситуациями.</Selection.2.Desc>
+		</Text>
+		<Text Name="FindTreasure">
+			<DisplayName>Бессмертная Удача</DisplayName>
+			<Desc>Действие, которое вы совершаете, когда сталкиваетесь с счастливыми шансами на бессмертие во время путешествия по миру.</Desc>
+			<Selection.0.DisplayName>Исследовать и продвигаться вперед</Selection.0.DisplayName>
+			<Selection.0.Desc>Сначала попытайтесь рискнуть, столкнувшись с такого рода событиями.</Selection.0.Desc>
+			<Selection.1.DisplayName>Избегая Неприятности</Selection.1.DisplayName>
+			<Selection.1.Desc>Уходите и не вмешивайтесь, когда сталкиваетесь с подобными ситуациями.</Selection.1.Desc>
+		</Text>
+		<Text Name="FindProduce">
+			<DisplayName>Сбор Ресурсов</DisplayName>
+			<Desc>Позиция, которую вы занимаете, когда местный регион обладает исключительными ресурсами, во время ваших путешествий по всему миру.</Desc>
+			<Selection.0.DisplayName>Сбор Ресурсов</Selection.0.DisplayName>
+			<Selection.0.Desc>Активно собирайте ресурсы при столкновении с такого рода событиями.</Selection.0.Desc>
+			<Selection.1.DisplayName>Игнорирование</Selection.1.DisplayName>
+			<Selection.1.Desc>Не тратьте время на подобные вещи.</Selection.1.Desc>
+		</Text>
+		<Text Name="FindHighProduce">
+			<DisplayName>Сбор Сокровищ</DisplayName>
+			<Desc>Позиция, которую вы занимаете, когда местный регион обладает уникальными редкими сокровищами, во время вашего путешествия по всему миру.</Desc>
+			<Selection.0.DisplayName>Попытки Поиска</Selection.0.DisplayName>
+			<Selection.0.Desc>Пытайтесь искать сокровища, когда сталкиваетесь с такого рода событиями.</Selection.0.Desc>
+			<Selection.1.DisplayName>Игнорирование</Selection.1.DisplayName>
+			<Selection.1.Desc>Не тратьте время на подобные вещи.</Selection.1.Desc>
+		</Text>
+		<Text Name="FindSecret">
+			<DisplayName>Удивительные Истории</DisplayName>
+			<Desc>Позиция, которую вы занимаете, когда слышите какие-то странные истории по пути, во время путешествия по всему миру.</Desc>
+			<Selection.0.DisplayName>Исследовать</Selection.0.DisplayName>
+			<Selection.0.Desc>Старайтесь расспрашивать и исследовать детали, когда сталкиваетесь с такого рода событиями.</Selection.0.Desc>
+			<Selection.1.DisplayName>Игнорирование</Selection.1.DisplayName>
+			<Selection.1.Desc>Не тратьте время на подобные вещи.</Selection.1.Desc>
+		</Text>
+		<Text Name="School_All">
+			<DisplayName>Отношения С Сектами</DisplayName>
+			<Desc>Система логики</Desc>
+			<Selection.0.DisplayName>Доброжелательный</Selection.0.DisplayName>
+			<Selection.0.Desc>Обращаться с ними с дружелюбным подходом.</Selection.0.Desc>
+			<Selection.1.DisplayName>Враждебный</Selection.1.DisplayName>
+			<Selection.1.Desc>Относиться к ним с враждебным подходом.</Selection.1.Desc>
+			<Selection.2.DisplayName>Избегая Неприятности</Selection.2.DisplayName>
+			<Selection.2.Desc>Возьмите на себя инициативу, чтобы ускользнуть от их людей при встрече.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_1">
+			<DisplayName>Отношения - Обитель Красных Облаков</DisplayName>
+			<Desc>Отношения между учениками вашей секты и учениками Обители Красных Облаков.</Desc>
+			<Selection.0.DisplayName>Доброжелательный</Selection.0.DisplayName>
+			<Selection.0.Desc>Обращаться с ними с дружелюбным подходом.</Selection.0.Desc>
+			<Selection.1.DisplayName>Враждебный</Selection.1.DisplayName>
+			<Selection.1.Desc>Относиться к ним с враждебным подходом.</Selection.1.Desc>
+			<Selection.2.DisplayName>Избегая Неприятности</Selection.2.DisplayName>
+			<Selection.2.Desc>Возьмите на себя инициативу, чтобы ускользнуть от их людей при встрече.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_2">
+			<DisplayName>Отношения - Дворец Кунь-Лунь</DisplayName>
+			<Desc>Позиция, которую должны занять ученики вашей секты, имея дело с Дворцом Куньлунь</Desc>
+			<Selection.0.DisplayName>Доброжелательный</Selection.0.DisplayName>
+			<Selection.0.Desc>Обращаться с ними с дружелюбным подходом.</Selection.0.Desc>
+			<Selection.1.DisplayName>Враждебный</Selection.1.DisplayName>
+			<Selection.1.Desc>Относиться к ним с враждебным подходом.</Selection.1.Desc>
+			<Selection.2.DisplayName>Избегая Неприятности</Selection.2.DisplayName>
+			<Selection.2.Desc>Возьмите на себя инициативу, чтобы ускользнуть от их людей при встрече.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_3">
+			<DisplayName>Отношения - Дворец Небосвода</DisplayName>
+			<Desc>То отношение, которое ученики вашей секты должны занять, имея дело с Небесным Дворцом</Desc>
+			<Selection.0.DisplayName>Доброжелательный</Selection.0.DisplayName>
+			<Selection.0.Desc>Обращаться с ними с дружелюбным подходом.</Selection.0.Desc>
+			<Selection.1.DisplayName>Враждебный</Selection.1.DisplayName>
+			<Selection.1.Desc>Относиться к ним с враждебным подходом.</Selection.1.Desc>
+			<Selection.2.DisplayName>Избегая Неприятности</Selection.2.DisplayName>
+			<Selection.2.Desc>Возьмите на себя инициативу, чтобы ускользнуть от их людей при встрече.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_4">
+			<DisplayName>Отношения - Храм Пурпурного Облака</DisplayName>
+			<Desc>Позиция, которую должны занять ученики вашей секты, имея дело с храмом пурпурного облака</Desc>
+			<Selection.0.DisplayName>Доброжелательный</Selection.0.DisplayName>
+			<Selection.0.Desc>Обращаться с ними с дружелюбным подходом.</Selection.0.Desc>
+			<Selection.1.DisplayName>Враждебный</Selection.1.DisplayName>
+			<Selection.1.Desc>Относиться к ним с враждебным подходом.</Selection.1.Desc>
+			<Selection.2.DisplayName>Избегая Неприятности</Selection.2.DisplayName>
+			<Selection.2.Desc>Возьмите на себя инициативу, чтобы ускользнуть от их людей при встрече.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_5">
+			<DisplayName>Отношения - Культ Тайного Единства</DisplayName>
+			<Desc>Позиция, которую должны занять ученики вашей секты, имея дело с сектой мистического единства</Desc>
+			<Selection.0.DisplayName>Доброжелательный</Selection.0.DisplayName>
+			<Selection.0.Desc>Обращаться с ними с дружелюбным подходом.</Selection.0.Desc>
+			<Selection.1.DisplayName>Враждебный</Selection.1.DisplayName>
+			<Selection.1.Desc>Относиться к ним с враждебным подходом.</Selection.1.Desc>
+			<Selection.2.DisplayName>Избегая Неприятности</Selection.2.DisplayName>
+			<Selection.2.Desc>Возьмите на себя инициативу, чтобы ускользнуть от их людей при встрече.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_6">
+			<DisplayName>Отношения - Храм Голубого Лотоса</DisplayName>
+			<Desc>То отношение, которое ученики вашей секты должны занять, имея дело с храмом голубого лотоса</Desc>
+			<Selection.0.DisplayName>Доброжелательный</Selection.0.DisplayName>
+			<Selection.0.Desc>Обращаться с ними с дружелюбным подходом.</Selection.0.Desc>
+			<Selection.1.DisplayName>Враждебный</Selection.1.DisplayName>
+			<Selection.1.Desc>Относиться к ним с враждебным подходом.</Selection.1.Desc>
+			<Selection.2.DisplayName>Избегая Неприятности</Selection.2.DisplayName>
+			<Selection.2.Desc>Возьмите на себя инициативу, чтобы ускользнуть от их людей при встрече.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_7">
+			<DisplayName>Отношения - Вечерняя Обитель</DisplayName>
+			<Desc>Позиция, которую должны занять ученики вашей секты, имея дело с Вечерней Обителью</Desc>
+			<Selection.0.DisplayName>Доброжелательный</Selection.0.DisplayName>
+			<Selection.0.Desc>Обращаться с ними с дружелюбным подходом.</Selection.0.Desc>
+			<Selection.1.DisplayName>Враждебный</Selection.1.DisplayName>
+			<Selection.1.Desc>Относиться к ним с враждебным подходом.</Selection.1.Desc>
+			<Selection.2.DisplayName>Избегая Неприятности</Selection.2.DisplayName>
+			<Selection.2.Desc>Возьмите на себя инициативу, чтобы ускользнуть от их людей при встрече.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_8">
+			<DisplayName>Отношения - Гора Сотни Гадов</DisplayName>
+			<Desc>Позиция, которую должны занять ученики вашей секты, имея дело с горой сотни насекомых</Desc>
+			<Selection.0.DisplayName>Доброжелательный</Selection.0.DisplayName>
+			<Selection.0.Desc>Обращаться с ними с дружелюбным подходом.</Selection.0.Desc>
+			<Selection.1.DisplayName>Враждебный</Selection.1.DisplayName>
+			<Selection.1.Desc>Относиться к ним с враждебным подходом.</Selection.1.Desc>
+			<Selection.2.DisplayName>Избегая Неприятности</Selection.2.DisplayName>
+			<Selection.2.Desc>Возьмите на себя инициативу, чтобы ускользнуть от их людей при встрече.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_9">
+			<DisplayName>Отношения - Яма Пропащих</DisplayName>
+			<Desc>Позиция, которую должны занять ученики вашей секты, имея дело с ямой судьбы</Desc>
+			<Selection.0.DisplayName>Доброжелательный</Selection.0.DisplayName>
+			<Selection.0.Desc>Обращаться с ними с дружелюбным подходом.</Selection.0.Desc>
+			<Selection.1.DisplayName>Враждебный</Selection.1.DisplayName>
+			<Selection.1.Desc>Относиться к ним с враждебным подходом.</Selection.1.Desc>
+			<Selection.2.DisplayName>Избегая Неприятности</Selection.2.DisplayName>
+			<Selection.2.Desc>Возьмите на себя инициативу, чтобы ускользнуть от их людей при встрече.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_10">
+			<DisplayName>Отношения - Дворец Неотвратимой Резни</DisplayName>
+			<Desc>Позиция, которую должны занять ученики вашей секты, имея дело с сектой семерых убийц.</Desc>
+			<Selection.0.DisplayName>Доброжелательный</Selection.0.DisplayName>
+			<Selection.0.Desc>Обращаться с ними с дружелюбным подходом.</Selection.0.Desc>
+			<Selection.1.DisplayName>Враждебный</Selection.1.DisplayName>
+			<Selection.1.Desc>Относиться к ним с враждебным подходом.</Selection.1.Desc>
+			<Selection.2.DisplayName>Избегая Неприятности</Selection.2.DisplayName>
+			<Selection.2.Desc>Возьмите на себя инициативу, чтобы ускользнуть от их людей при встрече.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_11">
+			<DisplayName>Отношения - Культ Ликующих</DisplayName>
+			<Desc>Позиция, которую должны занять ученики вашей секты, имея дело с ликующей сектой</Desc>
+			<Selection.0.DisplayName>Доброжелательный</Selection.0.DisplayName>
+			<Selection.0.Desc>Обращаться с ними с дружелюбным подходом.</Selection.0.Desc>
+			<Selection.1.DisplayName>Враждебный</Selection.1.DisplayName>
+			<Selection.1.Desc>Относиться к ним с враждебным подходом.</Selection.1.Desc>
+			<Selection.2.DisplayName>Избегая Неприятности</Selection.2.DisplayName>
+			<Selection.2.Desc>Возьмите на себя инициативу, чтобы ускользнуть от их людей при встрече.</Selection.2.Desc>
+		</Text>
+		<Text Name="School_12">
+			<DisplayName>Отношения - Храм Демонов</DisplayName>
+			<Desc>Позиция, которую должны занять ученики вашей секты, имея дело с Демоническим Храмом</Desc>
+			<Selection.0.DisplayName>Доброжелательный</Selection.0.DisplayName>
+			<Selection.0.Desc>Обращаться с ними с дружелюбным подходом.</Selection.0.Desc>
+			<Selection.1.DisplayName>Враждебный</Selection.1.DisplayName>
+			<Selection.1.Desc>Относиться к ним с враждебным подходом.</Selection.1.Desc>
+			<Selection.2.DisplayName>Избегая Неприятности</Selection.2.DisplayName>
+			<Selection.2.Desc>Возьмите на себя инициативу, чтобы ускользнуть от их людей при встрече.</Selection.2.Desc>
+		</Text>
+		<Text Name="lingguangyishan">
+			<DisplayName>Искра Вдохновения</DisplayName>
+		</Text>
+	</List>
+</Texts>

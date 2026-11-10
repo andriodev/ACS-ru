@@ -1,0 +1,9 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="Item_Cotton" sParam="Item">
+      <ThingName>Хлопок</ThingName>
+      <Desc>Ящик из хлопка, который является основным материалом, используемым для ткачества. Помимо посадки хлопка, вы также можете собирать его, путешествуя на гору Баррен в Приключениях.</Desc>
+      <Item.FabaoSuffix>Нить, Веревка, Шнур, Дамаск, Струна</Item.FabaoSuffix>
+    </Text>
+  </List>
+</Texts>

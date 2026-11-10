@@ -1,0 +1,109 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="NormalFun">
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] затосковал по дому когда [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] начинает нести к [obj_friend] когда [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно заинтересовался [obj_nearthing] когда [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг захотел съесть [obj_food] когда [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг начал думать об своём [obj_relation] когда тихо [obj].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] наполнило множество мыслей и чувств когда [obj] в одиночеств.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно начал плакать когда [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал тревогу когда [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] когда [obj].</Events.10.Story>
+			<Events.11.Story>Обеспокоенный [obj], [name] мог только [obj_badmood] что бы успокоить свой разум.</Events.11.Story>
+			<Events.12.Story>[name] ликовал из-за [obj_goodmood], и не мог помочь, но [obj] счастливо.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно глубоко вздохнул когда [obj].</Events.13.Story>
+		</Text>
+		<Text Name="Fun_Dance">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] затосковал по дому когда [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] начинает нести к [obj_friend] когда [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно заинтересовался [obj_nearthing] когда [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг захотел съесть [obj_food] когда [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг начал думать об своём [obj_relation] когда тихо [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] наполнило множество мыслей и чувств когда [obj] в одиночеств.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно начал плакать когда  [obj].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал тревогу когда [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал удушье [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] когда [obj].</Events.10.Story>
+			<Events.11.Story>Обеспокоенный [obj], [name] мог только [obj_badmood] что бы успокоить свой разум.</Events.11.Story>
+			<Events.12.Story>[name] ликовал из-за [obj_goodmood], и не мог помочь, но [obj] счастливо.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно ударил [obj_nearthing] когда [obj].</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно подвернул лодыжку когда [obj].</Events.14.Story>
+		</Text>
+		<Text Name="Fun_Music">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] затосковал по дому когда [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] начинает нести к [obj_friend] когда [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно заинтересовался [obj_nearthing] когда [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг захотел съесть [obj_food] когда [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг начал думать об своём [obj_relation] когда тихо [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] наполнило множество мыслей и чувств когда [obj] в одиночеств.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно начал плакать когда  [obj].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал тревогу когда [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал удушье [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] когда [obj].</Events.10.Story>
+			<Events.11.Story>Обеспокоенный [obj], [name] мог только [obj_badmood] что бы успокоить свой разум.</Events.11.Story>
+			<Events.12.Story>[name] ликовал из-за [obj_goodmood], и не мог помочь, но [obj] счастливо.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не мог помочь, но тихо напевал мелодию когда [obj].</Events.13.Story>
+		</Text>
+		<Text Name="Fun_PlayBird">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] затосковал по дому когда [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] начинает нести к [obj_friend] когда [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно заинтересовался [obj_nearthing] когда [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг захотел съесть [obj_food] когда [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг начал думать об своём [obj_relation] когда тихо [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] наполнило множество мыслей и чувств когда [obj] в одиночеств.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно начал плакать когда  [obj].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал тревогу когда [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал удушье [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] когда [obj].</Events.10.Story>
+			<Events.11.Story>Обеспокоенный [obj], [name] мог только [obj_badmood] что бы успокоить свой разум.</Events.11.Story>
+			<Events.12.Story>[name] ликовал из-за [obj_goodmood], и не мог помочь, но [obj] счастливо.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не мог помочь, но щебетал птице в клетке когда [obj].</Events.13.Story>
+		</Text>
+		<Text Name="Fun_Calligraphy">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] затосковал по дому когда [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] начинает нести к [obj_friend] когда [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно заинтересовался [obj_nearthing] когда [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг захотел съесть [obj_food] когда [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг начал думать об своём [obj_relation] когда тихо [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] наполнило множество мыслей и чувств когда [obj] в одиночеств.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно начал плакать когда  [obj].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал тревогу когда [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал удушье [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] когда [obj].</Events.10.Story>
+			<Events.11.Story>Обеспокоенный [obj], [name] мог только [obj_badmood] что бы успокоить свой разум.</Events.11.Story>
+			<Events.12.Story>[name] ликовал из-за [obj_goodmood], и не мог помочь, но [obj] счастливо.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] случайно сбил чернила когда [obj].</Events.13.Story>
+		</Text>
+		<Text Name="Fun_PlayChess">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] затосковал по дому когда [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] начинает нести к [obj_friend] когда [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно заинтересовался [obj_nearthing] когда [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг захотел съесть [obj_food] когда [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг начал думать об своём [obj_relation] когда тихо [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] наполнило множество мыслей и чувств когда [obj] в одиночеств.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно начал плакать когда  [obj].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал тревогу когда [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал удушье [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] когда [obj].</Events.10.Story>
+			<Events.11.Story>Обеспокоенный [obj], [name] мог только [obj_badmood] что бы успокоить свой разум.</Events.11.Story>
+			<Events.12.Story>[name] ликовал из-за [obj_goodmood], и не мог помочь, но [obj] счастливо.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно понял что ошибся и топнул от злости когда [obj].</Events.13.Story>
+		</Text>
+		<Text Name="Fun_PlayTicTacToe">
+			<Events.1.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] затосковал по дому когда [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] начинает нести к [obj_friend] когда [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно заинтересовался [obj_nearthing] когда [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг захотел съесть [obj_food] когда [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг начал думать об своём [obj_relation] когда тихо [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] наполнило множество мыслей и чувств когда [obj] в одиночеств.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно начал плакать когда  [obj].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал тревогу когда [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал удушье [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] когда [obj].</Events.10.Story>
+			<Events.11.Story>Обеспокоенный [obj], [name] мог только [obj_badmood] что бы успокоить свой разум.</Events.11.Story>
+			<Events.12.Story>[name] ликовал из-за [obj_goodmood], и не мог помочь, но [obj] счастливо.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. внезапно песок попал в глаза [name] когда [obj].</Events.13.Story>
+		</Text>
+	</List>
+</Texts>

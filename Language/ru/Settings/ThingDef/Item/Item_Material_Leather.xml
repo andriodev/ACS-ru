@@ -1,0 +1,58 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="LeatherBase" sParam="Item">
+      <Item.FabaoSuffix>Кожа,Кожух,Завеса</Item.FabaoSuffix>
+      <Item.BeMaterial.NamePrefix>『Шкура』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_BoarLeather" sParam="Item">
+      <ThingName>Шкура Кабана</ThingName>
+      <Desc>Шкура дикого кабана, грубая по текстуре, но относительно прочная.</Desc>
+      <Item.BeMaterial.NamePrefix>『Шкура Кабана』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_RabbitLeather" sParam="Item">
+      <ThingName>Шкура Зайца</ThingName>
+      <Desc>Мех зайца, мягкий и очень тёплый.</Desc>
+      <Item.BeMaterial.NamePrefix>『Шкура Зайца』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_BearLeather" sParam="Item">
+      <ThingName>Шкура Медведя</ThingName>
+      <Desc>Мех медведя, мягкий и очень тёплый.</Desc>
+      <Item.BeMaterial.NamePrefix>『Шкура Медведя』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_WolfLeather" sParam="Item">
+      <ThingName>Шкура Волка</ThingName>
+      <Desc>Шкура волка, прочная и надежная.</Desc>
+      <Item.BeMaterial.NamePrefix>『Шкура Волка』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_FeiLeather" sParam="Item">
+      <ThingName>Шкура Фэй</ThingName>
+      <Desc>Шкура демонического зверя Фэй содержит магическую силу, которая согревает зимой и охлаждает летом, и даже может защитить от повреждений, нанесённых при помощи Ци.</Desc>
+      <Item.BeMaterial.NamePrefix>『Шкура Фэй』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LuShuLeather" sParam="Item">
+      <ThingName>Шкура Лушу</ThingName>
+      <Desc>Шкура духовного зверя Лушу содержит магическую силу, которая согревает зимой и охлаждает летом, и даже может защитить от повреждений, нанесённых при помощи Ци.</Desc>
+      <Item.BeMaterial.NamePrefix>『Шкура Лушу』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_CattleLeather" sParam="Item">
+      <ThingName>Шкура Быка</ThingName>
+      <Desc>Бычья шкура, прочная и надежная.</Desc>
+      <Item.BeMaterial.NamePrefix>『Бычья Шкура』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_TigerLeather" sParam="Item">
+      <ThingName>Шкура Тигра</ThingName>
+      <Desc>Шкура Тигра, прочная и надежная.</Desc>
+      <Item.BeMaterial.NamePrefix>『Шкура Тигра』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_YaoLeather" sParam="Item">
+      <ThingName>Шкура Демонического Зверя</ThingName>
+      <Desc>Шкура демонического зверя содержит демоническую силу, которая согревает зимой и охлаждает летом, и даже может защитить от повреждений, нанесённых при помощи Ци.</Desc>
+      <Item.BeMaterial.NamePrefix>『Шкура Демона』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_YaoLeather1" sParam="Item">
+      <ThingName>Крепкая Шкура Демона</ThingName>
+      <Desc>Прочная шкура великого демона содержит огромную демоническую силу, которая согревает зимой и охлаждает летом, и даже может защитить от сильных повреждений, нанесённых при помощи Ци.</Desc>
+      <Item.BeMaterial.NamePrefix>『Крепкая Шкура Демона』</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>

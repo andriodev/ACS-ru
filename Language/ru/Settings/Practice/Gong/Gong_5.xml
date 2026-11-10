@@ -1,0 +1,26 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_5_Tu">
+			<DisplayName>Кража Тайны Небес</DisplayName>
+			<Desc>Тысячи лет назад земля была вынуждена отделиться от неба, что привело к истощению ци в человеческом царстве, и вознесение стало невозможным. В отчаянии практикующий с редким даром открыл необычный путь и создал этоту Технику. Она не зависит от окружающей среды, но прорыв будет стоить жизненной силы. Поэтому культивировать эту технику может только человек с самым здоровым телом и различными редкими лекарствами для продления жизни.</Desc>
+			<SelectDesc>Практикующий преуспеет в защитных навыках. До тех пор, пока Золотое Ядро отвечает требованиям, прорывы будут успешными. Однако это будет стоить большую часть жизни во время культивации. Вы уверены, что хотите начать ввозвышение согласно этой технике?</SelectDesc>
+			<Stages.0.DisplayName>Сангвиническое поглощение</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Сангвиническое поглощение</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.1.DisplayName>Сгущение Ци</Stages.0.Necks.1.DisplayName>
+			<Stages.1.DisplayName>Жертвенная Преданность</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Жертвенная Преданность</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.1.DisplayName>Закалка</Stages.1.Necks.1.DisplayName>
+			<Stages.1.Necks.2.DisplayName>Сгущение Ядра</Stages.1.Necks.2.DisplayName>
+			<Stages.2.DisplayName>Изменение Скелета</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Изменение Скелета</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Интеграция</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Зарождение</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Сжигание Души</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Возжигание</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Сжигание</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>Последнее Решение</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Последнее Решение</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Вознесение</Stages.4.Necks.1.DisplayName>
+		</Text>
+	</List>
+</Texts>

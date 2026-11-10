@@ -1,0 +1,27 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="Item_BambooShoot" sParam="Item">
+      <ThingName>Бамбук</ThingName>
+      <Desc>Несколько побегов бамбука. Корень бамбука, который можно использовать для приготовления пищи, хрустящий и освежающий.</Desc>
+      <Item.FabaoSuffix>Шнур, Нить</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Bamboo" sParam="Item">
+      <ThingName>Стебель бамбука</ThingName>
+      <Desc>Пучок бамбука, который можно использовать для изготовления удочек и некоторых зданий. Съедобны только для панды.</Desc>
+	  <Item.FabaoSuffix>Палка</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_FishStick" sParam="Item">
+      <ThingName>Удочка</ThingName>
+      <Desc>Удочка. Некоторые рыбы привлекаются определенными элементами, и они также появляются только в разное время. Кроме того, чем выше уровень удилища, тем выше скорость ловли редких рыб.</Desc>
+      <Item.FabaoSuffix>Стержень, Леска, Проволока</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_PandaJade" sParam="Item">
+      <ThingName>Нефрит Панды </ThingName>
+      <StoryBnts.0.Name>Проверить</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Проверьте нефрит панды.</StoryBnts.0.Desc>
+    </Text>
+	<Text Name="Item_HorseFromJY_Panda" sParam="Item">
+      <ThingName>Духовный контракт:Панда</ThingName>
+    </Text>
+  </List>
+</Texts>

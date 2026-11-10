@@ -1,0 +1,17 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Body_Gong_3">
+			<DisplayName>Тело предков яогуай</DisplayName>
+			<Desc>Говорят, что это Закон совершенствования физического воспитания, переданный предками Яогуай. Этот Закон лучше всего подходит для преобразования органов, поскольку он считает, что в органах всех существ спрятаны бесчисленные сокровища, и понимание их секретов сделает физическое тело божественным и предаст забвению. Обратите внимание, что этот Закон содержит множество секретных тел, созданных специально для различных видов Яогуай, и если строение тела отличается, Закон будет трудно вступить в силу.</Desc>
+			<SelectDesc>Физическая подготовка означает объединение энергии, ци и духа в одно, отключение ци и любых других магических предметов и начало практики только с физического тела. Вы хотите принять этот Закон?</SelectDesc>
+			<Stages.0.DisplayName>Фаза восстановления</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Физическое возрождение</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Фаза очищения костного мозга</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Изменение костного мозга</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Фаза инкубации</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Объединяющее Единство</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Фаза хаоса</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Высшее наказание</Stages.3.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>

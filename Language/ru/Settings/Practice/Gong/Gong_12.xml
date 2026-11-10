@@ -1,0 +1,28 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_12_None">
+			<DisplayName>Пять Истинных Символов</DisplayName>
+			<Desc>Считается, что эта техника была создана Золотым Бессмертным Юньчжун Цзы.  Он нашел новый путь за пределами традиционной системы культивации Золотого Ядра. Воспользовавшись моментом прорыва, можно создать пять Натальных Талисманов, которые имеют весьма интересное применение.</Desc>
+			<SelectDesc>По мере продвижения в этой технике, вы можете конденсировать Пять Истинных Символов Жизни в Талисманы, чтобы получить постоянное увеличение Силы Заклинаний (или Силы Талисманов). Тем не менее, техника не дотягивает в области магии, будучи не очень хороша в сражениях.</SelectDesc>
+			<Stages.0.DisplayName>Ци</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Слияние</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nПрорыв на эту ступень будет сложнее для персонажей с низким Восприятием.</Stages.0.Necks.0.Desc>
+			<Stages.0.Necks.1.DisplayName>Внутреннее Море</Stages.0.Necks.1.DisplayName>
+			<Stages.1.DisplayName>Причинность</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Накопленние</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nПрорыв на эту ступень будет сложнее для персонажей с низким Телосложением.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.1.Necks.1.DisplayName>Первый Талисман</Stages.1.Necks.1.DisplayName>
+			<Stages.2.DisplayName>Вода и Огонь</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Талисман Огня</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Талисман Воды</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Сгущение Ядра</Stages.2.Necks.2.DisplayName>
+			<Stages.3.DisplayName>Изначальное Ядро</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Естественность</Stages.3.Necks.0.DisplayName>
+			<Stages.3.Necks.1.DisplayName>Изначальный Талисман</Stages.3.Necks.1.DisplayName>
+			<Stages.4.DisplayName>Чистый Янь</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Превращение</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Божественный Талисман</Stages.4.Necks.1.DisplayName>
+			<Stages.4.Necks.2.DisplayName>Восходящее Облако</Stages.4.Necks.2.DisplayName>
+		</Text>
+	</List>
+</Texts>

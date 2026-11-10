@@ -1,0 +1,129 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name = "Happy1">
+			<DisplayName> Внезапная бодрость </DisplayName>
+			<Desc> Не знаю почему, но мне вдруг стало весело. </Desc>
+			<StoryDesc> Ощущение, что когда человек такой веселый, это действительно делает день ярче </StoryDesc>
+		</Text>
+		<Text Name = "Happy2">
+			<DisplayName> Внезапное счастье </DisplayName>
+			<Desc> Почему-то я внезапно чувствую себя вполне счастливым. </Desc>
+			<StoryDesc> Чувство, что нет ничего плохого в небольшом дополнительном счастье </StoryDesc>
+		</Text>
+		<Text Name = "Happy3">
+			<DisplayName> Внезапные трудности </DisplayName>
+			<Desc> Я не знаю почему, но у меня внезапно возникли трудности. </Desc>
+			<StoryDesc> Чувство, что неизвестно почему, но все внезапно кажется немного удручающим </StoryDesc>
+		</Text>
+		<Text Name = "Happy4">
+			<DisplayName> Внезапное разочарование </DisplayName>
+			<Desc> Я встревожен, кажется, все становится хуже. </Desc>
+			<StoryDesc> Чувство, что неизвестно почему, но все кажется довольно удручающим </StoryDesc>
+		</Text>
+		<Text Name = "Happy5">
+			<DisplayName> Внезапная депрессия </DisplayName>
+			<Desc> Такое ощущение, что ничего не получается ... </Desc>
+			<StoryDesc> Чувство, что неизвестно почему, но все кажется довольно обескураживающим </StoryDesc>
+		</Text>
+		<Text Name = "Happy6">
+			<DisplayName> Внезапный прилив воодушевления </DisplayName>
+			<Desc> Я чувствую себя загорелым! Как будто я мог бы покорить мир! </Desc>
+			<StoryDesc> Ощущение, будто духи внезапно воспаряют </StoryDesc>
+		</Text>
+		<Text Name = "Happen1">
+			<DisplayName> Неописуемое настроение </DisplayName>
+			<Desc> Меня охватывает непередаваемое чувство ... </Desc>
+			<StoryDesc> Ощущение, что искаженное выражение лица мало свидетельствует о том, какие мысли скрываются под этим </StoryDesc>
+		</Text>
+		<Text Name = "Happen2">
+			<DisplayName> Непередаваемое настроение </DisplayName>
+			<Desc> Я чувствую себя совсем одиноким ... </Desc>
+			<StoryDesc> Ощущение ощущения отчаяния </StoryDesc>
+		</Text>
+		<Text Name = "Happen3">
+			<DisplayName> Забавное чувство </DisplayName>
+			<Desc> Я чувствую, что за мной наблюдают ... </Desc>
+			<StoryDesc> Ощущение, что за человеком наблюдают, всегда доставляет дискомфорт </StoryDesc>
+		</Text>
+		<Text Name = "Happen4">
+			<DisplayName> Слышу </DisplayName>
+			<Desc> Кто-нибудь со мной разговаривает? Такое ощущение, что кто-то шепчет мне в воздухе, но слова не разобрать ... это раздражает. </Desc>
+			<StoryDesc> Ощущение, что слух действительно действует на нервы </StoryDesc>
+		</Text>
+		<Text Name = "Magic1">
+			<DisplayName> Необъяснимо хорошее настроение </DisplayName>
+			<Desc> Мне почему-то очень хорошо. </Desc>
+			<StoryDesc> Чувство, что Кто знает почему, но кто будет жаловаться на улыбку на лице? </StoryDesc>
+		</Text>
+		<Text Name = "Magic2">
+			<DisplayName> Безмерная скорбь </DisplayName>
+			<Desc> Я чувствую себя ужасно, но не знаю почему. </Desc>
+			<StoryDesc> Ощущение, что что-то необъяснимо, кажется, вызывает огромное горе </StoryDesc>
+		</Text>
+		<Text Name = "ZhenkongJie">
+			<DisplayName> Проклятие Бездны </DisplayName>
+			<Desc> Я чувствую себя опустошенным. </Desc>
+			<StoryDesc> Ощущение, что эта скорбь оставляет чувство опустошенности и неловкости </StoryDesc>
+		</Text>
+		<Text Name = "FengShui1">
+			<DisplayName> Хороший фен-шуй </DisplayName>
+			<Desc> Фэн-шуй этой комнаты неплох, это как благословение. </Desc>
+			<StoryDesc> Ощущение, что такой хороший фен-шуй заставляет сиять </StoryDesc>
+		</Text>
+		<Text Name = "FengShui2">
+			<DisplayName> Благоприятный фен-шуй </DisplayName>
+			<Desc> По фен-шуй эта комната неплохая, в результате дела вроде идут хорошо. </Desc>
+			<StoryDesc> Ощущение, что такой хороший фен-шуй придает сияние ауре </StoryDesc>
+		</Text>
+		<Text Name = "FengShui3">
+			<DisplayName> Не лучший фен-шуй </DisplayName>
+			<Desc> Фен-шуй в этой комнате действительно не самый лучший и вызывает много проблем. </Desc>
+			<StoryDesc> Ощущение, что далеко не идеальный фэн-шуй усложняет жизнь этому человеку </StoryDesc>
+		</Text>
+		<Text Name = "FengShui4">
+			<DisplayName> Плохой фен-шуй </DisplayName>
+			<Desc> Фен-шуй в этой комнате ужасен, и кажется, что в последнее время весь мир против. </Desc>
+			<StoryDesc> Ощущение того, что фэн-шуй такой плохой, оставляет чувство мрачности и мрачности </StoryDesc>
+		</Text>
+		<Text Name = "FengShui5">
+			<DisplayName> Плохой фен-шуй </DisplayName>
+			<Desc> Думаю, в этой комнате что-то не так с фен-шуй. </Desc>
+			<StoryDesc> Ощущение, что этот бедняк по фен-шуй хмурит лицо </StoryDesc>
+		</Text>
+		<Text Name = "Tool_PerfectWorld">
+			<DisplayName> Прекрасный мир </DisplayName>
+			<Desc> Такой прекрасный мир, все кажется таким интересным. </Desc>
+			<StoryDesc> Чувство, что понимание того, что этот мир так прекрасен, оставляет очень довольным </StoryDesc>
+		</Text>
+		<Text Name = "Mood_Tool_LunHui_QiYuan">
+			<DisplayName> Сердце молитвы </DisplayName>
+			<Desc> Я действительно чувствую силу Сердца Молитвы! </Desc>
+			<StoryDesc> Ощущение, что сила Сердца Молитвы оставляет довольным </StoryDesc>
+		</Text>
+		<Text Name = "Dan_LunHui1">
+			<DisplayName> Прикоснулся </DisplayName>
+			<Desc> Я чувствую себя тронутым этим воспоминанием и в результате немного довольным. </Desc>
+			<StoryDesc> Ощущение, что такое волнующее воспоминание оставляет человека в глубокой задумчивости </StoryDesc>
+		</Text>
+		<Text Name = "Mood_Item_Laxative">
+			<DisplayName> Разваливаясь </DisplayName>
+			<Desc> Я чувствую, что разваливаюсь ... Мне не очень хорошо. </Desc>
+			<StoryDesc> Ощущение, что диарея никогда не приветствуется, она всегда омрачает день </StoryDesc>
+		</Text>
+		<Text Name = "Mood_LunHui_ShiYi">
+			<DisplayName> В мгновение ока </DisplayName>
+			<Desc> Я стараюсь наслаждаться моментом, а не зацикливаться на прошлом. </Desc>
+			<StoryDesc> Ощущение, будто что-то готовится к ... </StoryDesc>
+		</Text>
+		<Text Name = "Mood_LunHui_XinNian">
+			<DisplayName> Осуждение </DisplayName>
+			<Desc> Я верю в Закон, и без него меня не беспокоит. </Desc>
+			<StoryDesc> Ощущение, что убежденность воодушевляет </StoryDesc>
+		</Text>
+		<Text Name = "Mood_GreenBrothel">
+			<DisplayName> Чувствую себя хорошо </DisplayName>
+			<Desc> Просто освободились, и это было хорошо. </Desc>
+			<StoryDesc> Ощущение, что я попал в Зеленую пагоду, и это было очень хорошо </StoryDesc>
+		</Text>
+	</List>
+</Texts>

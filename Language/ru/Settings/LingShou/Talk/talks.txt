@@ -1,0 +1,465 @@
+﻿talk	notarget	int	string	float	thing
+NotEatShit	Мне бы и в голову не пришло есть фекалии				
+NotEatEssence	Я бы не стал есть редкие материалы, если бы они не были скормлены мне				
+NotEatDrug	Я бы даже не стал закусывать эликсирами, если бы от этого зависела моя жизнь, если только они не накормят меня				
+NotEatWheat	Я ем пшеницу только когда хорошо и голодно				
+NotEatDryMeat	Я действительно не стал бы есть сушеное мясо				
+NotEatPear	Что такое "груша"? Ты можешь его съесть				
+NotEatMeat	Сырое мясо отвратительно, я бы ел его, только если бы от этого зависела моя жизнь				
+NotEatCook	Нет такой пищи, которую я хотел бы есть меньше, чем приготовленную пищу				
+NotBiteBuilding	Я действительно не хочу нападать на здания				
+NotBiteClothes	Я бы не стал играть с одеждой				
+NotBiteOuter	Я бы не стал нападать на внешних учеников				
+NotBiteInner	Я бы не стал нападать на внутренних учеников				
+NotBiteVisitor	Я бы не стал нападать на посетителей				
+NotBiteIncoming	Я бы не стал нападать на проходящего мимо смертного				
+NotAtkEnemy	Я не собираюсь нападать на врагов, если они не сделали первый шаг				
+NotShitAtShitPlace	Я не собираюсь испражняться там, где ты должен				
+NotShitAtPlants	Я не собираюсь испражняться на растения				
+NotShitAtDogHouse	Я не собираюсь испражняться у своей кровати				
+NotShitAtStorage	Я не собираюсь испражняться на складе				
+NotShitOnBed	Я не собираюсь испражняться на кровать				
+NotShitInFarm	Я не собираюсь испражняться в поле				
+NotCarryOuterToBed	Я бы не стал переносить бессознательных учеников на кровать				
+NotCarryVisitorToDest	Я не собираюсь переносить бессознательных посетителей на плацдарм				
+NotCarryEnemyToDest	Я не собираюсь перемещать бессознательных врагов на плацдарм				
+NotCarryIncomingToDest	Я не собираюсь переносить бессознательных смертных на плацдарм				
+NotCarryEnemyBodyToDest	Я не собираюсь переносить вражеские трупы на плацдарм				
+NotCarryVisitorBodyToDest	Я не собираюсь переносить трупы посетителей на плацдарм				
+NotCarryIncomingBodyToDest	Я не собираюсь переносить трупы смертных на плацдарм				
+NotHelpCarry	Я бы не стал помогать организовывать предметы				
+NotHelpTimber	Я бы не стал помогать валить деревья				
+NotHelpMine	Я бы не стал помогать своим				
+NotHelpFind	Я бы не стал помогать воровать вещи				
+NotHelpKill	Я бы не стал помогать убивать животных				
+NotHelpPlant	Я бы не стал помогать удобрять растения				
+NotCureFreeze	Я не помогу вылечить обморожение				
+NotCureHot	Я не помогу вылечить тепловой удар				
+NotHelpCook	Я бы не стала помогать кухарке				
+NotHeatEndure	Я бы не помог увеличить теплостойкость				
+NotColdEndure	Я бы не помог увеличить холодостойкость				
+NotHelpPlay	Я бы не стал играть вместе с учениками				
+NotPlayToy	Я бы не стал играть с игрушками				
+NotTrainQiGan	Я бы не стал оттачивать Ци				
+NotTrainNeiDan	Я бы не стал практиковать ядро				
+NotTrainHuTi	Я бы не стал оттачивать защиту				
+NotTrainLingZhi	Я бы не стал оттачивать интеллект				
+NotTrainShuFa	Я бы не стал практиковать заклинания				
+WannaEatShit					Это {0}, Есть ли в нем что-то хорошее
+WannaEatEssence					От этого {0} у меня слюнки текут
+WannaEatDrug					Я хочу, чтобы перекусить на эликсиры
+WannaEatWheat					Это {0} выглядит просто божественно
+WannaEatDryMeat					Я не могу устоять перед ароматом {0}
+WannaEatPear					Я больше не могу этого выносить, я хочу есть {0}
+WannaEatMeat					Я собираюсь съесть это {0}
+WannaEatCook					Я очень хочу есть {0}
+WannaBiteBuilding					{0}, я терпел тебя довольно долго
+WannaBiteClothes					Это {0} должно быть хорошо, чтобы скрежетать зубами
+WannaBiteOuter					Интересно, каков на вкус внешний ученик {0} 
+WannaBiteInner					Пора показать внутреннему ученику {0} мою истинную силу
+WannaBiteVisitor					Посетитель {0} выглядит как хороший человек для практики навыков
+WannaBiteIncoming					Гость {0} выглядит как хороший человек для практики навыков
+WannaAtkEnemy					{0}, ваше время пришло
+WannaShitAtShitPlace					Я хочу испражняться там, где мне положено
+WannaShitAtPlants					Я хочу испражняться на растения
+WannaShitAtDogHouse					Я хочу испражняться в постели
+WannaShitAtStorage					Мои фекалии драгоценны, Склад было бы отличным местом для них
+WannaShitOnBed					Интересно было бы испражниться на кровать
+WannaShitInFarm					Дефекация в поле должна помочь, верно
+WannaCarryOuterToBed					Я должен помочь бессознательному {0}
+WannaCarryVisitorToDest					Я хочу переместить бессознательного посетителя {0} в промежуточную зону
+WannaCarryEnemyToDest					Я хочу, чтобы двигаться без сознания противника {0} в промежуточной области
+WannaCarryIncomingToDest					Я хочу переместить бессознательного гостя {0} в промежуточную зону
+WannaCarryEnemyBodyToDest					Я хочу, чтобы переместить противника {0}'с трупом в промежуточной области
+WannaCarryVisitorBodyToDest					Я хочу переместить труп посетителя {0} в промежуточную зону
+WannaCarryIncomingBodyToDest					Я хочу переместить труп гостя {0} в промежуточную зону
+WannaHelpCarry	Я хочу помочь организовать вещи				
+WannaHelpTimber	Похоже, эти деревья нужно срубить, позвольте мне помочь				Похоже, эти деревья нужно срубить, позвольте мне помочь
+WannaHelpMine	Эти камни выглядят ценными, возьмите это!				Эти камни выглядят ценными, возьмите это!
+WannaHelpFind	Дай-ка я посмотрю, что у этих ребят есть на них.				Дай-ка я посмотрю, что у этих ребят есть на них.
+WannaHelpKill	Трупы нельзя оставлять гнить, позвольте мне протянуть вам руку помощи				Трупы нельзя оставлять гнить, позвольте мне протянуть вам руку помощи
+WannaHelpPlant	Растения в поле выглядят полезными, позвольте мне помочь их удобрить				Растения в поле выглядят полезными, позвольте мне помочь их удобрить
+WannaCureFreeze	{0} обморожение серьезное, позволь мне его вылечить				{0} обморожение серьезное, позволь мне его вылечить
+WannaCureHot	{0} тепловой удар-это серьезно, позвольте мне его вылечить				{0} тепловой удар-это серьезно, позвольте мне его вылечить
+WannaHeatEndure	Я хочу помочь увеличить теплостойкость				Я хочу помочь увеличить теплостойкость
+WannaColdEndure	Я хочу помочь увеличить холодостойкость				Я хочу помочь увеличить холодостойкость
+WannaHelpPlay	Похоже, что {0} не в хорошем настроении				Похоже, что {0} не в хорошем настроении
+WannaPlayToy	Я хочу играть с {0} так, как будто завтрашнего дня нет				Я хочу играть с {0} так, как будто завтрашнего дня нет
+DoTalkEatShit					В настоящее время я ем {0}
+DoTalkEatEssence					В настоящее время я ем {0}
+DoTalkEatDrug					В настоящее время я ем {0}
+DoTalkEatWheat					В настоящее время я ем {0}
+DoTalkEatDryMeat					В настоящее время я ем {0}
+DoTalkEatPear					В настоящее время я ем {0}
+DoTalkEatMeat					В настоящее время я ем {0}
+DoTalkEatCook					В настоящее время я ем {0}
+DoTalkEat					В настоящее время я наслаждаюсь {0}
+DoTalkBiteBuilding					Я скрежещу зубами от {0}
+DoTalkBiteClothes					В настоящее время я атакую {0}
+DoTalkBiteOuter					В настоящее время я атакую {0}
+DoTalkBiteInner					Я кусаю посетителя {0}
+DoTalkBiteVisitor					Я кусаю гостя {0}
+DoTalkBiteIncoming					Я кусаюсь {0}
+DoTalkBiteBuildingEx					Я безжалостно кусая {0}
+DoTalkBiteClothesEx					Я пытаюсь жевать {0}
+DoTalkBiteOuterEx					Я кусаю {0} так сильно, как только могу
+DoTalkBiteInnerEx					Я кусаю {0} так сильно, как только могу
+DoTalkBiteVisitorEx					Я кусаю посетителя {0} так сильно, как только могу
+DoTalkBiteIncomingEx					Я кусаю гостя {0} так сильно, как только могу
+DoTalkAtkEnemy					В данный момент я атакую {0}!
+DoTalkShitAtShitPlace					Я пользуюсь туалетом
+DoTalkShitAtPlants					Я испражняюсь рядом с {0}
+DoTalkShitAtDogHouse					Я испражняюсь у своей кровати
+DoTalkShitAtStorage					Я испражняюсь на складе
+DoTalkShitOnBed					Я испражняюсь на кровать
+DoTalkShitInFarm					Я испражняюсь в поле
+DoTalkCarryOuterToBed					Я двигаюсь в бессознательном состоянии {0} к кровати.
+DoTalkCarryVisitorToDest					В настоящее время я перемещаю бессознательного посетителя {0} в промежуточную зону
+DoTalkCarryEnemyToDest					В настоящее время я перемещаю бессознательного врага {0} в плацдарм
+DoTalkCarryIncomingToDest					В настоящее время я перемещаю бессознательного гостя {0} в промежуточную зону
+DoTalkCarryEnemyBodyToDest					В настоящее время я перемещаю труп {0} в промежуточную зону
+DoTalkCarryVisitorBodyToDest					В настоящее время я перемещаю труп {0} в промежуточную зону
+DoTalkCarryIncomingBodyToDest					В настоящее время я перемещаю труп {0} в промежуточную зону
+DoTalkHelpCarry					Я помогаю организовывать вещи
+DoTalkHelpTimber					Я помогаю рубить деревья
+DoTalkHelpMine					Я помогаю своим
+DoTalkHelpFind					Я ворую вещи
+DoTalkHelpKill					Я убиваю животных
+DoTalkHelpPlant					Я удобряю растения
+DoTalkCureFreeze					Я лечу обморожение {0}
+DoTalkCureHot					Я лечу тепловой удар {0}
+DoTalkHelpCook					Я помогаю готовить
+DoTalkHeatEndure					Я помогаю увеличить теплостойкость
+DoTalkColdEndure					Я помогаю повысить устойчивость к холоду
+DoTalkHelpPlay					Мне весело вместе с {0}
+DoTalkPlayToy					Я играю {0}
+DoTalkPlaySelf					Я развлекаюсь сам по себе
+DoTalkTrainQiGan	Я практикую способности на основе Ци				
+DoTalkTrainNeiDan	Я практикую ядро				
+DoTalkTrainHuTi	Я практикую защиту на основе способности				
+DoTalkTrainLingZhi	Я практикую интеллектуальные способности				
+DoTalkTrainShuFa	Я практикую заклинательные способности				
+DoTalkFollow					
+DoTalkLay					
+DoTalkWander					
+CantEatShit	У меня нет никаких фекалий, чтобы есть				
+CantEatEssence	Там нет редкого материала для меня, чтобы поесть				
+CantEatDrug	Нет никакого эликсира для меня, чтобы принять				
+CantEatWheat	У меня нет пшеницы, чтобы есть				
+CantEatDryMeat	У меня нет сушеного мяса, чтобы поесть				
+CantEatPear	У меня нет груш, чтобы поесть				
+CantEatMeat	Сырого мяса для меня нет				
+CantEatCook	Там нет вареного мяса для меня, чтобы поесть				
+CantBiteBuilding	Здесь нет зданий, которые я мог бы укусить.				
+CantBiteClothes	Нет никакой одежды для меня, чтобы укусить				
+CantBiteOuter	У меня нет внешних учеников, которых я мог бы укусить.				
+CantBiteInner	У меня нет внутренних учеников, которых я мог бы укусить.				
+CantBiteVisitor	Здесь нет посетителей, которых я мог бы укусить.				
+CantBiteIncoming	Нет смертных, которых я мог бы укусить.				
+CantAtkEnemy	У меня нет врагов, на которых я мог бы напасть.				
+CantShitAtShitPlace	Нет туалетов в использовании				
+CantShitAtPlants	Здесь нет растений, на которые я мог бы испражняться.				
+CantShitAtDogHouse	Здесь нет гнезд, в которые я мог бы испражняться.				
+CantShitAtStorage	Здесь нет складов, где я мог бы испражняться.				
+CantShitOnBed	Здесь нет кроватей, на которых я мог бы испражняться.				
+CantShitInFarm	Здесь нет полей, где я мог бы испражняться.				
+CantCarryOuterToBed	У меня нет учеников, чтобы переехать в постель.				
+CantCarryVisitorToDest	Там нет посетителей, которых я могу переместить в промежуточную зону				
+CantCarryEnemyToDest	Там нет врагов, которых я могу переместить в плацдарм				
+CantCarryIncomingToDest	Нет смертных, которых я мог бы переместить в плацдарм.				
+CantCarryEnemyBodyToDest	Нет никаких вражеских трупов, которые я мог бы переместить на плацдарм				
+CantCarryVisitorBodyToDest	Нет никаких трупов посетителей, которые можно было бы переместить в плацдарм				
+CantCarryIncomingBodyToDest	Нет никаких трупов посетителей, которые можно было бы переместить в плацдарм				
+CantHelpCarry	Нет никаких предметов, которые я мог бы помочь организовать				
+CantHelpTimber	Здесь нет деревьев, которые я мог бы срубить				
+CantHelpMine	Нет никаких шахт для меня, чтобы помочь моим				
+CantHelpFind	Мне не у кого воровать				
+CantHelpKill	У меня нет врагов, которых я мог бы убить.				
+CantHelpPlant	Там нет посевов, которые нужно поливать				
+CantCureFreeze	Нет никого с обморожением, чтобы исцелить				
+CantCureHot	Нет никого с тепловым ударом, чтобы исцелить				
+CantHelpCook	Я все еще не готова помогать кухарке				
+CantHeatEndure	Я все еще не готов увеличить теплостойкость				
+CantColdEndure	Я все еще не готов исцелить сопротивление холоду				
+CantHelpPlay	Нет учеников, с которыми можно было бы играть				
+CantPlayToy	Здесь нет игрушек, чтобы играть				
+NoParam2CarryVisitorToDest					Я не нашел Промежуточной зоны, в которую можно было бы переместить посетителя {0} 
+NoParam2CarryEnemyToDest					Я не нашел плацдарма, куда можно было бы переместить врага {0} 
+NoParam2CarryIncomingToDest					Я не нашел Промежуточной зоны, в которую можно было бы переместить mortal {0} 
+NoParam2CarryEnemyBodyToDest					Я не нашел плацдарма, куда можно было бы переместить труп врага {0}
+NoParam2CarryVisitorBodyToDest					Я не нашел плацдарма, куда можно было бы переместить труп посетителя {0}
+NoParam2CarryIncomingBodyToDest					Я не нашел плацдарма, куда можно было бы переместить труп смертного {0}
+NoParam2HelpCarry	Я все еще не готова помочь сдвинуть что-нибудь				
+NoParam2HelpTimber	Я все еще не готов помочь поваленным деревьям				
+NoParam2HelpMine	Я все еще не готов помочь своим				
+NoParam2HelpPlant	Я все еще не готова помогать распространять удобрения				
+NoParam2CureFreeze	Я все еще не готова исцелить обморожение				
+NoParam2CureHot	Я все еще не готова исцелить тепловой удар				
+NoParam2HelpCook	Я все еще не готова помогать кухарке				
+DrinkTalk1	Я хочу выпить немного воды				
+DrinkTalk2	Я хочу пить				
+DrinkTalk3	Я пью воду				
+NotAtkDizzyOuter	Я бы не стал нападать на бессознательных внутренних учеников				
+NotAtkDizzyInner	Я бы не стал нападать на бессознательных внутренних учеников				
+NotAtkDizzyComing	Я бы не стал нападать на бессознательного смертного				
+NotAtkDizzyVisitor	Я бы не стал нападать на бессознательного посетителя				
+NoTongXie	Я не могу найти никаких слабительных				
+WannaAtkDizzyOuter					Я хочу положить конец страданиям внешнего ученика {0}
+WannaAtkDizzyInner					Я хочу положить конец страданиям внутреннего ученика {0}
+WannaAtkDizzyComing					У бессознательного гостя {0} совсем лопнул шов, к счастью, я здесь
+WannaAtkDizzyVisitor					Бессознательный посетитель {0}, похоже, испытывает боль, и я хотел бы что-то с этим сделать
+DoTalkAtkDizzyOuter					В настоящее время я атакую бессознательного внешнего ученика {0}
+DoTalkAtkDizzyInner					В настоящее время я атакую бессознательного внутреннего ученика {0}
+DoTalkAtkDizzyComing					В настоящее время я атакую бессознательного смертного {0}
+DoTalkAtkDizzyVisitor					В настоящее время я атакую бессознательного посетителя {0}
+CantAtkDizzyOuter	Нет бессознательных внешних учеников, на которых я мог бы напасть				
+CantAtkDizzyInner	Нет бессознательных внутренних учеников, на которых я мог бы напасть				
+CantAtkDizzyComing	Нет бессознательных смертных, на которых я мог бы напасть.				
+CantAtkDizzyVisitor	Там нет бессознательных посетителей, на которых я могу напасть				
+NotFeedTongXie	Я бы не стал давать внешним ученикам слабительное для еды				
+NotCureInner	Я не могу исцелить раны внутренних учеников				
+WannaFeedTongXie	Я хочу дать немного слабительного внешним ученикам, чтобы они поели				Я хочу дать немного слабительного внешнему ученику {0}, чтобы поесть
+WannaCureInner	Я не могу исцелить раны внутренних учеников				Я хочу исцелить раны внутреннего ученика {0}
+DoTalkFeedTongXie					Я даю внешнему ученику {0} слабительное, чтобы поесть
+DoTalkCureInner					Я исцеляю раны внутреннего ученика {0}
+CantFeedTongXie	Нет внешних учеников, которым я мог бы дать слабительное.				
+CantCureInner	У меня нет внутренних учеников, которых я мог бы исцелить.				
+NoParam2FeedTongXie					Я хотел бы дать внешнему ученику {0} слабительное, чтобы поесть, но у меня его нет
+NoParam2CureInner					Я хочу исцелить раны внутреннего ученика {0}, но сейчас не время
+NotHelpPlantD	Я бы не стал мочиться в травяной сад				
+WannaHelpPlantD	Я хочу помочь поливать травяной сад				
+DoTalkHelpPlantD	Я помогаю поливать травяной сад				
+CantHelpPlantD	Я никак не могу помочь поливать травяные сады				
+NoParam2HelpPlantD	Я еще не готова к воде				
+NotCarryOuterBodyToDest	Я не собираюсь переносить трупы внешних учеников на плацдарм				
+NotCarryInnerBodyToDest	Я не собираюсь переносить трупы внутренних учеников на плацдарм				
+WannaCarryOuterBodyToDest	Я хочу перенести трупы внешних учеников на плацдарм				
+WannaCarryInnerBodyToDest	Я хочу перенести трупы внутренних учеников на плацдарм				
+DoTalkCarryOuterBodyToDest	В настоящее время я перемещаю труп внешнего ученика {0} в промежуточную зону				
+DoTalkCarryInnerBodyToDest	В настоящее время я перемещаю труп внутреннего ученика {0} в промежуточную зону				
+CantCarryOuterBodyToDest	У меня нет никакого способа переместить трупы внешних учеников в плацдарм				
+CantCarryInnerBodyToDest	У меня нет никакого способа переместить трупы внутренних учеников на плацдарм				
+Sleep1	Я хочу спать				
+Sleep2	Я едва могу держать глаза открытыми				
+Sleep3	Я слышу, как страна грез зовет меня.				
+Wonder1	Оглянитесь вокруг				
+Wonder2	Взгляните на пейзаж				
+Wonder3	Вышел прогуляться!				
+Lay1	Наслаждаться ветерком				
+Lay2	Пора немного отдохнуть				
+Lay3	Я не хочу двигаться				
+Follow1	Проверьте, что этот человек задумал				
+Follow2	Этот человек странно пахнет				
+Follow3	Этот человек привлек мое внимание				
+Eat1	Я умираю с голоду				
+Eat2	Я так голодна, что не могу сделать больше ни шагу.				
+Eat3	Время, чтобы поесть				
+NotFeed_Item_Dan_Happiness	Иногда я даю Пилюли эйфории внутренним ученикам				
+NotFeed_Item_Dan_PracticeSpeed	Я бы не стал давать пилюли ростков внутренним ученикам, чтобы они их принимали				
+NotFeed_Item_Dan_CalmDown	Я бы не стал давать Пилюли чистоты внутренним ученикам, чтобы они их принимали				
+NotFeed_Item_LingStone	Я бы не дал внутренним ученикам духовные камни взять				
+NotFeed_Item_LingCrystal	Я бы не дал внутренним ученикам кристаллы духа, чтобы взять их				
+WannaFeed_Item_Dan_Happiness	Я хочу дать Пилюли эйфории внутренним ученикам, чтобы они приняли их				
+WannaFeed_Item_Dan_PracticeSpeed	Я хочу дать ростковые пилюли внутренним ученикам, чтобы они их приняли				
+WannaFeed_Item_Dan_CalmDown	Я хочу дать Пилюли чистоты внутренним ученикам, чтобы они их приняли				
+WannaFeed_Item_LingStone	Я хочу дать духовные камни внутренним ученикам, чтобы они взяли их				
+WannaFeed_Item_LingCrystal	Я хочу дать духовные кристаллы внутренним ученикам Тэ				
+DoTalkFeed_Item_Dan_Happiness	Я даю Пилюли эйфории внутренним ученикам, чтобы они их принимали				
+DoTalkFeed_Item_Dan_PracticeSpeed	Я даю ростковые пилюли внутренним ученикам, чтобы они их принимали				
+DoTalkFeed_Item_Dan_CalmDown	Я даю Пилюли чистоты внутренним ученикам, чтобы они их принимали				
+DoTalkFeed_Item_LingStone	Я даю внутренним ученикам духовные камни, чтобы они взяли их				
+DoTalkFeed_Item_LingCrystal	Я даю внутренним ученикам кристаллы духа, чтобы они взяли их				
+CantFeed_Item_Dan_Happiness	Нет никакого способа, которым я мог бы дать внутренним ученикам Пилюли эйфории, чтобы принять их				
+CantFeed_Item_Dan_PracticeSpeed	Нет никакого способа, которым я мог бы дать внутренним ученикам Пилюли для прорастания				
+CantFeed_Item_Dan_CalmDown	Нет никакого способа, которым я мог бы дать внутренним ученикам Пилюли чистоты, чтобы принять их				
+CantFeed_Item_LingStone	Нет никакого способа, которым я мог бы дать духовные камни внутренним ученикам, чтобы они взяли их				
+CantFeed_Item_LingCrystal	Нет никакого способа, которым я мог бы дать духовные кристаллы внутренним ученикам, чтобы они взяли их				
+NoParam2Feed_Item_Dan_Happiness	Я не могу найти никаких таблеток эйфории				
+NoParam2Feed_Item_Dan_PracticeSpeed	Я не могу найти никаких таблеток для прорастания				
+NoParam2Feed_Item_Dan_CalmDown	Я не могу найти никаких таблеток чистоты				
+NoParam2Feed_Item_LingStone	Я не могу найти никаких духовных камней				
+NoParam2Feed_Item_LingCrystal	Я не могу найти никаких кристаллов Духа				
+QiGanResult_Low	Способность Ци немного возросла				
+NeiDanResult_Low	Основной возросла Литт немного				
+HuTiResult_Low	Защитная способность немного возросла				
+LingZhiResult_Low	Способность к интеллекту немного возросла				
+ShuFaResult_Low	Способность к колдовству немного возросла				
+QiGanResult_Mid	Способность Ци довольно сильно возросла				
+NeiDanResult_Mid	Ядро увеличилось совсем немного				
+HuTiResult_Mid	Защитная способность значительно возросла				
+LingZhiResult_Mid	Способность к интеллекту значительно возросла				
+ShuFaResult_Mid	Способность к колдовству значительно возросла				
+QiGanResult_High	Способность Ци значительно возросла				
+NeiDanResult_High	Внутреннее ядро значительно увеличилось				
+HuTiResult_High	Защитная способность значительно возросла				
+LingZhiResult_High	Способность к интеллекту значительно возросла				
+ShuFaResult_High	Способность к заклинанию значительно возросла				
+NotBiteExpel	Я не могу кусать смертных, которых не знаю.				
+WannaBiteExpel					Я хочу укусить неизвестного смертного {0}!
+DoTalkBiteExpel					В настоящее время я кусаю неизвестного смертного {0}
+CantBiteExpel	Я не могу кусать смертных, которых не знаю!				
+NotCarryMortalToDest	Я не собираюсь переносить бессознательных смертных на плацдарм				
+NotCarryMortalBodyToDest	Я не собираюсь переносить трупы смертных на плацдарм				
+WannaCarryMortalToDest					Смертный {0} упал в обморок, я хочу их сдвинуть
+WannaCarryMortalBodyToDest					Смертный {0} умер, я хочу переместить их
+DoTalkCarryMortalToDest					В настоящее время я перемещаю бессознательного смертного {0} в промежуточную зону
+DoTalkCarryMortalBodyToDest					В настоящее время я перемещаю труп смертного {0} в промежуточную зону
+CantCarryMortalToDest	У меня нет возможности переместить бессознательных смертных в плацдарм				
+CantCarryMortalBodyToDest	У меня нет никакого способа переместить трупы смертных в плацдарм				
+Nothing	Ничего не произошло				
+No_NutritionQiGan	Нет питания для Ци, нет смысла практиковать				
+No_NutritionNeiDan	Нет питания для внутреннего ядра, нет смысла практиковать				
+No_NutritionHuTi	Нет питания для защиты, нет смысла практиковать				
+No_NutritionLingZhi	Нет питания для интеллекта, нет смысла практиковать				
+No_NutritionShufa	Нет никакой пищи для колдовства, нет никакого смысла практиковать				
+WannaEat					Основываясь на своем плане диеты, я решил что-нибудь съесть
+WannaTrainShuFa	Я хочу практиковать способности, основанные на заклинаниях				
+WannaTrainLingZhi	Я хочу практиковать способности, основанные на интеллекте				
+WannaTrainHuTi	Я хочу практиковать способности, основанные на защите				
+WannaTrainNeiDan	Я хочу практиковать внутреннее ядро				
+WannaTrainQiGan	Я хочу практиковать способности, основанные на Ци				
+NothingToEat	Здесь нечего есть! Я точно голоден				
+NotEat_Item_SnakeGallbladder	Я бы не стал есть змеиную желчь				
+NotEat_Item_BearGallbladder	Я бы не стал есть медвежью желчь				
+NotEat_Item_RedGinseng	Я бы не стал есть красный женьшень				
+NotEat_Item_PurpleGanodermaLucidum	Я бы не стал есть пурпурную Ганодерму				
+NotEat_Item_TuEssence	Я бы не стал есть эссенцию охры				
+NotEat_Item_HuoEssence	Я бы не стал есть Багровый плод				
+NotEat_Item_ShuiEssence	Я бы не стал есть призму лотоса				
+NotEat_Item_JinEssence	Я бы не стал есть плоды мудрости				
+NotEat_Item_MuEssence	Я бы не стал есть корявую лозу				
+NotEat_Item_LifeStream	Я бы не стал пить родник жизни				
+NotEat_Item_LongEgg	Я бы не стал есть яйца дракона наводнения				
+NotEat_Item_FengEgg	Я бы не стал есть яйца Феникса				
+NotEat_Item_DragonShit	Я бы не стал есть Драконьи экскременты				
+NotEat_Item_Jiaozi	Я бы не стал есть пельмени				
+NotEat_Item_BossFeng_Meat	Я бы не стал есть плоть Феникса				
+NotEat_Item_BossLong_Meat	Я бы не стал есть драконью плоть				
+NotEat_Item_BossZhuLong_Meat	Я бы не стал есть первобытную плоть				
+NotEat_Item_Cake	Я бы не стал есть хлеб				
+NotEat_Item_MonsterBlood	Я бы не стал есть звериную кровь				
+NotEat_Item_EarthEssence	Я бы не стал пить земной флюс				
+NotEat_Item_SilverGrit	Я бы не стал есть порошок Инея				
+NotEat_Item_CopperGrit	Я бы не стал есть порошок Игнеокоппера				
+NotEat_Item_Cinnabar	Я бы не стал есть киноварь				
+NotEat_Item_LingMuXueJie	Я бы не стал есть эссенцию смолы				
+NotEat_Item_EarthEssence_1	Я бы не стал есть Святую эссенцию				
+NotEat_Item_EarthEssence1_1	Я бы не стал есть злую сущность				
+NotEat_Item_Healroot	Я бы не стал есть целебную траву				
+NotEat_Item_Mint	Я бы не стал есть лист чистоты				
+NotEat_Item_MagicHerb	Я бы не стал есть духовный лист				
+NotEat_Item_Laxative	Я бы не стал есть слабительное				
+WannaEat_Item_SnakeGallbladder					Я действительно хочу съесть змеиную желчь
+WannaEat_Item_BearGallbladder					Я действительно хочу съесть медвежью желчь
+WannaEat_Item_RedGinseng					Я очень хочу съесть красный женьшень
+WannaEat_Item_PurpleGanodermaLucidum					Я действительно хочу съесть фиолетовую Ганодерму
+WannaEat_Item_TuEssence					Я очень хочу съесть охряную эссенцию
+WannaEat_Item_HuoEssence					Я действительно хочу съесть малиновый фрукт
+WannaEat_Item_ShuiEssence					Я действительно хочу съесть призму лотоса
+WannaEat_Item_JinEssence					Я действительно хочу съесть плод мудрости
+WannaEat_Item_MuEssence					Я действительно хочу есть корявые виноградные лозы
+WannaEat_Item_LifeStream					Я действительно хочу пить жизнь весной
+WannaEat_Item_LongEgg					Я действительно хочу съесть яйца дракона наводнения
+WannaEat_Item_FengEgg					Я действительно хочу съесть яйца Феникса
+WannaEat_Item_DragonShit					Я действительно хочу есть Драконьи экскременты
+WannaEat_Item_Jiaozi					Я очень хочу есть пельмени
+WannaEat_Item_BossFeng_Meat					Я действительно хочу съесть плоть Феникса
+WannaEat_Item_BossLong_Meat					Я действительно хочу есть драконью плоть
+WannaEat_Item_BossZhuLong_Meat					Я действительно хочу есть первобытную плоть
+WannaEat_Item_Cake					Я очень хочу есть хлеб
+WannaEat_Item_MonsterBlood					Я действительно хочу есть звериную кровь
+WannaEat_Item_EarthEssence					Я действительно хочу пить поток земли
+WannaEat_Item_SilverGrit					Я действительно хочу съесть порошок Инея
+WannaEat_Item_CopperGrit					Я действительно хочу съесть порошок Igneocopper
+WannaEat_Item_Cinnabar					Я действительно хочу есть киноварь
+WannaEat_Item_LingMuXueJie					Я действительно хочу съесть эссенцию смолы
+WannaEat_Item_EarthEssence_1					Я действительно хочу съесть Святую эссенцию
+WannaEat_Item_EarthEssence1_1					Я действительно хочу съесть злую сущность
+WannaEat_Item_Healroot					Я очень хочу съесть целебную траву
+WannaEat_Item_Mint					Я действительно хочу съесть чистый лист
+WannaEat_Item_MagicHerb					Я действительно хочу съесть духовный лист
+WannaEat_Item_Laxative					Я очень хочу есть слабительное
+DoTalkEat_Item_SnakeGallbladder					Я ем змеиную желчь
+DoTalkEat_Item_BearGallbladder					Я ем медвежью желчь
+DoTalkEat_Item_RedGinseng					Я ем красный женьшень
+DoTalkEat_Item_PurpleGanodermaLucidum					Я ем пурпурную Ганодерму
+DoTalkEat_Item_TuEssence					Я ем Эссенцию охры 
+DoTalkEat_Item_HuoEssence					Я ем Багровый плод
+DoTalkEat_Item_ShuiEssence					Я ем призму лотоса
+DoTalkEat_Item_JinEssence					Я ем плоды прозорливости
+DoTalkEat_Item_MuEssence					Я ем корявую виноградную лозу
+DoTalkEat_Item_LifeStream					Я пью жизнь Весна
+DoTalkEat_Item_LongEgg					Я ем яйца дракона наводнения
+DoTalkEat_Item_FengEgg					Я ем яйца Феникса
+DoTalkEat_Item_DragonShit					Я ем Драконьи экскременты
+DoTalkEat_Item_Jiaozi					Я ем пельмени
+DoTalkEat_Item_BossFeng_Meat					Я ем плоть Феникса
+DoTalkEat_Item_BossLong_Meat					Я ем драконью плоть
+DoTalkEat_Item_BossZhuLong_Meat					Я ем первобытную плоть
+DoTalkEat_Item_Cake					Я ем хлеб
+DoTalkEat_Item_MonsterBlood					Я ем звериную кровь
+DoTalkEat_Item_EarthEssence					Я пью поток земли
+DoTalkEat_Item_SilverGrit					Я ем порошок Инея
+DoTalkEat_Item_CopperGrit					Я ем порошок Игнеокоппера
+DoTalkEat_Item_Cinnabar					Я ем киноварь
+DoTalkEat_Item_LingMuXueJie					Я ем эссенцию смолы
+DoTalkEat_Item_EarthEssence_1					Я ем Святую суть
+DoTalkEat_Item_EarthEssence1_1					Я ем злую сущность
+DoTalkEat_Item_Healroot					Я ем целебную траву
+DoTalkEat_Item_Mint					Я ем чистый лист
+DoTalkEat_Item_MagicHerb					Я ем духовный лист
+DoTalkEat_Item_Laxative					Я ем слабительное
+CantEat_Item_SnakeGallbladder	Я не могу найти никакой змеиной желчи, чтобы поесть				
+CantEat_Item_BearGallbladder	Я не могу найти никакой медвежьей желчи, чтобы поесть				
+CantEat_Item_RedGinseng	Я не могу найти никакого красного женьшеня, чтобы поесть				
+CantEat_Item_PurpleGanodermaLucidum	Я не могу найти никакой пурпурной Ганодермы, чтобы поесть				
+CantEat_Item_TuEssence	Я не могу найти никакой охряной эссенции, чтобы поесть				
+CantEat_Item_HuoEssence	Я не могу найти никаких малиновых фруктов, чтобы поесть				
+CantEat_Item_ShuiEssence	Я не могу найти никакой призмы, чтобы поесть				
+CantEat_Item_JinEssence	Я не могу найти никаких фруктов мудрости, чтобы поесть				
+CantEat_Item_MuEssence	Я не могу найти ни одной сучковатой лозы, чтобы поесть				
+CantEat_Item_LifeStream	Я не могу найти источник жизни, чтобы пить				
+CantEat_Item_LongEgg	Я не могу найти никаких яиц Дракона наводнения, чтобы поесть				
+CantEat_Item_FengEgg	Я не могу найти яйца Феникса, чтобы поесть				
+CantEat_Item_DragonShit	Я не могу найти никаких драконьих экскрементов, чтобы поесть				
+CantEat_Item_Jiaozi	Я не могу найти пельмени, чтобы поесть				
+CantEat_Item_BossFeng_Meat	Я не могу найти никакой плоти Феникса, чтобы поесть				
+CantEat_Item_BossLong_Meat	Я не могу найти никакой Драконьей плоти, чтобы поесть				
+CantEat_Item_BossZhuLong_Meat	Я не могу найти никакой первобытной плоти, чтобы поесть				
+CantEat_Item_Cake	Я не могу найти хлеба, чтобы поесть				
+CantEat_Item_MonsterBlood	Я не могу найти никакой звериной крови, чтобы поесть				
+CantEat_Item_EarthEssence	Я не могу найти никакого потока Земли, чтобы пить				
+CantEat_Item_SilverGrit	Я не могу найти никакого кристаллического порошка льда, чтобы поесть				
+CantEat_Item_CopperGrit	Я не могу найти никакого порошка Igneocopper, чтобы поесть				
+CantEat_Item_Cinnabar	Я не могу найти киновари, чтобы поесть				
+CantEat_Item_LingMuXueJie	Я не могу найти никакой эссенции смолы, чтобы поесть				
+CantEat_Item_EarthEssence_1	Я не могу найти никакой Святой эссенции, чтобы поесть				
+CantEat_Item_EarthEssence1_1	Я не могу найти никакой злой сущности, чтобы поесть				
+CantEat_Item_Healroot	Я не могу найти никакой целебной травы, чтобы поесть				
+CantEat_Item_Mint	Я не могу найти ни одного листа чистоты, чтобы поесть				
+CantEat_Item_MagicHerb	Я не могу найти ни одного листа духа, чтобы поесть				
+CantEat_Item_Laxative	Я не могу найти никакого слабительного, чтобы поесть				
+Leave1					{0}, будьте осторожны на дороге
+Leave2					Возвращайся скорее, {0}
+Leave3					Счастливого пути, {0}
+Back1					{0}, наконец-то ты вернулся
+Back2					Добро пожаловать домой, {0}
+Back3					Я скучал по тебе, {0}
+NotBack1					{0}, как ты еще не вернулся
+NotBack2					{0}, что ты там делал
+NotBack3					Интересно, как поживает {0} 
+BackComa1					Что случилось, {0}
+BackComa2					{0} нужна помощь
+BackComa3					{0}, так держать
+SleepHelp1					Поправляйся скорее, {0}!
+SleepHelp2					Поправляйся скорее, {0}!
+SleepHelp3					Поправляйся скорее, {0}!
+Lacrimosa1		...			
+Lacrimosa2		...			
+Lacrimosa3		...			
+QiGan_FullTalk	Моя Ци на пределе				
+NeiDan_FullTalk	Мое внутреннее ядро на пределе				
+HuTi_FullTalk	Моя защита на пределе				
+LingZhi_FullTalk	Мой интеллект на пределе				
+ShuFa_FullTalk	Моя способность к касту на пределе				
+

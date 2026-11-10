@@ -1,0 +1,92 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="YGAnimal_CTWBody">
+			<Part.Parts.0.DisplayName>Голова  </Part.Parts.0.DisplayName>
+			<Part.Parts.0.Parts.0.DisplayName>Череп  </Part.Parts.0.Parts.0.DisplayName>
+			<Part.Parts.0.Parts.1.DisplayName>Мозг  </Part.Parts.0.Parts.1.DisplayName>
+			<Part.Parts.0.Parts.2.DisplayName>Л. Глаз  </Part.Parts.0.Parts.2.DisplayName>
+			<Part.Parts.0.Parts.3.DisplayName>П. Глаз  </Part.Parts.0.Parts.3.DisplayName>
+			<Part.Parts.0.Parts.4.DisplayName>Л. Ухо  </Part.Parts.0.Parts.4.DisplayName>
+			<Part.Parts.0.Parts.5.DisplayName>П. Ухо  </Part.Parts.0.Parts.5.DisplayName>
+			<Part.Parts.0.Parts.6.DisplayName>Нос  </Part.Parts.0.Parts.6.DisplayName>
+			<Part.Parts.0.Parts.7.DisplayName>Рот  </Part.Parts.0.Parts.7.DisplayName>
+			<Part.Parts.0.Parts.8.DisplayName>Шея  </Part.Parts.0.Parts.8.DisplayName>
+			<Part.Parts.0.Parts.9.DisplayName>Верхние Клыки  </Part.Parts.0.Parts.9.DisplayName>
+			<Part.Parts.0.Parts.10.DisplayName>Нижние Клыки </Part.Parts.0.Parts.10.DisplayName>
+			<Part.Parts.0.Parts.11.DisplayName>Морда </Part.Parts.0.Parts.11.DisplayName>
+			<Part.Parts.0.Parts.12.DisplayName>Мышцы Головы </Part.Parts.0.Parts.12.DisplayName>
+			<Part.Parts.0.Parts.13.DisplayName>Шкура Головы </Part.Parts.0.Parts.13.DisplayName>
+			<Part.Parts.0.Parts.14.DisplayName>Голова </Part.Parts.0.Parts.14.DisplayName>
+			<Part.Parts.1.DisplayName>Туловище </Part.Parts.1.DisplayName>
+			<Part.Parts.1.Parts.0.DisplayName>Л. Ребро </Part.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.1.Parts.1.DisplayName>П. Ребро </Part.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.1.Parts.2.DisplayName>Спина </Part.Parts.1.Parts.2.DisplayName>
+			<Part.Parts.1.Parts.3.DisplayName>Таз </Part.Parts.1.Parts.3.DisplayName>
+			<Part.Parts.1.Parts.4.DisplayName>Сердце </Part.Parts.1.Parts.4.DisplayName>
+			<Part.Parts.1.Parts.5.DisplayName>Печень </Part.Parts.1.Parts.5.DisplayName>
+			<Part.Parts.1.Parts.6.DisplayName>Селезёнка </Part.Parts.1.Parts.6.DisplayName>
+			<Part.Parts.1.Parts.7.DisplayName>Лёгкие </Part.Parts.1.Parts.7.DisplayName>
+			<Part.Parts.1.Parts.8.DisplayName>Почки </Part.Parts.1.Parts.8.DisplayName>
+			<Part.Parts.1.Parts.9.DisplayName>Желудок </Part.Parts.1.Parts.9.DisplayName>
+			<Part.Parts.1.Parts.10.DisplayName>Кишечник </Part.Parts.1.Parts.10.DisplayName>
+			<Part.Parts.1.Parts.11.DisplayName>Фаллос </Part.Parts.1.Parts.11.DisplayName>
+			<Part.Parts.1.Parts.12.DisplayName>Мышцы Бёдер </Part.Parts.1.Parts.12.DisplayName>
+			<Part.Parts.1.Parts.13.DisplayName>Мышцы Груди </Part.Parts.1.Parts.13.DisplayName>
+			<Part.Parts.1.Parts.14.DisplayName>Мышцы Спины </Part.Parts.1.Parts.14.DisplayName>
+			<Part.Parts.1.Parts.15.DisplayName>Мышцы Живота </Part.Parts.1.Parts.15.DisplayName>
+			<Part.Parts.1.Parts.16.DisplayName>Мышцы Талии </Part.Parts.1.Parts.16.DisplayName>
+			<Part.Parts.1.Parts.17.DisplayName>Шкура Тела </Part.Parts.1.Parts.17.DisplayName>
+			<Part.Parts.1.Parts.18.DisplayName>Длинный Хвост </Part.Parts.1.Parts.18.DisplayName>
+			<Part.Parts.1.Parts.19.DisplayName>Туловище </Part.Parts.1.Parts.19.DisplayName>
+			<Part.Parts.2.DisplayName>Л. Передняя Лапа </Part.Parts.2.DisplayName>
+			<Part.Parts.2.Parts.0.DisplayName>Шкура Л. Передней Лапы </Part.Parts.2.Parts.0.DisplayName>
+			<Part.Parts.2.Parts.1.DisplayName>Л. Плечо </Part.Parts.2.Parts.1.DisplayName>
+			<Part.Parts.2.Parts.1.Parts.0.DisplayName>Л. Трапециевидная Мышца </Part.Parts.2.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.2.Parts.1.Parts.1.DisplayName>Л. Плечевая Кость </Part.Parts.2.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.2.Parts.1.Parts.1.Parts.0.DisplayName>Мышцы Л. Плеча </Part.Parts.2.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.2.Parts.1.Parts.1.Parts.1.DisplayName>Кости Л. Предплечья </Part.Parts.2.Parts.1.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.2.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>Мышцы Л. Предплечья </Part.Parts.2.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.2.Parts.1.Parts.1.Parts.1.Parts.1.DisplayName>Кости Л. Кисти </Part.Parts.2.Parts.1.Parts.1.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.2.Parts.1.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>Мышцы Л. Кисти </Part.Parts.2.Parts.1.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.3.DisplayName>П. Передняя Лапа </Part.Parts.3.DisplayName>
+			<Part.Parts.3.Parts.0.DisplayName>Шкура П. Передней Лапы </Part.Parts.3.Parts.0.DisplayName>
+			<Part.Parts.3.Parts.1.DisplayName>П. Плечо </Part.Parts.3.Parts.1.DisplayName>
+			<Part.Parts.3.Parts.1.Parts.0.DisplayName>П. Трапециевидная Мышца </Part.Parts.3.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.3.Parts.1.Parts.1.DisplayName>П. Плечевая Кость </Part.Parts.3.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.3.Parts.1.Parts.1.Parts.0.DisplayName>Мышцы П. Плеча </Part.Parts.3.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.3.Parts.1.Parts.1.Parts.1.DisplayName>Кости П. Предплечья </Part.Parts.3.Parts.1.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.3.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>Мышцы П. Передней Лапы </Part.Parts.3.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.3.Parts.1.Parts.1.Parts.1.Parts.1.DisplayName>Кости П. Кисти </Part.Parts.3.Parts.1.Parts.1.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.3.Parts.1.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>Мышцы П. Кисти </Part.Parts.3.Parts.1.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.4.DisplayName>Л. Задняя Лапа </Part.Parts.4.DisplayName>
+			<Part.Parts.4.Parts.0.DisplayName>Шкура Л. Задней Лапы </Part.Parts.4.Parts.0.DisplayName>
+			<Part.Parts.4.Parts.1.DisplayName>Л. Бедренная Кость </Part.Parts.4.Parts.1.DisplayName>
+			<Part.Parts.4.Parts.1.Parts.0.DisplayName>Мышцы Л. Бедра </Part.Parts.4.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.4.Parts.1.Parts.1.DisplayName>Кости Л. Голени </Part.Parts.4.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.4.Parts.1.Parts.1.Parts.0.DisplayName>Мышцы Л. Голени </Part.Parts.4.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.4.Parts.1.Parts.1.Parts.1.DisplayName>Кости Л. Стопы </Part.Parts.4.Parts.1.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.4.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>Мышцы Л. Стопы </Part.Parts.4.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.5.DisplayName>П. Задняя Лапа </Part.Parts.5.DisplayName>
+			<Part.Parts.5.Parts.0.DisplayName>Шкура П. Задней Лапы </Part.Parts.5.Parts.0.DisplayName>
+			<Part.Parts.5.Parts.1.DisplayName>П. Бедренная Кость </Part.Parts.5.Parts.1.DisplayName>
+			<Part.Parts.5.Parts.1.Parts.0.DisplayName>Мышцы П. Бедра </Part.Parts.5.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.5.Parts.1.Parts.1.DisplayName>Кости П. Голени </Part.Parts.5.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.5.Parts.1.Parts.1.Parts.0.DisplayName>Мышцы П. Голени </Part.Parts.5.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.5.Parts.1.Parts.1.Parts.1.DisplayName>Кости П. Стопы </Part.Parts.5.Parts.1.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.5.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>Мышцы П. Стопы </Part.Parts.5.Parts.1.Parts.1.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.6.DisplayName>Всё Тело </Part.Parts.6.DisplayName>
+			<Part.Parts.7.DisplayName>Меридианы </Part.Parts.7.DisplayName>
+			<Part.Parts.7.Parts.0.DisplayName>Верхний Даньтянь </Part.Parts.7.Parts.0.DisplayName>
+			<Part.Parts.7.Parts.1.DisplayName>Средний Даньтянь </Part.Parts.7.Parts.1.DisplayName>
+			<Part.Parts.7.Parts.2.DisplayName>Нижний Даньтянь </Part.Parts.7.Parts.2.DisplayName>
+			<Part.Parts.7.Parts.3.DisplayName>Концептуальный Сосуд </Part.Parts.7.Parts.3.DisplayName>
+			<Part.Parts.7.Parts.4.DisplayName>Регулирующий Сосуд </Part.Parts.7.Parts.4.DisplayName>
+			<Part.Parts.7.Parts.5.DisplayName>Проникающий Сосуд </Part.Parts.7.Parts.5.DisplayName>
+			<Part.Parts.7.Parts.6.DisplayName>Поясной Сосуд </Part.Parts.7.Parts.6.DisplayName>
+			<Part.Parts.7.Parts.7.DisplayName>Связующий Сосуд Инь </Part.Parts.7.Parts.7.DisplayName>
+			<Part.Parts.7.Parts.8.DisplayName>Сосуд Пятки Инь </Part.Parts.7.Parts.8.DisplayName>
+			<Part.Parts.7.Parts.9.DisplayName>Связующий Сосуд Ян </Part.Parts.7.Parts.9.DisplayName>
+			<Part.Parts.7.Parts.10.DisplayName>Сосуд Пятки Ян </Part.Parts.7.Parts.10.DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,34 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Mine">
+			<DisplayName>Добыть</DisplayName>
+		</Text>
+		<Text Name="Pickup">
+			<DisplayName>Собирать</DisplayName>
+		</Text>
+		<Text Name="Cutoff">
+			<DisplayName>Рубить</DisplayName>
+		</Text>
+		<Text Name="Eat">
+			<DisplayName>Съесть</DisplayName>
+		</Text>
+		<Text Name="Dialog">
+			<DisplayName>Говорить</DisplayName>
+		</Text>
+		<Text Name="Interact">
+			<DisplayName>Взаимодействовать</DisplayName>
+		</Text>
+		<Text Name="Equip">
+			<DisplayName>Снарядить</DisplayName>
+		</Text>
+		<Text Name="Attack">
+			<DisplayName>Атаковать</DisplayName>
+		</Text>
+		<Text Name="Slaughter">
+			<DisplayName>Зарезать</DisplayName>
+		</Text>
+		<Text Name="SlaughterBoss">
+			<DisplayName>Копать</DisplayName>
+		</Text>
+	</List>
+</Texts>

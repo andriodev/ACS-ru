@@ -1,0 +1,152 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="SeeTheSky">
+			<DisplayName>Взгляд в небо</DisplayName>
+			<SingleFormat.0>Хотел полетать пока {0} по холмам.</SingleFormat.0>
+			<SingleFormat.1>Думал о туманном прошлом, пока {0}.</SingleFormat.1>
+		</Text>
+		<Text Name="HearEarthQuake">
+			<DisplayName>Услышав Землетрясение</DisplayName>
+			<SingleFormat.0>После {0} ничего не произошло.</SingleFormat.0>
+			<SingleFormat.1>После {0} раздался странный шум.</SingleFormat.1>
+		</Text>
+		<Text Name="HearFarThunder">
+			<DisplayName>Слышу Гром</DisplayName>
+			<SingleFormat.0>После {0} пошел дождь.</SingleFormat.0>
+			<SingleFormat.1>После {0}, однако, ничего не произошло.</SingleFormat.1>
+		</Text>
+		<Text Name="SmellRain">
+			<DisplayName>Пахнущий дождем</DisplayName>
+			<SingleFormat.0>После {0} пошел дождь.</SingleFormat.0>
+			<SingleFormat.1>После {0} стемнело.</SingleFormat.1>
+		</Text>
+		<Text Name="SmellDecay">
+			<DisplayName>Пахнет Гнилью</DisplayName>
+			<SingleFormat.0>Может быть, что-то и есть {0}.</SingleFormat.0>
+			<SingleFormat.1>После {0} что-то было не в порядке.</SingleFormat.1>
+		</Text>
+		<Text Name="HearLoud">
+			<DisplayName>Громкость слуха</DisplayName>
+			<SingleFormat.0>После {0}, подскочил в испуге.</SingleFormat.0>
+		</Text>
+		<Text Name="ClimbHigh">
+			<DisplayName>Скалолазание</DisplayName>
+			<SingleFormat.0>Любит {0} крутые горы.</SingleFormat.0>
+		</Text>
+		<Text Name="SeeStone">
+			<DisplayName>Наблюдая За Валунами</DisplayName>
+			<SingleFormat.0>Вспоминал {0} и изучал валуны.</SingleFormat.0>
+		</Text>
+		<Text Name="Memory">
+			<DisplayName>Вспоминая</DisplayName>
+			<SingleFormat.0>После {0} чего-то почувствовал себя моложе.</SingleFormat.0>
+			<SingleFormat.1>Нелюбовь {0} к мыслям о бурном прошлом.</SingleFormat.1>
+		</Text>
+		<Text Name="SeeDisciples">
+			<DisplayName>Созерцая переодевание</DisplayName>
+		</Text>
+		<Text Name="SeeSwords">
+			<DisplayName>Наблюдая за полетом</DisplayName>
+		</Text>
+		<Text Name="SeeTrain">
+			<DisplayName>Наблюдаю сидя</DisplayName>
+		</Text>
+		<Text Name="SeePlay">
+			<DisplayName>Смотреть игру</DisplayName>
+		</Text>
+		<Text Name="SeeAround">
+			<DisplayName>Наблюдая За Светом</DisplayName>
+		</Text>
+		<Text Name="SeeScene">
+			<DisplayName>осмотр достопримечательностей</DisplayName>
+		</Text>
+		<Text Name="HearAround">
+			<DisplayName>Слушание Музыки</DisplayName>
+		</Text>
+		<Text Name="HearWind">
+			<DisplayName>Слышащий ветер</DisplayName>
+		</Text>
+		<Text Name="HearChat">
+			<DisplayName>Наблюдая за едой</DisplayName>
+		</Text>
+		<Text Name="HearHeartBeat">
+			<DisplayName>Пахнущий Медик</DisplayName>
+		</Text>
+		<Text Name="HearTrain">
+			<DisplayName>Наблюдая за работой</DisplayName>
+		</Text>
+		<Text Name="HearStep">
+			<DisplayName>Наблюдая за тренировкой</DisplayName>
+		</Text>
+		<Text Name="HearWormBeep">
+			<DisplayName>Слушая насекомых</DisplayName>
+		</Text>
+		<Text Name="SmellAround">
+			<DisplayName>Запах Ладана</DisplayName>
+		</Text>
+		<Text Name="SmellDirt">
+			<DisplayName>Пахнущая почва</DisplayName>
+		</Text>
+		<Text Name="SmellSelf">
+			<DisplayName>Пахнущий мех</DisplayName>
+		</Text>
+		<Text Name="SmellMeal">
+			<DisplayName>Запах Еды</DisplayName>
+			<SingleFormat.0>Когда {0}, в результате выделяется слюна.</SingleFormat.0>
+		</Text>
+		<Text Name="SmellFire">
+			<DisplayName>Запах Гари</DisplayName>
+		</Text>
+		<Text Name="LickSelf">
+			<DisplayName>Звенящий</DisplayName>
+		</Text>
+		<Text Name="Sneeze">
+			<DisplayName>Чихание</DisplayName>
+		</Text>
+		<Text Name="Dream">
+			<DisplayName>Мечтающий</DisplayName>
+		</Text>
+		<Text Name="PlaySelf">
+			<DisplayName>Веселиться</DisplayName>
+		</Text>
+		<Text Name="DayDream">
+			<DisplayName>Мечтательность</DisplayName>
+		</Text>
+		<Text Name="Sweat">
+			<DisplayName>Потеющий</DisplayName>
+		</Text>
+		<Text Name="Poo">
+			<DisplayName>Дефекация</DisplayName>
+		</Text>
+		<Text Name="Wander">
+			<DisplayName>Сладко пахнущий</DisplayName>
+		</Text>
+		<Text Name="Betouch">
+			<DisplayName>Охота</DisplayName>
+			<SingleFormat.0>Вспомнил, что работает при {0}.</SingleFormat.0>
+		</Text>
+		<Text Name="Sleep">
+			<DisplayName>Спящий</DisplayName>
+		</Text>
+		<Text Name="SeeEast">
+			<DisplayName>Лицом На Восток</DisplayName>
+			<SingleFormat.0>Когда {0}, почувствовал странный ветерок.</SingleFormat.0>
+		</Text>
+		<Text Name="SeeSouth">
+			<DisplayName>Лицом На Юг</DisplayName>
+			<SingleFormat.0>Когда {0}, почувствовал странный ветерок.</SingleFormat.0>
+		</Text>
+		<Text Name="SeeWest">
+			<DisplayName>Лицом На Запад</DisplayName>
+			<SingleFormat.0>Когда {0}, почувствовал странный ветерок.</SingleFormat.0>
+		</Text>
+		<Text Name="SeeNorth">
+			<DisplayName>Лицом На Север</DisplayName>
+			<SingleFormat.0>Когда {0}, почувствовал странный ветерок.</SingleFormat.0>
+		</Text>
+		<Text Name="SeeDirt">
+			<DisplayName>Лицом Вниз</DisplayName>
+			<SingleFormat.0>Когда {0}, почувствовал странный ветерок.</SingleFormat.0>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,15 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="LsPandaXian">
+			<PossibleMagic.0.DisplayName>Добродушный</PossibleMagic.0.DisplayName>
+			<PossibleMagic.0.Desc>Потребляет свой рост и интеллект, чтобы пригласить животное в вашу секту. \n[color=#FF0000]Требуется как минимум 50 интеллекта.[/Color]</PossibleMagic.0.Desc>
+			<PossibleMagic.1.DisplayName>Посол Бессмертных</PossibleMagic.1.DisplayName>
+			<PossibleMagic.1.Desc>Потребляет свой рост и питание, чтобы перейти в другую секту и существенно улучшить отношения с вашей. \n[color=#FF0000]Требуется зрелость.[/color]</PossibleMagic.1.Desc>
+			<PossibleSkill.0.Desc>[color=#FF0000]Требуется заклинание 50[/color]</PossibleSkill.0.Desc>
+			<PossibleSkill.1.Desc>[color=#FF0000]Требуется 100 заклинаний[/color]</PossibleSkill.1.Desc>
+		</Text>
+		<Text Name="LsPandaXiu">
+			<PossibleSkill.0.Desc>[color=#FF0000]Требуется заклинание 50[/color]</PossibleSkill.0.Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,8 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>[Пусто]</DisplayName>
+			<Desc>Эта черта была утеряна, как и вся информация о ней. (Пусто).</Desc>
+		</Text>
+	</List>
+</Texts>

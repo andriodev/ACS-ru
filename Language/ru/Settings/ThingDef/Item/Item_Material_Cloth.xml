@@ -1,0 +1,49 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="ClothBase" sParam="Item">
+      <Desc>Сотканная из хлопка ткань, которая может использоваться для изготовления одежды и других изделий.</Desc>
+      <Item.FabaoSuffix>Ткань,Вуаль,Тюль</Item.FabaoSuffix>
+      <Item.BeMaterial.NamePrefix>『Ткань』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_CottonCloth" sParam="Item">
+      <ThingName>Пёстрая Ткань</ThingName>
+      <Desc>Сотканная из хлопка 【пёстрая】 ткань, которая может использоваться для изготовления одежды и других изделий.</Desc>
+      <Item.BeMaterial.NamePrefix>『Ткань』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_DeepBlueCloth" sParam="Item">
+      <ThingName>Лазурная Ткань</ThingName>
+      <Desc>Сотканная из хлопка 【лазурная】 ткань, которая может использоваться для изготовления одежды и других изделий.</Desc>
+      <Item.BeMaterial.NamePrefix>『Ткань』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_PurpleCloth" sParam="Item">
+      <ThingName>Пурпурная Ткань</ThingName>
+      <Desc>Сотканная из хлопка 【пурпурная】 ткань, которая может использоваться для изготовления одежды и других изделий.</Desc>
+      <Item.BeMaterial.NamePrefix>『Ткань』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_YellowCloth" sParam="Item">
+      <ThingName>Жёлтая Ткань</ThingName>
+      <Desc>Сотканная из хлопка 【жёлтая】 ткань, которая может использоваться для изготовления одежды и других изделий.</Desc>
+      <Item.BeMaterial.NamePrefix>『Ткань』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_BlueCloth" sParam="Item">
+      <ThingName>Синяя Ткань</ThingName>
+      <Desc>Сотканная из хлопка 【синяя】 ткань, которая может использоваться для изготовления одежды и других изделий.</Desc>
+      <Item.BeMaterial.NamePrefix>『Ткань』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_RedCloth" sParam="Item">
+      <ThingName>Красная Ткань</ThingName>
+      <Desc>Сотканная из хлопка 【красная】 ткань, которая может использоваться для изготовления одежды и других изделий.</Desc>
+      <Item.BeMaterial.NamePrefix>『Ткань』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_WhiteCloth" sParam="Item">
+      <ThingName>Белая Ткань</ThingName>
+      <Desc>Сотканная из хлопка 【белая】 ткань, которая может использоваться для изготовления одежды и других изделий.</Desc>
+      <Item.BeMaterial.NamePrefix>『Ткань』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_BlackCloth" sParam="Item">
+      <ThingName>Чёрная Ткань</ThingName>
+      <Desc>Сотканная из хлопка 【чёрная】 ткань, которая может использоваться для изготовления одежды и других изделий.</Desc>
+      <Item.BeMaterial.NamePrefix>『Ткань』</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>

@@ -1,0 +1,16 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="ZhenSheild">
+			<DisplayName>Барьер</DisplayName>
+			<TargetDesc>Выберите здание или предмет.</TargetDesc>
+		</Text>
+		<Text Name="ZhenAddModifier">
+			<DisplayName>Добавить модификатор</DisplayName>
+			<TargetDesc>Выберите здание или предмет.</TargetDesc>
+		</Text>
+		<Text Name="ZhenAura">
+			<DisplayName>Рукотворная аура</DisplayName>
+			<TargetDesc>Выберите здание или объект.</TargetDesc>
+		</Text>
+	</List>
+</Texts>

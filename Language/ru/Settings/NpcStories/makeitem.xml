@@ -1,0 +1,95 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Cooking">
+			<Events.1.Story>[rand_lable=desc_time,desc_weather].Во время приготовления [obj], [name] затосковал по дому .</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_weather].Во время приготовления [obj], Разум [name] начало нести к [obj_friend].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather].Во время приготовления [obj], [name] внезапно заинтересовался [obj_nearthing].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather].Во время приготовления [obj], [name] вдруг захотел съесть [obj_food].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather]. Пока [name] тихо готовил [obj], он вдруг начал думать о своём [obj_relation].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather]. Разум [name] наполнило множество мыслей и чувств пока готовит [obj] в одиночестве.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather].Во время приготовления [obj], [name] внезапно начал плакать .</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather].Во время приготовления [obj], [name] внезапно почувствовал удушье.</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather].Во время приготовления [obj], [name]  внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.9.Story>
+			<Events.10.Story>Несмотря на нахождение под влиянием [obj_badmood], [name] все еще делал всё возможное, чтобы сделать [obj].</Events.10.Story>
+			<Events.11.Story>[name] был в хорошем настроении из-за [obj_goodmood], и не мог счастливо не напевать во время приготовления [obj].</Events.11.Story>
+		</Text> 
+		<Text Name="CookingFailed">
+			<Events.1.Story>[name] попробовал самодельный [obj], и его чуть не вырвало. Это было отвратительно.</Events.1.Story>
+			<Events.2.Story>Делая [obj], [name] случайно добавил много соли в емкость. Как удивительно!</Events.2.Story>
+			<Events.3.Story>Делая [obj], [name] задумался, а когда пришёл в себя, еда уже сгорела.</Events.3.Story>
+			<Events.4.Story>Находясь под влиянием [obj_badmood], [name] испортил [obj].</Events.4.Story>
+			<Events.5.Story>[name] был в хорошем настроении из-за [obj_goodmood], и не мог счастливо не напевать во время приготовления [obj]; он увлекся и вляпался в [obj].</Events.5.Story>
+		</Text>
+		<Text Name="CookingSucceed">
+			<Events.1.Story>[name] почувствовал удовлетворение, смотря на [obj] домашнего приготовления.</Events.1.Story>
+			<Events.2.Story>[name] смотрел на [obj] домашнего приготовления, и не мог не попробовать; это было невероятно вкусно!</Events.2.Story>
+			<Events.3.Story>Находясь под влиянием [obj_badmood], [name] всё ещё делал вкуснятину из [obj].</Events.3.Story>
+			<Events.4.Story>[name] был в хорошем настроении из-за [obj_goodmood], и не мог счастливо не напевать во время приготовления [obj]; конечно, [obj] оказалось даже вкуснее.</Events.4.Story>
+		</Text>
+		<Text Name="DrugProduct">
+			<Events.1.Story>[rand_lable=desc_time,desc_weather]. [name] затосковал по дому пока делал [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_weather]. Разум [name] начало нести к [obj_friend] пока он делал [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather]. [name] внезапно заинтересовался [obj_nearthing] пока делал [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather]. [name] вдруг захотел съесть [obj_food] пока делал [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather]. [name] вдруг начал думать о своём [obj_relation] пока тихо делал [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather]. Разум [name] наполнило множество мыслей и чувств, пока он готовил [obj] в одиночестве.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather]. [name] внезапно начал плакать пока делал [obj].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather]. [name] внезапно почувствовал удушье пока делал [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather]. [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] пока делал [obj].</Events.9.Story>
+			<Events.10.Story>Несмотря на нахождение под влиянием [obj_badmood], [name] все еще делал все возможное, чтобы сделать [obj].</Events.10.Story>
+			<Events.11.Story>[name] был в хорошем настроении из-за [obj_goodmood], и не мог счастливо не напевать делая [obj].</Events.11.Story>
+		</Text>
+		<Text Name="Handwork">
+			<Events.2.Story>[rand_lable=desc_time,desc_weather]. [name] затосковал по дому пока делал [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather]. Разум [name] начало нести к [obj_friend] пока он делал[obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather]. [name] внезапно заинтересовался [obj_nearthing] пока делал [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather]. [name] вдруг захотел съесть [obj_food] пока делал [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather]. [name] вдруг начал думать о своём [obj_relation] пока тихо делал [obj].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather]. Разум [name] наполнило множество мыслей и чувств пока он готовил [obj] в одиночестве.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather]. [name] внезапно начал плакать пока делал [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather]. [name] внезапно почувствовал удушье пока делал [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_weather]. [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] пока делал [obj].</Events.10.Story>
+			<Events.11.Story>Несмотря на нахождение под влиянием [obj_badmood], [name] все еще делал все возможное, чтобы сделать [obj].</Events.11.Story>
+			<Events.12.Story>[name] был в хорошем настроении из-за [obj_goodmood], и не может счастливо не напевать делая [obj].</Events.12.Story>
+		</Text>
+		<Text Name="Smithing">
+			<Events.2.Story>[rand_lable=desc_time,desc_weather]. [name] затосковал по дому пока ковал [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather]. Разум [name] начало нести к [obj_friend] пока ковал [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather]. [name] внезапно заинтересовался [obj_nearthing] пока ковал [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather]. [name] вдруг захотел съесть [obj_food] пока ковал [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather]. [name] вдруг начал думать об своём [obj_relation] пока тихо ковал [obj].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather]. Разум [name] наполнило множество мыслей и чувств пока он ковал [obj] в одиночестве.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather]. [name] внезапно начал плакать пока ковал [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather]. [name] внезапно почувствовал удушье пока ковал [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_weather]. [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] пока ковал [obj].</Events.10.Story>
+			<Events.11.Story>Несмотря на нахождение под влиянием [obj_badmood], [name] все еще делал все возможное, чтобы сделать [obj].</Events.11.Story>
+			<Events.12.Story>[name] был в хорошем настроении из-за [obj_goodmood], и не мог счастливо не напевать пока ковал [obj].</Events.12.Story>
+		</Text>
+		<Text Name="StoneWork">
+			<Events.1.Story>[rand_lable=desc_time,desc_weather]. [name] затосковал по дому пока полировал [obj].</Events.1.Story>
+			<Events.2.Story>[rand_lable=desc_time,desc_weather]. Разум [name] начало нести к [obj_friend] пока полировал [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather]. [name] внезапно заинтересовался [obj_nearthing] пока полировал [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather]. [name] вдруг захотел съесть [obj_food] пока полировал [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather]. [name] вдруг начал думать об своём [obj_relation] пока тихо полировал [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather]. Разум [name] наполнило множество мыслей и чувств, пока он полировал [obj] в одиночестве.</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather]. [name] внезапно начал плакать пока полировал [obj].</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather]. [name] внезапно почувствовал удушье пока полировал [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather]. [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] пока полировал [obj].</Events.9.Story>
+			<Events.10.Story>Несмотря на нахождение под влиянием [obj_badmood], [name] все еще делал все возможное, чтобы сделать [obj].</Events.10.Story>
+			<Events.11.Story>[name] был в хорошем настроении из-за [obj_goodmood], и не мог счастливо не напевать пока полировал [obj].</Events.11.Story>
+		</Text>
+		<Text Name="Sew">
+			<Events.2.Story>[rand_lable=desc_time,desc_weather]. [name] затосковал по дому пока шил [obj].</Events.2.Story>
+			<Events.3.Story>[rand_lable=desc_time,desc_weather]. Разум [name] начало нести к [obj_friend] пока он шил [obj].</Events.3.Story>
+			<Events.4.Story>[rand_lable=desc_time,desc_weather]. [name] внезапно заинтересовался [obj_nearthing] пока шил [obj].</Events.4.Story>
+			<Events.5.Story>[rand_lable=desc_time,desc_weather]. [name] вдруг захотел съесть [obj_food] пока шил [obj].</Events.5.Story>
+			<Events.6.Story>[rand_lable=desc_time,desc_weather]. [name] вдруг начал думать об своём [obj_relation] пока тихо шил [obj].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_weather]. Разум [name] наполнило множество мыслей и чувств пока шил [obj] в одиночестве.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_weather]. [name] внезапно начал плакать пока шил [obj].</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_weather]. [name] внезапно почувствовал удушье пока шил [obj].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_weather]. [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool] пока шил [obj].</Events.10.Story>
+			<Events.11.Story>Несмотря на нахождение под влиянием [obj_badmood], [name] все еще делал все возможное, чтобы сделать [obj].</Events.11.Story>
+			<Events.12.Story>[name] был в хорошем настроении из-за [obj_goodmood], и не мог счастливо не напевать в то время как шил [obj].</Events.12.Story>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,16 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="BanSpouse">
+			<DisplayName>Нет супруга</DisplayName>
+		</Text>
+		<Text Name="BanParents">
+			<DisplayName>Нет родителей</DisplayName>
+		</Text>
+		<Text Name="BanChild">
+			<DisplayName>Нет детей</DisplayName>
+		</Text>
+		<Text Name="BanLove">
+			<DisplayName>Нет пары</DisplayName>
+		</Text>
+	</List>
+</Texts>

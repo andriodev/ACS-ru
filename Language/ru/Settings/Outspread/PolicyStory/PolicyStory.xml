@@ -1,0 +1,164 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="PolicyStory_TreeEXP">
+			<DisplayName>Дао Неба</DisplayName>
+			<Desc>Небесный Путь настолько сконцентрировался, что конденсировался в виде пилюли.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give1">
+			<DisplayName>Помощь</DisplayName>
+			<Desc>[NAME] идет с учениками на улицу, чтобы раздать пищу нуждающимся.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give2">
+			<DisplayName>Помощь</DisplayName>
+			<Desc>Ученики под руководством [NAME] вышли на улицу, чтоб раздавать еду, где увидели множество нищих на обочине дороги, просящих подаяний.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give3">
+			<DisplayName>Помощь</DisplayName>
+			<Desc>[NAME] выходит с учениками на улицу, чтобы помочь нуждающимся. Они увидели, что часть моста было обрушено, и люди не смогут по нему пройти.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give4">
+			<DisplayName>Помощь</DisplayName>
+			<Desc>[NAME] с учениками, вышли раздавать пищу, где они увидели, как двое крестьян ссорились из-за собаки.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give5">
+			<DisplayName>Помощь</DisplayName>
+			<Desc>Когда [NAME] и ученики, пошли помогать нуждающимся, им встретились двое дворян, устроившие битву из-за женщины.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give6">
+			<DisplayName>Помощь</DisplayName>
+			<Desc>[NAME] раздавая еду, встретил толпу, окруживших дравшихся мужчин. Один из зевак, сообщил, что ссора началась из-за кражи посевов.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give7">
+			<DisplayName>Помощь</DisplayName>
+			<Desc>[NAME] во время подготовки к раздаче еды, к резиденции [NAME] подошла шикарно одетая женщина, которая рыдая, рассказала, что потеряла своего ребенка. </Desc>
+		</Text>
+		<Text Name="PolicyStory_Give8">
+			<DisplayName>Помощь</DisplayName>
+			<Desc>Во время подготовки [NAME], в резиденцию ворвался мужчина, умоляя спасти его жену, умирающую от болезни.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give9">
+			<DisplayName>Особое событие</DisplayName>
+			<Desc> Раздача еды завела [NAME] до закоулков, где прохаживалась группа бандитов.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give10">
+			<DisplayName>Особое событие</DisplayName>
+			<Desc>Во время выполнения поручения [NAME] повстречался отряд {0}, раздавших еду.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give11">
+			<DisplayName>Особое событие</DisplayName>
+			<Desc>Выполняя поручение [NAME] застал людей {0} распространявших свои учения. </Desc>
+		</Text>
+		<Text Name="PolicyStory_Give12">
+			<DisplayName>Особое событие</DisplayName>
+			<Desc>[NAME] проходя мимо отряда {0} видит, что они практикуют обряд воздержания.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give13">
+			<DisplayName>Помощь</DisplayName>
+			<Desc>[NAME] и ученики, помогали жителям. По дороге они наткнулись на сломанный деревянный дом, хозяин оказался инвалидом и не мог отремонтировать его самостоятельно. </Desc>
+		</Text>
+		<Text Name="PolicyStory_Give14">
+			<DisplayName>Помощь</DisplayName>
+			<Desc> Когда[NAME] и ученики,, раздавали еду, когда натолкнулись на человека в иноземной одежде, что обманывал людей, выдавая себя за божество.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give15">
+			<DisplayName>Помощь</DisplayName>
+			<Desc>[NAME] и ученики,, пошли помогать нуждающимся. Когда они проходили мимо двух таверн, стоящих по обе стороны дороги, то увидели двух людей, спорящих о бизнесе.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give16">
+			<DisplayName>Помощь</DisplayName>
+			<Desc>[NAME] и ученики,, вышли помогать нуждающимся. Там они встретили группу беженцев, спасающихся бегством. </Desc>
+		</Text>
+		<Text Name="PolicyStory_Give17">
+			<DisplayName>Помощь</DisplayName>
+			<Desc>[NAME] собравшись с учениками, пошли на улицу, раздавать еду нуждающимся. На обочине дороги они встретили тяжело больного, умирающего человека, который увидя их, умолял [NAME] избавить его от страданий.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Give18">
+			<DisplayName>Помощь</DisplayName>
+			<Desc>[NAME], вместе с учениками, помогали нуждающимся жителям. В толпе, в [NAME] врезался старик, который упал навзничь, и вскричал "Ай! Нога! Вы мне её сломали!" </Desc>
+		</Text>
+		<Text Name="PolicyStory_Product1">
+			<DisplayName>Руководство работами</DisplayName>
+			<Desc>Был прекрасный день, поэтому [NAME] решает пойти и проконтролировать, как проходят работы.</Desc>
+		</Text>
+		<Text Name="PolicyStory_TreasureHunt">
+			<DisplayName>Охота за сокровищами</DisplayName>
+			<Desc>[NAME] скрестив пальцы на удачу, решает взять учеников на поиск сокровищ.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Sermon1">
+			<DisplayName>Наставления Дао</DisplayName>
+			<Desc> [NAME] было запланировано провести наставления на Путь Дао, на улице, около ворот.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Sermon2">
+			<DisplayName>Наставления Дао</DisplayName>
+			<Desc> Сегодня во время прочтения манускриптов о Пути Дао, к [NAME], внезапно подошел мужчина и громким голосом заявил "Ну и чушь!"</Desc>
+		</Text>
+		<Text Name="PolicyStory_Sermon3">
+			<DisplayName>Наставления Дао</DisplayName>
+			<Desc>Во время наставлений на Путь Дао к [NAME] подошел человек похожий на  чиновника, и начал упрекать [NAME] в ошибках и грозился проблемам.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Sermon4">
+			<DisplayName>Наставления Дао</DisplayName>
+			<Desc>В этот солнечный день, во время наставлений [NAME] на Путь Дао, собралась толпа. В ней женщина в возрасте, постоянно радостно кричала и хлопала в ладоши, чем сильно раздражала, однако она не пошла в ученики.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Secret1">
+			<DisplayName>Интриги</DisplayName>
+			<Desc>Был солнечный день. [NAME]  решает скрыться в тени Секретного Павильона ради продумывания интриг.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Secret2">
+			<DisplayName>Интриги</DisplayName>
+			<Desc>[NAME] обнаруживает {0} раздающих еду, и решает им помешать.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Secret3">
+			<DisplayName>Интриги</DisplayName>
+			<Desc>[NAME] обнаруживает {0} наставляющих своё учение. Нахмурив брови [NAME] моментально придумывает план.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Secret4">
+			<DisplayName>Интриги</DisplayName>
+			<Desc>[NAME] находит {0} проводящих религиозную церемонию. [NAME] решает, что этому нужно помешать.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Disp1">
+			<DisplayName>Обет Воздержания</DisplayName>
+			<Desc>Сегодня ясно и солнечно, поэтому [NAME] решает пойти в Храм Дисциплины и пройти обряд воздержания.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Disp2">
+			<DisplayName>Обет Воздержания</DisplayName>
+			<Desc>[NAME] видя, как миряне предаются наслаждениям, решает провести обряд воздержания.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Disp3">
+			<DisplayName>Обет Воздержания</DisplayName>
+			<Desc>[NAME] смотрит на мирян, и видит, как у богатых ворот стоит запах мяса и вин, когда на дорогах лежат кости замерзших, и решает провести обряд воздержания.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Disp4">
+			<DisplayName>Обет Воздержания</DisplayName>
+			<Desc>[NAME] видя, что город стал обителью бандитов, и полон жестокости, решает провести ритуал воздержания.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Disp5">
+			<DisplayName>Обет Воздержания</DisplayName>
+			<Desc>[NAME] смотря на мирян, видит, как мир полон грабителей, сеющих хаос и тьму, решает провести ритуал воздержания.</Desc>
+		</Text>
+		<Text Name="PolicyStory_OtherDisp1">
+			<DisplayName>Обет Воздержания</DisplayName>
+			<Desc>[NAME] видит как [SCHOOL{0}] проводит обряд воздержания.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Drought">
+			<DisplayName>Стихийные бедствия</DisplayName>
+			<Desc>[NAME] решает бороться с засухой.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Flood">
+			<DisplayName>Стихийные бедствия</DisplayName>
+			<Desc>[NAME] решает бороться с потопом.</Desc>
+		</Text>
+		<Text Name="PolicyStory_Siberia">
+			<DisplayName>Стихийные бедствия</DisplayName>
+			<Desc>[NAME] будет бороться с волной холода</Desc>
+		</Text>
+		<Text Name="PolicyStory_EarthQuake">
+			<DisplayName>Стихийные бедствия</DisplayName>
+			<Desc>[NAME] будет бороться с землетрясением</Desc>
+		</Text>
+		<Text Name="PolicyStory_God1">
+			<DisplayName>Чудо</DisplayName>
+			<Desc>[NAME] решил позволить ученику Шэньдао совершить чудо.</Desc>
+		</Text>
+	</List>
+</Texts>

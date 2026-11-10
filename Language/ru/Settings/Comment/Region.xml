@@ -1,0 +1,136 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="AgentConstructionHeYin">
+			<Title>Доверенный строительство - Riverback Город</Title>
+			<Desc>Доверенный строительство - Riverback Город</Desc>
+		</Text>
+		<Text Name="AgentManagementHeYin">
+			<Title>Агент Управление - Riverback Город</Title>
+			<Desc>Агент Управление - Riverback Город</Desc>
+		</Text>
+		<Text Name="BeliefManagementHeYin">
+			<Title>Вера Управление - Riverback Город</Title>
+			<Desc>Вера Управление - Riverback Город</Desc>
+		</Text>
+		<Text Name="AgentConstructionGuanHai">
+			<Title>Доверенный строительство - Seascape Город</Title>
+			<Desc>Доверенный строительство - Seascape Город</Desc>
+		</Text>
+		<Text Name="AgentManagementGuanHai">
+			<Title>Агент Управление - Seascape Город</Title>
+			<Desc>Агент Управление - Seascape Город</Desc>
+		</Text>
+		<Text Name="BeliefManagementGuanhai">
+			<Title>Вера Управление - Seascape Город</Title>
+			<Desc>Вера Управление - Seascape Город</Desc>
+		</Text>
+		<Text Name="AgentConstructionPanShe">
+			<Title>Доверенный строительство - Snaketail Деревня</Title>
+			<Desc>Доверенный строительство - Snaketail Деревня</Desc>
+		</Text>
+		<Text Name="AgentManagementPanShe">
+			<Title>Агент Управление - Snaketail Деревня</Title>
+			<Desc>Агент Управление - Snaketail Деревня</Desc>
+		</Text>
+		<Text Name="BeliefManagementPanShe">
+			<Title>Вера Управление - Snaketail Деревня</Title>
+			<Desc>Вера Управление - Snaketail Деревня</Desc>
+		</Text>
+		<Text Name="AgentConstructionFeng">
+			<Title>Доверенный строительство - Город of Abundance</Title>
+			<Desc>Доверенный строительство - Город of Abundance</Desc>
+		</Text>
+		<Text Name="AgentManagementFeng">
+			<Title>Агент Управление - Город of Abundance</Title>
+			<Desc>Агент Управление - Город of Abundance</Desc>
+		</Text>
+		<Text Name="BeliefManagementFeng">
+			<Title>Вера Управление - Город of Abundance</Title>
+			<Desc>Вера Управление - Город of Abundance</Desc>
+		</Text>
+		<Text Name="AgentConstructionDaLiang">
+			<Title>Доверенный строительство - Город of Desolation</Title>
+			<Desc>Доверенный строительство - Город of Desolation</Desc>
+		</Text>
+		<Text Name="AgentManagementDaLiang">
+			<Title>Агент Управление - Город of Desolation</Title>
+			<Desc>Агент Управление - Город of Desolation</Desc>
+		</Text>
+		<Text Name="BeliefManagementDaLiang">
+			<Title>Вера Управление - Город of Desolation</Title>
+			<Desc>Вера Управление - Город of Desolation</Desc>
+		</Text>
+		<Text Name="AgentConstructionZhongYuan">
+			<Title>Доверенный строительство - Central Равнины</Title>
+			<Desc>Доверенный строительство - Central Равнины</Desc>
+		</Text>
+		<Text Name="AgentManagementZhongYuan">
+			<Title>Агент Управление - Central Равнины</Title>
+			<Desc>Агент Управление - Central Равнины</Desc>
+		</Text>
+		<Text Name="BeliefManagementZhongYuan">
+			<Title>Вера Управление - Central Равнины</Title>
+			<Desc>Вера Управление - Central Равнины</Desc>
+		</Text>
+		<Text Name="AgentConstructionJiangAnWoYe">
+			<Title>Доверенный строительство - Riverbank Равнины</Title>
+			<Desc>Доверенный строительство - Riverbank Равнины</Desc>
+		</Text>
+		<Text Name="AgentManagementJiangAnWoYe">
+			<Title>Агент Управление - Riverbank Равнины</Title>
+			<Desc>Агент Управление - Riverbank Равнины</Desc>
+		</Text>
+		<Text Name="BeliefManagementJiangAnWoYe">
+			<Title>Вера Управление - Riverbank Равнины</Title>
+			<Desc>Вера Управление - Riverbank Равнины</Desc>
+		</Text>
+		<Text Name="AgentConstructionDaXueYuan">
+			<Title>Доверенный строительство - Великий Snowland</Title>
+			<Desc>Доверенный строительство - Великий Snowland</Desc>
+		</Text>
+		<Text Name="AgentManagementDaXueYuan">
+			<Title>Агент Управление - Великий Snowland</Title>
+			<Desc>Агент Управление - Великий Snowland</Desc>
+		</Text>
+		<Text Name="BeliefManagementDaXueYuan">
+			<Title>Вера Управление - Великий Snowland</Title>
+			<Desc>Вера Управление - Великий Snowland</Desc>
+		</Text>
+		<Text Name="AgentConstructionDaMo">
+			<Title>Доверенный строительство - Great Desert</Title>
+			<Desc>Доверенный строительство - Great Desert</Desc>
+		</Text>
+		<Text Name="AgentManagementDaMo">
+			<Title>Агент Управление - Great Desert</Title>
+			<Desc>Агент Управление - Great Desert</Desc>
+		</Text>
+		<Text Name="BeliefManagementDaMo">
+			<Title>Вера Управление - Great Desert</Title>
+			<Desc>Вера Управление - Great Desert</Desc>
+		</Text>
+		<Text Name="AgentConstructionNanHuang">
+			<Title>Доверенный строительство - Дикий Юг</Title>
+			<Desc>Доверенный строительство - Дикий Юг</Desc>
+		</Text>
+		<Text Name="AgentManagementNanHuang">
+			<Title>Агент Управление - Дикий Юг</Title>
+			<Desc>Агент Управление - Дикий Юг</Desc>
+		</Text>
+		<Text Name="BeliefManagementNanHuang">
+			<Title>Вера Управление - Дикий Юг</Title>
+			<Desc>Вера Управление - Дикий Юг</Desc>
+		</Text>
+		<Text Name="AgentConstructionOurPlace">
+			<Title>Доверенный строительство - Mt. South</Title>
+			<Desc>Доверенный строительство - Mt. South</Desc>
+		</Text>
+		<Text Name="AgentManagementOurPlace">
+			<Title>Агент Управление - Mt. South</Title>
+			<Desc>Агент Управление - Mt. South</Desc>
+		</Text>
+		<Text Name="BeliefManagementOurPlace">
+			<Title>Вера Управление - Mt. South</Title>
+			<Desc>Вера Управление - Mt. South</Desc>
+		</Text>
+	</List>
+</Texts>

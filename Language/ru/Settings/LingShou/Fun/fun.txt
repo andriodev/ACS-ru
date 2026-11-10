@@ -1,0 +1,10 @@
+﻿FunType	Ani	Duration	Desc	JobType
+Lay	Lay	20	Отдохни
+Wonder	Run	20	Прогуляться	RandomMove
+BiuBiu	ShiFaLoop	20	Практика борьбы
+Chop	Atk3	20	Практика борьбы
+PlayBB	Free	20	Играйте с бамбуком
+Roll	Free2	20	Кататься вокруг
+Happy	kaixin01	20	Играть
+Stretch	Free2	20	Размяться (Голова)
+Spin	kaixin01	20	Крутиться Вокруг

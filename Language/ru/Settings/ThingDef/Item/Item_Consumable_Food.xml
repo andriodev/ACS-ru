@@ -1,0 +1,27 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="SimpleFoodBase" sParam="Item">
+      <Item.FabaoSuffix>Мистическое Сокровище</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Cake" sParam="Item">
+      <ThingName>Хлеб</ThingName>
+      <Desc>Простой пищевой рацион для утоления голода.</Desc>
+      <Item.FabaoSuffix>Блин</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Jerky" sParam="Item">
+      <ThingName>сушеное мясо</ThingName>
+      <Desc>Простой пищевой рацион для утоления голода.</Desc>
+      <Item.FabaoSuffix>Высушенный</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_PreservedFruit" sParam="Item">
+      <ThingName>Сушеные янтарные плоды ли</ThingName>
+      <Desc>[color=#FFA500]когда-то был фрукт, его вкус был как мед. жду своего времени года, так как мы вешаем его над карнизом. а вот и дама, ее глаза притягивают, как мед. что еще ждать с нетерпением, как уходит ожидаемый сезон? \n [/color]Янтарный плод трудно хранить. Только семья Ли Цзиньлинь способна превратить его в сухофрукт, сохранив его силу с помощью своего уникального секретного рецепта.</Desc>
+      <Item.FabaoSuffix>Фрукты</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Yao_BoarMeat" sParam="Item">
+      <ThingName>Мясо Свиньи Демона</ThingName>
+      <Desc>Сущность мяса свиньи-демона не может быть приготовлена на обычном огне. Потребление его непосредственно могло бы пополнить большое количество выносливости.</Desc>
+      <Item.FabaoSuffix>Высушенный</Item.FabaoSuffix>
+    </Text>
+  </List>
+</Texts>

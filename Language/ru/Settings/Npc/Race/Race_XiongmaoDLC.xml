@@ -1,0 +1,36 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="YGPanda">
+			<DisplayName>Панда Яогуай</DisplayName>
+			<Desc>Животное превратилось в Яогуай благодаря пробужденному интеллекту: Панда Яогуай</Desc>
+			<MaleName>Мужчина</MaleName>
+			<FemaleName>Женщина</FemaleName>
+		</Text>
+		<Text Name="Panda">
+			<DisplayName>Панда</DisplayName>
+			<Desc>Обыкновенное Животное: Панда</Desc>
+			<TalkBefore>*скулит*</TalkBefore>
+			<TalkAfter>*скулит*</TalkAfter>
+			<MaleName>Мужчина</MaleName>
+			<FemaleName>Женщина</FemaleName>
+		</Text>
+		<Text Name="JYPanda">
+			<DisplayName>Монстр Панда</DisplayName>
+			<Desc>Животное, которое обрело силу без пробуждения разума: Монстр Панда</Desc>
+			<MaleName>Мужчина</MaleName>
+			<FemaleName>Женщина</FemaleName>
+		</Text>
+		<Text Name="LsPandaXian">
+			<DisplayName>Сяньсянь</DisplayName>
+			<Desc>Божественная Панда Сяньсянь фантастическое духовное животное, естественно встречающееся между небом и землей. Это проявление некоторых законов природы.</Desc>
+			<TalkBefore>*скулит*</TalkBefore>
+			<TalkAfter>*скулит*</TalkAfter>
+		</Text>
+		<Text Name="LsPandaXiu">
+			<DisplayName>Сюйсю</DisplayName>
+			<Desc>Божественная Панда Сюйсю фантастическое духовное животное, естественно встречающееся между небом и землей. Это проявление некоторых законов природы.</Desc>
+			<TalkBefore>*скулит*</TalkBefore>
+			<TalkAfter>*скулит*</TalkAfter>
+		</Text>
+	</List>
+</Texts>

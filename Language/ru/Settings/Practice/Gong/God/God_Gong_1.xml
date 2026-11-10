@@ -1,0 +1,22 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="God_Gong_1">
+			<DisplayName>Сутра Спасения Небесного Грома</DisplayName>
+			<Desc>Давно утраченный, древний Божественный Путь, позволяет собрать Веру последователей, чтобы достичь Божественности. Большинство Методов Божественного Совершенствования похожи и различаются в основном тем, что призываеют различных Духов для защиты. "Сутра Спасения Небесного Грома" является наследием Мастера Грома. Развивая этот метод, можно вызвать множество духов грома Небес в качестве хранителей. Это учение сосредоточено на артефактах и нападении.</Desc>
+			<SelectDesc>Шандао Культивация отличается от традиционной и целиком операется на Веру последователей. Хотя она не требует природных талантов, но чтобы достичь вершин нужен очень высокий уровень интеллекта. Вы уверены, что хотите выбрать эту технику?</SelectDesc>
+			<Stages.0.DisplayName>Аскетизм</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Преданное Сердце</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Проповедь</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Основание</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Движение</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Эдикт: Движение</Stages.2.Necks.0.DisplayName>
+			<Stages.3.DisplayName>Удар молнии</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Эдикт: Удар молнии</Stages.3.Necks.0.DisplayName>
+			<Stages.4.DisplayName>Инь Янь</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Эдикт: Инь Ян</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.1.DisplayName>Отринуть Мирское</Stages.4.Necks.1.DisplayName>
+			<Stages.5.DisplayName>Достижение</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Непревзойдённый</Stages.5.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>

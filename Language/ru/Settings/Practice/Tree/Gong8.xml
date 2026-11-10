@@ -1,0 +1,127 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong8_a0">
+			<DisplayName>Панацея</DisplayName>
+		</Text>
+		<Text Name="Gong8_a6">
+			<DisplayName>Записи о Боге Войны</DisplayName>
+		</Text>
+		<Text Name="Gong8_a11">
+			<DisplayName>Заклинание Чистого Разума</DisplayName>
+		</Text>
+		<Text Name="Gong8_b6">
+			<DisplayName>Испытание Компасом</DisplayName>
+		</Text>
+		<Text Name="Gong8_b11">
+			<DisplayName>Мантра Глубин Души</DisplayName>
+		</Text>
+		<Text Name="Gong8_c0">
+			<DisplayName>Медитация</DisplayName>
+		</Text>
+		<Text Name="Gong8_c1">
+			<DisplayName>Ладонь Поглощения</DisplayName>
+		</Text>
+		<Text Name="Gong8_c2">
+			<DisplayName>Возрождение Мечты</DisplayName>
+		</Text>
+		<Text Name="Gong8_c3">
+			<DisplayName>Техника Дубхе</DisplayName>
+		</Text>
+		<Text Name="Gong8_c3_1">
+			<DisplayName>Меч Дубхе</DisplayName>
+		</Text>
+		<Text Name="Gong8_c3_2">
+			<DisplayName>Артефакт Наследия: Меч Дубхе</DisplayName>
+		</Text>
+		<Text Name="Gong8_c4">
+			<DisplayName>Техника Мерак</DisplayName>
+		</Text>
+		<Text Name="Gong8_c4_1">
+			<DisplayName>Меч Мерак</DisplayName>
+		</Text>
+		<Text Name="Gong8_c4_2">
+			<DisplayName>Артефакт Наследия: Меч Мерак</DisplayName>
+		</Text>
+		<Text Name="Gong8_c5">
+			<DisplayName>Техника Фегда</DisplayName>
+		</Text>
+		<Text Name="Gong8_c5_1">
+			<DisplayName>Меч Фегда</DisplayName>
+		</Text>
+		<Text Name="Gong8_c5_2">
+			<DisplayName>Артефакт Наследия: Меч Фегда</DisplayName>
+		</Text>
+		<Text Name="Gong8_c6">
+			<DisplayName>Техника Мегрец</DisplayName>
+		</Text>
+		<Text Name="Gong8_c6_1">
+			<DisplayName>Меч Мегрец</DisplayName>
+		</Text>
+		<Text Name="Gong8_c6_2">
+			<DisplayName>Артефакт Наследия: Меч Мегрец</DisplayName>
+		</Text>
+		<Text Name="Gong8_c7">
+			<DisplayName>Техника Алиот</DisplayName>
+		</Text>
+		<Text Name="Gong8_c7_1">
+			<DisplayName>Меч Алиот</DisplayName>
+		</Text>
+		<Text Name="Gong8_c7_2">
+			<DisplayName>Артефакт Наследия: Меч Алиот</DisplayName>
+		</Text>
+		<Text Name="Gong8_c8">
+			<DisplayName>Техника Мицар</DisplayName>
+		</Text>
+		<Text Name="Gong8_c8_1">
+			<DisplayName>Меч Мицар</DisplayName>
+		</Text>
+		<Text Name="Gong8_c8_2">
+			<DisplayName>Артефакт Наследия: Меч Мицар</DisplayName>
+		</Text>
+		<Text Name="Gong8_c9">
+			<DisplayName>Техника Алькаид</DisplayName>
+		</Text>
+		<Text Name="Gong8_c9_1">
+			<DisplayName>Меч Алькаид</DisplayName>
+		</Text>
+		<Text Name="Gong8_c9_2">
+			<DisplayName>Артефакт Наследия: Меч Алькаид</DisplayName>
+		</Text>
+		<Text Name="Gong8_c11">
+			<DisplayName>Мантра Похищения Сердца</DisplayName>
+		</Text>
+		<Text Name="Gong8_c11_1">
+			<DisplayName>Мантра Прощения</DisplayName>
+		</Text>
+		<Text Name="Gong8_d0">
+			<DisplayName>Гроза</DisplayName>
+		</Text>
+		<Text Name="Gong8_d0_1">
+			<DisplayName>Unlimited Blade Works</DisplayName>
+		</Text>
+		<Text Name="Gong8_d1">
+			<DisplayName>Звёздные Глаза</DisplayName>
+		</Text>
+		<Text Name="Gong8_d6">
+			<DisplayName>Стиль Большой Медведицы</DisplayName>
+		</Text>
+		<Text Name="Gong8_d6_1">
+			<DisplayName>Стиль Большой Медведицы</DisplayName>
+		</Text>
+		<Text Name="Gong8_d6_2">
+			<DisplayName>Стиль Большой Медведицы</DisplayName>
+		</Text>
+		<Text Name="Gong8_d10">
+			<DisplayName>Универсальное Предвидение</DisplayName>
+		</Text>
+		<Text Name="Gong8_d11">
+			<DisplayName>Заклинание Божественности</DisplayName>
+		</Text>
+		<Text Name="Gong8_e4">
+			<DisplayName>Пилюля Небесного Пути</DisplayName>
+		</Text>
+		<Text Name="Gong8_e8">
+			<DisplayName>Небесный Артефакт</DisplayName>
+		</Text>
+	</List>
+</Texts>

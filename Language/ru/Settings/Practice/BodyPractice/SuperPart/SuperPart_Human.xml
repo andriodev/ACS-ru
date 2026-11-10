@@ -1,0 +1,10 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="SuperPart_Human_1">
+			<Prefix>Захват пяти</Prefix>
+			<Suffix>Элементов</Suffix>
+			<Levels.0.Title>Первый Слой</Levels.0.Title>
+			<Levels.0.Desc>Увеличивает глобальную точность секретного тела.</Levels.0.Desc>
+		</Text>
+	</List>
+</Texts>

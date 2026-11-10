@@ -1,0 +1,62 @@
+﻿<Texts Type="Story">
+	<List>
+		<Text Name="Disaster_Drought">
+			<DisplayName>Засуха</DisplayName>
+			<Desc>Этот район переживает засуху.</Desc>
+			<Selections.0.Display>Оказание помощи в случае стихийных бедствий</Selections.0.Display>
+			<Selections.1.Display>Усугубить катастрофу</Selections.1.Display>
+			<Selections.2.Display>Успокойте людей</Selections.2.Display>
+		</Text>
+		<Text Name="Disaster_Flood">
+			<DisplayName>Наводнение</DisplayName>
+			<Desc>Этот район затоплен.</Desc>
+			<Selections.0.Display>Оказание помощи в случае стихийных бедствий</Selections.0.Display>
+			<Selections.1.Display>Усугубить катастрофу</Selections.1.Display>
+			<Selections.2.Display>Успокойте людей</Selections.2.Display>
+		</Text>
+		<Text Name="Disaster_Siberia">
+			<DisplayName>Холодная Волна</DisplayName>
+			<Desc>На этот район обрушилась волна холода.</Desc>
+			<Selections.0.Display>Оказание помощи в случае стихийных бедствий</Selections.0.Display>
+			<Selections.1.Display>Усугубить катастрофу</Selections.1.Display>
+			<Selections.2.Display>Успокойте людей</Selections.2.Display>
+		</Text>
+		<Text Name="Disaster_EarthQuake">
+			<DisplayName>Землетрясение</DisplayName>
+			<Desc>Этот район пострадал от землетрясения.</Desc>
+			<Selections.0.Display>Оказание помощи в случае стихийных бедствий</Selections.0.Display>
+			<Selections.1.Display>Усугубить катастрофу</Selections.1.Display>
+			<Selections.2.Display>Успокойте людей</Selections.2.Display>
+		</Text>
+		<Text Name="Place_Drought">
+			<DisplayName>Ликвидация Последствий Стихийных Бедствий</DisplayName>
+			<Desc>[NAME] решил разобраться с засухой.</Desc>
+			<Selections.0.Display>Проверка результатов</Selections.0.Display>
+		</Text>
+		<Text Name="Place_Flood">
+			<DisplayName>Ликвидация Последствий Стихийных Бедствий</DisplayName>
+			<Desc>[NAME] решил разобраться с потопом.</Desc>
+			<Selections.0.Display>Проверка результатов</Selections.0.Display>
+		</Text>
+		<Text Name="Place_Siberia">
+			<DisplayName>Ликвидация Последствий Стихийных Бедствий</DisplayName>
+			<Desc>[NAME] решил разобраться с волной холода.</Desc>
+			<Selections.0.Display>Проверка результатов</Selections.0.Display>
+		</Text>
+		<Text Name="Place_EarthQuake">
+			<DisplayName>Ликвидация Последствий Стихийных Бедствий</DisplayName>
+			<Desc>[NAME] решил разобраться с землетрясением.</Desc>
+			<Selections.0.Display>Проверка результатов</Selections.0.Display>
+		</Text>
+		<Text Name="MapStory_DroughtFinish">
+			<DisplayName>Катастрофа закончилась.</DisplayName>
+			<Desc>Бедствие продолжалось много дней, люди жили на грани голодной смерти, многие погибли и бежали, урожаи не были хорошими.</Desc>
+			<Selections.0.Display>Проверка результатов</Selections.0.Display>
+		</Text>
+		<Text Name="MapStory_DroughtSolve">
+			<DisplayName>Катастрофа закончилась.</DisplayName>
+			<Desc>С большими усилиями катастрофу удалось взять под контроль.</Desc>
+			<Selections.0.Display>Проверка результатов</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>

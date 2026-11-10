@@ -1,0 +1,114 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="SlotSuit_School_1">
+      <DisplayName>Дух Красных Облаков</DisplayName>
+      <SuitEffect.0.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Улучшена Способность К Заклинаниям</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Повышенная Защитная Способность</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Повышенная Стабильность</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Повышена Эффективность Формации</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Увеличенная Способность Деятельности</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Увеличивает Предел Энергии Формации</SuitEffect.6.Description>
+    </Text>
+    <Text Name="SlotSuit_School_2">
+      <DisplayName>Дух Кунь-Лунь</DisplayName>
+      <SuitEffect.0.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Улучшена Способность К Заклинаниям</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Повышенная Защитная Способность</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Повышенная Стабильность</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Повышена Эффективность Формации</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Увеличенная Способность Деятельности</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Увеличивает Предел Энергии Формации</SuitEffect.6.Description>
+    </Text>
+    <Text Name="SlotSuit_School_3">
+      <DisplayName>Дух Небосвода</DisplayName>
+      <SuitEffect.0.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Улучшена Способность К Заклинаниям</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Повышенная Защитная Способность</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Повышенная Стабильность</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Повышена Эффективность Формации</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Увеличенная Способность Деятельности</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Увеличивает Предел Энергии Формации</SuitEffect.6.Description>
+    </Text>
+    <Text Name="SlotSuit_School_4">
+      <DisplayName>Дух Пурпурного Облака</DisplayName>
+      <SuitEffect.0.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Улучшена Способность К Заклинаниям</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Повышенная Защитная Способность</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Повышенная Стабильность</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Повышена Эффективность Формации</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Увеличенная Способность Деятельности</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Увеличивает Предел Энергии Формации</SuitEffect.6.Description>
+    </Text>
+    <Text Name="SlotSuit_School_5">
+      <DisplayName>Дух Тайного Единства</DisplayName>
+      <SuitEffect.0.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Улучшена Способность К Заклинаниям</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Повышенная Защитная Способность</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Повышенная Стабильность</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Повышена Эффективность Формации</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Увеличенная Способность Деятельности</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Увеличивает Предел Энергии Формации</SuitEffect.6.Description>
+    </Text>
+    <Text Name="SlotSuit_School_6">
+      <DisplayName>Дух Голубого Лотоса</DisplayName>
+      <SuitEffect.0.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Улучшена Способность К Заклинаниям</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Повышенная Защитная Способность</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Повышенная Стабильность</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Повышена Эффективность Формации</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Увеличенная Способность Деятельности</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Увеличивает Предел Энергии Формации</SuitEffect.6.Description>
+    </Text>
+    <Text Name="SlotSuit_School_7">
+      <DisplayName>Дух Вечерней Обители</DisplayName>
+      <SuitEffect.0.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Улучшена Способность К Заклинаниям</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Повышенная Защитная Способность</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Повышенная Стабильность</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Повышена Эффективность Формации</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Увеличенная Способность Деятельности</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Увеличивает Предел Энергии Формации</SuitEffect.6.Description>
+    </Text>
+    <Text Name="SlotSuit_School_8">
+      <DisplayName>Дух Сотни Гадов</DisplayName>
+      <SuitEffect.0.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Улучшена Способность К Заклинаниям</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Повышенная Защитная Способность</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Повышенная Стабильность</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Повышена Эффективность Формации</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Увеличенная Способность Деятельности</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Увеличивает Предел Энергии Формации</SuitEffect.6.Description>
+    </Text>
+    <Text Name="SlotSuit_School_9">
+      <DisplayName>Дух Пропащих</DisplayName>
+      <SuitEffect.0.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Улучшена Способность К Заклинаниям</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Повышенная Защитная Способность</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Повышенная Стабильность</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Повышена Эффективность Формации</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Увеличенная Способность Деятельности</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Увеличивает Предел Энергии Формации</SuitEffect.6.Description>
+    </Text>
+    <Text Name="SlotSuit_School_10">
+      <DisplayName>Дух Неотвратимой Резни</DisplayName>
+      <SuitEffect.0.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Улучшена Способность К Заклинаниям</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Повышенная Защитная Способность</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Повышенная Стабильность</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Повышена Эффективность Формации</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Увеличенная Способность Деятельности</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Увеличивает Предел Энергии Формации</SuitEffect.6.Description>
+    </Text>
+    <Text Name="SlotSuit_School_11">
+      <DisplayName>Ликующий Дух</DisplayName>
+      <SuitEffect.0.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Улучшена Способность К Заклинаниям</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Повышенная Защитная Способность</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Повышенная Стабильность</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Повышена Эффективность Формации</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Увеличенная Способность Деятельности</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Увеличивает Предел Энергии Формации</SuitEffect.6.Description>
+    </Text>
+  </List>
+</Texts>

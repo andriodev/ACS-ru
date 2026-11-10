@@ -1,0 +1,52 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_Horse_All_0">
+			<DisplayName>Бонус к базовой скорости приключений</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_All_7">
+			<DisplayName>Макс Ци Бонус</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Rabbit_10">
+			<DisplayName>Кролик</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Chicken_10">
+			<DisplayName>Курица</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Wolf_10">
+			<DisplayName>Волк</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Snake_10">
+			<DisplayName>Змея</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Boar_10">
+			<DisplayName>Кабан</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Bear_10">
+			<DisplayName>Медведь</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Frog_10">
+			<DisplayName>Лягушка</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Turtle_10">
+			<DisplayName>Черепаха</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Cat_10">
+			<DisplayName>Кошка</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Cattle_10">
+			<DisplayName>Крупный рогатый скот</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Tiger_10">
+			<DisplayName>Тигр</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Panda_10">
+			<DisplayName>Панда</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_LuShu_0">
+			<DisplayName>ЛуШу</DisplayName>
+		</Text>
+		<Text Name="Modifier_Horse_Fei_0">
+			<DisplayName>Фэй</DisplayName>
+		</Text>
+	</List>
+</Texts>

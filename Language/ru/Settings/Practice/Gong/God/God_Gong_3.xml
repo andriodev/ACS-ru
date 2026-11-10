@@ -1,0 +1,21 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="God_Gong_3">
+			<DisplayName>Сутра Спасения Страждущих</DisplayName>
+			<Desc>Давно утраченный, древний Божественный Путь, позволяет собрать Веру последователей, чтобы достичь Божественности. Большинство Методов Божественного Совершенствования похожи и различаются в основном тем, что призываеют различных Духов для защиты. "Сутра Спасения Страждущих" связана с Прародителем Иного Мира, и её практика позволяет овладеть Девятью Проклятыми Путями, чтобы призвать на защиту Духов Десяти Учений Иного Мира. Это Учение сосредоточено на Защите.</Desc>
+			<SelectDesc>Шандао Культивация отличается от традиционной и целиком операется на Веру последователей. Хотя она не требует природных талантов, но чтобы достичь вершин нужен очень высокий уровень интеллекта. Вы уверены, что хотите выбрать эту технику?</SelectDesc>
+			<Stages.0.DisplayName>Аскетизм</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Преданное Сердце</Stages.0.Necks.0.DisplayName>
+			<Stages.1.DisplayName>Проповедь</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Основание</Stages.1.Necks.0.DisplayName>
+			<Stages.2.DisplayName>Святое Цартсво</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Эдикт: Нечистый Посланник</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.1.DisplayName>Эдикт: Нечистый Генерал</Stages.2.Necks.1.DisplayName>
+			<Stages.2.Necks.2.DisplayName>Эдикт: Вестник Смерти</Stages.2.Necks.2.DisplayName>
+			<Stages.2.Necks.3.DisplayName>Эдикт: Судья</Stages.2.Necks.3.DisplayName>
+			<Stages.2.Necks.4.DisplayName>Отринуть Мирское</Stages.2.Necks.4.DisplayName>
+			<Stages.3.DisplayName>Достижение</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Непревзойдённый</Stages.3.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>

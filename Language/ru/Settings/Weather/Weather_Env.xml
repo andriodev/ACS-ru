@@ -1,0 +1,21 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="YinChaos">
+			<DisplayName>Полярная ночь (Стела)</DisplayName>
+		</Text>
+		<Text Name="Hotpot_Heat">
+			<DisplayName>Тепловая волна (Огненная пропасть)</DisplayName>
+			<StoryDesc>Огненная пропасть становится нестабильной, непрестанно излучая тепловую волну.</StoryDesc>
+		</Text>
+		<Text Name="ColdHole_Cold">
+			<DisplayName>Охлаждающий воздух (замороженная печь)</DisplayName>
+			<StoryDesc>Замороженная печь становится нестабильной, непрерывно выделяя ледяной воздух.</StoryDesc>
+		</Text>
+		<Text Name="Lightning_DragonHole">
+			<DisplayName>Гроза (Пещера Тайн)</DisplayName>
+		</Text>
+		<Text Name="DustStorm_Dimu">
+			<DisplayName>Пыльная буря (Святилище Матери-Земли)</DisplayName>
+		</Text>
+	</List>
+</Texts>

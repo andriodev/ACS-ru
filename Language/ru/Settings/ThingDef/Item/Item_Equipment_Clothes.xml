@@ -1,0 +1,67 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="ClothesBase" sParam="Item">
+      <Item.FabaoSuffix>Одежды,Броня,Доспех,Халат</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SummerClothes" sParam="Item">
+      <ThingName>Тонкие Одежды</ThingName>
+      <Desc>Хорошо дышащие одежды, которые также слегка защищают от холода.</Desc>
+    </Text>
+    <Text Name="Item_SilkClothes" sParam="Item">
+      <ThingName>Лёгкие Одежды</ThingName>
+      <Desc>Свободная одежда, в которой будет комфортно в жару.</Desc>
+    </Text>
+    <Text Name="Item_PracticeClothes" sParam="Item">
+      <ThingName>Одежды Ученика</ThingName>
+      <Desc>Стандартные одежды секты, относительно тёплые, но не очень дышащие.</Desc>
+    </Text>
+    <Text Name="Item_FormalClothes" sParam="Item">
+      <ThingName>Обычные Одежды</ThingName>
+      <Desc>Обычные повседневные одежды, относительно тёплые, но не очень дышащие.</Desc>
+    </Text>
+    <Text Name="Item_WinterClothes" sParam="Item">
+      <ThingName>Тёплые Одежды</ThingName>
+      <Desc>Одежды из тёплой и плотной ткани.</Desc>
+    </Text>
+    <Text Name="Item_SP_Clothes1" sParam="Item">
+      <ThingName>Облачение Дракона</ThingName>
+      <Desc>Облачение, сотканное из чешуи дракона, которое повышает уровень Защиты.</Desc>
+    </Text>
+    <Text Name="Item_SP_Clothes2" sParam="Item">
+      <ThingName>Облачение Инь</ThingName>
+      <Desc>Облачение, собирающее силу чистого Инь, которое повышает уровень Заклинания.</Desc>
+    </Text>
+    <Text Name="Item_SP_Clothes3" sParam="Item">
+      <ThingName>Тлеющее Облачение</ThingName>
+      <Desc>Облачение, собирающее силу чистого Ян, которое повышает уровень Владения Артефактом.</Desc>
+    </Text>
+    <Text Name="Item_SP_Clothes4" sParam="Item">
+      <ThingName>Небесный Покров</ThingName>
+      <Desc>Облачение Небесного Покрова способно обмануть Пути Небес, что снизит Достижения при ношении.</Desc>
+    </Text>
+    <Text Name="Item_SP_Clothes5" sParam="Item">
+      <ThingName>Перья Ян</ThingName>
+      <Desc>Облачение, способное отгонять демонов. Ношение его улучшит ментальное состояние, изгнав внутренних демонов.</Desc>
+    </Text>
+    <Text Name="Item_SP_Clothes6" sParam="Item">
+      <ThingName>Золотое Облачение</ThingName>
+      <Desc>Облачение, собирающее силу чистого Ян, которое повышает уровень Владения Артефактом.</Desc>
+    </Text>
+    <Text Name="Item_SP_Clothes7" sParam="Item">
+      <ThingName>Огненная Туника</ThingName>
+      <Desc>Одеяние, сшитое из шкуры Огненной Крысы, которое повышает уровень Защиты и снижает получаемый от Огня урон.</Desc>
+    </Text>
+    <Text Name="Item_SP_Clothes8" sParam="Item">
+      <ThingName>Чёрные Воды</ThingName>
+      <Desc>Облачение Чёрных Вод способно обмануть Пути Небес, что снизит Достижения при ношении.</Desc>
+    </Text>
+    <Text Name="Item_SP_Clothes9" sParam="Item">
+      <ThingName>Туника Непостижимого</ThingName>
+      <Desc>Облачение, собирающее силу чистого инь, которое повышает уровень Заклинания.</Desc>
+    </Text>
+    <Text Name="Item_SP_Clothes10" sParam="Item">
+      <ThingName>Журавль в Небе</ThingName>
+      <Desc>Облачение, способное отгонять демонов. Ношение его улучшит ментальное состояние, изгнав внутренних демонов.</Desc>
+    </Text>
+  </List>
+</Texts>

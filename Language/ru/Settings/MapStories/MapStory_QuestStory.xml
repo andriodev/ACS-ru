@@ -1,0 +1,22 @@
+﻿<Texts Type="Story">
+	<List>
+		<Text Name="Story_QuestStory_Item_ShangGuYiWenLu">
+			<DisplayName>Изучить свиток</DisplayName>
+			<Desc>[NAME] внимательно осмотрел свиток.</Desc>
+			<Selections.0.Display>Читать</Selections.0.Display>
+			<Selections.1.Display>Используйте Древнюю печать, чтобы расшифровать</Selections.1.Display>
+		</Text>
+		<Text Name="Story_QuestStory_Item_TaiYiMiDian">
+			<DisplayName>Изучить книгу</DisplayName>
+			<Desc>[NAME] осмотрел книгу.</Desc>
+			<Selections.0.Display>Читать</Selections.0.Display>
+			<Selections.1.Display>Используйте Вселенскую печать, чтобы расшифровать</Selections.1.Display>
+		</Text>
+		<Text Name="Story_QuestStory_Item_JinChuanCanJuan">
+			<DisplayName>Изучить фрагменты</DisplayName>
+			<Desc>[NAME] попытался рассмотреть фрагмент свитка Золотой шкатулки.</Desc>
+			<Selections.0.Display>Изучить</Selections.0.Display>
+			<Selections.1.Display>Используйте Примитивную печать, чтобы расшифровать</Selections.1.Display>
+		</Text>
+	</List>
+</Texts>

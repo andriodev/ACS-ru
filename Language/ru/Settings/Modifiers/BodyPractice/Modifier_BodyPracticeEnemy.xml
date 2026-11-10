@@ -1,0 +1,34 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Modifier_BodyPractice_Boss_BaseValue">
+			<DisplayName>Мудрец Физической Подготовки, Стартовая Характеристика</DisplayName>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_BaseFightValue">
+			<DisplayName>Мудрец Физической Подготовки, Стартовая Характеристика в Бою</DisplayName>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Atk">
+			<DisplayName>Мощь</DisplayName>
+			<Desc>Тайное тело этого человека невероятно мощно, оно может разбивать камни и переворачивать океаны.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Def">
+			<DisplayName>Податливость</DisplayName>
+			<Desc>Тайное тело этого человека настолько прочно, что ничто не может пробиться сквозь него.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Dodge">
+			<DisplayName>Уворот</DisplayName>
+			<Desc>Этот человек очень ловок и быстр, что никто не в состоянии поймать его.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_CatchFabao">
+			<DisplayName>Рывок</DisplayName>
+			<Desc>У этого человека очень умелые руки, и он преуспевает в подавлении артефактов.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_ArmorPenetration">
+			<DisplayName>Прокол</DisplayName>
+			<Desc>Этот человек очень умен со своей силой и преуспевает в проникновении через барьеры Ци и нанесении урона.</Desc>
+		</Text>
+		<Text Name="Modifier_BodyPractice_Boss_Strong">
+			<DisplayName>Сильный</DisplayName>
+			<Desc>Физическое тело этого человека очень сильно, и его ум также устойчив, что никакая боль не удерживает его.</Desc>
+		</Text>
+	</List>
+</Texts>

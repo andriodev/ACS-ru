@@ -1,0 +1,190 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="JGTest">
+			<Events.0.Story>В процессе, [name] начал фантазировать о том, чтобы стать человеком.</Events.0.Story>
+			<Events.1.Story>В процессе, разум [name]'s начал отходить к старым добрым временам проведённым с мастером .</Events.1.Story>
+		</Text>
+		<Text Name="JGTunShi">
+			<Events.0.Story>Боже мой, это супер вкусно! Я хочу еще пол килограмма.</Events.0.Story>
+			<Events.1.Story>Еще немного, пожалуйста, клянусь, я сяду на диету после этого.</Events.1.Story>
+			<Events.2.Story>При проглатывании вещей, [name] внезапно подумал о Разумном Духе, [obj_tongling] интересно, пробовал ли он эти лакомства или нет?</Events.2.Story>
+			<Events.3.Story>Уютный! Удобный!</Events.3.Story>
+			<Events.4.Story>Вкуснятина!</Events.4.Story>
+			<Events.5.Story>Яй, это вкус действительно очень хорош.</Events.5.Story>
+			<Events.6.Story>Больше!</Events.6.Story>
+			<Events.7.Story>Чертовски вкусно.</Events.7.Story>
+			<Events.8.Story>Это оно!</Events.8.Story>
+		</Text>
+		<Text Name="JGTalkDay">
+			<Events.0.Story>В процессе, [name] начал фантазировать о том, чтобы стать человеком.</Events.0.Story>
+			<Events.1.Story>[name] впал в транс по какой-то причине.</Events.1.Story>
+			<Events.2.Story>[name] посмотрел на своего сородича, живущего в неведении, и внезапно почувствовал, на сколько ему повезло.</Events.2.Story>
+			<Events.3.Story>[name] [rand_string=Внезапно чихнул, внезапно икнул, внезапно зевнул, начал говорить сам с собой, внезапно почувствовал лёгкий зуд , внезапно почувствовал небольшую скуку, внезапно издал чмокающий звук, внезапно издал лижущий звук, стряхнул пыль с тела, начал жужжать, захотел поговорить с людьми, захотел попробовать написать стихи].</Events.3.Story>
+			<Events.4.Story>[name] показалось, как кто-то назвал его имя.</Events.4.Story>
+			<Events.5.Story>[name] действительно нравится [rand_lable=obj_weather].</Events.5.Story>
+			<Events.6.Story>[name] уставился на [rand_lable=obj_friend,obj_nearthing], [rand_string=zoning out,giggling,pondering on something].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] затосковал по дому когда.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно заинтересовался [obj_nearthing] nearby...</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг захотел съесть [obj_food].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] наполнило множество мыслей и чувств.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно начал плакать когда.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг почувствовал необъяснимое раздражение чем-то.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно начал думать о закате.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг почувствовал необъяснимое раздражение чем-то.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно стал трудно дышать когда</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] Внезапно захотел прокатиться на [obj_fabao], что бы ощутить.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не знал почему, но очень хочет съесть [obj_dan] просто чтобы попробовать.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] Внезапно захотел подраться с кемнибудь .</Events.19.Story>
+			<Events.20.Story>Посмотри на меня, посмотри на меня, посмотри на меня!</Events.20.Story>
+			<Events.21.Story>Иди сюда, иди сюда, иди сюда!</Events.21.Story>
+			<Events.22.Story>Вы! Подойди и поговори со мной.</Events.22.Story>
+			<Events.23.Story>Это так раздражает, что вы, ребята, продолжаете ходить здесь.</Events.23.Story>
+			<Events.24.Story>Буду ли я занят так же как вы, когда стану человеком??</Events.24.Story>
+			<Events.25.Story>Ваддая смотрит на?</Events.25.Story>
+			<Events.26.Story>Что?</Events.26.Story>
+			<Events.27.Story>Парни, неужели ваи глаза не пересыхают, бегая тут?</Events.27.Story>
+		</Text>
+		<Text Name="JGTalkNight">
+			<Events.0.Story>В процессе, [name] начал фантазировать о том, чтобы стать человеком.</Events.0.Story>
+			<Events.1.Story>[name] впал в транс по какой-то причине.</Events.1.Story>
+			<Events.2.Story>[name] посмотрел на своего сородича, живущего в неведении, и внезапно почувствовал, на сколько ему повезло.</Events.2.Story>
+			<Events.3.Story>[name] [rand_string=Внезапно чихнул, внезапно икнул, внезапно зевнул, начал говорить сам с собой, внезапно почувствовал лёгкий зуд , внезапно почувствовал небольшую скуку, внезапно издал чмокающий звук, внезапно издал лижущий звук, стряхнул пыль с тела, начал жужжать, захотел поговорить с людьми, захотел попробовать написать стихи].</Events.3.Story>
+			<Events.4.Story>[name] показалось, как кто-то назвал его имя.</Events.4.Story>
+			<Events.5.Story>[name] действительно нравится [rand_lable=obj_weather].</Events.5.Story>
+			<Events.6.Story>[name] уставился на [rand_lable=obj_friend,obj_nearthing], [rand_string=zoning out,giggling,pondering on something].</Events.6.Story>
+			<Events.7.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] затосковал по дому когда.</Events.7.Story>
+			<Events.8.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно заинтересовался [obj_nearthing] nearby...</Events.8.Story>
+			<Events.9.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг захотел съесть [obj_food].</Events.9.Story>
+			<Events.10.Story>[rand_lable=desc_time,desc_place,desc_weather]. Разум [name] наполнило множество мыслей и чувств.</Events.10.Story>
+			<Events.11.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно начал плакать когда.</Events.11.Story>
+			<Events.12.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг почувствовал необъяснимое раздражение чем-то.</Events.12.Story>
+			<Events.13.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно почувствовал желание посетить [rand_lable=obj_unlockmapplace,obj_goodschool,obj_badschool].</Events.13.Story>
+			<Events.14.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно начал думать о закате.</Events.14.Story>
+			<Events.15.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] вдруг почувствовал необъяснимое раздражение чем-то.</Events.15.Story>
+			<Events.16.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] внезапно стал трудно дышать когда</Events.16.Story>
+			<Events.17.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] Внезапно захотел прокатиться на [obj_fabao], что бы ощутить.</Events.17.Story>
+			<Events.18.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] не знал почему, но очень хочет съесть [obj_dan] просто чтобы попробовать.</Events.18.Story>
+			<Events.19.Story>[rand_lable=desc_time,desc_place,desc_weather]. [name] Внезапно захотел подраться с кем-нибудь.</Events.19.Story>
+			<Events.20.Story>Почему вы лежите? Вставайте и веселитесь!</Events.20.Story>
+			<Events.21.Story>ЛА-ла-ла-ла-ла~</Events.21.Story>
+			<Events.22.Story>Кто––уже––проснулся? ––Уже––проснулся––? ––Проснулся? Из–ви–ни–те Из–ви–ни–те–Ох–Из–ви–ни–те––</Events.22.Story>
+			<Events.23.Story>Zzzzzz––я спал–––––-нет, шучу!</Events.23.Story>
+			<Events.24.Story>Ди-ди-ди-ди~</Events.24.Story>
+			<Events.25.Story>Да-да-да-да~</Events.25.Story>
+			<Events.26.Story>Я слышал, что разумные духи часто заползают к тебе на кровать посреди ночи...</Events.26.Story>
+			<Events.27.Story>ААААА Я такой несчастный––––––––––как много ГРЯЗИ под моими НОГ-ТЯ-МИ––––––––</Events.27.Story>
+		</Text>
+		<Text Name="JGTalkNoMove">
+			<Events.0.Story>Когда я смогу идти? Мне скучно быть здесь!</Events.0.Story>
+			<Events.1.Story>Ау? Ау? Кто-нибудь! Убери от меня руки!</Events.1.Story>
+			<Events.2.Story>Моя душа истощена, Я очень хочу пойти погулять...</Events.2.Story>
+			<Events.3.Story>Кто-нибудь-есть–здесь––Мне–так–скучно––</Events.3.Story>
+			<Events.4.Story>Хмпф, даже если ты развяжешь меня сейчас, я болье не хочу никуда идти.</Events.4.Story>
+			<Events.5.Story>Солнце светит, птички поют, я маленький милый монстр, который хочет двигаться~</Events.5.Story>
+			<Events.6.Story>Отпусти меня, я знаю, ты смотришь!</Events.6.Story>
+			<Events.7.Story>Я положу Экскременты Дракона в твой чай!</Events.7.Story>
+			<Events.8.Story>Как я хочу стать человеком ~ Как я хочу путешествовать везде~</Events.8.Story>
+			<Events.9.Story>Что это за комната из огне-меди, о которой вы, ребята, продолжаете говорить?</Events.9.Story>
+			<Events.10.Story>Я продолжу просто гнить здесь?</Events.10.Story>
+			<Events.11.Story>Бу-ху ~ Я сдаюсь, обещаю, что больше не попытаюсь сбежать.</Events.11.Story>
+			<Events.12.Story>Выпустите–меня–––</Events.12.Story>
+			<Events.13.Story>На самом деле я не разумный дух, а старик, запечатанный внутри. Отпусти меня, и я научу тебя супер непобедимому навыку.</Events.13.Story>
+			<Events.14.Story>До-до-до~</Events.14.Story>
+			<Events.15.Story>Ди-ди-ди-ди~</Events.15.Story>
+			<Events.16.Story>Да-да-да-да~</Events.16.Story>
+			<Events.17.Story>За последние несколько дней я пришел к выводу, что разумным духам не следует так бегать..</Events.17.Story>
+			<Events.18.Story>Ау-у-у––Я большой злой волк––</Events.18.Story>
+			<Events.19.Story>Руки прочь! Я превращусь, Я превращусь?</Events.19.Story>
+			<Events.20.Story>Пожалуйста, дай мне уйти!</Events.20.Story>
+			<Events.21.Story>Самая важная часть жизни демона, это быть счастливым.</Events.21.Story>
+			<Events.22.Story>Расскажи способ,как ты можешь заставить меня молчать: Никак. Хе-хе-хе-хе-хе</Events.22.Story>
+			<Events.23.Story>Я продолжаю думать о том, что бы уйти.</Events.23.Story>
+			<Events.24.Story>Вернись ко мне через два дня, и я открою тебе секрет.</Events.24.Story>
+			<Events.25.Story>Я сумасшедший?</Events.25.Story>
+			<Events.26.Story>Открою тебе секрет .... у меня нет секретов.</Events.26.Story>
+			<Events.27.Story>Раньше у меня не было выбора, но теперь я буду хорошим парнем.</Events.27.Story>
+			<Events.28.Story>Не могу двигаться, голова болит.</Events.28.Story>
+			<Events.29.Story>Ты когда-нибудь ел консервы? Они действительно вкусные.</Events.29.Story>
+			<Events.30.Story>Через три дня пройдёт еще три дня, затем еще три дня, снова и снова.</Events.30.Story>
+		</Text>
+		<Text Name="JGEqupt">
+			<Events.0.Story>Нет ... не ,бери меня, Я хочу немного расслабиться...</Events.0.Story>
+			<Events.1.Story>Ты думаешь обо мне только тогда, когда я тебе нужен?</Events.1.Story>
+			<Events.2.Story>Что ты опять собираешься делать со мной! Ты можешь оставить меня одного ненадолго, пожалуйста!</Events.2.Story>
+			<Events.3.Story>Вау, ты всё ещё помнишь обо мне? Мне чертовски скучно...!!</Events.3.Story>
+			<Events.4.Story>Ты воняешь?</Events.4.Story>
+			<Events.5.Story>Зачем брать меня с собой? Выходить? Вступать в драку? Быть брошенным где-нибуть ещё?</Events.5.Story>
+			<Events.6.Story>При всем уважении, с твоей нынешней силой, использование меня не будет иметь большого значения.</Events.6.Story>
+			<Events.7.Story>Ой, ой, кто-то хочет меня использовать.</Events.7.Story>
+		</Text>
+		<Text Name="JGEqupted">
+			<Events.0.Story>[hename], как ты можешь так сильно потеть? Это отвратительно!</Events.0.Story>
+			<Events.1.Story>[hename], поговори со мной, не молчи!</Events.1.Story>
+			<Events.2.Story>[hename], ты можешь сделать это или нет? Предыдущий владелец намного лучше тебя!</Events.2.Story>
+			<Events.3.Story>[hename], разве ты не можешь держаться ровно? Качка убивает меня.</Events.3.Story>
+			<Events.4.Story>[hename], в твоём инвентаре слишком тесно. Избавься от этого парня рядом со мной!</Events.4.Story>
+			<Events.5.Story>[hename], Открою тебе секрет. На самом деле я старик, который был заперт внутри. Отпусти меня, и я научу тебя супер непобедимому навыку.</Events.5.Story>
+			<Events.6.Story>А-а-а-а, [hename], посмотри на эту штуку, она живая! А-а-а-а! Почему я жив!</Events.6.Story>
+			<Events.7.Story>[hename], Посмотри! Там что-то в небе!</Events.7.Story>
+			<Events.8.Story>Я слышал, что есть что-то вроде лошади, которая возит людей на спине. [hename], ты моя лошадь?</Events.8.Story>
+			<Events.9.Story>[hename],Помогите! Я не могу дышать!! Оу, подожди. Мне не нужно дышать.</Events.9.Story>
+			<Events.10.Story>[hename], Как насчет того, чтобы я дал тебе несколько советов, а ты поможешь мне изменить форму?</Events.10.Story>
+			<Events.12.Story>[hename], Ты должны усердно работать над своей культивации, я не хочу проигрывать соседским штанам.</Events.12.Story>
+			<Events.13.Story>[hename], подумай сам, почему другие могут это сделать, а ты не можешь?</Events.13.Story>
+			<Events.14.Story>До-до-до-до~</Events.14.Story>
+			<Events.15.Story>Ди-ди-ди-ди~</Events.15.Story>
+			<Events.16.Story>Да-да-да-да~</Events.16.Story>
+			<Events.17.Story>[hename], что вы думаете об идее поместить меня на склад, полный сокровищ?</Events.17.Story>
+			<Events.18.Story>[hename], ты такой лузер.</Events.18.Story>
+		</Text>
+		<Text Name="JGBreak">
+			<Events.0.Story>[name] внезапно у него возникло плохое предчувствие, и тело немного пошевелилось.</Events.0.Story>
+			<Events.1.Story>[name] внезапно почувствовал приступ озноба, и очень захотел покинуть это место...</Events.1.Story>
+		</Text>
+		<Text Name="JGRuin">
+			<Events.0.Story>Пожалуйста пощади! Прекрати сейчас же! Больше никаких глупостей!</Events.0.Story>
+			<Events.1.Story>Я вернусь в следующей жизни! Не ждите, что я буду молить о пощаде!</Events.1.Story>
+		</Text>
+		<Text Name="JGMoveSelf">
+			<Events.0.Story>Куда ты собираешься положить меня?</Events.0.Story>
+			<Events.1.Story>Не трогай меня, я не хочу менять место.</Events.1.Story>
+			<Events.2.Story>Снова собираешься в новое место? Думаю, я буду ждать этого с нетерпением...</Events.2.Story>
+			<Events.3.Story>Куда мы снова идем? Не мог бы вы прекратить ходить туда и обратно...</Events.3.Story>
+			<Events.4.Story>Хотя я не против, но продолжать перемещать вещи - это не очень хорошо для фен-шуя....</Events.4.Story>
+			<Events.5.Story>Я хочу большой склад!</Events.5.Story>
+		</Text>
+		<Text Name="JGBuildingUse">
+			<Events.0.Story>Твоё мастерство отстой, парень!</Events.0.Story>
+			<Events.1.Story>Разве ты не можешь немного ускориться? Смотреть, как ты работаешь, похоже на пытку.</Events.1.Story>
+			<Events.2.Story>Тебе должно быть стыдно использовать меня с таким низким мастерством! Если бы у меня были руки, я бы давно закончил!</Events.2.Story>
+		</Text>
+		<Text Name="JGPlantHarvest">
+			<Events.0.Story>[hename], Привет! оставь мне немного!</Events.0.Story>
+			<Events.1.Story>Будь осторожен, не сломай!</Events.1.Story>
+		</Text>
+		<Text Name="JGInteractive">
+			<Events.0.Story>Эй! [hename], что ты делаешь со мной!?</Events.0.Story>
+			<Events.1.Story>Можешь меня почесать?</Events.1.Story>
+			<Events.2.Story>Ты выглядишь уродливо!</Events.2.Story>
+		</Text>
+		<Text Name="JGInjured">
+			<Events.0.Story>Убийца! Помогите!</Events.0.Story>
+			<Events.1.Story>Босс, пощади! Клянусь, я больше никогда не буду много болтать!</Events.1.Story>
+			<Events.2.Story>Пощади! Остановись! Болье никаких глупостей!</Events.2.Story>
+			<Events.3.Story>Я вернусь в следующей жизни! Не ждите, что я буду молить о пощаде!</Events.3.Story>
+			<Events.4.Story>Ты не ел? Ты такой слабый! На твоём месте я бы остановился прямо сейчас, прежде чем выставить себя дураком!</Events.4.Story>
+		</Text>
+		<Text Name="JGTalkToNpc">
+			<Events.0.Story>[hename], не уходи, поговори со мной!</Events.0.Story>
+			<Events.1.Story>[hename], почему ты так спешишь? Почему бы не сбавить обороты и не оценить окружающий мир.</Events.1.Story>
+			<Events.2.Story>[hename], нет необходимости так много работать. Такой неудачник, как ты, в любом случае не будет иметь большого значения для секты.</Events.2.Story>
+			<Events.3.Story>[hename], возьми меня на прогулку!</Events.3.Story>
+			<Events.4.Story>[hename], посмотри на меня!</Events.4.Story>
+			<Events.5.Story>[hename]! Иди сюда!</Events.5.Story>
+			<Events.6.Story>[hename], ты кажешься таким занятым каждый день. Давал ли лидер секты вам Камень Духа??</Events.6.Story>
+			<Events.7.Story>[hename], Левой, левой, раз, два, три!</Events.7.Story>
+			<Events.8.Story>[hename], беги, одиночество гонится за тобой!</Events.8.Story>
+		</Text>
+	</List>
+</Texts>

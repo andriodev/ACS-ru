@@ -1,0 +1,113 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="Item_Dice" sParam="Item">
+      <ThingName>Игральная кость</ThingName>
+      <Desc>Пара игральных костей, которые можно использовать для устранения скуки и улучшения настроения, когда вы свободны, но они будут мешать эффективности работы.</Desc>
+      <Item.FabaoSuffix>Игральная кость</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SmallBell" sParam="Item">
+      <ThingName>Колокольчик</ThingName>
+      <Desc>Маленький колокольчик, взяв его с собой, улучшает ваше настроение, а также привлекает внимание окружающих, делая их более охотными к общению с вами.</Desc>
+      <Item.FabaoSuffix>Колокольчик</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Bracelet" sParam="Item">
+      <ThingName>Браслет</ThingName>
+      <Desc>Пара браслетов, ношение которых делает вас более привлекательной.</Desc>
+      <Item.FabaoSuffix>Браслет, Резьба</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Handkerchief" sParam="Item">
+      <ThingName>Носовой платок</ThingName>
+      <Desc>Носовой платок, ношение его делает вас человеком хороших манер в глазах окружающих.</Desc>
+      <Item.FabaoSuffix>Носовой Платок, Шелк, Текстиль</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_PerfumeBag" sParam="Item">
+      <ThingName>Саше</ThingName>
+      <Desc>Небольшой мешочек с ароматными травами и специями, он улучшает умственное состояние, когда его носит внутренний ученик.</Desc>
+      <Item.FabaoSuffix>Сумка</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_WhiteHair" sParam="Item">
+      <ThingName>Стихи печали</ThingName>
+      <Desc>Сборник стихов с сильным чувством скорби. Волосы носителя станут белыми из-за влияния книги и распространят меланхолическую атмосферу, которая заставляет человека чувствовать себя привлекательным.</Desc>
+      <Item.FabaoSuffix>Том, Книга, Слипы, Свиток</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_LunHui_PerfectWorld" sParam="Item">
+      <ThingName>прекрасный мир</ThingName>
+      <Desc>Шкатулка из другого мира. Погружая в нее свой ум, можно играть в интересную и трогательную игру.</Desc>
+      <Item.FabaoSuffix>Коробка</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_LunHui_QiYuanZhiXin" sParam="Item">
+      <ThingName>Сердце молитвы</ThingName>
+      <Desc>Сокровище, которое проявилось в существовании благодаря молитвам смертных и пожеланиям счастья.</Desc>
+      <Item.FabaoSuffix>Сердце</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_LunHui_DongFangHeShenZhen" sParam="Item">
+      <ThingName>Шип из его секты</ThingName>
+      <Desc>Этот предмет изначально был артефактом выбора Бессмертного меча. Хотя в процессе реинкарнации со своим хозяином он потерял всю свою силу, его необыкновенная сущность все еще остается.</Desc>
+      <Item.FabaoSuffix>Игла</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_MuBai_BaiYuShi" sParam="Item">
+      <ThingName>белый нефрит</ThingName>
+      <Desc>Кусочек белого нефрита, оставленный бессмертным перламутровым деревом. Хотя он выглядит обычным, он может значительно улучшить естественную упругость владельца.</Desc>
+      <Item.FabaoSuffix>Рок</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_QingLianShan_SiXiang" sParam="Item">
+      <ThingName>Роспись четырех символов</ThingName>
+      <Desc>Таинственная схема, оставленная бессмертной Каэрулеей с огромной силой. Носитель картины может использовать локальную энергию Ци и силу вращения четырех времен года в безграничной Вселенной, чтобы обмануть путь небес в течение 9 лет, будучи невосприимчивым к Небесной скорби. Если во время этого процесса свиток с картиной будет необорудован, Небесное бедствие наступит немедленно.</Desc>
+      <Item.FabaoSuffix>Изображение</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Other_PuppetTest" sParam="Item">
+      <ThingName>Марионетка</ThingName>
+      <Desc>Марионетка. Говорят, что существует тайный метод наделения сосуда благословением, записанный в шестнадцати высших ступенях закона.</Desc>
+      <Item.FabaoSuffix>Марионетка</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_Yao_RabbitLuck" sParam="Item">
+      <ThingName>Кроличья лапка демона</ThingName>
+      <Desc>Говорят, он приносит удачу.</Desc>
+    </Text>
+    <Text Name="Item_Yao_WolfAtk" sParam="Item">
+      <ThingName>Клык волка демона</ThingName>
+      <Desc>Неповрежденный клык демона-волка, полный отрицательной энергии. Ношение его значительно увеличивает урон артефакта персонажа.</Desc>
+    </Text>
+    <Text Name="Item_Yao_SnakeHanLin" sParam="Item">
+      <ThingName>Чешуя змеиного демона</ThingName>
+      <Desc>Шкала, которая имеет концентрацию Инь-Ци змеиного демона. Позволяет человеку быть неуязвимым к высокой температуре и иметь первозданное психическое состояние.</Desc>
+    </Text>
+    <Text Name="Item_Yao_BearPiMao" sParam="Item">
+      <ThingName>Мех медведя демона</ThingName>
+      <Desc>Тончайшие волоски с шеи демона-медведя, в которых обитает неистовая ян ци. Ношение его позволяет быть неуязвимым к низкой температуре и увеличивает скорость культивирования.</Desc>
+    </Text>
+    <Text Name="Item_Yao_TurtleKe" sParam="Item">
+      <ThingName>Панцирь гигантской черепахи</ThingName>
+      <Desc>Очень прочный панцирь гигантской черепахи, носящий его, мог бы значительно увеличить сопротивление повреждению Ци.</Desc>
+    </Text>
+    <Text Name="Item_Yao_TigerZhui" sParam="Item">
+      <ThingName>Кость тигрового короля</ThingName>
+      <Desc>Кусочек кости тигра Яогуая, блистающего властной силой. Ношение его улучшает харизму и достижения.</Desc>
+    </Text>
+    <Text Name="Item_Yao_CattleJiao" sParam="Item">
+      <ThingName>Яогуай бык рогом</ThingName>
+      <Desc>Закаленный твердый рог быка Яогуая. Ношение его улучшает Конституцию.</Desc>
+    </Text>
+    <Text Name="Item_Yao_ChickenGuan" sParam="Item">
+      <ThingName>Золото Suncrown</ThingName>
+      <Desc>Драгоценная корона создается путем концентрации солнечной эссенции на макушке головы курицы Яогуай. Ношение его улучшает восприятие и интеллект.</Desc>
+    </Text>
+    <Text Name="Item_StoneCutter" sParam="Item">
+      <ThingName>Скребок</ThingName>
+      <Desc>Нож с очень тупым лезвием, изначально предназначенный для добычи нефрита. Благодаря своей природе как тупого инструмента, он может строить очень быстро.</Desc>
+    </Text>
+    <Text Name="Item_SewingDefender" sParam="Item">
+      <ThingName>Швейный браслет</ThingName>
+      <Desc>Хотя выглядит как простой наруч,он может ускорить швейную работу, используя силу локтя.</Desc>
+    </Text>
+    <Text Name="Item_MillVell" sParam="Item">
+      <ThingName>Маска</ThingName>
+      <Desc>Поскольку никто не узнает вас, как только вы закроете лицо, вы можете замесить тесто или ускорить другие работы ручной работы, как хотите, так как никто не может сказать, хорошо вы это сделали или нет.</Desc>
+    </Text>
+    <Text Name="Item_Sys_RanSeYu" sParam="Item">
+      <ThingName>Крашеный Нефрит</ThingName>
+      <Desc>Своеобразный вид нефрита. После активации заклинанием он может быть превращен в дым и прикреплен к человеку, не будучи обнаруженным. Но заклинатель сможет отследить его.</Desc>
+      <Item.FabaoSuffix>Нефрит</Item.FabaoSuffix>
+    </Text>
+  </List>
+</Texts>

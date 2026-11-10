@@ -1,0 +1,53 @@
+﻿<Texts Type="Thing">
+	<List>
+		<Text Name="TreePoplar" sParam="Plant">
+			<ThingName>Тополь</ThingName>
+			<Desc>Быстрорастущее дерево с ровной и мягкой текстурой. Хороший источник высококачественной древесины.</Desc>
+		</Text>
+		<Text Name="TreePine" sParam="Plant">
+			<ThingName>Сосна</ThingName>
+			<Desc>Прямое, высокое и медленнорастущее дерево с твердой текстурой.</Desc>
+		</Text>
+		<Text Name="TreePine_Big" sParam="Plant">
+			<ThingName>Гигантская сосна</ThingName>
+			<Desc>Древнее дерево.</Desc>
+		</Text>
+		<Text Name="TreePear" sParam="Plant">
+			<ThingName>Груша</ThingName>
+			<Desc>Обычное плодовое дерево с небольшой урожайностью. Из него получается хорошая, но легкогниющая древесина.</Desc>
+		</Text>
+		<Text Name="TreeGinkgo" sParam="Plant">
+			<ThingName>Дерево Гинкго</ThingName>
+			<Desc>Большое и медленнорастущее дерево, способное накапливать Ци. Его плоды утоляют голод и обладают невероятными целебными свойствами.</Desc>
+		</Text>
+		<Text Name="TreeGinkgo_Big" sParam="Plant">
+			<ThingName>Гигантское дерево Гинкго</ThingName>
+			<Desc>Огромное древнее дерево, пронизанное Ци.</Desc>
+		</Text>
+		<Text Name="TreeGinkgo_Dead" sParam="Plant">
+			<ThingName>Увядшее дерево Гинкго</ThingName>
+			<Desc>Мертвое дерево Гинкго - всё ещё необычайно высокое.</Desc>
+		</Text>
+		<Text Name="PintuBase" sParam="Plant">
+			<ThingName>Только для пазлов</ThingName>
+		</Text>
+		<Text Name="TreePeach" sParam="Plant">
+			<ThingName>Персиковое дерево</ThingName>
+			<Desc>Цветущее персиковое дерево.</Desc>
+			<StoryBnts.0.Name>Собрать</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Попытка сбора образца.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="TreeJade" sParam="Plant">
+			<ThingName>Бессмертное дерево</ThingName>
+			<Desc>Бессмертное дерево.</Desc>
+			<StoryBnts.0.Name>Собрать</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Попытка сбора образца.</StoryBnts.0.Desc>
+		</Text>
+		<Text Name="TreeBone" sParam="Plant">
+			<ThingName>Дьявольское дерево</ThingName>
+			<Desc>Дьявольское дерево.</Desc>
+			<StoryBnts.0.Name>Собрать</StoryBnts.0.Name>
+			<StoryBnts.0.Desc>Попытка сбора образца.</StoryBnts.0.Desc>
+		</Text>
+	</List>
+</Texts>

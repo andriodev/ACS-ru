@@ -1,0 +1,32 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Boss_Xiongfeng">
+			<DisplayName>Феникс</DisplayName>
+		</Text>
+		<Text Name="Boss_XiongfengFight">
+			<DisplayName>Феникс</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng_Part">
+			<DisplayName>Феникс Часть тела</DisplayName>
+		</Text>
+		<Text Name="Boss_Xiongfeng_huoling">
+			<DisplayName>Сила Огненного Духа</DisplayName>
+			<Desc>Феникс концентрирует силу Огненного Духа до тех пор, пока не достигнет 100 зарядов, к этому времени он высвобождает Огненное Перо и входит в Форму Инферно.</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_Huofeng">
+			<DisplayName>Форма Инферно</DisplayName>
+			<Desc>Феникс продолжает поглощать огненных духов, находясь в форме ада. Когда он закончится, верните оставшиеся огненные перья и восстановите ци.</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_rongjin">
+			<DisplayName>Плавлене</DisplayName>
+			<Desc>Наносит урон через некоторое время. Культиваторы без металла получают только 1/3 урона.</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_yishang">
+			<DisplayName>Уязвимый</DisplayName>
+			<Desc>Феникс уязвим.</Desc>
+		</Text>
+		<Text Name="Boss_Xiongfeng_taiyangzhiyan">
+			<DisplayName>Солнечный глаз</DisplayName>
+		</Text>
+	</List>
+</Texts>

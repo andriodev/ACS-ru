@@ -1,0 +1,11 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Panda">
+			<NaiveTalk>* скулит *, * скулит *!</NaiveTalk>
+			<PeferEnvironment.PlantDesc>Любит бамбук поблизости</PeferEnvironment.PlantDesc>
+			<PeferEnvironment.LightDesc>Любит быть на природе</PeferEnvironment.LightDesc>
+			<PeferEnvironment.LiveDesc>Предпочитает тот же вид</PeferEnvironment.LiveDesc>
+			<PeferEnvironment.Desc>Любит бамбук поблизости. Любит находиться на открытом воздухе. \nПредпочитает тот же вид.</PeferEnvironment.Desc>
+		</Text>
+	</List>
+</Texts>

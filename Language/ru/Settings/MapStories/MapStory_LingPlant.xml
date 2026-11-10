@@ -1,0 +1,39 @@
+﻿<Texts Type="Story">
+	<List>
+		<Text Name="Story_LingZhi_YunYangBegin">
+			<DisplayName>Начало культивации</DisplayName>
+			<Desc>Когда [NAME] начал культивировать рядом с [HENAME], произошло нечто особенное.</Desc>
+			<Selections.0.Display>Осмотреть</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_YunYangEnd">
+			<DisplayName>Конец культивации</DisplayName>
+			<Desc>Когда [NAME] закончил культивировать рядом с [HENAME], произошло нечто особенное.</Desc>
+			<Selections.0.Display>Осмотреть</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_Chance">
+			<DisplayName>Внезапное вдохновение</DisplayName>
+			<Desc>Во время культивирование, [NAME] внезапно получил духовное наставление</Desc>
+			<Selections.0.Display>Осмотреть</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_Grow">
+			<DisplayName>Рост духовного корня</DisplayName>
+			<Desc>Когда Корень Духа начал рости, Ци неба и земли внезапно пришли в движение, произошло нечто особенное.</Desc>
+			<Selections.0.Display>Осмотреть</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_Ripe">
+			<DisplayName>Созревание духовного корня</DisplayName>
+			<Desc>Когда Корень Духа созрел,  Ци неба и земли внезапно пришло в движение, произошло нечто особенное.</Desc>
+			<Selections.0.Display>Осмотреть</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_LingSha">
+			<DisplayName>Опасноть</DisplayName>
+			<Desc>Злая духовная энергия [NAME] достигла предела, назревает что-то плохое.</Desc>
+			<Selections.0.Display>Осмотреть</Selections.0.Display>
+		</Text>
+		<Text Name="Story_LingZhi_Attack">
+			<DisplayName>Вторжение врагов</DisplayName>
+			<Desc>Когда духовный корень полностью созреет, произойдет несчастье, так что будьте готовы.</Desc>
+			<Selections.0.Display>Осмотреть</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>

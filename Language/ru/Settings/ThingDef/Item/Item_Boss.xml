@@ -1,0 +1,133 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="Item_Boss_Jiaowangci" sParam="Item">
+      <ThingName>Рог Короля Змей</ThingName>
+    </Text>
+    <Text Name="Item_Boss_Fenghuangneidan" sParam="Item">
+      <ThingName>Ядро Феникса</ThingName>
+    </Text>
+    <Text Name="Item_Boss_Fenghuanghuoyu" sParam="Item">
+      <ThingName>Огненное Перо Феникса</ThingName>
+    </Text>
+    <Text Name="Item_BossFeng_HuoYu" sParam="Item">
+      <ThingName>Пылающие Перья</ThingName>
+      <Desc>Своеобразное перо, хотя и не очень горячее на ощупь, может сохранять рассеянное тепло бесконечно долго, значительно повышая температуру комнаты или другого замкнутого пространства. Похоже, что он не имеет большой пользы, за исключением его сильного сходящегося эффекта духа.</Desc>
+      <Item.FabaoSuffix>Перо</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossFeng_GangYu" sParam="Item">
+      <ThingName>Железное Перо Феникса</ThingName>
+      <Desc>Нетронутое Перо Феникса, его огромный жар полностью заключен внутри. Она острая и прочная. Ношение его позволяет человеку стать невосприимчивым к холоду, ускоряя циркуляцию ци и крови, а также повышая скорость потребления пищи.</Desc>
+      <Item.FabaoSuffix>Перо</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossFeng_TouYu" sParam="Item">
+      <ThingName>Перо Феникса Забвения</ThingName>
+      <Desc>Великолепное перо в вечном пламени из головы Феникса, содержащее его концентрированную сущность. Феникс искусен в заклинаниях. Ношение его позволяет использовать Силу Феникса и пробить предел мастерства заклинания на 3 уровня.</Desc>
+      <Item.FabaoSuffix>Перо</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossFeng_WeiYu" sParam="Item">
+      <ThingName>Перо Мантии Феникса</ThingName>
+      <Desc>Огромное хвостовое Перо Феникса. Несмотря на пылающее пламя, обитающее на нем, человек чувствует себя умеренно теплым, а не обжигающе горячим, прикасаясь к нему, что довольно удивительно. Он должен иметь некоторые специфические эффекты после обработки специальным методом.</Desc>
+      <Item.FabaoSuffix>Перо</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossFeng_Gu" sParam="Item">
+      <ThingName>Железная Кость Феникса</ThingName>
+      <Desc>Полые кости двух крыльев Феникса необычайно прочны и невесомы. Он должен иметь некоторые специфические эффекты после обработки специальным методом.</Desc>
+      <Item.FabaoSuffix>Перо</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossFeng_HongYu" sParam="Item">
+      <ThingName>Огненный Нефрит Феникса</ThingName>
+      <Desc>Источник Силы Феникса; здесь обитает его изначальный дух. Общаясь с его изначальным духом, можно было бы извлечь из него какую-нибудь полезную информацию. Ношение его позволяет использовать Силу Феникса и получать на 10% меньше урона от огня.</Desc>
+      <Item.FabaoSuffix>Нефрит</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Медитировать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попытайтесь получить от него какую-нибудь полезную информацию.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_BossFeng_Meat" sParam="Item">
+      <ThingName>Плоть Феникса</ThingName>
+      <Desc>Тончайшая плоть и кровь тела Феникса, потребляя ее, увеличивают максимальную Ци на 25 и продлевают продолжительность жизни на 10 лет. Многократное потребление постепенно уменьшит его эффект.</Desc>
+      <Item.FabaoSuffix>Плоть</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_DragonScale" sParam="Item">
+      <ThingName>Чешуя Дракона</ThingName>
+      <Desc>Чешуя, упавшая с тела дракона, потеряла большую часть своих магических качеств, за исключением сильного эффекта сходящегося духа.</Desc>
+      <Item.FabaoSuffix>Чешуя</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossLong_Jiao" sParam="Item">
+      <ThingName>Рог Дракона Наводнения</ThingName>
+      <Desc>Рог на макушке головы дракона-это то место, где сосредоточена сущность дракона. Дракон наводнения искусен в способах овладения артефактами. Ношение его позволяет использовать силу Дракона наводнения и пробить предел мастерства владения мечом на 3 уровня.</Desc>
+      <Item.FabaoSuffix>Шип</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossLong_Zhua" sParam="Item">
+      <ThingName>Дьявольский Коготь Дракона Наводнения</ThingName>
+      <Desc>Острый коготь от Дракона Наводнения, он не имеет недостатка в заостренных краях и обладает неудержимой разрушительной силой. Он должен иметь некоторые специфические эффекты после обработки специальным методом.</Desc>
+      <Item.FabaoSuffix>Шип</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossLong_Lin" sParam="Item">
+      <ThingName>Чешуя Дракона Наводнения</ThingName>
+      <Desc>Нетронутая чешуя из тела дракона потопа, она совершенно неразрушима. Ношение его позволяет противостоять повреждению Ци.</Desc>
+      <Item.FabaoSuffix>Чешуя</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossLong_NiLin" sParam="Item">
+      <ThingName>Запретная Чешуя Дракона Потопа</ThingName>
+      <Desc>Источник силы Дракона потопа, вот где обитает его изначальный дух. Общаясь с его изначальным духом, можно было бы извлечь из него какую-нибудь полезную информацию. Ношение его позволяет использовать силу Дракона наводнения и получать на 10% меньше урона от воды.</Desc>
+      <Item.FabaoSuffix>Чешуя</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Медитировать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попытайтесь получить от него какую-нибудь полезную информацию.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_BossLong_Jing" sParam="Item">
+      <ThingName>Вены Гнева Дракона Потопа</ThingName>
+      <Desc>Самый жесткий сухожильный меридиан в хвосте дракона, он обладает превосходной проводимостью Ци. Он должен иметь некоторые специфические эффекты после обработки специальным методом.</Desc>
+      <Item.FabaoSuffix>Сухожилие</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossLong_Meat" sParam="Item">
+      <ThingName>Плоть Дракона Наводнения</ThingName>
+      <Desc>Тончайшая плоть и кровь тела дракона наводнения, потребляя ее, увеличивают максимальную Ци на 25 и продлевают продолжительность жизни на 10 лет. Многократное потребление постепенно уменьшит его эффект.</Desc>
+      <Item.FabaoSuffix>Плоть</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossZhuLong_BaiLin" sParam="Item">
+      <ThingName>Белая Чешуя</ThingName>
+      <Desc>Чистая белая чешуя, сброшенная с тела дракона Факела.</Desc>
+      <Item.FabaoSuffix>Чешуя</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossZhuLong_HeiLin" sParam="Item">
+      <ThingName>Черная Чешуя</ThingName>
+      <Desc>Черная как смоль чешуя свалилась с тела дракона.</Desc>
+      <Item.FabaoSuffix>Чешуя</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossZhuLong_Eye" sParam="Item">
+      <ThingName>Кристалл Инь-Ян</ThingName>
+      <Desc>Прозрачные кристаллы смешанного черного и белого цветов в глазах Факела Дракона, через которые, казалось бы, можно разгадать тайны путей инь и Ян. Он должен иметь некоторые специфические эффекты после обработки специальным методом.</Desc>
+      <Item.FabaoSuffix>Кристалл</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossZhuLong_TianLin" sParam="Item">
+      <ThingName>Божественная Чешуя Дракона Факела</ThingName>
+      <Desc>Странной формы чешуя между бровями факельного Дракона, именно там сосредоточена сущность дракона. Пять элементов, которые были преобразованы факельным драконом из Инь и Ян. Ношение его позволяет использовать силу факельного Дракона и пробить предел мастерства барьера на 3 уровня.</Desc>
+      <Item.FabaoSuffix>Чешуя</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossZhuLong_LongYu" sParam="Item">
+      <ThingName>Нефрит Хаоса</ThingName>
+      <Desc>Источник силы дракона факела, это то место, где находится клочок его оставшегося изначального духа. Общаясь с его изначальным духом, можно было бы извлечь из него какую-нибудь полезную информацию. Ношение его позволяет использовать силу факельного Дракона и получать на 5% меньше элементарного урона.</Desc>
+      <Item.FabaoSuffix>Нефрит</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Медитировать</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Попытайтесь получить от него какую-нибудь полезную информацию.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_BossZhuLong_Meat" sParam="Item">
+      <ThingName>Первобытная Плоть</ThingName>
+      <Desc>Кровь и плоть из тела дракона Факела, она испорчена силой Инь и Ян и, таким образом, имеет уникальное применение. Потребление его уменьшает достижение на 2 и продлевает продолжительность жизни на 10 лет. Многократное потребление постепенно уменьшит его эффект.</Desc>
+      <Item.FabaoSuffix>Плоть</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BossFeng_FengYin" sParam="Item">
+      <ThingName>Нефрит Феникса</ThingName>
+      <Desc>Древний кусок нефрита из сокровищ платформы дракона, похоже, один из множества предметов.</Desc>
+      <Item.FabaoSuffix>Нефрит</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Проверить</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Осмотрите нефрит Феникса.</StoryBnts.0.Desc>
+    </Text>
+    <Text Name="Item_BossZhuLong_FengYin" sParam="Item">
+      <ThingName>Древний Нефрит</ThingName>
+      <Desc>Необычный кусок нефрита, найденный на небесном поле битвы, Древнем поле битвы. Сущность Инь и Ян мерцает в нем, как будто питая что-то.</Desc>
+      <Item.FabaoSuffix>Нефрит</Item.FabaoSuffix>
+      <StoryBnts.0.Name>Проверить</StoryBnts.0.Name>
+      <StoryBnts.0.Desc>Осмотрите древний нефрит.</StoryBnts.0.Desc>
+    </Text>
+  </List>
+</Texts>

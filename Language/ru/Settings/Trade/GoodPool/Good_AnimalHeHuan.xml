@@ -1,0 +1,20 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="HeHuanA">
+      <IVNUMBER.0.Animal.DisplayName>Змеиная Клетка</IVNUMBER.0.Animal.DisplayName>
+      <IVNUMBER.0.Animal.Tip>Внутри него находится змея в состоянии пробуждения. Обучение, которое он получил от секты, дало ему чувство Ци, связанное с мыслью.</IVNUMBER.0.Animal.Tip>
+    </Text>
+    <Text Name="HeHuanAL">
+      <IVNUMBER.0.Animal.DisplayName>Простая Змеиная Клетка</IVNUMBER.0.Animal.DisplayName>
+      <IVNUMBER.0.Animal.Tip>Внутри него находится змея в состоянии пробуждения, она обладает разумом страха.</IVNUMBER.0.Animal.Tip>
+      <IVNUMBER.1.Animal.DisplayName>Простая Змеиная Клетка</IVNUMBER.1.Animal.DisplayName>
+      <IVNUMBER.1.Animal.Tip>Внутри него находится змея в состоянии пробуждения, она обладает разумом мыслей.</IVNUMBER.1.Animal.Tip>
+      <IVNUMBER.2.Animal.DisplayName>Простая Змеиная Клетка</IVNUMBER.2.Animal.DisplayName>
+      <IVNUMBER.2.Animal.Tip>Внутри него змея в состоянии пробуждения, она обладает разумом наслаждения.</IVNUMBER.2.Animal.Tip>
+      <IVNUMBER.3.Animal.DisplayName>Простая Змеиная Клетка</IVNUMBER.3.Animal.DisplayName>
+      <IVNUMBER.3.Animal.Tip>Внутри него змея в состоянии пробуждения, она обладает разумом ярости.</IVNUMBER.3.Animal.Tip>
+      <IVNUMBER.4.Animal.DisplayName>Простая Змеиная Клетка</IVNUMBER.4.Animal.DisplayName>
+      <IVNUMBER.4.Animal.Tip>Внутри него находится змея в состоянии пробуждения, она обладает разумом тревоги.</IVNUMBER.4.Animal.Tip>
+    </Text>
+  </List>
+</Texts>

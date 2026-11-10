@@ -1,0 +1,44 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Initialize">
+			<DisplayName>Инициализация</DisplayName>
+		</Text>
+		<Text Name="StayInTrap">
+			<DisplayName>Оставайтесь в ловушке</DisplayName>
+			<PDisplayName>Время пребывания (сек)</PDisplayName>
+		</Text>
+		<Text Name="EnterTrap">
+			<DisplayName>Введите точку ловушки</DisplayName>
+		</Text>
+		<Text Name="LeaveTrap">
+			<DisplayName>Покинуть точку ловушки</DisplayName>
+		</Text>
+		<Text Name="BeenAttack">
+			<DisplayName>Под атакой</DisplayName>
+		</Text>
+		<Text Name="BeenDestroy">
+			<DisplayName>Разрушен</DisplayName>
+		</Text>
+		<Text Name="Dead">
+			<DisplayName>мертв</DisplayName>
+		</Text>
+		<Text Name="InSocial">
+			<DisplayName>При взаимодействии</DisplayName>
+		</Text>
+		<Text Name="LeaveSocial">
+			<DisplayName>После взаимодействия</DisplayName>
+		</Text>
+		<Text Name="NpcEnterWorkSpace">
+			<DisplayName>Персонаж входит в точку построения</DisplayName>
+		</Text>
+		<Text Name="NpcLeaveWorkSpace">
+			<DisplayName>Персонаж покидает точку сборки</DisplayName>
+		</Text>
+		<Text Name="OnStep">
+			<DisplayName>Обратный вызов логического кадра</DisplayName>
+		</Text>
+		<Text Name="OnRender">
+			<DisplayName>Обратный вызов кадра рендеринга</DisplayName>
+		</Text>
+	</List>
+</Texts>

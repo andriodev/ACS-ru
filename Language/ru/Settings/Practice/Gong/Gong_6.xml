@@ -1,0 +1,34 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong_6_Huo">
+			<DisplayName>Изначальная Алхимия</DisplayName>
+			<Desc>Высшая техника даосской алхимии переданая Великим Чистым. Практикующий не преуспеет ни в чудесах, ни в битвах, но использует эликсиры, чтобы способствовать продвижению к совершенству. Техника ведет практика через девять состояни. Достижение конечного состояния может привести к окончательному восхождению к бессмертию.</Desc>
+			<SelectDesc>Практик будет преуспевать в алхимии, но для каждого прорыва потребуется помощь Эликсиров.   Вы уверены, что хотите начать культивировать согласно этой технике?</SelectDesc>
+			<Stages.0.DisplayName>Девять Секретов</Stages.0.DisplayName>
+			<Stages.0.Necks.0.DisplayName>Девять Секретов</Stages.0.Necks.0.DisplayName>
+			<Stages.0.Necks.0.Desc>[color=#D06508]\nПрорыв на эту ступень будет сложнее для персонажей с низким Восприятием.[/color]</Stages.0.Necks.0.Desc>
+			<Stages.1.DisplayName>Ограниченный Небесами</Stages.1.DisplayName>
+			<Stages.1.Necks.0.DisplayName>Ограниченный Небесами</Stages.1.Necks.0.DisplayName>
+			<Stages.1.Necks.0.Desc>[color=#D06508]\nПрорыв на эту ступень будет сложнее для персонажей с низким Восприятием.[/color]</Stages.1.Necks.0.Desc>
+			<Stages.2.DisplayName>Свинец &amp; Ртуть</Stages.2.DisplayName>
+			<Stages.2.Necks.0.DisplayName>Свинец &amp; Ртуть</Stages.2.Necks.0.DisplayName>
+			<Stages.2.Necks.0.Desc>[color=#D06508]\nПрорыв на эту ступень будет сложнее для персонажей с низким Восприятием.[/color]</Stages.2.Necks.0.Desc>
+			<Stages.3.DisplayName>Золотой Плод</Stages.3.DisplayName>
+			<Stages.3.Necks.0.DisplayName>Золотой Плод</Stages.3.Necks.0.DisplayName>
+			<Stages.4.DisplayName>Великое Правление</Stages.4.DisplayName>
+			<Stages.4.Necks.0.DisplayName>Великое Правление</Stages.4.Necks.0.DisplayName>
+			<Stages.4.Necks.0.Desc>[color=#D06508]\nПрорваться через этот барьер можно совершая многократные попытки. \nПрорыв на эту ступень будет сложнее для персонажей с низким Восприятием.[/color]</Stages.4.Necks.0.Desc>
+			<Stages.5.DisplayName>Обращение</Stages.5.DisplayName>
+			<Stages.5.Necks.0.DisplayName>Обращение</Stages.5.Necks.0.DisplayName>
+			<Stages.5.Necks.0.Desc>[color=#D06508]\nПрорваться через этот барьер можно совершая многократные попытки. \nПрорыв на эту ступень будет сложнее для персонажей с низким Восприятием.[/color]</Stages.5.Necks.0.Desc>
+			<Stages.6.DisplayName>Очищение</Stages.6.DisplayName>
+			<Stages.6.Necks.0.DisplayName>Очищение</Stages.6.Necks.0.DisplayName>
+			<Stages.6.Necks.0.Desc>[color=#D06508]\nПрорваться через этот барьер можно совершая многократные попытки. \nПрорыв на эту ступень будет сложнее для персонажей с низким Восприятием.[/color]</Stages.6.Necks.0.Desc>
+			<Stages.7.DisplayName>Море Страданий</Stages.7.DisplayName>
+			<Stages.7.Necks.0.DisplayName>Море Страданий</Stages.7.Necks.0.DisplayName>
+			<Stages.7.Necks.0.Desc>Путешествуя по морю страданий, проявите божественность своей души. Преодолев этот барьер, человек столкнется с Треволнением Небес.</Stages.7.Necks.0.Desc>
+			<Stages.8.DisplayName>Чистый Янь</Stages.8.DisplayName>
+			<Stages.8.Necks.0.DisplayName>Чистый Янь</Stages.8.Necks.0.DisplayName>
+		</Text>
+	</List>
+</Texts>

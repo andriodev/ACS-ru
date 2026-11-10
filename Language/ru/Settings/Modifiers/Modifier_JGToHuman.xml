@@ -1,0 +1,28 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="FoodToHuman">
+			<DisplayName>Разумный Пищевой Дух</DisplayName>
+			<Desc>Естественно обладает высокой способностью поглощения Ци.</Desc>
+		</Text>
+		<Text Name="LingStoneToHuman">
+			<DisplayName>Разумный Каменный Дух</DisplayName>
+			<Desc>Естественно обладает высокой базовой Ци.</Desc>
+		</Text>
+		<Text Name="FabaoToHuman">
+			<DisplayName>Разумный Дух Артефакта</DisplayName>
+			<Desc>Естественно, обладает высокой скоростью восстановления артефакта Ци и коэффициентом конверсии.</Desc>
+		</Text>
+		<Text Name="DanToHuman">
+			<DisplayName>Разумный Эликсир</DisplayName>
+			<Desc>В следующий раз, когда вы примете таблетку, не будет никакой лекарственной устойчивости.</Desc>
+		</Text>
+		<Text Name="PlantToHuman">
+			<DisplayName>Саморазвитие</DisplayName>
+			<Desc>Продолжает медленно расти с каждым днем.</Desc>
+		</Text>
+		<Text Name="BuildToHuman">
+			<DisplayName>Самовосстанавливающийся</DisplayName>
+			<Desc>Прогресс восстановления: {0}\n когда прогресс восстановления достигнет 100, все потерянные конечности будут восстановлены, и прогресс вернется к нулю.</Desc>
+		</Text>
+	</List>
+</Texts>

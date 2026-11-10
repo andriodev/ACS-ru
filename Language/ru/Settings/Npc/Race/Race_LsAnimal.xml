@@ -1,0 +1,28 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="LsDog">
+			<DisplayName>Хуацюань</DisplayName>
+			<Desc>Божественная собака Хуацюань-фантастическое духовное животное, естественно встречающееся между небом и землей. Это проявление некоторых законов природы.</Desc>
+			<TalkBefore>Гав гав,</TalkBefore>
+			<TalkAfter>, гав!</TalkAfter>
+		</Text>
+		<Text Name="LsFox">
+			<DisplayName>Цинь Муксуэ</DisplayName>
+			<Desc>Дух лисицы Цинь Муксуэ фантастическое духовное животное, естественно встречающееся между небом и землей. Это проявление некоторых законов природы.</Desc>
+			<TalkBefore>Ауу ауу,</TalkBefore>
+			<TalkAfter>, аууу!</TalkAfter>
+		</Text>
+		<Text Name="LsDragon">
+			<DisplayName>Чанхай</DisplayName>
+			<Desc>Плавучий Дракон Чанхай фантастическое духовное животное, естественно встречающееся между небом и землей. Это проявление некоторых законов природы.</Desc>
+			<TalkBefore>Ррр ррр,</TalkBefore>
+			<TalkAfter>, гррр!</TalkAfter>
+		</Text>
+		<Text Name="LsPhoenix">
+			<DisplayName>Йимин</DisplayName>
+			<Desc>Темный Феникс Йимин фантастическое духовное животное, естественно встречающееся между небом и землей. Это проявление некоторых законов природы.</Desc>
+			<TalkBefore>Чирик чирик,</TalkBefore>
+			<TalkAfter>, Чирик!</TalkAfter>
+		</Text>
+	</List>
+</Texts>

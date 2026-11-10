@@ -1,0 +1,94 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong10_a0">
+			<DisplayName>Панацея</DisplayName>
+		</Text>
+		<Text Name="Gong10_a1">
+			<DisplayName>Песня Рассеивания Облаков</DisplayName>
+		</Text>
+		<Text Name="Gong10_a3">
+			<DisplayName>Медитация Золотого Ворона</DisplayName>
+		</Text>
+		<Text Name="Gong10_a7">
+			<DisplayName>Врожденная Ци</DisplayName>
+		</Text>
+		<Text Name="Gong10_b2">
+			<DisplayName>Меридианы Трёх Огней</DisplayName>
+		</Text>
+		<Text Name="Gong10_b3">
+			<DisplayName>Внутреннее Пламя</DisplayName>
+		</Text>
+		<Text Name="Gong10_b3_1">
+			<DisplayName>Внутреннее Пламя</DisplayName>
+		</Text>
+		<Text Name="Gong10_b3_2">
+			<DisplayName>Внутреннее Пламя</DisplayName>
+		</Text>
+		<Text Name="Gong10_b5">
+			<DisplayName>Техника Императорского Контроля</DisplayName>
+		</Text>
+		<Text Name="Gong10_b7">
+			<DisplayName>Огненная Буря</DisplayName>
+		</Text>
+		<Text Name="Gong10_b9">
+			<DisplayName>Очищающее Пламя</DisplayName>
+		</Text>
+		<Text Name="Gong10_c0">
+			<DisplayName>Медитация</DisplayName>
+		</Text>
+		<Text Name="Gong10_c1">
+			<DisplayName>Духовное Дыхание</DisplayName>
+		</Text>
+		<Text Name="Gong10_c2">
+			<DisplayName>Возрождение Мечты</DisplayName>
+		</Text>
+		<Text Name="Gong10_c3">
+			<DisplayName>Искуство Рассвета</DisplayName>
+		</Text>
+		<Text Name="Gong10_c3_1">
+			<DisplayName>Астровспышка</DisplayName>
+		</Text>
+		<Text Name="Gong10_c7">
+			<DisplayName>Мантра Сердца Трёх Огней</DisplayName>
+		</Text>
+		<Text Name="Gong10_d0">
+			<DisplayName>Ветер Фен</DisplayName>
+		</Text>
+		<Text Name="Gong10_d0_1">
+			<DisplayName>Ци Игносфера</DisplayName>
+		</Text>
+		<Text Name="Gong10_d1">
+			<DisplayName>Генезис Жизненной Силы</DisplayName>
+		</Text>
+		<Text Name="Gong10_d2">
+			<DisplayName>Закалка Тела</DisplayName>
+		</Text>
+		<Text Name="Gong10_d3">
+			<DisplayName>Огонь Разума</DisplayName>
+		</Text>
+		<Text Name="Gong10_d3_1">
+			<DisplayName>Огонь разума</DisplayName>
+		</Text>
+		<Text Name="Gong10_d5">
+			<DisplayName>Закалка Истинным Огнём</DisplayName>
+		</Text>
+		<Text Name="Gong10_d5_1">
+			<DisplayName>Истинное Огненное Тело</DisplayName>
+		</Text>
+		<Text Name="Gong10_d7">
+			<DisplayName>Заклинание Божественного Огня</DisplayName>
+		</Text>
+		<Text Name="Gong10_d9">
+			<DisplayName>Равный Небесному Огню</DisplayName>
+		</Text>
+		<Text Name="Gong10_d9_1">
+			<DisplayName>Равный Небесному Огню</DisplayName>
+		</Text>
+		<Text Name="Gong10_e4">
+			<DisplayName>Пилюля Небесного Пути</DisplayName>
+		</Text>
+		<Text Name="Gong10_e8">
+			<DisplayName>Небесный Артефакт</DisplayName>
+		</Text>
+	</List>
+</Texts>

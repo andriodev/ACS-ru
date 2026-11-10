@@ -1,0 +1,229 @@
+﻿<Texts Type="Story">
+	<List>
+		<Text Name="Story_BoxFind1">
+			<DisplayName>Изучить коробку</DisplayName>
+			<Desc>[NAME] нашел старую коробку с полезными вещами внутри.</Desc>
+		</Text>
+		<Text Name="Story_BoxFind2">
+			<DisplayName>Изучить труп.</DisplayName>
+			<Desc>[NAME] тщательно обыскал труп, но кроме оружия, ничего полезного не находит.</Desc>
+		</Text>
+		<Text Name="Story_BoxFind3">
+			<DisplayName>Изучить труп.</DisplayName>
+			<Desc>[NAME] тщательно обыскал труп, из него вырвался луч света и проник в мозг [NAME]. [NAME] удивился, что в его памяти появились другие методы культивирования. \n\n[color=#000000]"Что здесь произошло? Откуда взялись эти Законы? Что же произошло с этим человеком, прежде чем он умер? "" [/color]\n Хотя [NAME] был рад такому сюрпризу, он не знал ответов на эти вопросы. \n\n К сожалению, эти события прошлого так и не удалось прояснить...</Desc>
+		</Text>
+		<Text Name="Story_BoxFind4">
+			<DisplayName>Изучить труп.</DisplayName>
+			<Desc>[NAME] тщательно обыскал труп, но кроме оружия, ничего полезного не находит.</Desc>
+		</Text>
+		<Text Name="Story_Item_StoneBox">
+			<DisplayName>Каменная шкатулка</DisplayName>
+			<Desc>Таинственный даосский жрец подарил вам Каменную шкатулку, площадью около фута. Ни вода, ни огонь не могли проникнуть внутрь. Это был совершенно потусторонний предмет. Снаружи он время от времени светился - это не могло быть обычным предметом.</Desc>
+			<Selections.0.Display>Открыть ее руками</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_StoneBox1">
+			<DisplayName>Каменный сундук</DisplayName>
+			<Desc>Это сундук, который охотник Чжан Эрва из деревни Наньпин снял с трупа у подножия горы Полной Луны. На внешней стороне - длинный меч, скрещенный с бутылочной тыквой, это знак ученика из секты Тайи. [NAME] вспомнил этого ученика и то, каким он был человеком.</Desc>
+			<Selections.0.Display>Открыть</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_StoneBox2">
+			<DisplayName>Древний сундук</DisplayName>
+			<Desc>Из валуна выкопали каменный сундук, который, похоже, пролежал там несколько десятилетий. Кто знает, что в нем хранится.</Desc>
+			<Selections.0.Display>Открыть</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_E_FaBaoBox">
+			<DisplayName>Полярная шкатулка</DisplayName>
+			<Desc>В ночь нападения, комната с артефактами была взломана. Вам было невыносимо видеть, как грабят такие редкие вещи, и вы рисковали жизнью, чтобы спасти несколько штук.</Desc>
+			<Selections.0.Display>Открыть</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_E_DanBox">
+			<DisplayName>Полярная шкатулка</DisplayName>
+			<Desc>В ночь нападения, комната с эликсирами была взломана. Вам было невыносимо видеть, как грабят такие редкие вещи, и вы рисковали жизнью, чтобы спасти несколько штук.</Desc>
+			<Selections.0.Display>Открыть</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_E_MiJiBox">
+			<DisplayName>Полярная шкатулка</DisplayName>
+			<Desc>В ночь нападения, комната с свитками была взломана. Вам было невыносимо видеть, как грабят такие редкие вещи, и вы рисковали жизнью, чтобы спасти несколько штук.</Desc>
+			<Selections.0.Display>Открыть</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_E_FuBox">
+			<DisplayName>Полярная шкатулка</DisplayName>
+			<Desc>В ночь нападения комната с талисманами была взломана. Вам было невыносимо видеть, как грабят такие редкие вещи, и вы рисковали жизнью, чтобы спасти несколько штук.</Desc>
+			<Selections.0.Display>Открыть</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_LunHui_Box1">
+			<DisplayName>Шкатулка с волшебными талисманнами</DisplayName>
+			<Desc>У Миссис Лу есть шкатулка с тремя таинственными талисманами внутри.</Desc>
+			<Selections.0.Display>Открыть</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_LunHui_Box2">
+			<DisplayName>Шкатулка с волшебным талисманом</DisplayName>
+			<Desc>У Ян Шу есть шкатулка с крайне редким талисманом внутри.</Desc>
+			<Selections.0.Display>Открыть</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_ZuShiZhiCi">
+			<DisplayName>Подарок от Мастера</DisplayName>
+			<Desc>В Подарке от Мастера есть драгоценное сокровище.</Desc>
+			<Selections.0.Display>Открыть</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_BenYuan">
+			<DisplayName>Совершенствование Небесного Дао</DisplayName>
+			<Desc>Для успешного совершенствования Небесного Дао необходимо было культивировать закон той же линии до наивысшего уровня. Чем выше Дао, тем выше вероятность успеха. Однако это действие противоречит гармонии Небес, и если оно не удастся, то будет нанесен большой ущерб и усилится гнев Небес. Вы уверены, что хотите усовершенствовать Небесный Дао?</Desc>
+			<Selections.0.Display>Усовершенствовать</Selections.0.Display>
+			<Selections.1.Display>Отказаться</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Item_SuoYingZhiJuan">
+			<DisplayName>Альбом миниатюр</DisplayName>
+			<Desc>В нем записаны все живые существа с момента зарождения неба и земли и до наших дней. Если вы знаете настоящее имя соответствующего духа, вы можете вызвать его из свитка. Это одно из двенадцати Хаотических Духовных Сокровищ, которые появились на свет во время сотворения неба и земли.</Desc>
+			<Selections.0.Display>Отказаться</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_BossSoulItem">
+			<DisplayName>Познать через медитацию</DisplayName>
+			<Desc>[NAME] попытался получить от него полезную информацию.</Desc>
+			<Selections.0.Display>Использовать свою бессмертную душу</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_OldSchool_Letter">
+			<DisplayName>Таинственное письмо</DisplayName>
+			<Desc>Это письмо, оставленное тем, кто спас вас от опасности, когда вы бежали после уничтожения Секты.</Desc>
+			<Selections.0.Display>Читать</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Boss_FengYin">
+			<DisplayName>Проверка</DisplayName>
+			<Desc>Не похоже, чтобы здесь было что-то необычное. Кто знает, какие тайны она хранит.</Desc>
+			<Selections.0.Display>Проверить</Selections.0.Display>
+			<Selections.1.Display>Уничтожить</Selections.1.Display>
+			<Selections.2.Display>Отказаться</Selections.2.Display>
+		</Text>
+		<Text Name="Story_Item_Boss_FengYin1">
+			<DisplayName>Уничтожить</DisplayName>
+			<Desc>Хотя [NAME] никак не мог понять, что в этом предмете такого опасного, но при попытке уничтожить его вдруг возникло невыразимое чувство ужаса... Что будет, если его уничтожить? Вы уверены, что хотите уничтожить его? (Если вы подтвердите, будет вызван древний зверь. Ваша Секта может быть полностью уничтожена, если вы не будете достаточно подготовлены. Пожалуйста, обдумайте свой выбор с умом)</Desc>
+			<Selections.0.Display>Уничтожить</Selections.0.Display>
+			<Selections.1.Display>Отказаться</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Item_Boss_FengYin2">
+			<DisplayName>Уничтожить</DisplayName>
+			<Desc>[NAME] уничтожил предмет, но ничего не произошло.</Desc>
+			<Selections.0.Display>Ладно</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Eat_StrangeMush">
+			<DisplayName>Попробовать на вкус.</DisplayName>
+			<Desc>[NAME] с любопытством решил попробовать странный гриб.</Desc>
+			<Selections.0.Display>Ешьте, несмотря на риск</Selections.0.Display>
+			<Selections.1.Display>Отказаться</Selections.1.Display>
+		</Text>
+		<Text Name="Story_Item_ZhenTu">
+			<DisplayName>Попытка познать</DisplayName>
+			<Desc>[NAME] пытается понять эту таинственную формацию..</Desc>
+			<Selections.0.Display>постичь схему формации</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Portia_YijieZhiWu">
+			<DisplayName>Проверить предмет</DisplayName>
+			<Desc>[NAME] пытается осмотреть этот предмет.</Desc>
+			<Selections.0.Display>Проверить предмет</Selections.0.Display>
+			<Selections.1.Display>Вскрыть</Selections.1.Display>
+			<Selections.2.Display>Отказаться</Selections.2.Display>
+		</Text>
+		<Text Name="Story_Item_Portia_YijieZhiWu1">
+			<DisplayName>Проверить предмет</DisplayName>
+			<Desc>[NAME] чувствует, что печать этого предмета очень знакома, похоже, он уже сталкивался с ней раньше.</Desc>
+			<Selections.0.Display>Внимательно изучить</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Portia_YijieZhiWu2">
+			<DisplayName>Рассыпаться в пыль</DisplayName>
+			<Desc>После того как прозвучало божественное послание, предмет из другого царства стал отвергаться Небесным Дао и постепенно превратившись в пыль, рассеялся в воздухе.</Desc>
+			<Selections.0.Display>Внимательно изучить</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_GodPractice_MiJuan">
+			<DisplayName>Древний свиток</DisplayName>
+			<Desc>Тайный свиток, передаваемый с древних времен, содержание которого неизвестно.</Desc>
+			<Selections.0.Display>Читать</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_GodPractice_MiJuan_1">
+			<DisplayName>Учение</DisplayName>
+			<Desc>На странице книги записано, как древние культиваторы Шендао сотворили какое-то особое чудо.</Desc>
+			<Selections.0.Display>Читать</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_God_Guard">
+			<DisplayName>Совершенствовать</DisplayName>
+			<Desc>[NAME] пытается усовершенствовать этот предмет.</Desc>
+			<Selections.0.Display>Читать</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_GodPractice_MiJuan_2">
+			<DisplayName>Распеча́тывание</DisplayName>
+			<Desc>[NAME] пытался снять печать с этого предмета.</Desc>
+			<Selections.0.Display>Распечатать</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Gong12">
+			<DisplayName>Изучить свиток</DisplayName>
+			<Desc>[NAME] внимательно изучил свиток.</Desc>
+			<Selections.0.Display>Приобрести Закон</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Body_Gong_2">
+			<DisplayName>Изучить свиток</DisplayName>
+			<Desc>[NAME] внимательно изучил свиток.</Desc>
+			<Selections.0.Display>Приобрести Закон</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_Body_Gong_5">
+			<DisplayName>Изучить свиток</DisplayName>
+			<Desc>[NAME] внимательно изучил свиток.</Desc>
+			<Selections.0.Display>Приобрести Закон</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_God_GongAll">
+			<DisplayName>Изучить коллекцию</DisplayName>
+			<Desc>[NAME] изучил коллекцию.</Desc>
+			<Selections.0.Display>Приобрести Закон</Selections.0.Display>
+		</Text>
+		<Text Name="Story_Item_SpringBox">
+			<DisplayName>Товары на праздник весны</DisplayName>
+			<Desc>Попробуйте открыть эти предметы.</Desc>
+			<Selections.0.Display>Открыть</Selections.0.Display>
+		</Text>
+		<Text Name="Story_ZhuLongXuYuan_1">
+			<DisplayName>Желание богатства</DisplayName>
+			<Desc>Под влиянием Небесного Дао потустороннего мира произошли некоторые временные изменения. Даже воплощение Пути Инь и Ян, Дракон Шэньчжу, стал менее неистовым и очень заинтересовался металлическим диском, называемым монетой из потустороннего мира. Эта монета объединяет в себе множество желаний о богатстве и достатке, и Дракон Шэньчжу может использовать силу желаний на этом предмете, чтобы проявить удачу для вас.</Desc>
+			<Selections.0.Display>Большое количество камня духов</Selections.0.Display>
+			<Selections.1.Display>Большое количество ингредиентов</Selections.1.Display>
+			<Selections.2.Display>Большое количество древесины</Selections.2.Display>
+			<Selections.3.Display>Большое количество камня</Selections.3.Display>
+			<Selections.4.Display>Большое количество железа</Selections.4.Display>
+			<Selections.5.Display>Забудьте об этом, я посвящаю свою веру Небесному Дао и не ищу ничего взамен!</Selections.5.Display>
+		</Text>
+		<Text Name="Story_ZhuLongXuYuan_2">
+			<DisplayName>Желание лекарств</DisplayName>
+			<Desc>Под влиянием Небесного Дао потустороннего мира произошли некоторые временные изменения. Даже воплощение Пути Инь и Ян, Дракон Шэньчжу, стал менее неистовым и очень заинтересовался металлическим диском, называемым монетой из потустороннего мира. Эта монета объединяет множество желаний о здоровье, и Дракон Шэньчжу может использовать силу желаний на этом предмете, чтобы воплотить некоторые эликсиры для вас.</Desc>
+			<Selections.0.Display>1 Пилюля Духа Металла</Selections.0.Display>
+			<Selections.1.Display>1 Пилюля Духа Дерева</Selections.1.Display>
+			<Selections.2.Display>1 Пилюля Духа Воды</Selections.2.Display>
+			<Selections.3.Display>1 Пилюля Духа Огня</Selections.3.Display>
+			<Selections.4.Display>1 Пилюля Духа Земли</Selections.4.Display>
+			<Selections.5.Display>15 Эссенций смолы</Selections.5.Display>
+			<Selections.6.Display>3 Потока Земли</Selections.6.Display>
+			<Selections.7.Display>1 Таблетки Панацея</Selections.7.Display>
+			<Selections.8.Display>1 набор Пилюль Продления Жизни</Selections.8.Display>
+			<Selections.9.Display>1 Пилюля Просвещения</Selections.9.Display>
+			<Selections.10.Display>Забудьте об этом, я посвящаю свою веру Небесному Дао и не ищу ничего взамен!</Selections.10.Display>
+		</Text>
+		<Text Name="Story_ZhuLongXuYuan_3">
+			<DisplayName>Желание об изысканной одежде</DisplayName>
+			<Desc>Под влиянием Небесного Дао потустороннего мира произошли некоторые временные изменения. Даже воплощение Пути Инь и Ян, Дракон Шэньчжу, стал менее неистовым и очень заинтересовался металлическим диском, называемым монетой из потустороннего мира. Эта монета объединяет множество желаний о новой одежде, и Дракон Шэньчжу может использовать силу желаний на этом предмете, чтобы создать для вас комплект духовной одежды.</Desc>
+			<Selections.0.Display>Одежда для защиты тела</Selections.0.Display>
+			<Selections.1.Display>Одежда для заклинаний</Selections.1.Display>
+			<Selections.2.Display>Одежда для ремесла</Selections.2.Display>
+			<Selections.3.Display>Одежда, которая поможет вам в освоении Небесного Дао</Selections.3.Display>
+			<Selections.4.Display>Одежда, способные очистить разум от демонов</Selections.4.Display>
+			<Selections.5.Display>Юбка для защиты тела</Selections.5.Display>
+			<Selections.6.Display>Юбка для заклинаний</Selections.6.Display>
+			<Selections.7.Display>Юбка для ремесла</Selections.7.Display>
+			<Selections.8.Display>Юбка, которая поможет вам в освоении Небесного Дао</Selections.8.Display>
+			<Selections.9.Display>Юбка, способные очистить разум от демонов</Selections.9.Display>
+			<Selections.10.Display>Забудьте об этом, я посвящаю свою веру Небесному Дао и не ищу ничего взамен!</Selections.10.Display>
+		</Text>
+		<Text Name="Story_Item_ChunYangWuJiGong">
+			<DisplayName>Изучить основополагающие принципы</DisplayName>
+			<Desc>Попытка записаться в эту секретную книгу.</Desc>
+			<Selections.0.Display>Практика</Selections.0.Display>
+			<Selections.1.Display>Сбиться с пути</Selections.1.Display>
+			<Selections.2.Display>Неважно</Selections.2.Display>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,240 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Spell_SYSLOST">
+			<DisplayName>Empty</DisplayName>
+			<Desc>A lost building that nobody recognizes. \n(Empty.)</Desc>
+		</Text>
+		<Text Name="Spell_MoveSpeed1">
+			<DisplayName>Талисман Ловкости</DisplayName>
+			<Desc>Талисман используется для повышения ловкости и скорости передвижения.</Desc>
+		</Text>
+		<Text Name="Spell_TempLow1">
+			<DisplayName>Талисман Защиты от Холода</DisplayName>
+			<Desc>Талисман повышающий сопротивение холоду.</Desc>
+		</Text>
+		<Text Name="Spell_TempHigh1">
+			<DisplayName>Талисман Защиты от Жары</DisplayName>
+			<Desc>Талисман повышающий сопротивение теплу.</Desc>
+		</Text>
+		<Text Name="Spell_ReadNovel">
+			<DisplayName>Талисман Историй</DisplayName>
+			<Desc>Странный талисман из ниоткуда. Его легко нарисовать, но он имеет странный эффект, поэтому он широко распространен среди сферы культивирования. После этого можно сосредоточиться на этом талисмане, увидеть много чудесных историй из веб-романа. Это легко повысит настроение но замедлит работу и скорость развития.\n[color=#D06508]Спасибо WebNovel за поддержку этой игры.[/color]</Desc>
+		</Text>
+		<Text Name="Spell_MoveSpeed2">
+			<DisplayName>Талисман Духовного Путешествия</DisplayName>
+			<Desc>Талисман используется для повышения скорости передвижения, а также скорости во время приключений.</Desc>
+		</Text>
+		<Text Name="Spell_RecoveryPower">
+			<DisplayName>Талисман Исцеления</DisplayName>
+			<Desc>Талисман повышает естественную скорость восстановления.</Desc>
+		</Text>
+		<Text Name="Spell_VisionRadius">
+			<DisplayName>Талисман Предсказания</DisplayName>
+			<Desc>Талисман улучшает дальность обзора и сокращает времени, затрачиваемое на открытие нового места в приключении.</Desc>
+		</Text>
+		<Text Name="Spell_Fatigue">
+			<DisplayName>Талисман Очищения Разума</DisplayName>
+			<Desc>Талисман используется для улучшения качества сна и уменьшения склонности к усталости.</Desc>
+		</Text>
+		<Text Name="Spell_Nutrition">
+			<DisplayName>Талисман поглощения Ци</DisplayName>
+			<Desc>Талисман поглощает Ци и преобразует в еду.</Desc>
+		</Text>
+		<Text Name="Spell_Nutrition1">
+			<DisplayName>Талисман Голодовки</DisplayName>
+			<Desc>Снижает нормы потребления еды.</Desc>
+		</Text>
+		<Text Name="Spell_Hide">
+			<DisplayName>Талисман Невидимости</DisplayName>
+			<Desc>Талисман используется для того, чтобы в какой-то степени скрыть свое присутствие, стать менее узнаваемым другими во время приключений и уменьшить шансы на получение репутации.</Desc>
+		</Text>
+		<Text Name="Spell_Happy">
+			<DisplayName>Талисман Вечной Радости</DisplayName>
+			<Desc>Талисман используется для улучшения настроения и уменьшения потребности в развлечениях.</Desc>
+		</Text>
+		<Text Name="Spell_LunHui_ShenShen">
+			<DisplayName>Молитвенный Талисман</DisplayName>
+			<Desc>Талисман, сформированный молитвами, используется для улучшения настроения и стабилизации психического состояния.</Desc>
+		</Text>
+		<Text Name="Spell_TempLow2">
+			<DisplayName>Талисман Верховного Ян</DisplayName>
+			<Desc>Талисман используется для резкого повышения устойчивости к холоду.</Desc>
+		</Text>
+		<Text Name="Spell_TempHigh2">
+			<DisplayName>Талисман Верховного Инь</DisplayName>
+			<Desc>Талисман используется для резкого повышения устойчивости к теплу.</Desc>
+		</Text>
+		<Text Name="Spell_Intelligence">
+			<DisplayName>Талисман Культурного Процветания</DisplayName>
+			<Desc>Используется для очищения ума и улучшения способностей к обучению.</Desc>
+		</Text>
+		<Text Name="Spell_Fight">
+			<DisplayName>Талисман Военного Процветания</DisplayName>
+			<Desc>Используется для улучшения боевых способностей и болевой выносливости.</Desc>
+		</Text>
+		<Text Name="Spell_GlobalEfficiency">
+			<DisplayName>Талисман Усердия</DisplayName>
+			<Desc>Используется для улучшения скорости и эффективности работы.</Desc>
+		</Text>
+		<Text Name="Spell_MadeQualityAddValue">
+			<DisplayName>Талисман Ремесленника</DisplayName>
+			<Desc>Повышает качество созданных предметов.</Desc>
+		</Text>
+		<Text Name="Spell_Yield">
+			<DisplayName>Талисман Плодородия</DisplayName>
+			<Desc>Используется для увеличения добычи во время охоты, земледелия и сбора урожая.</Desc>
+		</Text>
+		<Text Name="Spell_Treatment">
+			<DisplayName>Талисман Мастера Медицины</DisplayName>
+			<Desc>Используется для повышения успешности исцеления и его эффекта.</Desc>
+		</Text>
+		<Text Name="Spell_MindState1">
+			<DisplayName>Талисман Спокойного Сердца</DisplayName>
+			<Desc>Талисман используется для незначительного улучшения психического состояния.</Desc>
+		</Text>
+		<Text Name="Spell_DeepPracticeSpeedSpecialCoefficient1">
+			<DisplayName>Талисман Дивной Души</DisplayName>
+			<Desc>Талисман используется для незначительного улучшения скорости культивирования.</Desc>
+		</Text>
+		<Text Name="Spell_MindState2">
+			<DisplayName>Талисман Пещерного Разума</DisplayName>
+			<Desc>Талисман используется для улучшения психического состояния.</Desc>
+		</Text>
+		<Text Name="Spell_MindState2_LunHui">
+			<DisplayName>Талисман Божественного Разума</DisplayName>
+			<Desc>Редкий талисман, переданный из тысячелетней давности, созданный древним бессмертным Юанем, переписывающим талисман пещерного разума (Божественных пещер). \n[color=#D06508]Это в знак признательности первому игроку, успешно нарисовавшему талисман 100% качества: На самом деле не я.[/color]</Desc>
+		</Text>
+		<Text Name="Spell_SpeedOfMindStateCoefficientByMoods">
+			<DisplayName>Талисман Постижения Истины</DisplayName>
+			<Desc>Используется для повышения шансов на прорыв.</Desc>
+		</Text>
+		<Text Name="Spell_DeepPracticeSpeedSpecialCoefficient2">
+			<DisplayName>Талисман Восприятия Небытия</DisplayName>
+			<Desc>Используется для повышения скорости культивирования.</Desc>
+		</Text>
+		<Text Name="Spell_WorldMapFlySpeed">
+			<DisplayName>Талисман Уходящей Тени</DisplayName>
+			<Desc>Используется для повышения скорости полета на дальние расстояния с помощью артефакта.</Desc>
+		</Text>
+		<Text Name="Spell_FabaoMake_SuccessRateAddV">
+			<DisplayName>Талисман Богатства</DisplayName>
+			<Desc>Талисман используется для повышения успешности создания артефактов.</Desc>
+		</Text>
+		<Text Name="Spell_FabaoMake_LingInheritRateAddV">
+			<DisplayName>Талисман Чудес</DisplayName>
+			<Desc>Используется для того, чтобы немного поднять уровень созданного артефакта.</Desc>
+		</Text>
+		<Text Name="Spell_DanMake_SuccessRateAddV">
+			<DisplayName>Талисман Тусита</DisplayName>
+			<Desc>Используется для повышения успешности создания алхимии.</Desc>
+		</Text>
+		<Text Name="Spell_DanMake_YieldAddP">
+			<DisplayName>Талисман Непостоянства</DisplayName>
+			<Desc>Используется для небольшого повышения количества получающейся алхимии.</Desc>
+		</Text>
+		<Text Name="Spell_Fu">
+			<DisplayName>Иллюстрация Вечного Процветания</DisplayName>
+			<Desc>Используется для улучшения настроения и психического состояния того, кто его носит, и дарует удачу. Счастливого весеннего фестиваля и всего самого доброго!</Desc>
+		</Text>
+		<Text Name="Spell_Lu">
+			<DisplayName>Иллюстрация Вечного Положения</DisplayName>
+			<Desc>Используется для улучшения здоровья и материальной выгоды для того, кто его носит. Счастливого весеннего фестиваля и всего самого доброго!</Desc>
+		</Text>
+		<Text Name="Spell_Shou">
+			<DisplayName>Иллюстрация Вечного Долголетия</DisplayName>
+			<Desc>Используется для повышения продолжительности жизни и иммунитета к болезням у того, кто его носит. Счастливого весеннего фестиваля и всего самого доброго!</Desc>
+		</Text>
+		<Text Name="Spell_Shield1">
+			<DisplayName>Талисман Тёмной брони</DisplayName>
+			<Desc>Увеличивает защиту владельца.</Desc>
+		</Text>
+		<Text Name="Spell_Shield2">
+			<DisplayName>Талисман Тяжелой брони</DisplayName>
+			<Desc>Повышает уровень умения Защита.</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Jin">
+			<DisplayName>Талисман Металлической брони</DisplayName>
+			<Desc>Повышает устойчивость владельца к повреждениям Металла.</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Mu">
+			<DisplayName>Талисман Деревянной брони</DisplayName>
+			<Desc>Повышает устойчивость владельца к повреждениям Дерева.</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Shui">
+			<DisplayName>Талисман Водяной брони</DisplayName>
+			<Desc>Повышает устойчивость владельца к повреждениям Воды.</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Huo">
+			<DisplayName>Талисман Огненной брони</DisplayName>
+			<Desc>Повышает устойчивость владельца к повреждениям Огня.</Desc>
+		</Text>
+		<Text Name="Spell_Shield_Tu">
+			<DisplayName>Талисман Землянной брони</DisplayName>
+			<Desc>Повышает устойчивость владельца к повреждениям Земли.</Desc>
+		</Text>
+		<Text Name="Spell_FaBao1">
+			<DisplayName>Талисман Острого Меча</DisplayName>
+			<Desc>Увеличивает Мастерство артефактов.</Desc>
+		</Text>
+		<Text Name="Spell_FaBao2">
+			<DisplayName>Талисман Божественного меча</DisplayName>
+			<Desc>Увеличивает умение Мастерство артефактов.</Desc>
+		</Text>
+		<Text Name="Spell_FaBao3">
+			<DisplayName>Талисман Духовного меча</DisplayName>
+			<Desc>Увеличивает множитель восстановления Ци артефакта.</Desc>
+		</Text>
+		<Text Name="Spell_FaBao4">
+			<DisplayName>Талисман Святого меча</DisplayName>
+			<Desc>Фундаментально увеличивает силу артефакта владельца и всесторонне улучшает способности артефакта.</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill1">
+			<DisplayName>Талисман Мерзкого Проклятия</DisplayName>
+			<Desc>Увеличивает Силу Заклинаний владельца.</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill2">
+			<DisplayName>Талисман Божественного Проклятия</DisplayName>
+			<Desc>Повышает навык Заклинание.</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill3">
+			<DisplayName>Талисман Духовного Проклятия</DisplayName>
+			<Desc>Фундаментально снижает стоимость заклинаний.</Desc>
+		</Text>
+		<Text Name="Spell_FightSkill4">
+			<DisplayName>Талисман Святого Проклятия</DisplayName>
+			<Desc>Фундаментально увеличивает силу заклинаний владельца и стоимость Ци.</Desc>
+		</Text>
+		<Text Name="Spell_TongTian1">
+			<DisplayName>Талисман Посланый Небесами</DisplayName>
+			<Desc>Увеличивает пять атрибутов владельца.</Desc>
+		</Text>
+		<Text Name="Spell_TongTian2">
+			<DisplayName>Окутывающий небеса Талисман</DisplayName>
+			<Desc>Уменьшает Достижения владельца.</Desc>
+		</Text>
+		<Text Name="Spell_TongTian3">
+			<DisplayName>Скрытый Талисман</DisplayName>
+			<Desc>Повышает Потенциал.</Desc>
+		</Text>
+		<Text Name="Spell_JieTian1">
+			<DisplayName>Талисман Небесного поста</DisplayName>
+			<Desc>Увеличивает достижения владельца.</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice1">
+			<DisplayName>Талисман Божественного Царства</DisplayName>
+			<Desc>Увеличивает максимальный лимит Божественного Царства владельца.</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice2">
+			<DisplayName>Талисман Божественного Восприятия</DisplayName>
+			<Desc>Увеличивает бонус за веру.</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice3">
+			<DisplayName>Талисман Божественного Авторитета</DisplayName>
+			<Desc>Увеличивает Божественность.</Desc>
+		</Text>
+		<Text Name="Spell_GodPractice4">
+			<DisplayName>Талисман Божественного Утаивания</DisplayName>
+			<Desc>Уменьшает Божественность.</Desc>
+		</Text>
+	</List>
+</Texts>

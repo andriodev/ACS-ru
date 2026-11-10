@@ -1,0 +1,18 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="FeatureModifierBase">
+			<Desc>Модификатор, генерируемый чертой. Только для использования в системе. Не изменяйте.</Desc>
+		</Text>
+		<Text Name="ExperienceModifierBase">
+			<Desc>Модификатор, генерируемый фоном. Только для использования в системе. Не изменяйте.</Desc>
+		</Text>
+		<Text Name="FeatureModifier_DongShiZhang1">
+			<DisplayName>Мотивация председателя</DisplayName>
+			<Desc>Под пристальным взглядом председателя правления мы удвоим наши усилия!</Desc>
+		</Text>
+		<Text Name="FeatureModifier_DongShiZhang2">
+			<DisplayName>Мотивация председателя</DisplayName>
+			<Desc>Под пристальным взглядом председателя правления мы удвоим наши усилия!</Desc>
+		</Text>
+	</List>
+</Texts>

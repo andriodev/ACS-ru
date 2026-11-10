@@ -1,0 +1,38 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="SYS_LOST">
+			<DisplayName>Пусто</DisplayName>
+		</Text>
+		<Text Name="Puppet">
+			<DisplayName>Сосуд</DisplayName>
+			<Desc>Рукотворный инструмент, напоминающий человека, может приводиться в движение магией.</Desc>
+		</Text>
+		<Text Name="NY_Zhuyao">
+			<DisplayName>Весенний Фестиваль Свинья Демон</DisplayName>
+		</Text>
+		<Text Name="NY_Shuyao">
+			<DisplayName>Крысиный Монстр (Весенний Фестиваль)</DisplayName>
+		</Text>
+		<Text Name="NY_Jingguai">
+			<DisplayName>Весенний Фестиваль Прислужник</DisplayName>
+		</Text>
+		<Text Name="NY_Jingguai2">
+			<DisplayName>Весенний Фестиваль Прислужник</DisplayName>
+		</Text>
+		<Text Name="BodyPart">
+			<DisplayName>Часть Тела</DisplayName>
+		</Text>
+		<Text Name="MiniLong">
+			<DisplayName>Детеныш Дракона</DisplayName>
+		</Text>
+		<Text Name="MiniFeng">
+			<DisplayName>Детеныш Феникса</DisplayName>
+		</Text>
+		<Text Name="SP_Zhulong">
+			<DisplayName>Дракон-Факел (Весенний Фестиваль)</DisplayName>
+		</Text>
+		<Text Name="Hero1">
+			<DisplayName>Герой</DisplayName>
+		</Text>
+	</List>
+</Texts>

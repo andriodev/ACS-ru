@@ -1,0 +1,10 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="Talk_JiuHua">
+      <Submiss.0>Выбирай, что хочешь. О цене поговорим позже.</Submiss.0>
+      <GiftLike.0>Это очень ценно для меня. Я люблю это.</GiftLike.0>
+      <LowValueGift.0>Я не хочу это комментировать.</LowValueGift.0>
+      <LowValueGift.1>(Смотреть на тебя) Что это такое? Ты называешь это подарком?</LowValueGift.1>
+    </Text>
+  </List>
+</Texts>

@@ -1,0 +1,42 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="RockBlockBase" sParam="Item">
+      <Item.FabaoSuffix>Металл, Печать, Стела, Парный Нефрит, Табличка, Врата, Столп</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BrownRockBlock" sParam="Item">
+      <ThingName>Блок Песчанника</ThingName>
+      <Desc>Блок из бурого камня. Может быть полезен в производстве, но его привлекательность довольно низка.</Desc>
+      <Item.BeMaterial.NamePrefix>『Песчанник』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_GrayRockBlock" sParam="Item">
+      <ThingName>Блок Базальта</ThingName>
+      <Desc>Блок из серого камня. Может быть полезен в производстве, но его привлекательность довольно низка.</Desc>
+      <Item.BeMaterial.NamePrefix>『Базальт』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_MarbleBlock" sParam="Item">
+      <ThingName>Блок Мрамора</ThingName>
+      <Desc>Блоки из мрамора. Может быть полезен в производстве. Его необычная текстура довольно красива.</Desc>
+      <Item.BeMaterial.NamePrefix>『Мрамор』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_JadeBlock" sParam="Item">
+      <ThingName>Блок Нефрита</ThingName>
+      <Desc>Блоки из нефрита. Очень красив и может быть полезен в производстве.</Desc>
+      <Item.BeMaterial.NamePrefix>『Нефрит』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_SkyStoneBlock" sParam="Item">
+      <ThingName>Небесный Блок</ThingName>
+      <Desc>Блоки из Небесного Столпа. Может быть полезен в производстве.</Desc>
+      <Item.BeMaterial.NamePrefix>『Небесный Столп』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingStoneBlock" sParam="Item">
+      <ThingName>Духовный Блок</ThingName>
+      <Desc>Блоки из Камней Духа. Может быть полезен в производстве.</Desc>
+      <Item.BeMaterial.NamePrefix>『Камень Духа』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingCrystalBlock" sParam="Item">
+      <ThingName>Кристальный Блок</ThingName>
+      <Desc>Блоки из Кристалла Духа. Может быть полезен в производстве.</Desc>
+      <Item.BeMaterial.NamePrefix>『Кристалл Духа』</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>

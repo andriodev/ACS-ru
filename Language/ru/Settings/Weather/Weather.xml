@@ -1,0 +1,148 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="SunnyDay">
+			<DisplayName>Чистое небо</DisplayName>
+			<StoryDesc>Это ясное небо и все еще витает над землей</StoryDesc>
+		</Text>
+		<Text Name="Overcast">
+			<DisplayName>Облачно</DisplayName>
+			<StoryDesc>Плотный слой облаков покрывает небо над головой</StoryDesc>
+		</Text>
+		<Text Name="LightRain">
+			<DisplayName>Легкий дождь</DisplayName>
+			<StoryDesc>Тонкая завеса дождя скользит по равнинам</StoryDesc>
+		</Text>
+		<Text Name="HeavyRain">
+			<DisplayName>Ливень</DisplayName>
+			<StoryDesc>Небеса открылись, заливая все внизу сильным дождем</StoryDesc>
+		</Text>
+		<Text Name="LightSnow">
+			<DisplayName>Слабый снег</DisplayName>
+			<StoryDesc>Легкий снег висит в воздухе и осыпает землю мерцающим светом.</StoryDesc>
+		</Text>
+		<Text Name="HeavySnow">
+			<DisplayName>Снегопад</DisplayName>
+			<StoryDesc>Сильный снегопад приносит с собой резкий холод и резкие ветры.</StoryDesc>
+		</Text>
+		<Text Name="DenseFog">
+			<DisplayName>Густой туман</DisplayName>
+			<StoryDesc>Облака сходятся в небе, и на землю падает густой туман.</StoryDesc>
+		</Text>
+		<Text Name="Melancholy">
+			<DisplayName>Мрачное настроение</DisplayName>
+			<StoryDesc>Мрачное настроение витает в воздухе</StoryDesc>
+		</Text>
+		<Text Name="SpringAir">
+			<DisplayName>Наступление весны</DisplayName>
+			<StoryDesc>Свежий запах весны пронизывает земли</StoryDesc>
+		</Text>
+		<Text Name="HarvestAir">
+			<DisplayName>Дух урожая</DisplayName>
+			<StoryDesc>Время сбора урожая, и веселый воздух спускается</StoryDesc>
+		</Text>
+		<Text Name="Ambiguous">
+			<DisplayName>Романтический воздух</DisplayName>
+			<StoryDesc>Любовь витает в воздухе</StoryDesc>
+		</Text>
+		<Text Name="Impetuous">
+			<DisplayName>Раздражение</DisplayName>
+			<StoryDesc>Импульсивная атмосфера</StoryDesc>
+		</Text>
+		<Text Name="MouldRains">
+			<DisplayName>Дождливый сезон</DisplayName>
+			<StoryDesc>Продолжительные дожди льются на землю</StoryDesc>
+		</Text>
+		<Text Name="Drought">
+			<DisplayName>Засуха</DisplayName>
+			<StoryDesc>Солнце опаляет все внизу своим огненным взором</StoryDesc>
+		</Text>
+		<Text Name="Rainstorm">
+			<DisplayName>Ливень</DisplayName>
+			<StoryDesc>Ливень сеет хаос</StoryDesc>
+		</Text>
+		<Text Name="Fohn">
+			<DisplayName>Потоки ветра</DisplayName>
+			<StoryDesc>Дует теплый сухой ветер</StoryDesc>
+		</Text>
+		<Text Name="DustStorm">
+			<DisplayName>Песчаная буря</DisplayName>
+			<StoryDesc>Небо тускнеет, когда пыль и песок наполняют воздух</StoryDesc>
+		</Text>
+		<Text Name="LingRarefiedWave">
+			<DisplayName>Ци засуха</DisplayName>
+			<StoryDesc>Наступает засуха Ци</StoryDesc>
+		</Text>
+		<Text Name="LingUpWave">
+			<DisplayName>Взрыв Ци</DisplayName>
+			<StoryDesc>Силы ци поднимаются и распространяются по всей земле</StoryDesc>
+		</Text>
+		<Text Name="LingUpWave_Little">
+			<DisplayName>Волнение Ци</DisplayName>
+			<StoryDesc>Ци пронизывает воздух</StoryDesc>
+		</Text>
+		<Text Name="HeatWave">
+			<DisplayName>Высокая температура</DisplayName>
+			<StoryDesc>Неустанно пылает волна жара</StoryDesc>
+		</Text>
+		<Text Name="ColdWave">
+			<DisplayName>Холодная зима</DisplayName>
+			<StoryDesc>Нисходят холодные ветры и ледяные штормы</StoryDesc>
+		</Text>
+		<Text Name="HeatWaveInWinter">
+			<DisplayName>Теплый ветер</DisplayName>
+			<StoryDesc>Бледное зимнее солнце светит, когда приходит теплый поток</StoryDesc>
+		</Text>
+		<Text Name="ColdWaveInSummer">
+			<DisplayName>Холодный ветер</DisplayName>
+			<StoryDesc>Дует освежающий летний бриз</StoryDesc>
+		</Text>
+		<Text Name="PermanentNight">
+			<DisplayName>Полярная ночь</DisplayName>
+			<StoryDesc>Это бесконечная ночь</StoryDesc>
+		</Text>
+		<Text Name="Miasma">
+			<DisplayName>Ядовитый воздух</DisplayName>
+			<StoryDesc>Распространяется зловонная атмосфера</StoryDesc>
+		</Text>
+		<Text Name="LightningStorm">
+			<DisplayName>Гроза</DisplayName>
+			<StoryDesc>Грохочущий гром катится по земле, как молния танцует между облаками</StoryDesc>
+		</Text>
+		<Text Name="LightningStormNoLong">
+			<DisplayName>Гроза</DisplayName>
+			<StoryDesc>Грохочущий гром катится по земле, как молния танцует между облаками</StoryDesc>
+		</Text>
+		<Text Name="FohnNoFeng">
+			<DisplayName>Потоки ветра</DisplayName>
+			<StoryDesc>Дует теплый сухой ветер</StoryDesc>
+		</Text>
+		<Text Name="Rainstorm_Long">
+			<DisplayName>Ливень</DisplayName>
+			<StoryDesc>Ливень сеет хаос</StoryDesc>
+		</Text>
+		<Text Name="LuShu_SunnyDay">
+			<DisplayName>Солнечный день (из-за Лушу)</DisplayName>
+			<StoryDesc>Чистое небо и неподвижный воздух по всей земле</StoryDesc>
+		</Text>
+		<Text Name="Fei_HeavyRain">
+			<DisplayName>Ливень(из-за Фэя)</DisplayName>
+			<StoryDesc>Небеса открылись, заливая все внизу сильным дождем</StoryDesc>
+		</Text>
+		<Text Name="Fei_Overcast">
+			<DisplayName>Пасмурно (из-за Фэя)</DisplayName>
+			<StoryDesc>Плотный слой облаков покрывает небо над головой</StoryDesc>
+		</Text>
+		<Text Name="MuYu_LightRain">
+			<DisplayName>Легкий дождь (из-за клинка Танец Дождя)</DisplayName>
+			<StoryDesc>Тонкая завеса дождя скользит по равнинам</StoryDesc>
+		</Text>
+		<Text Name="SpringFestival">
+			<DisplayName>Весенний фестиваль</DisplayName>
+			<StoryDesc>Праздничная атмосфера наполняет воздух, когда приближается Весенний фестиваль</StoryDesc>
+		</Text>
+		<Text Name="ZuShiBiHu">
+			<DisplayName>Воздух культивирования</DisplayName>
+			<StoryDesc>Это воздух Культивирования</StoryDesc>
+		</Text>
+	</List>
+</Texts>

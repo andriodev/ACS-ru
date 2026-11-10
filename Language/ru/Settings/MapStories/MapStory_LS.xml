@@ -1,0 +1,23 @@
+﻿<Texts Type="Story">
+	<List>
+		<Text Name="Ls_FirstNoLing">
+			<DisplayName>Ци питомца истощена</DisplayName>
+			<Desc>Ци питомца исчерпана. Чтобы воскресить его, нужно построить соответствующую статую, на что уйдет три дня.</Desc>
+			<Selections.0.Display>Принять</Selections.0.Display>
+		</Text>
+		<Text Name="Ls_SecLs">
+			<DisplayName>Второй питомец</DisplayName>
+			<Desc>У вас может быть только один питомец. Этот питомец исчезнет через некоторое время. Чтобы призвать питомца, сначала нужно построить его статую.</Desc>
+		</Text>
+		<Text Name="Ls_Outspread_Stability">
+			<DisplayName>Знаменитая мощь</DisplayName>
+			<Desc>Дракон потопа летит высоко над головой, а небо заполняют темные тучи, молнии и гром. Те, кто совершил злодеяния, будут очень напуганы.</Desc>
+			<Selections.0.Display>Принять</Selections.0.Display>
+		</Text>
+		<Text Name="Ls_Outspread_Attractive">
+			<DisplayName>Благоприятные знаки</DisplayName>
+			<Desc>Темный Феникс несколько дней висел в небе, а потом опустился на вершину главного зала, издал три протяжных крика и улетел. Большинство людей считают, что это благоприятное предзнаменование.</Desc>
+			<Selections.0.Display>Принять</Selections.0.Display>
+		</Text>
+	</List>
+</Texts>

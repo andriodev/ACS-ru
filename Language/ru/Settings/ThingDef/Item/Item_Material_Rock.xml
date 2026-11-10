@@ -1,0 +1,57 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="RockBase" sParam="Item">
+      <Item.FabaoSuffix>Металл, Печать, Стела, Парный Нефрит, Табличка, Врата, Столп</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_BrownRock" sParam="Item">
+      <ThingName>Песчаник</ThingName>
+      <Desc>Камень коричневого цвета, очень распространенный материал.</Desc>
+      <Item.BeMaterial.NamePrefix>『Песчаник』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_GrayRock" sParam="Item">
+      <ThingName>Базальт</ThingName>
+      <Desc>Камень серого цвета, очень распространенный материал.</Desc>
+      <Item.BeMaterial.NamePrefix>『Базальт』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Marble" sParam="Item">
+      <ThingName>Мрамор</ThingName>
+      <Desc>Мрамор - это обычный камень, имеющий красивую текстуру.</Desc>
+      <Item.BeMaterial.NamePrefix>『Мрамор』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_Jade" sParam="Item">
+      <ThingName>Нефрит</ThingName>
+      <Desc>Лёгкий, но твёрдый камень. Блестящий и слегка прозрачный, он ценится за красоту и духовных качества.</Desc>
+      <Item.BeMaterial.NamePrefix>『Нефрит』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_JadeEssence" sParam="Item">
+      <ThingName>Халцедон</ThingName>
+      <Desc>Халцедон лёгкий, гладкий и очень красивый. Его часто используют для создания украшений высочайшего качества, а так же для производства лекарств.</Desc>
+      <Item.BeMaterial.NamePrefix>『Халцедон』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_StoneEssence" sParam="Item">
+      <ThingName>Сердолик</ThingName>
+      <Desc>Сердолик лёгкий и твёрдый. Используется для создания лекарств.</Desc>
+      <Item.BeMaterial.NamePrefix>『Сердолик』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_SkyStone" sParam="Item">
+      <ThingName>Столп Небес</ThingName>
+      <Desc>Редкий камень, который, по слухам, был извлечен из Столпа Небес. Богат Ци Земли.</Desc>
+      <Item.BeMaterial.NamePrefix>『Столп Небес』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_ExtremeJade" sParam="Item">
+      <ThingName>Нефрит Духа</ThingName>
+      <Desc>Сокровище, желанное множеством практиков, имеет столбчатую кристаллическую форму и превосходную способность к адаптации Ци.</Desc>
+      <Item.BeMaterial.NamePrefix>『Нефрит Духа』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingStone" sParam="Item">
+      <ThingName>Камень Духа</ThingName>
+      <Desc>Камень сформировавшийся из чистой Ци. Употребление его в таком виде восполнит 500 Ци и улучшит сродство с Ци на некоторое время.</Desc>
+      <Item.BeMaterial.NamePrefix>『Камень Духа』</Item.BeMaterial.NamePrefix>
+    </Text>
+    <Text Name="Item_LingCrystal" sParam="Item">
+      <ThingName>Кристалл Духа</ThingName>
+      <Desc>Кристалл, образовавшийся из высококонцентрированной Ци. Употребление его в таком виде восполнит 20.000 Ци и улучшит сродство с Ци на некоторое время.</Desc>
+      <Item.BeMaterial.NamePrefix>『Кристалл Духа』</Item.BeMaterial.NamePrefix>
+    </Text>
+  </List>
+</Texts>

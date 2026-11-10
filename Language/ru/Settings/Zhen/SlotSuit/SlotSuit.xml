@@ -1,0 +1,234 @@
+﻿<Texts Type="Other">
+  <List>
+    <Text Name="Sys_Lost">
+      <DisplayName>Пустой</DisplayName>
+    </Text>
+    <Text Name="SlotSuit_1">
+      <DisplayName>Разум Меча</DisplayName>
+      <SuitEffect.0.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.0.Description>
+    </Text>
+    <Text Name="SlotSuit_2">
+      <DisplayName>Разум Веры</DisplayName>
+      <SuitEffect.0.Description>Улучшена Способность К Заклинаниям</SuitEffect.0.Description>
+    </Text>
+    <Text Name="SlotSuit_3">
+      <DisplayName>Разум позитивности</DisplayName>
+      <SuitEffect.0.Description>Повышенная Защитная Способность</SuitEffect.0.Description>
+    </Text>
+    <Text Name="SlotSuit_4">
+      <DisplayName>Разум Податливости</DisplayName>
+      <SuitEffect.0.Description>Повышенная Стабильность</SuitEffect.0.Description>
+    </Text>
+    <Text Name="SlotSuit_5">
+      <DisplayName>Разум Равновесия</DisplayName>
+      <SuitEffect.0.Description>Уменьшенный Размер Формации</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Снижение Нагрузки Формации</SuitEffect.1.Description>
+    </Text>
+    <Text Name="SlotSuit_6">
+      <DisplayName>Состояние Небес</DisplayName>
+      <SuitEffect.0.Description>Повышенная Стабильность</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Увеличивает Предел Энергии Формации</SuitEffect.1.Description>
+    </Text>
+    <Text Name="SlotSuit_7">
+      <DisplayName>Разум Земли</DisplayName>
+      <SuitEffect.0.Description>Повышенная Защитная Способность</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Увеличивает Предел Энергии Формации</SuitEffect.1.Description>
+    </Text>
+    <Text Name="SlotSuit_8">
+      <DisplayName>Разум грома</DisplayName>
+      <SuitEffect.0.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Увеличивает Предел Энергии Формации</SuitEffect.1.Description>
+    </Text>
+    <Text Name="SlotSuit_9">
+      <DisplayName>Разум ветра</DisplayName>
+      <SuitEffect.0.Description>Улучшена Способность К Заклинаниям</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Увеличивает Предел Энергии Формации</SuitEffect.1.Description>
+    </Text>
+    <Text Name="SlotSuit_10">
+      <DisplayName>Разум воды</DisplayName>
+      <SuitEffect.0.Description>Повышена Эффективность Формации</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Увеличивает Предел Энергии Формации</SuitEffect.1.Description>
+    </Text>
+    <Text Name="SlotSuit_11">
+      <DisplayName>Разум огня</DisplayName>
+      <SuitEffect.0.Description>Увеличенная Способность Деятельности</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Увеличивает Предел Энергии Формации</SuitEffect.1.Description>
+    </Text>
+    <Text Name="SlotSuit_12">
+      <DisplayName>Разум гор</DisplayName>
+      <SuitEffect.0.Description>Уменьшенный Размер Формации</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Увеличивает Предел Энергии Формации</SuitEffect.1.Description>
+    </Text>
+    <Text Name="SlotSuit_13">
+      <DisplayName>Разум мавров</DisplayName>
+      <SuitEffect.0.Description>Снижение Нагрузки Формации</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Увеличивает Предел Энергии Формации</SuitEffect.1.Description>
+    </Text>
+    <Text Name="SlotSuit_14">
+      <DisplayName>Небесное Происхождение</DisplayName>
+      <SuitEffect.0.Description>Новый Навык: Небесное Происхождение</SuitEffect.0.Description>
+    </Text>
+    <Text Name="SlotSuit_15">
+      <DisplayName>Лунная Гроза</DisplayName>
+      <SuitEffect.0.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Увеличивает Предел Энергии Формации</SuitEffect.1.Description>
+    </Text>
+    <Text Name="SlotSuit_16">
+      <DisplayName>Небесный огонь Солнца</DisplayName>
+      <SuitEffect.0.Description>Улучшена Способность К Заклинаниям</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Увеличивает Предел Энергии Формации</SuitEffect.1.Description>
+    </Text>
+    <Text Name="SlotSuit_17">
+      <DisplayName>слабый ветер</DisplayName>
+      <SuitEffect.0.Description>Повышенная Защитная Способность</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Защитная Способность Слегка Повышена</SuitEffect.1.Description>
+    </Text>
+    <Text Name="SlotSuit_18">
+      <DisplayName>Ревущий Гром</DisplayName>
+      <SuitEffect.0.Description>Повышенная Защитная Способность</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Увеличивает Предел Энергии Формации</SuitEffect.1.Description>
+    </Text>
+    <Text Name="SlotSuit_19">
+      <DisplayName>Бескрайние Горы</DisplayName>
+      <SuitEffect.0.Description>Повышенная Стабильность</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Стабильность Немного Повышена</SuitEffect.1.Description>
+    </Text>
+    <Text Name="SlotSuit_20">
+      <DisplayName>бесконечный поток</DisplayName>
+      <SuitEffect.0.Description>Повышенная Стабильность</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Увеличивает Предел Энергии Формации</SuitEffect.1.Description>
+    </Text>
+    <Text Name="SlotSuit_21">
+      <DisplayName>Происхождение неба и Земли</DisplayName>
+      <SuitEffect.0.Description>Улучшена Способность К Заклинаниям</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Способность Заклинания Немного Улучшена</SuitEffect.1.Description>
+    </Text>
+    <Text Name="SlotSuit_22">
+      <DisplayName>Конец холмов и рек</DisplayName>
+      <SuitEffect.0.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.1.Description>
+    </Text>
+    <Text Name="SlotSuit_23">
+      <DisplayName>Рождение творений</DisplayName>
+      <SuitEffect.0.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Улучшена Способность К Заклинаниям</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Увеличенная Способность Деятельности</SuitEffect.2.Description>
+    </Text>
+    <Text Name="SlotSuit_24">
+      <DisplayName>Столкновение огня и воды</DisplayName>
+      <SuitEffect.0.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Улучшена Способность К Заклинаниям</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Повышена Эффективность Формации</SuitEffect.2.Description>
+    </Text>
+    <Text Name="SlotSuit_25">
+      <DisplayName>Характер огня</DisplayName>
+      <SuitEffect.0.Description>Повышенная Стабильность</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Повышенная Защитная Способность</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Уменьшенный Размер Формации</SuitEffect.2.Description>
+    </Text>
+    <Text Name="SlotSuit_26">
+      <DisplayName>Эрозия природы</DisplayName>
+      <SuitEffect.0.Description>Повышенная Стабильность</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Повышенная Защитная Способность</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Снижение Нагрузки Формации</SuitEffect.2.Description>
+    </Text>
+    <Text Name="SlotSuit_27">
+      <DisplayName>Исконный</DisplayName>
+      <SuitEffect.0.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Улучшена Способность К Заклинаниям</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Повышенная Защитная Способность</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Повышена Эффективность Формации</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Увеличенная Способность Деятельности</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Повышенная Стабильность</SuitEffect.5.Description>
+    </Text>
+    <Text Name="SlotSuit_28">
+      <DisplayName>Большие Просторы</DisplayName>
+      <SuitEffect.0.Description>Размер Формации Увеличился</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Увеличение Загрузки Формации</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Увеличивает Предел Энергии Формации</SuitEffect.2.Description>
+    </Text>
+    <Text Name="SlotSuit_SpZhen_1">
+      <DisplayName>Разум Яростно Нападающего</DisplayName>
+      <SuitEffect.0.Description>Размер Формации Увеличился Незначительно</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Незначительное Увеличение Загрузки Формации</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Улучшена Способность К Заклинаниям</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Повышенная Защитная Способность</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Увеличивает Предел Энергии Формации</SuitEffect.5.Description>
+    </Text>
+    <Text Name="SlotSuit_SpZhen_2">
+      <DisplayName>Разум Семи Бойней</DisplayName>
+      <SuitEffect.0.Description>Размер Формации Увеличился Незначительно</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Незначительное Увеличение Загрузки Формации</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Улучшена Способность К Заклинаниям</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Повышенная Защитная Способность</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Увеличивает Предел Энергии Формации</SuitEffect.5.Description>
+    </Text>
+    <Text Name="SlotSuit_SpZhen_3">
+      <DisplayName>Разум неприступной формации</DisplayName>
+      <SuitEffect.0.Description>Размер Формации Увеличился Незначительно</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Незначительное Увеличение Загрузки Формации</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Улучшена Способность К Заклинаниям</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Повышенная Защитная Способность</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Увеличивает Предел Энергии Формации</SuitEffect.5.Description>
+    </Text>
+    <Text Name="SlotSuit_SpZhen_4">
+      <DisplayName>Разум формации Божественного Закона</DisplayName>
+      <SuitEffect.0.Description>Незначительное Увеличение Загрузки Формации</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Повышена Эффективность Формации</SuitEffect.1.Description>
+    </Text>
+    <Text Name="SlotSuit_SpZhen_5">
+      <DisplayName>Разум истинного Дракона</DisplayName>
+      <SuitEffect.0.Description>Незначительное Увеличение Загрузки Формации</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Улучшена Способность К Заклинаниям</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Повышенная Защитная Способность</SuitEffect.3.Description>
+    </Text>
+    <Text Name="SlotSuit_SpZhen_6">
+      <DisplayName>Разум Божественного Феникса</DisplayName>
+      <SuitEffect.0.Description>Незначительное Увеличение Загрузки Формации</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Улучшена Способность К Заклинаниям</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Повышенная Защитная Способность</SuitEffect.3.Description>
+    </Text>
+    <Text Name="SlotSuit_SpZhen_7">
+      <DisplayName>Разум Инь Ян</DisplayName>
+      <SuitEffect.0.Description>Размер Формации Увеличился Незначительно</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Незначительное Увеличение Загрузки Формации</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Увеличенная Способность Деятельности</SuitEffect.2.Description>
+    </Text>
+    <Text Name="SlotSuit_SpZhen_8">
+      <DisplayName>Разум лунного Мороза</DisplayName>
+      <SuitEffect.0.Description>Размер Формации Увеличился Незначительно</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Незначительное Увеличение Загрузки Формации</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Улучшена Способность К Заклинаниям</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Повышенная Защитная Способность</SuitEffect.3.Description>
+    </Text>
+    <Text Name="SlotSuit_SpZhen_9">
+      <DisplayName>Разум меча Бездны</DisplayName>
+      <SuitEffect.0.Description>Незначительное Увеличение Загрузки Формации</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Повышенная Защитная Способность</SuitEffect.2.Description>
+    </Text>
+    <Text Name="SlotSuit_SpZhen_10">
+      <DisplayName>Разум восточного леса</DisplayName>
+      <SuitEffect.0.Description>Размер Формации Увеличился Незначительно</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Незначительное Увеличение Загрузки Формации</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Улучшена Способность К Заклинаниям</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Увеличенная Способность Деятельности</SuitEffect.4.Description>
+    </Text>
+    <Text Name="SlotSuit_SpZhen_11">
+      <DisplayName>Разум конвергенции</DisplayName>
+      <SuitEffect.0.Description>Размер Формации Увеличился Незначительно</SuitEffect.0.Description>
+      <SuitEffect.1.Description>Незначительное Увеличение Загрузки Формации</SuitEffect.1.Description>
+      <SuitEffect.2.Description>Улучшена Способность К Овладению Артефактами</SuitEffect.2.Description>
+      <SuitEffect.3.Description>Улучшена Способность К Заклинаниям</SuitEffect.3.Description>
+      <SuitEffect.4.Description>Повышенная Защитная Способность</SuitEffect.4.Description>
+      <SuitEffect.5.Description>Повышенная Стабильность</SuitEffect.5.Description>
+      <SuitEffect.6.Description>Повышена Эффективность Формации</SuitEffect.6.Description>
+    </Text>
+  </List>
+</Texts>

@@ -1,0 +1,88 @@
+<Texts Type="Other">
+  <List>
+    <Text Name="Sys_Lost">
+      <DisplayName>Потеря модуля</DisplayName>
+    </Text>
+    <Text Name="None">
+      <DisplayName>Нет</DisplayName>
+    </Text>
+    <Text Name="Lv1_Jian">
+      <DisplayName>Зинь</DisplayName>
+    </Text>
+    <Text Name="Lv1_Fa">
+      <DisplayName>Фа</DisplayName>
+    </Text>
+    <Text Name="Lv1_Gang">
+      <DisplayName>Ганг</DisplayName>
+    </Text>
+    <Text Name="Lv1_Ren">
+      <DisplayName>Рен</DisplayName>
+    </Text>
+    <Text Name="Lv2_Qian">
+      <DisplayName>Сян</DisplayName>
+    </Text>
+    <Text Name="Lv2_Kun">
+      <DisplayName>Кун</DisplayName>
+    </Text>
+    <Text Name="Lv2_Zhen">
+      <DisplayName>Жень</DisplayName>
+    </Text>
+    <Text Name="Lv2_Xun">
+      <DisplayName>Сун</DisplayName>
+    </Text>
+    <Text Name="Lv2_Kan">
+      <DisplayName>Кан</DisplayName>
+    </Text>
+    <Text Name="Lv2_Li">
+      <DisplayName>Ли</DisplayName>
+    </Text>
+    <Text Name="Lv2_Gen">
+      <DisplayName>Ген</DisplayName>
+    </Text>
+    <Text Name="Lv2_Dui">
+      <DisplayName>Ду</DisplayName>
+    </Text>
+    <Text Name="Lv3_Ri">
+      <DisplayName>Ри</DisplayName>
+    </Text>
+    <Text Name="Lv3_Yue">
+      <DisplayName>Юэ</DisplayName>
+    </Text>
+    <Text Name="Lv3_Yin">
+      <DisplayName>Инь</DisplayName>
+    </Text>
+    <Text Name="Lv3_Yang">
+      <DisplayName>Ян</DisplayName>
+    </Text>
+    <Text Name="Lv3_Yu">
+      <DisplayName>Ю</DisplayName>
+    </Text>
+    <Text Name="Lv3_Zhou">
+      <DisplayName>Жу</DisplayName>
+    </Text>
+    <Text Name="Lv3_Shi">
+      <DisplayName>Ши</DisplayName>
+    </Text>
+    <Text Name="Lv3_Zhong">
+      <DisplayName>Зон</DisplayName>
+    </Text>
+    <Text Name="Lv3_Sheng">
+      <DisplayName>Шень</DisplayName>
+    </Text>
+    <Text Name="Lv3_Mie">
+      <DisplayName>Ми</DisplayName>
+    </Text>
+    <Text Name="Lv3_Zao">
+      <DisplayName>Зао</DisplayName>
+    </Text>
+    <Text Name="Lv3_Hua">
+      <DisplayName>Хуа</DisplayName>
+    </Text>
+    <Text Name="Lv4_Hong">
+      <DisplayName>Хон</DisplayName>
+    </Text>
+    <Text Name="Lv4_Meng">
+      <DisplayName>Мен</DisplayName>
+    </Text>
+  </List>
+</Texts>

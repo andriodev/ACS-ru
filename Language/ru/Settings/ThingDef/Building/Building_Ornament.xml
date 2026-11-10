@@ -1,0 +1,119 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="OrnamentBase" sParam="Building">
+      <Desc>Декоративное сооружение. Он может воздействовать на пять элементов своего окружения, основываясь на своих материалах.</Desc>
+    </Text>
+    <Text Name="Building_StoneMan" sParam="Building">
+      <ThingName>Каменный Великан</ThingName>
+    </Text>
+    <Text Name="Building_Flag1" sParam="Building">
+      <ThingName>Флаг Дракона</ThingName>
+    </Text>
+    <Text Name="Building_Flag2" sParam="Building">
+      <ThingName>Флаг Триграмм</ThingName>
+    </Text>
+    <Text Name="Building_Flag3" sParam="Building">
+      <ThingName>Флаг Тайцзи</ThingName>
+    </Text>
+    <Text Name="Building_StoneLion" sParam="Building">
+      <ThingName>Каменный Лев</ThingName>
+    </Text>
+    <Text Name="Building_StoneLion2" sParam="Building">
+      <ThingName>Каменный Лев</ThingName>
+    </Text>
+    <Text Name="Building_StoneLion3" sParam="Building">
+      <ThingName>Каменный Лев</ThingName>
+    </Text>
+    <Text Name="Building_BigTripod" sParam="Building">
+      <ThingName>Котел</ThingName>
+    </Text>
+    <Text Name="Building_SmallTripod" sParam="Building">
+      <ThingName>Котел</ThingName>
+    </Text>
+    <Text Name="Building_BigCenser" sParam="Building">
+      <ThingName>Курильница</ThingName>
+    </Text>
+    <Text Name="Building_SmallCenser" sParam="Building">
+      <ThingName>Курильница</ThingName>
+    </Text>
+    <Text Name="Building_BigSwordPillar" sParam="Building">
+      <ThingName>Щит Меча</ThingName>
+      <Desc>Запасные артефакты могут быть использованы для формирования Щита Меча, который может быть активирован для защиты от атаки врагов. Щит может защитить только внутренних учеников. Артефакты не могут быть извлечены.</Desc>
+    </Text>
+    <Text Name="Building_BigVase" sParam="Building">
+      <ThingName>Ваза</ThingName>
+    </Text>
+    <Text Name="Building_SmallVase" sParam="Building">
+      <ThingName>Ваза</ThingName>
+    </Text>
+    <Text Name="Building_Screen1" sParam="Building">
+      <ThingName>Ширма</ThingName>
+    </Text>
+    <Text Name="Building_BookShelf" sParam="Building">
+      <ThingName>Декоративная Полка</ThingName>
+    </Text>
+    <Text Name="Building_ItemShelf" sParam="Building">
+      <ThingName>Дисплей</ThingName>
+      <Desc>Элементы могут быть выбраны и размещены на дисплее.</Desc>
+    </Text>
+    <Text Name="Building_ShuZhuangTai" sParam="Building">
+      <ThingName>Туалетный Столик</ThingName>
+    </Text>
+    <Text Name="Building_Tower" sParam="Building">
+      <ThingName>Пагода Покорителя</ThingName>
+    </Text>
+    <Text Name="Building_Tower2" sParam="Building">
+      <ThingName>Пагода</ThingName>
+    </Text>
+    <Text Name="Building_ShiBei" sParam="Building">
+      <ThingName>Стела</ThingName>
+    </Text>
+    <Text Name="Building_Zhong" sParam="Building">
+      <ThingName>Колокол</ThingName>
+      <Desc>Большой колокол, в который можно позвонить, чтобы предупредить и призвать всех внешних учеников, чтобы они избежали опасности, но его нужно остановить вручную. Он также может быть использован в качестве украшения, которое влияет на пять элементов его окружения на основе его материалов.</Desc>
+    </Text>
+    <Text Name="Building_Gu" sParam="Building">
+      <ThingName>Барабан</ThingName>
+    </Text>
+    <Text Name="Building_JiaShan1" sParam="Building">
+      <ThingName>Сад Камней (Пик)</ThingName>
+    </Text>
+    <Text Name="Building_JiaShan2" sParam="Building">
+      <ThingName>Сад Камней (Холм)</ThingName>
+    </Text>
+    <Text Name="Building_PenZai1" sParam="Building">
+      <ThingName>Бонсай (Пышный)</ThingName>
+    </Text>
+    <Text Name="Building_PenZai2" sParam="Building">
+      <ThingName>Бонсай (Сосна)</ThingName>
+    </Text>
+    <Text Name="Building_PenZai3" sParam="Building">
+      <ThingName>Бонсай (Вертикальный)</ThingName>
+    </Text>
+    <Text Name="Building_Tower1" sParam="Building">
+      <ThingName>Золотая Пагода</ThingName>
+    </Text>
+    <Text Name="Building_ShiBei1" sParam="Building">
+      <ThingName>Стелла Силы</ThingName>
+    </Text>
+    <Text Name="Building_Zhong1" sParam="Building">
+      <ThingName>Колокол Дракона</ThingName>
+    </Text>
+    <Text Name="Building_Gu1" sParam="Building">
+      <ThingName>Барабан Дракона</ThingName>
+    </Text>
+    <Text Name="Building_BookShelf_CangJing" sParam="Building">
+      <ThingName>Павильон</ThingName>
+      <Desc>Книжные полки, используемые для хранения секретных рукописей. Каждый Павильон вмещает 100 единиц. Чем сложнее Закон, тем больше места для хранения он требует.</Desc>
+    </Text>
+    <Text Name="Building_StoneYiJi1" sParam="Building">
+      <ThingName>Стела Бикси</ThingName>
+    </Text>
+    <Text Name="Building_StoneYiJi2" sParam="Building">
+      <ThingName>Ветхая Статуя</ThingName>
+    </Text>
+    <Text Name="Building_JuNengDeng" sParam="Building">
+      <ThingName>Изначальный Свет</ThingName>
+    </Text>
+  </List>
+</Texts>

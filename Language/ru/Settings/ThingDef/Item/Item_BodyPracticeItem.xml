@@ -1,0 +1,208 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="Item_BodyPracticeBase" sParam="Item">
+      <ThingName>Основа</ThingName>
+    </Text>
+    <Text Name="Item_BodyPractice_TaiXu" sParam="Item">
+      <ThingName>Изначальная Сущность</ThingName>
+      <Desc>Остаток силы сотворения времён начала Небес и Земли. В наше время такую необычную Сущность сложно найти.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_XuanTian" sParam="Item">
+      <ThingName>Небесное Сияние</ThingName>
+      <Desc>Остаток силы сотворения времён начала Небес и Земли. В наше время такую необычную Сущность сложно найти.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_JieMie" sParam="Item">
+      <ThingName>Сущность Кары</ThingName>
+      <Desc>Сущность, содержащая разрушительную силу, может быть собрана только в момент Небесной Кары.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_JiuYang" sParam="Item">
+      <ThingName>Подлинное Солнце</ThingName>
+      <Desc>Такую чистую энергию палящего Солнца очень сложно собрать.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_XuanYue" sParam="Item">
+      <ThingName>Подлинная Луна</ThingName>
+      <Desc>Такую чистую энергию Луны очень сложно собрать.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_TaiYang" sParam="Item">
+      <ThingName>Сущность Солнца</ThingName>
+      <Desc>Сущность Солнца можно собрать только в полдень.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_TaiYin" sParam="Item">
+      <ThingName>Сущность Луны</ThingName>
+      <Desc>Сущность Луны можно собрать только в полночь.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_EXJin" sParam="Item">
+      <ThingName>Изначальная Сущность Металла</ThingName>
+      <Desc>Одна из пяти изначальных сущностей, которую можно собрать лишь в местах или предметах с необычайно сильным элементом Металла.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_EXMu" sParam="Item">
+      <ThingName>Изначальная Сущность Дерева</ThingName>
+      <Desc>Одна из пяти изначальных сущностей, которую можно собрать лишь в местах или предметах с необычайно сильным элементом Дерева.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_EXShui" sParam="Item">
+      <ThingName>Изначальная Сущность Воды</ThingName>
+      <Desc>Одна из пяти изначальных сущностей, которую можно собрать лишь в местах или предметах с необычайно сильным элементом Воды.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_EXHuo" sParam="Item">
+      <ThingName>Изначальная Сущность Огня</ThingName>
+      <Desc>Одна из пяти изначальных сущностей, которую можно собрать лишь в местах или предметах с необычайно сильным элементом Огня.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_EXTu" sParam="Item">
+      <ThingName>Изначальная Сущность Земли</ThingName>
+      <Desc>Одна из пяти изначальных сущностей, которую можно собрать лишь в местах или предметах с необычайно сильным элементом Земли.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_Jin" sParam="Item">
+      <ThingName>Сущность Металла</ThingName>
+      <Desc>Одна из приобретенных сущностей пяти элементов. Их можно найти везде стоит только поискать.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_Mu" sParam="Item">
+      <ThingName>Сущность Дерева</ThingName>
+      <Desc>Одна из приобретенных сущностей пяти элементов. Их можно найти везде стоит только поискать.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_Shui" sParam="Item">
+      <ThingName>Сущность Воды</ThingName>
+      <Desc>Одна из приобретенных сущностей пяти элементов. Их можно найти везде стоит только поискать.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_Huo" sParam="Item">
+      <ThingName>Сущность Огня</ThingName>
+      <Desc>Одна из приобретенных сущностей пяти элементов. Их можно найти везде стоит только поискать.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_Tu" sParam="Item">
+      <ThingName>Сущность Земли</ThingName>
+      <Desc>Одна из приобретенных сущностей пяти элементов. Их можно найти везде стоит только поискать.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_FengShuiLing" sParam="Item">
+      <ThingName>Чудесный Фэн-Шуй</ThingName>
+      <Desc>Сущность, которая медленно формируется в местах исключительным Фэн-Шуй.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_FengShuiSha" sParam="Item">
+      <ThingName>Проклятый Фэн-Шуй</ThingName>
+      <Desc>Сущность, которая медленно формируется в местах ужасным Фэн-Шуй.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_Chun" sParam="Item">
+      <ThingName>Сущность Зарождения</ThingName>
+      <Desc>Сущность, которая естественным образом формируется между Небом и Землёй в течении времён года. Представляет собой весеннюю энергию зарождения.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_Xia" sParam="Item">
+      <ThingName>Сущность Цветения</ThingName>
+      <Desc>Сущность, которая естественным образом формируется между Небом и Землёй в течении времён года. Представляет собой летнюю энергию цветения.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_Qiu" sParam="Item">
+      <ThingName>Сущность Увядания</ThingName>
+      <Desc>Сущность, которая естественным образом формируется между Небом и Землёй в течении времён года. Представляет собой осеннюю энергию увядания.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_Dong" sParam="Item">
+      <ThingName>Сущность Опустошения</ThingName>
+      <Desc>Сущность, которая естественным образом формируется между Небом и Землёй в течении времён года. Представляет собой зимнюю энергию опустошения.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_YongYe" sParam="Item">
+      <ThingName>Сущность Вечной Тишины</ThingName>
+      <Desc>Таинственная Сущность, пронизывающая Небеса и Землю в полярную ночь. Имеет загадочное происхождение чуждое этому миру.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_JiaoLongYuanJing" sParam="Item">
+      <ThingName>Сущность Речного Дракона</ThingName>
+      <Desc>Сущность, содержащая тайны жизни Речного Дракона. Это отличный ориентир для практиков тела.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_XiongFengYuanJing" sParam="Item">
+      <ThingName>Сущность Феникса</ThingName>
+      <Desc>Сущность, содержащая тайны жизни Феникса. Это отличный ориентир для практиков тела.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_ZhuLongYuanJing" sParam="Item">
+      <ThingName>Сущность Светозарного Дракона</ThingName>
+      <Desc>Сущность, содержащая тайны жизни Светозарного Дракона. Это отличный ориентир для практиков тела.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_GuShouJingXue" sParam="Item">
+      <ThingName>Кровь Древнего Зверя</ThingName>
+      <Desc>Капля крови Древнего Зверя, содержащая тайны его могучего тела.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_GuShouGuFen" sParam="Item">
+      <ThingName>Костная Мука Древнего Зверя</ThingName>
+      <Desc>Мука из костей Древнего Зверя, содержащая тайны его могучего панциря.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_DaYaoYuanJing" sParam="Item">
+      <ThingName>Сущность Яогуай</ThingName>
+      <Desc>Сущность Зверя с высокой культивацией, содержащая тайны его от природы сильного тела.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_ShengMingLv1" sParam="Item">
+      <ThingName>Сущность Жизни</ThingName>
+      <Desc>Сущность жизненной силы, способная принести невероятную пользу телу.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_ShengMingLv2" sParam="Item">
+      <ThingName>Исток Жизни</ThingName>
+      <Desc>Остаток изначальной сути новорождённой жизни.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_ShengMingLv3" sParam="Item">
+      <ThingName>Сущность Творения</ThingName>
+      <Desc>Дыхание жизни, которое естественным образом формируется между Небом и Землёй. Это источник изначальной жизни.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_SiWang" sParam="Item">
+      <ThingName>Дыхание Мертвеца</ThingName>
+      <Desc>Когда живое существо умирает, часть его жизненной сущности возвращается в Землю и Небо, а другая часть превращается в это.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_WuHui" sParam="Item">
+      <ThingName>Сущность Мерзости</ThingName>
+      <Desc>Хотя происхождение этой Сущности неясно, она представляет собой слияние Инь всех живых существ и содержит ужасную тайну перерождения и деградации.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_WuXing" sParam="Item">
+      <ThingName>Незримая Сущность</ThingName>
+      <Desc>Особая сущность, бесформенная и бесплотная, но реальная. Её можно извлечь из незримого.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_XianDaoJingHua" sParam="Item">
+      <ThingName>Сущность Бессмертного</ThingName>
+      <Desc>Общее название для Сущностей производимых Практиками Золотого Ядра. Из-за вливания Ци эти эссенции совершенно не эффективны для Практиков Тела. Если Тело насильно закалить такой сущностью, то она развеет всю силу закалки и вернёт часть тела к её изначальному состоянию.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_XianSui" sParam="Item">
+      <ThingName>Бессмертный Костный Мозг</ThingName>
+      <Desc>Сущность тела Бессмертного, сформированная практиком Золотого Ядра. Чрезвычайно сильный эффект этого вещества будет оказывать стимулирующее воздействие на Тело практика. Неизвестно, что может случиться, если использовать её для закалки.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_ShenSui" sParam="Item">
+      <ThingName>Божественная Сущность</ThingName>
+      Сущность Божественного тела, сформированная практиком божественного пути (Шен Дао).
+      <Desc>Эссенция Божественного тела, сформированного культиватором Шендао. Чрезвычайно сильный эффект этого вещества будет оказывать стимулирующее воздействие на Тело практика. Неизвестно, что может случиться, если использовать её для закалки.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_BaBao" sParam="Item">
+      <ThingName>Сущность Вселенной</ThingName>
+      <Desc>В начале Небес и Земли зарождались все Пути Мироздания. В этой сущности заключена суть мироздания и его развития.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_WanDao" sParam="Item">
+      <ThingName>Сущность Неба и Земли</ThingName>
+      <Desc>В начале Небес и Земли зарождались все Пути Мироздания. В этой сущности заключена суть сотворения Неба и Земли.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_QiQing" sParam="Item">
+      <ThingName>Сущность Инь и Ян</ThingName>
+      <Desc>В начале Небес и Земли зарождались все Пути Мироздания. В этой сущности заключена суть сотворения Инь и Ян.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_ZhouTian" sParam="Item">
+      <ThingName>Сущность Времени и Пространства</ThingName>
+      <Desc>В начале Небес и Земли зарождались все Пути Мироздания. В этой сущности заключена суть сотворения Времени и Пространства.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_XuanYang" sParam="Item">
+      <ThingName>Сущность Вечности</ThingName>
+      <Desc>В начале Небес и Земли зарождались все Пути Мироздания. В этой сущности заключена суть сотворения Начала и Конца.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_Jian" sParam="Item">
+      <ThingName>Сущность Жизни и Смерти</ThingName>
+      <Desc>В начале Небес и Земли зарождались все Пути Мироздания. В этой сущности заключена суть сотворения Жизни и Смерти.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_LingYu" sParam="Item">
+      <ThingName>Сущность Духов</ThingName>
+      <Desc>В начале Небес и Земли зарождались все Пути Мироздания. В этой сущности заключена суть сотворения всех Духов.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_WanGu" sParam="Item">
+      <ThingName>Сущность Разрушения</ThingName>
+      <Desc>В начале Небес и Земли зарождались все Пути Мироздания. В этой сущности заключена суть распада Времени и Пространства.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_XuanCi" sParam="Item">
+      <ThingName>Сущность Пустоты</ThingName>
+      <Desc>В начале Небес и Земли зарождались все Пути Мироздания. В этой сущности заключена суть распада Неба и Земли.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_QiSha" sParam="Item">
+      <ThingName>Эссенция Смерти Духов</ThingName>
+      <Desc>В начале Небес и Земли зарождались все Пути Мироздания. В этой сущности заключена суть смерти всех Духов.</Desc>
+    </Text>
+    <Text Name="Item_BodyPractice_XuanYin" sParam="Item">
+      <ThingName>Сущность Создания</ThingName>
+      <Desc>В начале Небес и Земли зарождались все Пути Мироздания. В этой сущности заключена суть сотворения и эволюции.</Desc>
+    </Text>
+  </List>
+</Texts>

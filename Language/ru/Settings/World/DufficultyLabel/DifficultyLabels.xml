@@ -1,0 +1,157 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="MapSize">
+			<DisplayName>Размер карты</DisplayName>
+			<Values.0.Name>Маленький</Values.0.Name>
+			<Values.0.Desc>Размер карты: 96x96</Values.0.Desc>
+			<Values.1.Name>Средний</Values.1.Name>
+			<Values.1.Desc>Размер карты: 128x128</Values.1.Desc>
+			<Values.2.Name>Большой</Values.2.Name>
+			<Values.2.Desc>Размер карты: 196x196</Values.2.Desc>
+		</Text>
+		<Text Name="ThunderAddion">
+			<DisplayName>     Сложность    Бедствия</DisplayName>
+			<Desc>Уровень сложности Небесного бедствия.</Desc>
+			<Values.0.Name>Очень низкий</Values.0.Name>
+			<Values.0.Desc>0.25x Сложность Бедствия</Values.0.Desc>
+			<Values.1.Name>Низкий</Values.1.Name>
+			<Values.1.Desc>0.7x Сложность Бедствия</Values.1.Desc>
+			<Values.2.Name>Обычный</Values.2.Name>
+			<Values.2.Desc>1x Сложность Бедствия</Values.2.Desc>
+			<Values.3.Name>Высокий</Values.3.Name>
+			<Values.3.Desc>1.2x Сложность Бедствия</Values.3.Desc>
+			<Values.4.Name>Очень высокий</Values.4.Name>
+			<Values.4.Desc>1.4x Сложность Бедствия</Values.4.Desc>
+		</Text>
+		<Text Name="FightDifficultCoefficient">
+			<DisplayName>      Сложность   боя</DisplayName>
+			<Desc>Сила культиваторов, монстров, древних зверей, древних культиваторов и сект.</Desc>
+			<Values.0.Name>Очень низкий</Values.0.Name>
+			<Values.0.Desc>0.33x Сложность боя</Values.0.Desc>
+			<Values.1.Name>Низкий</Values.1.Name>
+			<Values.1.Desc>0.67x Сложность боя</Values.1.Desc>
+			<Values.2.Name>Обычный</Values.2.Name>
+			<Values.2.Desc>1x Сложность боя</Values.2.Desc>
+			<Values.3.Name>Высокий</Values.3.Name>
+			<Values.3.Desc>1.33x Сложность боя</Values.3.Desc>
+			<Values.4.Name>Очень высокий</Values.4.Name>
+			<Values.4.Desc>1.67x Сложность боя</Values.4.Desc>
+		</Text>
+		<Text Name="LiveDifficulty">
+			<DisplayName>      Сложность     выживания</DisplayName>
+			<Desc>Скорость роста растений и множитель урожайности.</Desc>
+			<Values.0.Name>Очень низкий</Values.0.Name>
+			<Values.0.Desc>2x Рост растений, 2x Урожайность</Values.0.Desc>
+			<Values.1.Name>Низкий</Values.1.Name>
+			<Values.1.Desc>1.5x Рост растений, 1.5x Урожайность</Values.1.Desc>
+			<Values.2.Name>Обычный</Values.2.Name>
+			<Values.2.Desc>1x Рост растений, 1x Урожайность</Values.2.Desc>
+		</Text>
+		<Text Name="BaseMood">
+			<DisplayName>        Базовое      настроение</DisplayName>
+			<Desc>Базовое значение настроения персонажей в состоянии  по умолчанию.</Desc>
+			<Values.0.Name>Очень высокий</Values.0.Name>
+			<Values.0.Desc>2x Базовое настроение</Values.0.Desc>
+			<Values.1.Name>Высокий</Values.1.Name>
+			<Values.1.Desc>1.5x Базовое настроение</Values.1.Desc>
+			<Values.2.Name>Обычный</Values.2.Name>
+			<Values.2.Desc>1x Базовое настроение</Values.2.Desc>
+		</Text>
+		<Text Name="WorkAddp">
+			<DisplayName>Базовая эффективность работы</DisplayName>
+			<Desc>Скорость, с которой персонажи выполняют большую часть работы.</Desc>
+			<Values.0.Name>Очень быстро</Values.0.Name>
+			<Values.0.Desc>2x Эффективность работы</Values.0.Desc>
+			<Values.1.Name>Быстро</Values.1.Name>
+			<Values.1.Desc>1.5x Эффективность работы</Values.1.Desc>
+			<Values.2.Name>Обычно</Values.2.Name>
+			<Values.2.Desc>1x Эффективность работы</Values.2.Desc>
+		</Text>
+		<Text Name="PracticeAddp">
+			<DisplayName>Базовая скорость культивации</DisplayName>
+			<Desc>Скорость, с которой развиваются персонажи.</Desc>
+			<Values.0.Name>Очень быстро</Values.0.Name>
+			<Values.0.Desc>2x Скорость культивации</Values.0.Desc>
+			<Values.1.Name>Быстро</Values.1.Name>
+			<Values.1.Desc>1.5x Скорость культивации</Values.1.Desc>
+			<Values.2.Name>Обычно</Values.2.Name>
+			<Values.2.Desc>1x Скорость культивации</Values.2.Desc>
+		</Text>
+		<Text Name="MapExploringAddp">
+			<DisplayName>Базовая скорость приключения</DisplayName>
+			<Desc>Скорость, с которой персонажи завершают приключения.</Desc>
+			<Values.0.Name>Очень быстро</Values.0.Name>
+			<Values.0.Desc>2x Скорость приключения</Values.0.Desc>
+			<Values.1.Name>Быстро</Values.1.Name>
+			<Values.1.Desc>1.5x Скорость приключения</Values.1.Desc>
+			<Values.2.Name>Обычно</Values.2.Name>
+			<Values.2.Desc>1x Скорость приключения</Values.2.Desc>
+		</Text>
+		<Text Name="TreeExpAddtion">
+			<DisplayName>      Стоимость    вдохновения</DisplayName>
+			<Desc>Для изучения руководств персонажам требуется вдохновение.</Desc>
+			<Values.0.Name>Очень низкий</Values.0.Name>
+			<Values.0.Desc>0.5x Стоимость вдохновения</Values.0.Desc>
+			<Values.1.Name>Низкий</Values.1.Name>
+			<Values.1.Desc>0.75x Стоимость вдохновения</Values.1.Desc>
+			<Values.2.Name>Обычный</Values.2.Name>
+			<Values.2.Desc>1x Стоимость вдохновения</Values.2.Desc>
+		</Text>
+		<Text Name="AverageTimePerEvent">
+			<DisplayName>      Интервал       события</DisplayName>
+			<Desc>Временной интервал между событиями.</Desc>
+			<Values.0.Name>Очень длинный</Values.0.Name>
+			<Values.0.Desc>В среднем одно событие происходит каждые 3 дня.</Values.0.Desc>
+			<Values.1.Name>Длинный</Values.1.Name>
+			<Values.1.Desc>В среднем одно событие происходит каждые 2,5 дня.</Values.1.Desc>
+			<Values.2.Name>Обычный</Values.2.Name>
+			<Values.2.Desc>В среднем одно событие происходит каждые 2 дня.</Values.2.Desc>
+			<Values.3.Name>Короткий</Values.3.Name>
+			<Values.3.Desc>В среднем одно событие происходит каждые 1,5 дня.</Values.3.Desc>
+			<Values.4.Name>Очень короткий</Values.4.Name>
+			<Values.4.Desc>В среднем одно событие происходит каждый день.</Values.4.Desc>
+		</Text>
+		<Text Name="DoubleRate">
+			<DisplayName>       Двойные      события</DisplayName>
+			<Desc>Всякий раз, когда происходит событие, есть вероятность, что сработает другое событие.</Desc>
+			<Values.0.Name>Нет</Values.0.Name>
+			<Values.0.Desc>Двойных событий не произойдет.</Values.0.Desc>
+			<Values.1.Name>Низкий</Values.1.Name>
+			<Values.1.Desc>10% шанс двойных событий.</Values.1.Desc>
+			<Values.2.Name>Средний</Values.2.Name>
+			<Values.2.Desc>20% шанс двойных событий.</Values.2.Desc>
+			<Values.3.Name>Высокий</Values.3.Name>
+			<Values.3.Desc>30% шанс двойных событий.</Values.3.Desc>
+			<Values.4.Name>Очень высокий</Values.4.Name>
+			<Values.4.Desc>40% шанс двойных событий.</Values.4.Desc>
+		</Text>
+		<Text Name="TripleRate">
+			<DisplayName>       Тройные      события</DisplayName>
+			<Desc>Каждый раз, когда происходит событие, есть вероятность, что сработают два дополнительных события.</Desc>
+			<Values.0.Name>Нет</Values.0.Name>
+			<Values.0.Desc>Тройных событий не произойдет.</Values.0.Desc>
+			<Values.1.Name>Низкий</Values.1.Name>
+			<Values.1.Desc>5% шанс тройных событий.</Values.1.Desc>
+			<Values.2.Name>Средний</Values.2.Name>
+			<Values.2.Desc>10% шанс тройных событий.</Values.2.Desc>
+			<Values.3.Name>Высокий</Values.3.Name>
+			<Values.3.Desc>15% шанс тройных событий.</Values.3.Desc>
+			<Values.4.Name>Очень высокий</Values.4.Name>
+			<Values.4.Desc>20% шанс тройных событий.</Values.4.Desc>
+		</Text>
+		<Text Name="BlankWeight">
+			<DisplayName>Нет события</DisplayName>
+			<Desc>Когда происходит событие, есть вероятность, что это событие не сработает.</Desc>
+			<Values.0.Name>Очень высокий</Values.0.Name>
+			<Values.0.Desc>60% шанс, что событие не сработает</Values.0.Desc>
+			<Values.1.Name>Высокий</Values.1.Name>
+			<Values.1.Desc>45% шанс, что событие не сработает</Values.1.Desc>
+			<Values.2.Name>Средний</Values.2.Name>
+			<Values.2.Desc>30% шанс, что событие не сработает</Values.2.Desc>
+			<Values.3.Name>Низкий</Values.3.Name>
+			<Values.3.Desc>15% шанс, что событие не сработает</Values.3.Desc>
+			<Values.4.Name>Нет</Values.4.Name>
+			<Values.4.Desc>События будут запускаться всегда.</Values.4.Desc>
+		</Text>
+	</List>
+</Texts>

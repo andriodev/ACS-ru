@@ -1,0 +1,109 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Gong6_a0">
+			<DisplayName>Песнопение о Мастерстве Дерева</DisplayName>
+		</Text>
+		<Text Name="Gong6_a2">
+			<DisplayName>Техника Очистки Нефритовой Жидкости</DisplayName>
+		</Text>
+		<Text Name="Gong6_a3">
+			<DisplayName>Фармакопея</DisplayName>
+		</Text>
+		<Text Name="Gong6_a5">
+			<DisplayName>Техника Кристального Глаза</DisplayName>
+		</Text>
+		<Text Name="Gong6_a8">
+			<DisplayName>Техника Отборных Эссенций</DisplayName>
+		</Text>
+		<Text Name="Gong6_b0">
+			<DisplayName>Духовное Дыхание</DisplayName>
+		</Text>
+		<Text Name="Gong6_b1">
+			<DisplayName>Заклинание Чистого Разума</DisplayName>
+		</Text>
+		<Text Name="Gong6_b3">
+			<DisplayName>Трактат Сотни Цветов и Минералов</DisplayName>
+		</Text>
+		<Text Name="Gong6_b5">
+			<DisplayName>9 Столпов Совершенства</DisplayName>
+		</Text>
+		<Text Name="Gong6_b8">
+			<DisplayName>Техника Изначальных Эссенций</DisplayName>
+		</Text>
+		<Text Name="Gong6_b8_1">
+			<DisplayName>Обновление Тела</DisplayName>
+		</Text>
+		<Text Name="Gong6_b11">
+			<DisplayName>Панацея</DisplayName>
+		</Text>
+		<Text Name="Gong6_c0">
+			<DisplayName>Медитация</DisplayName>
+		</Text>
+		<Text Name="Gong6_c1">
+			<DisplayName>Очищение Разума</DisplayName>
+		</Text>
+		<Text Name="Gong6_c3">
+			<DisplayName>Высшее Дао Алхимии</DisplayName>
+		</Text>
+		<Text Name="Gong6_c3_1">
+			<DisplayName>Артефакт Наследия: Котел Урожая</DisplayName>
+		</Text>
+		<Text Name="Gong6_c8">
+			<DisplayName>Внутренний Канон Мудрецов Эликсира</DisplayName>
+		</Text>
+		<Text Name="Gong6_c8_1">
+			<DisplayName>Непроницаемое Тело</DisplayName>
+		</Text>
+		<Text Name="Gong6_c11">
+			<DisplayName>Восстановление</DisplayName>
+		</Text>
+		<Text Name="Gong6_c11_1">
+			<DisplayName>Тело Генезиса</DisplayName>
+		</Text>
+		<Text Name="Gong6_d2">
+			<DisplayName>Моральное Очищение</DisplayName>
+		</Text>
+		<Text Name="Gong6_d2_1">
+			<DisplayName>Даосское Сердце</DisplayName>
+		</Text>
+		<Text Name="Gong6_d2_2">
+			<DisplayName>Артефакт Наследия: Знамя Парящего Пламени</DisplayName>
+		</Text>
+		<Text Name="Gong6_d4">
+			<DisplayName>Исскуство Быстрой Алхимии</DisplayName>
+		</Text>
+		<Text Name="Gong6_d4_1">
+			<DisplayName>Закалка Тела</DisplayName>
+		</Text>
+		<Text Name="Gong6_d5">
+			<DisplayName>Методы Очисткиt</DisplayName>
+		</Text>
+		<Text Name="Gong6_d5_1">
+			<DisplayName>Закалка Тела</DisplayName>
+		</Text>
+		<Text Name="Gong6_d6">
+			<DisplayName>Божественная Алхимия</DisplayName>
+		</Text>
+		<Text Name="Gong6_d6_1">
+			<DisplayName>Закалка Тела</DisplayName>
+		</Text>
+		<Text Name="Gong6_d7">
+			<DisplayName>Закалка Тела</DisplayName>
+		</Text>
+		<Text Name="Gong6_d8">
+			<DisplayName>Закалка Разума</DisplayName>
+		</Text>
+		<Text Name="Gong6_d9">
+			<DisplayName>Закалка Харизмы</DisplayName>
+		</Text>
+		<Text Name="Gong6_d10">
+			<DisplayName>Закалка Чувств</DisplayName>
+		</Text>
+		<Text Name="Gong6_e4">
+			<DisplayName>Пилюля Небесного Пути</DisplayName>
+		</Text>
+		<Text Name="Gong6_e8">
+			<DisplayName>Небесный Артефакт</DisplayName>
+		</Text>
+	</List>
+</Texts>

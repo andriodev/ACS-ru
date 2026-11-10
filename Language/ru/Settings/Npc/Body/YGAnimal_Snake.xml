@@ -1,0 +1,46 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="YGAnimal_SnakeBody">
+			<Part.Parts.0.DisplayName>Голова </Part.Parts.0.DisplayName>
+			<Part.Parts.0.Parts.0.DisplayName>Череп </Part.Parts.0.Parts.0.DisplayName>
+			<Part.Parts.0.Parts.1.DisplayName>Мозг </Part.Parts.0.Parts.1.DisplayName>
+			<Part.Parts.0.Parts.2.DisplayName>Л. Глаз </Part.Parts.0.Parts.2.DisplayName>
+			<Part.Parts.0.Parts.3.DisplayName>П. Глаз </Part.Parts.0.Parts.3.DisplayName>
+			<Part.Parts.0.Parts.4.DisplayName>Нос </Part.Parts.0.Parts.4.DisplayName>
+			<Part.Parts.0.Parts.5.DisplayName>Рот </Part.Parts.0.Parts.5.DisplayName>
+			<Part.Parts.0.Parts.6.DisplayName>Шея </Part.Parts.0.Parts.6.DisplayName>
+			<Part.Parts.0.Parts.7.DisplayName>Верхние Клыки </Part.Parts.0.Parts.7.DisplayName>
+			<Part.Parts.0.Parts.8.DisplayName>Нижние Клыки </Part.Parts.0.Parts.8.DisplayName>
+			<Part.Parts.0.Parts.9.DisplayName>Длинный Язык </Part.Parts.0.Parts.9.DisplayName>
+			<Part.Parts.0.Parts.10.DisplayName>Голова </Part.Parts.0.Parts.10.DisplayName>
+			<Part.Parts.1.DisplayName>Тело </Part.Parts.1.DisplayName>
+			<Part.Parts.1.Parts.0.DisplayName>Плотные Рёбра </Part.Parts.1.Parts.0.DisplayName>
+			<Part.Parts.1.Parts.1.DisplayName>Спина </Part.Parts.1.Parts.1.DisplayName>
+			<Part.Parts.1.Parts.2.DisplayName>Сердце </Part.Parts.1.Parts.2.DisplayName>
+			<Part.Parts.1.Parts.3.DisplayName>Печень </Part.Parts.1.Parts.3.DisplayName>
+			<Part.Parts.1.Parts.4.DisplayName>Селезёнка </Part.Parts.1.Parts.4.DisplayName>
+			<Part.Parts.1.Parts.5.DisplayName>Лёгкие </Part.Parts.1.Parts.5.DisplayName>
+			<Part.Parts.1.Parts.6.DisplayName>Почки </Part.Parts.1.Parts.6.DisplayName>
+			<Part.Parts.1.Parts.7.DisplayName>Желудок </Part.Parts.1.Parts.7.DisplayName>
+			<Part.Parts.1.Parts.8.DisplayName>Кишечник </Part.Parts.1.Parts.8.DisplayName>
+			<Part.Parts.1.Parts.9.DisplayName>Фаллос </Part.Parts.1.Parts.9.DisplayName>
+			<Part.Parts.1.Parts.10.DisplayName>Мышцы Тела </Part.Parts.1.Parts.10.DisplayName>
+			<Part.Parts.1.Parts.11.DisplayName>Чешуя </Part.Parts.1.Parts.11.DisplayName>
+			<Part.Parts.1.Parts.12.DisplayName>Туловище </Part.Parts.1.Parts.12.DisplayName>
+			<Part.Parts.1.Parts.13.DisplayName>Длинный Хвост </Part.Parts.1.Parts.13.DisplayName>
+			<Part.Parts.2.DisplayName>Всё Тело </Part.Parts.2.DisplayName>
+			<Part.Parts.3.DisplayName>Меридианы </Part.Parts.3.DisplayName>
+			<Part.Parts.3.Parts.0.DisplayName>Верхний Даньтянь </Part.Parts.3.Parts.0.DisplayName>
+			<Part.Parts.3.Parts.1.DisplayName>Средний Даньтянь </Part.Parts.3.Parts.1.DisplayName>
+			<Part.Parts.3.Parts.2.DisplayName>Нижний Даньтянь </Part.Parts.3.Parts.2.DisplayName>
+			<Part.Parts.3.Parts.3.DisplayName>Концептуальный Сосуд </Part.Parts.3.Parts.3.DisplayName>
+			<Part.Parts.3.Parts.4.DisplayName>Регулирующий Сосуд </Part.Parts.3.Parts.4.DisplayName>
+			<Part.Parts.3.Parts.5.DisplayName>Проникающий Сосуд </Part.Parts.3.Parts.5.DisplayName>
+			<Part.Parts.3.Parts.6.DisplayName>Поясной Сосуд </Part.Parts.3.Parts.6.DisplayName>
+			<Part.Parts.3.Parts.7.DisplayName>Связующий Сосуд Инь </Part.Parts.3.Parts.7.DisplayName>
+			<Part.Parts.3.Parts.8.DisplayName>Сосуд Пятки Инь </Part.Parts.3.Parts.8.DisplayName>
+			<Part.Parts.3.Parts.9.DisplayName>Связующий Сосуд Ян </Part.Parts.3.Parts.9.DisplayName>
+			<Part.Parts.3.Parts.10.DisplayName>Сосуд Пятки Ян </Part.Parts.3.Parts.10.DisplayName>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,84 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Bear_Fat">
+			<DisplayName>Толстый слой жира</DisplayName>
+			<Desc>Рожденный с большим количеством жира, обеспечивающим довольно хорошую морозостойкость и сильную сопротивляемость Пяти Элементам.</Desc>
+		</Text>
+		<Text Name="Rabbit_Fast">
+			<DisplayName>Нетерпеливый</DisplayName>
+			<Desc>Очень высокая скорость бега и обучения, но с нетерпеливым мышлением.</Desc>
+		</Text>
+		<Text Name="Rabbit_Hear">
+			<DisplayName>Осторожный</DisplayName>
+			<Desc>Обладает очень чувствительным слухом и прекрасным восприятием.</Desc>
+		</Text>
+		<Text Name="Chicken_Sleep">
+			<DisplayName>Легкий сон</DisplayName>
+			<Desc>Рожденный с очень коротким циклом сна, очень трудолюбивый.</Desc>
+		</Text>
+		<Text Name="Wolf_Calm">
+			<DisplayName>Жестокий и спокойный</DisplayName>
+			<Desc>Прирожденный боец с превосходными боевыми талантами, превосходящими человеческие возможности.</Desc>
+		</Text>
+		<Text Name="Snake_Progenitor">
+			<DisplayName>Раса выживших</DisplayName>
+			<Desc>В древние времена культиваторы змей-демонов пытались придать своим телам форму, напоминающую драконов, и в конечном итоге были преследованы расой драконов и почти вымерли. Таким образом, они не оставили после себя многие секретные техники очищения тела. Тем не менее, это позволило им обладать высоким уровнем восприятия и талантом Ци по сравнению с обычными людьми.</Desc>
+		</Text>
+		<Text Name="Frog">
+			<DisplayName>Устойчивый</DisplayName>
+			<Desc>Рожденный с сильным телом.</Desc>
+		</Text>
+		<Text Name="Frog_Vision">
+			<DisplayName>Миниатюра</DisplayName>
+			<Desc>Их небольшой размер позволяет лягушкам лучше понимать тривиальные вещи и внимательнее относиться к деталям при изготовлении.</Desc>
+		</Text>
+		<Text Name="Boar">
+			<DisplayName>Всеядный</DisplayName>
+			<Desc>Ешьте все, хорошо переваривайте и легче превращайте пищу в выносливость.</Desc>
+		</Text>
+		<Text Name="Snake">
+			<DisplayName>Благословенный</DisplayName>
+			<Desc>Рожденный от природы с сильным Благословением.</Desc>
+		</Text>
+		<Text Name="Wolf">
+			<DisplayName>Социальный</DisplayName>
+			<Desc>Стайное животное очень хорошо умеет сотрудничать с другими.</Desc>
+		</Text>
+		<Text Name="Cat_Elegant">
+			<DisplayName>Изящный</DisplayName>
+			<Desc>Трудно устоять перед их природным очарованием.</Desc>
+		</Text>
+		<Text Name="Cat_Elegant">
+			<DisplayName>Проворный</DisplayName>
+			<Desc>При ходьбе почти не издает никаких звуков и очень хорошо прячется.</Desc>
+		</Text>
+		<Text Name="Tor_Longevity">
+			<DisplayName>Долгожитель</DisplayName>
+			<Desc>У них очень долгий срок жизни.</Desc>
+		</Text>
+		<Text Name="Tor_Slow">
+			<DisplayName>Медленный</DisplayName>
+			<Desc>Черепахи - очень медленные животные, но у них хороший менталитет, а также медленнее потребляют пищу и воду.</Desc>
+		</Text>
+		<Text Name="Tor_Def">
+			<DisplayName>Панцирь</DisplayName>
+			<Desc>У черепах, естественно, очень сильная защита.</Desc>
+		</Text>
+		<Text Name="Tiger_Pier">
+			<DisplayName>Свирепый</DisplayName>
+			<Desc>Очень жесток и хорошо сражается. Эта агрессивность также очень помогает мастеру владения мечом.</Desc>
+		</Text>
+		<Text Name="Cow_Farmer">
+			<DisplayName>Трудолюбивый</DisplayName>
+			<Desc>От природы трудолюбив и хорошо разбирается в сельском хозяйстве.</Desc>
+		</Text>
+		<Text Name="Cow_Big">
+			<DisplayName>Опытный фармацевт</DisplayName>
+			<Desc>У него уникальная пищеварительная система, которая дает ему более глубокое понимание свойств трав, чем у других.</Desc>
+		</Text>
+		<Text Name="Cat_Pot">
+			<DisplayName>Любопытный</DisplayName>
+			<Desc>Кошки, естественно, проявляют любопытство к неизвестному, что является очень важным качеством в выращивании.</Desc>
+		</Text>
+	</List>
+</Texts>

@@ -1,0 +1,42 @@
+﻿<Texts Type="Other">
+	<List>
+		<Text Name="Boss_PartFight">
+			<DisplayName>Детали общей боевой статистики Босса</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong">
+			<DisplayName>Дракон Потопа</DisplayName>
+		</Text>
+		<Text Name="Boss_JiaolongFight">
+			<DisplayName>Статистика битвы Драконоа Потопа</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_Part">
+			<DisplayName>Часть тела дракона Потопа</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_Part1">
+			<DisplayName>Ослаблена часть тела дракона Потопа.</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_JiSiGongYang">
+			<DisplayName>Вырос</DisplayName>
+			<Desc>Демонический дракон получил силу от жертвоприношений, его ци стала еще гуще.</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong_Shuiling">
+			<DisplayName>Сила духа воды</DisplayName>
+			<Desc>Дракон Потопа концентрирует силу Духа Воды, пока не достигнет 100 стеков, и к этому времени будет выпущен огромный поток.</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong_LongNu">
+			<DisplayName>Гнев Дракона</DisplayName>
+			<Desc>Демонический дракон впадает в состояние ярости, что приводит к увеличению всех характеристик.</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong_Longxi">
+			<DisplayName>Дыхание дракона</DisplayName>
+			<Desc>Демонический дракон делает глубокий вдох, в результате чего вода в теле вашего персонажа быстро уменьшается..</Desc>
+		</Text>
+		<Text Name="Boss_Jiaolong_zhenlong">
+			<DisplayName>Истинный дракон</DisplayName>
+		</Text>
+		<Text Name="Boss_Jiaolong_fanshi">
+			<DisplayName>Ответный огонь - контратака дракона Потопа</DisplayName>
+			<Desc>Через некоторое время Дракон Потока вызовет ответный огонь Артефакта на своего владельца, в результате чего Ци Артефакта уменьшится вдвое. Эффект удваивается для элемента «Артефакты огня» и вдвое - для элемента «Земля».</Desc>
+		</Text>
+	</List>
+</Texts>

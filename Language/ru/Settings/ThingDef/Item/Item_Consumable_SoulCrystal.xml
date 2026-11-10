@@ -1,0 +1,27 @@
+﻿<Texts Type="Thing">
+  <List>
+    <Text Name="Item_SoulCrystalBase" sParam="Item">
+      <Item.FabaoSuffix>Самоцвет Души</Item.FabaoSuffix>
+    </Text>
+    <Text Name="Item_SoulCrystalYou" sParam="Item">
+      <ThingName>Мрачный Самоцвет</ThingName>
+      <Desc>Мутный самоцвет, хранящий в себе болезненные воспоминания.</Desc>
+    </Text>
+    <Text Name="Item_SoulCrystalNing" sParam="Item">
+      <ThingName>Самоцвет Покоя</ThingName>
+      <Desc>Самоцвет, хранящий в себе спокойные воспоминания.</Desc>
+    </Text>
+    <Text Name="Item_SoulCrystalLing" sParam="Item">
+      <ThingName>Самоцвет Души</ThingName>
+      <Desc>Кристально чистый самоцвет, хранящий в себе счастливые воспоминания.</Desc>
+    </Text>
+    <Text Name="Item_SoulCrystalYuanLing" sParam="Item">
+      <ThingName>Самоцвет Изначальной Души</ThingName>
+      <Desc>Самоцвет, хранящий воспоминания сознания, рождённого по ошибке Небес.</Desc>
+    </Text>
+    <Text Name="Item_Yao_CatSoul" sParam="Item">
+      <ThingName>Самоцвет Кошачьей Души</ThingName>
+      <Desc>Фрагмент души кошки Яоугай, вероятно, имеет какое-то отношение к поверью, что у кошек девять жизней. Содержит в себе таинственную силу. Употребив его, вы получите дополнительный суб-дух. Этот предмет можно принять единажды в жизни. Эффективен только для достигших ступени Изначального Духа.</Desc>
+    </Text>
+  </List>
+</Texts>
